@@ -63,3 +63,7 @@
 # Twitter
 
 - [Sébastien Carassou, astrophysicien et vidéaste sur la chaine Youtube Le Sense of Wonder](http://comscicomca.org/2018/02/11/sebastien-carassou-astrophysicien-et-videaste-sur-la-chaine-youtube-le-sense-of-wonder/) - Comscicomca, Février 2018
+
+# Livres
+
+- [La Réunion vue de l'espace](https://youtu.be/FnPUTIU1IVY) - Ouvrage collectif, Janvier 2015
