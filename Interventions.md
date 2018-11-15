@@ -1,5 +1,14 @@
 # Vidéos
 
+## Le Sense of Wonder
+
+## String Theory
+
+## Billes de Science
+
+## Collabs
+
+- [Peut-on simuler l’histoire du cosmos ? - Feat. Sebastien Carassou - ZdS#4](https://youtu.be/CtCK75lfE7A) - Zeste de Science, Décembre 2017
 - [SCIENTIFIQUES ET SCIENCE-FICTION : un lien omniprésent ?](https://www.youtube.com/watch?v=xYcWwCE15uc) - La luciole de Trantor, Juin 2018
 
 # Conférences
@@ -19,6 +28,7 @@
 - [Sébastien Carassou, des ovnis à l’astrophysique](https://www.lemonde.fr/sciences/article/2018/03/21/sebastien-carassou-des-ovnis-a-l-astrophysique_5274144_1650684.html) - Le Monde, Mars 2018
 - [Sébastien Carassou, #LeSOW : “La perspective cosmique, ça change des vies”](https://www.humanafterhal.com/itw-sebastien-carassou-senseofwonder-science-et-fiction/) - Human After Hal, Avril 2018
 - [École des Filles. Trois questions à Sébastien Carassou, astrophysicien](https://www.ouest-france.fr/bretagne/ecole-des-filles-trois-questions-sebastien-carassou-astrophysicien-5945475) - Ouest France, Septembre 2018
+- [La vulgarisation sur Youtube | Le Sense Of Wonder et Zeste de Science - Cabaret de la Science](https://youtu.be/lqlrbVk9VO4) - L'Esprit Sorcier, Octobre 2018
 
 # Radio
 
