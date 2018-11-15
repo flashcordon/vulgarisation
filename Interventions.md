@@ -16,6 +16,8 @@
 
 # Podcasts
 
+- [Une Histoire de Tout ou Presque de B. Bryson avec Sébastien Carassou](https://podtail.com/podcast/lisez-la-science/lisezlascience-13-une-histoire-de-tout-ou-presque-/) - Lisez la science, Avril 2015
+- [L’Univers à Portée de Main de Christophe Galfard avec Sébastien Carassou](https://lisezlascience.wordpress.com/2015/11/29/lisezlascience-17-lunivers-a-portee-de-main-de-christophe-galfard-avec-sebastien-carassou/) - Lisez la science, Novembre 2015
 - [Jean Audouze, Michel Cassé et Sébastien Carassou - Du nouveau dans l'invisible ?](https://podtail.com/da/podcast/l-ete-des-13-dimanches/jean-audouze-michel-casse-et-sebastien-carassou-du/) - Ecole des filles, Septembre 2018
 - [Songe d’une Nuit de Podcast : émission radio-dessinée](https://www.podcastscience.fm/annonces/2018/09/10/songe-dune-nuit-de-podcast-emission-radio-dessinee/) - Podcast Science, Octobre 2018
 
