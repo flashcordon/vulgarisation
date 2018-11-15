@@ -6,9 +6,10 @@
 
 # Interviews
 
-- [École des Filles. Trois questions à Sébastien Carassou, astrophysicien](https://www.ouest-france.fr/bretagne/ecole-des-filles-trois-questions-sebastien-carassou-astrophysicien-5945475) - Ouest France, Septemmbre 2018
+- [École des Filles. Trois questions à Sébastien Carassou, astrophysicien](https://www.ouest-france.fr/bretagne/ecole-des-filles-trois-questions-sebastien-carassou-astrophysicien-5945475) - Ouest France, Septembre 2018
 
 # Podcasts
 
+- [Jean Audouze, Michel Cassé et Sébastien Carassou - Du nouveau dans l'invisible ?](https://podtail.com/da/podcast/l-ete-des-13-dimanches/jean-audouze-michel-casse-et-sebastien-carassou-du/) - Ecole des filles, Septembre 2018
 - [Songe d’une Nuit de Podcast : émission radio-dessinée](https://www.podcastscience.fm/annonces/2018/09/10/songe-dune-nuit-de-podcast-emission-radio-dessinee/) - Podcast Science, Octobre 2018
 
