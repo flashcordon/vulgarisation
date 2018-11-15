@@ -1,7 +1,10 @@
 # Vidéos
 
+- [SCIENTIFIQUES ET SCIENCE-FICTION : un lien omniprésent ?](https://www.youtube.com/watch?v=xYcWwCE15uc) - La luciole de Trantor, Juin 2018
+
 # Conférences
 
+- [la Mort, l’Univers et le Reste](http://www.lyon-science.fr/intervenant-2016-sebastien-carassou/) -Lyon Science, 2016
 - [Un voyage peu ordinaire](https://www.obspm.fr/spip.php?page=imprimer&id_article=3807) - Cité des sciences, dans le cadre de Mission Exoplanète, Avril 2018
 - [L'Univers à relier](https://www.sfpnet.fr/piece-de-theatre-galilee-le-mecano-et-conference-de-sebastien-carassou) - Théâtre de la Reine blanche, Octobre 2018
 
