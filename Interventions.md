@@ -4,6 +4,16 @@
 
 ## String Theory
 
+- [Les vraies couleurs de l'univers](https://youtu.be/UInGLnoTKsY) - Astro'Stylé #01, Septembre 2017
+- [Le visage de Mars existe-t-il ?](https://youtu.be/fFJjroq_lhU) - Astro'Stylé #02, Octobre 2017
+- [La meilleure preuve du Big Bang](https://youtu.be/OnZI9BuVwA4) - Astro'Stylé #03, Novembre 2017
+- [Le coin le plus insolite du système solaire](https://youtu.be/Nw9XSx4dWVE) - Astro'Stylé #04, Février 2018
+- [Combien de galaxies y a-t-il dans l'univers ?](https://youtu.be/QrvNUdyogpQ) - Astro'Stylé #05, Avril 2018
+- [La face cachée de la Lune](https://youtu.be/7X0qNmQJE3w) - Astro'Stylé #06, Mai 2018
+- [Éruption solaire et risque d'apocalypse électrique](https://youtu.be/opsVEWwI0hs) - Astro'Stylé #07, Juin 2018
+- [A la recherche de la vie dans l'univers: les exoplanètes habitables](https://youtu.be/LNS3c7SXLzo) - Astro'Stylé #08, Juillet 2018
+- [Voyage dans le temps à travers le système solaire](https://youtu.be/QWmtpJQzy-g) - Astro'Stylé #09, Octobre 2018
+
 ## Billes de Science
 
 ## Collabs
