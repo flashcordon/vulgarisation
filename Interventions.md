@@ -8,8 +8,17 @@
 
 ## Collabs
 
+- [Hors série: La fonte des glaces. Avec Florence Porcel, Axolot, et Le sense of wonder](https://youtu.be/syL0pw3Ct-g) - This is Science, Novembre 2015
+- [LE SON DE L'UNIVERS les sons des planètes feat Le Sense Of Wonder](https://youtu.be/O4Wa9vc69ew) - Balade Mentale, Mars 2016
 - [Peut-on simuler l’histoire du cosmos ? - Feat. Sebastien Carassou - ZdS#4](https://youtu.be/CtCK75lfE7A) - Zeste de Science, Décembre 2017
+- [Live e-penser le jeu avec DirtyBiology, Florence Porcel, Science Etonnante et le Sense of Wonder] - E-Penser, Septembre 2017
+- [Le Big Bang](https://youtu.be/XMKfLkXHSkc) - Astronogeek, Octobre 2017
 - [SCIENTIFIQUES ET SCIENCE-FICTION : un lien omniprésent ?](https://www.youtube.com/watch?v=xYcWwCE15uc) - La luciole de Trantor, Juin 2018
+
+## Divers
+
+- [Pourquoi communiquer les sciences? Sébastien Carassou, parrain de FameLab France 2017 nous explique](https://youtu.be/d67U2hz-tdk) - FameLab, Mars 2017
+- [5 astuces pour vulgariser les sciences](https://youtu.be/FfsUUoRxtas) - FameLab, Mars 2017
 
 # Conférences
 
