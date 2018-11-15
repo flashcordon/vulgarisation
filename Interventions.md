@@ -4,7 +4,8 @@
 
 # Conférences
 
-- [la Mort, l’Univers et le Reste](http://www.lyon-science.fr/intervenant-2016-sebastien-carassou/) -Lyon Science, 2016
+- [la Mort, l’Univers et le Reste](https://youtu.be/-vbhvV2qJGw) -Lyon Science, 2016
+- [Il était une fois l'univers](http://www.ens-lyon.fr/evenement/lecole/vulgarizators-4) - Vulgarizators 4, Novembre 2016
 - [Un voyage peu ordinaire](https://www.obspm.fr/spip.php?page=imprimer&id_article=3807) - Cité des sciences, dans le cadre de Mission Exoplanète, Avril 2018
 - [L'Univers à relier](https://www.sfpnet.fr/piece-de-theatre-galilee-le-mecano-et-conference-de-sebastien-carassou) - Théâtre de la Reine blanche, Octobre 2018
 
