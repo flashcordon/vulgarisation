@@ -1,5 +1,10 @@
 # Vidéos
 
+# Conférences
+
+- [Un voyage peu ordinaire](https://www.obspm.fr/spip.php?page=imprimer&id_article=3807) - Cité des sciences, dans le cadre de Mission Exoplanète, Avril 2018
+- [L'Univers à relier](https://www.sfpnet.fr/piece-de-theatre-galilee-le-mecano-et-conference-de-sebastien-carassou) - Théâtre de la Reine blanche, Octobre 2018
+
 # Articles de blog
 
 - [Quand la planète rouge était… Bleue !](http://kidiscience.cafe-sciences.org/articles/quand-la-planete-rouge-etait-bleue/) - Kidiscience, Août 2018
