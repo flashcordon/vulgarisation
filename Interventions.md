@@ -66,4 +66,5 @@
 
 # Livres
 
+- [Les meilleurs blogues de science en français](http://editionsmultimondes.com/livre/les-meilleurs-blogues-de-science-en-francais-1/) - Ouvrage collectif édité par Pascal Lapointe, Editions Multimondes, Avril 2014
 - [La Réunion vue de l'espace](https://youtu.be/FnPUTIU1IVY) - Ouvrage collectif, Janvier 2015
