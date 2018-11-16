@@ -2,6 +2,7 @@
 
 ## Le Sense of Wonder
 
+- [Warp Drive, EM Drive et moteurs ioniques - Retour sur Proxima b #2](https://youtu.be/QoPuz2Avh-s) - Septembre 2018
 - [Le canon de Jules Verne - Scientifiction #1](https://youtu.be/YXJVS7xeh8c) - Octobre 2018
 
 ## String Theory
