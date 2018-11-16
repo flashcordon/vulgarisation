@@ -2,6 +2,8 @@
 
 ## Le Sense of Wonder
 
+- [Le canon de Jules Verne - Scientifiction #1](https://youtu.be/YXJVS7xeh8c) - Octobre 2018
+
 ## String Theory
 
 - [Les vraies couleurs de l'univers](https://youtu.be/UInGLnoTKsY) - Astro'Stylé #01, Septembre 2017
