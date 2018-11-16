@@ -55,6 +55,8 @@
 
 - [Carl Sagan, bonjour Cosmos](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-jeudi-18-janvier-2018) - La Méthode Scientifique, Janvier 2018
 
+- [La Méthode scientifique : la 500ème !](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-vendredi-16-novembre-2018) - La Méthode Scientifique, Novembre 2018
+
 # Podcasts
 
 - [Une Histoire de Tout ou Presque de B. Bryson avec Sébastien Carassou](https://podtail.com/podcast/lisez-la-science/lisezlascience-13-une-histoire-de-tout-ou-presque-/) - Lisez la science, Avril 2015
