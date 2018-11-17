@@ -2,6 +2,7 @@
 
 ## Le Sense of Wonder
 
+- [Dilatation du temps et gravité artificielle | Retour sur Proxima b #1](https://youtu.be/xWbzNHEbUIs) - Juin 2018
 - [Warp Drive, EM Drive et moteurs ioniques - Retour sur Proxima b #2](https://youtu.be/QoPuz2Avh-s) - Septembre 2018
 - [Le canon de Jules Verne - Scientifiction #1](https://youtu.be/YXJVS7xeh8c) - Octobre 2018
 
@@ -55,7 +56,6 @@
 # Radio
 
 - [Carl Sagan, bonjour Cosmos](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-jeudi-18-janvier-2018) - La Méthode Scientifique, Janvier 2018
-
 - [La Méthode scientifique : la 500ème !](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-vendredi-16-novembre-2018) - La Méthode Scientifique, Novembre 2018
 
 # Podcasts
