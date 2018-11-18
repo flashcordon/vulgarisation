@@ -41,7 +41,7 @@
 - [Il était une fois l'univers](http://www.ens-lyon.fr/evenement/lecole/vulgarizators-4) - Vulgarizators 4, Novembre 2016
 - Le voyage interstellaire, du rêve à la réalité - Salon Fantastique, Novembre 2017
 - Et si on parlait vulgarisation ? Clefs et astuces pour encenser la science et la communiquer - CYROI, Février 2018
-- La science... De la communication des sciences, Au Bar Sci, Collectif Conscience, 2018
+- La science... De la communication des sciences, Au Bar Sci, Collectif Conscience, Mars 2018
 - [Un voyage peu ordinaire](https://www.obspm.fr/spip.php?page=imprimer&id_article=3807) - Cité des sciences, dans le cadre de Mission Exoplanète, Avril 2018
 - [L'Univers à relier](https://www.sfpnet.fr/piece-de-theatre-galilee-le-mecano-et-conference-de-sebastien-carassou) - Théâtre de la Reine blanche, Octobre 2018
 
