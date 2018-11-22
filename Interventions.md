@@ -2,6 +2,8 @@
 
 ## Le Sense of Wonder
 
+- [La Mort du Soleil - #LeSOW 1](https://youtu.be/cRY0jJYVyDc) - Mai 2015
+- [Supernovae et poussières d'étoiles - #LeSOW 2](https://youtu.be/64f2MEM67Qg) - Juillet 2015
 - [Les Sursauts Gamma - #LeSOW 3](https://youtu.be/Oos-xlhJLuQ) - Octobre 2015
 - [Troublants Trous Noirs - #LeSOW 4](https://youtu.be/fpnuXzf9s04) - Mai 2016
 - [Présentation de la chaîne et FAQ](https://youtu.be/yotAgqmfBbk) - Août 2016
