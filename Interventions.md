@@ -2,6 +2,7 @@
 
 ## Le Sense of Wonder
 
+- [Troublants Trous Noirs - #LeSOW 4](https://youtu.be/fpnuXzf9s04) - Mai 2016
 - [Présentation de la chaîne et FAQ](https://youtu.be/yotAgqmfBbk) - Août 2016
 - [Un Pont Vers Les Étoiles | Voyage vers Proxima b #1](https://youtu.be/AC90A02xKqA) - Février 2017
 - [Voyage dans un trou noir - #LeSOW 5 (avec Nexus VI)](https://youtu.be/RwlMp_RYOC8) - Septembre 2017
