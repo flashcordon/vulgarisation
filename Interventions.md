@@ -2,6 +2,7 @@
 
 ## Le Sense of Wonder
 
+- [Les Sursauts Gamma - #LeSOW 3](https://youtu.be/Oos-xlhJLuQ) - Octobre 2015
 - [Troublants Trous Noirs - #LeSOW 4](https://youtu.be/fpnuXzf9s04) - Mai 2016
 - [Présentation de la chaîne et FAQ](https://youtu.be/yotAgqmfBbk) - Août 2016
 - [Un Pont Vers Les Étoiles | Voyage vers Proxima b #1](https://youtu.be/AC90A02xKqA) - Février 2017
