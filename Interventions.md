@@ -2,6 +2,7 @@
 
 ## Le Sense of Wonder
 
+- [Voyage dans un trou noir - #LeSOW 5 (avec Nexus VI)](https://youtu.be/RwlMp_RYOC8) - Septembre 2017
 - [Les Vaisseaux Interstellaires | Voyage vers Proxima b #2](https://youtu.be/i6rFIQ6UkR4) - Novembre 2017
 - [Une Arche Pour l'Humanité | Voyage vers Proxima b #3](https://youtu.be/E1bmnyD8vNI) - Février 2018
 - [Science sans Confiance - le Vlog of Wonder](https://youtu.be/i96BVL6zSTk) - Mars 2018
