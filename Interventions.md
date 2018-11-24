@@ -32,7 +32,9 @@
 - [A la recherche de la vie dans l'univers: les exoplanètes habitables](https://youtu.be/LNS3c7SXLzo) - Astro'Stylé #08, Juillet 2018
 - [Voyage dans le temps à travers le système solaire](https://youtu.be/QWmtpJQzy-g) - Astro'Stylé #09, Octobre 2018
 
-## Billes de Science
+## Billes de Sciences
+
+- [Le Soleil et nous](https://youtu.be/qgbPiKudNKs) - Novembre 2018 
 
 ## Collabs
 
