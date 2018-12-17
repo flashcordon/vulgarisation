@@ -44,6 +44,7 @@
 - [Live e-penser le jeu avec DirtyBiology, Florence Porcel, Science Etonnante et le Sense of Wonder] - E-Penser, Septembre 2017
 - [Le Big Bang](https://youtu.be/XMKfLkXHSkc) - Astronogeek, Octobre 2017
 - [SCIENTIFIQUES ET SCIENCE-FICTION : un lien omniprésent ?](https://www.youtube.com/watch?v=xYcWwCE15uc) - La luciole de Trantor, Juin 2018
+- [Jouons avec la dilatation temporelle... (1/2)](https://youtu.be/RPbs4G4ZYFU) - Astronogeek (Décembre 2018)
 
 ## Divers
 
