@@ -36,15 +36,17 @@
 
 - [Le Soleil et nous](https://youtu.be/qgbPiKudNKs) - Novembre 2018 
 
-## Collabs
+## Collabs et caméos
 
 - [Hors série: La fonte des glaces. Avec Florence Porcel, Axolot, et Le sense of wonder](https://youtu.be/syL0pw3Ct-g) - This is Science, Novembre 2015
 - [LE SON DE L'UNIVERS les sons des planètes feat Le Sense Of Wonder](https://youtu.be/O4Wa9vc69ew) - Balade Mentale, Mars 2016
+- [15 MILLIONS DE DEGRÉS AU COEUR DU SOLEIL ? Vrai ou Faux #16](https://youtu.be/sxoiD4BwiOk) - Dr Nozman (Mai 2016)
 - [Peut-on simuler l’histoire du cosmos ? - Feat. Sebastien Carassou - ZdS#4](https://youtu.be/CtCK75lfE7A) - Zeste de Science, Décembre 2017
 - [Live e-penser le jeu avec DirtyBiology, Florence Porcel, Science Etonnante et le Sense of Wonder] - E-Penser, Septembre 2017
 - [Le Big Bang](https://youtu.be/XMKfLkXHSkc) - Astronogeek, Octobre 2017
 - [SCIENTIFIQUES ET SCIENCE-FICTION : un lien omniprésent ?](https://www.youtube.com/watch?v=xYcWwCE15uc) - La luciole de Trantor, Juin 2018
 - [Jouons avec la dilatation temporelle... (1/2)](https://youtu.be/RPbs4G4ZYFU) - Astronogeek (Décembre 2018)
+- [Jouons avec la dilatation temporelle... (2/2)](https://youtu.be/WL71EXXG_b8?list=WL) - Astronogeek (Décembre 2018)
 
 ## Divers
 
