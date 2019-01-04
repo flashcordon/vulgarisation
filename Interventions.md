@@ -94,6 +94,7 @@
 - [Système solaire Trappist / Les dangers des drones / Les modes de vie des coraux](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-vendredi-23-fevrier-2018) - La Méthode Scientifique, Février 2018
 - [Comment vulgariser sans falsifier ?](https://www.franceculture.fr/emissions/du-grain-a-moudre/du-grain-a-moudre-du-jeudi-11-octobre-2018) - Du Grain à Moudre, Octobre 2018
 - [La Méthode scientifique : la 500ème !](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-vendredi-16-novembre-2018) - La Méthode Scientifique, Novembre 2018
+- [L’influence de la lune sur les volcans / Culture de cerveaux néandertaliens / Mission Chang'e 4](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-vendredi-04-janvier-2019) - La Méthode Scientifique, Janvier 2019
 
 # Podcasts
 
