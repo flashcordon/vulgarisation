@@ -16,6 +16,7 @@
 - [Warp Drive, EM Drive et moteurs ioniques - Retour sur Proxima b #2](https://youtu.be/QoPuz2Avh-s) - Septembre 2018
 - [Le canon de Jules Verne - Scientifiction #1](https://youtu.be/YXJVS7xeh8c) - Octobre 2018
 - [Un ciel de 100 000 étoiles - Paysages cosmiques #1](https://youtu.be/AbvCRpO2pEc) - Décembre 2018
+- [Ryugu, le diamant céleste - Paysages cosmiques #2](https://youtu.be/GiEr1Q_tu_A) - Janvier 2019
 
 ## String Theory
 
