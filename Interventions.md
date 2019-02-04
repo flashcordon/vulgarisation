@@ -74,6 +74,7 @@
 - [Un voyage peu ordinaire](https://www.obspm.fr/spip.php?page=imprimer&id_article=3807) - Cité des sciences, dans le cadre de Mission Exoplanète, Avril 2018
 - [L'Univers à relier](https://www.sfpnet.fr/piece-de-theatre-galilee-le-mecano-et-conference-de-sebastien-carassou) - Théâtre de la Reine blanche, Octobre 2018
 - [Le voyage interstellaire, du rêve à la réalité](https://urlz.fr/8BOQ) - Espace V, Janvier 2019
+- Objectif Konsciensz - Play Azur Festival, Février 2019
 
 # Articles de blog
 
@@ -89,6 +90,7 @@
 - [La vulgarisation sur Youtube | Le Sense Of Wonder et Zeste de Science - Cabaret de la Science](https://youtu.be/lqlrbVk9VO4) - L'Esprit Sorcier, Octobre 2018
 - [Ce que Stephen Hawking a apporté à la compréhension de l'Univers](https://www.rtl.fr/actu/futur/ce-que-stephen-hawking-a-apporte-a-la-comprehension-de-l-univers-7792621001) - RTL, Mars 2018
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
+- Table ronde "Pourquoi vulgariser les sciences ?" - Play Azur Festival, Février 2019
 
 # Radio
 
