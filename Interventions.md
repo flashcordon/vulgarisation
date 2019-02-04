@@ -17,6 +17,7 @@
 - [Le canon de Jules Verne - Scientifiction #1](https://youtu.be/YXJVS7xeh8c) - Octobre 2018
 - [Un ciel de 100 000 étoiles - Paysages cosmiques #1](https://youtu.be/AbvCRpO2pEc) - Décembre 2018
 - [Ryugu, le diamant céleste - Paysages cosmiques #2](https://youtu.be/GiEr1Q_tu_A) - Janvier 2019
+- [Bande-annonce 2019](https://youtu.be/QWKRVYsr5eI) - Janvier 2019
 
 ## String Theory
 
@@ -52,6 +53,7 @@
 - [SCIENTIFIQUES ET SCIENCE-FICTION : un lien omniprésent ?](https://www.youtube.com/watch?v=xYcWwCE15uc) - La luciole de Trantor, Juin 2018
 - [Jouons avec la dilatation temporelle... (1/2)](https://youtu.be/RPbs4G4ZYFU) - Astronogeek (Décembre 2018)
 - [Jouons avec la dilatation temporelle... (2/2)](https://youtu.be/WL71EXXG_b8?list=WL) - Astronogeek (Décembre 2018)
+- [Exodus S01E04 Feat. Doc7, Florence Porcel & NotaBene](https://youtu.be/GRA7qM-7c8c) - Above-Earth (Février 2019)
 
 ## Divers
 
