@@ -47,6 +47,8 @@
 - [L'Esprit Sorcier avec Le Sense of Wonder](https://youtu.be/gIL_mAucrGA) - L'Esprit Sorcier (Août 2015)
 - [LE SON DE L'UNIVERS les sons des planètes feat Le Sense Of Wonder](https://youtu.be/O4Wa9vc69ew) - Balade Mentale, Mars 2016
 - [15 MILLIONS DE DEGRÉS AU COEUR DU SOLEIL ? Vrai ou Faux #16](https://youtu.be/sxoiD4BwiOk) - Dr Nozman (Mai 2016)
+- [Le Génocide, mais Relax ! - Partie 1](https://youtu.be/u1z16qyRxLs) - Dave Sheik, Avril 2017
+- [Le Génocide, mais Relax ! - Partie 2](https://youtu.be/8acG4JFcSqY) - Asclepios, Avril 2017
 - [Peut-on simuler l’histoire du cosmos ? - Feat. Sebastien Carassou - ZdS#4](https://youtu.be/CtCK75lfE7A) - Zeste de Science, Décembre 2017
 - [Live e-penser le jeu avec DirtyBiology, Florence Porcel, Science Etonnante et le Sense of Wonder](https://youtu.be/zO-cRBrH5ZU) - E-Penser, Septembre 2017
 - [Le Big Bang](https://youtu.be/XMKfLkXHSkc) - Astronogeek, Octobre 2017
