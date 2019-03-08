@@ -81,6 +81,7 @@
 
 # Articles de blog
 
+- [Making sense of two trillion galaxies](https://about.hindawi.com/opinion/making-sense-of-two-trillion-galaxies/) - Hindawi, Avril 2018
 - [Quand la planète rouge était… Bleue !](http://kidiscience.cafe-sciences.org/articles/quand-la-planete-rouge-etait-bleue/) - Kidiscience, Août 2018
 
 # Interviews
