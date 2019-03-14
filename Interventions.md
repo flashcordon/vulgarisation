@@ -95,6 +95,7 @@
 - [Ce que Stephen Hawking a apporté à la compréhension de l'Univers](https://www.rtl.fr/actu/futur/ce-que-stephen-hawking-a-apporte-a-la-comprehension-de-l-univers-7792621001) - RTL, Mars 2018
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
 - Table ronde "Pourquoi vulgariser les sciences ?" - Play Azur Festival, Février 2019
+- Table ronde "Une espèce à part" - Forum des images, Mars 2019
 
 # Radio
 
