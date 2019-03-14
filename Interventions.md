@@ -77,7 +77,7 @@
 - [Un voyage peu ordinaire](https://www.obspm.fr/spip.php?page=imprimer&id_article=3807) - Cité des sciences, dans le cadre de Mission Exoplanète, Avril 2018
 - [L'Univers à relier](https://www.sfpnet.fr/piece-de-theatre-galilee-le-mecano-et-conference-de-sebastien-carassou) - Théâtre de la Reine blanche, Octobre 2018
 - [Le voyage interstellaire, du rêve à la réalité](https://urlz.fr/8BOQ) - Espace V, Janvier 2019
-- Objectif Konsciensz - Play Azur Festival, Février 2019
+- [Objectif Konsciensz](https://youtu.be/nM6Sj0YD5Lg) - Play Azur Festival, Février 2019
 
 # Articles de blog
 
@@ -130,4 +130,4 @@
 
 # Formations
 
-- L'écriture de vidéos de sciences, à destination de doctorants, Centre de Vulgarisation de la Connaissance de l'université Paris Saclay, Novembre 2018
+- L'écriture de vidéos de sciences, à destination de doctorants, Centre de Vulgarisation de la Connaissance de l'université Paris Saclay, Novembre 2018 / Mars 2019
