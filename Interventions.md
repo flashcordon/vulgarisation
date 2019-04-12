@@ -100,6 +100,7 @@
 - Table ronde "Pourquoi vulgariser les sciences ?" - Play Azur Festival, Février 2019
 - Table ronde "Une espèce à part" - Forum des images, Mars 2019
 - Table ronde "Faut-il être gentil ?" - Kamo Con, Mars 2019
+- Table ronde "Mythes et légendes en astronomie" - Lyon Science, Avril 2019
 
 # Radio
 
@@ -135,4 +136,4 @@
 
 # Formations
 
-- L'écriture de vidéos de sciences, à destination de doctorants, Centre de Vulgarisation de la Connaissance de l'université Paris Saclay, Novembre 2018 / Mars 2019
+- L'écriture de vidéos de sciences, à destination de doctorants, Centre de Vulgarisation de la Connaissance de l'université Paris Saclay, Novembre 2018 / Mars 2019 (x2) / Avril 2019
