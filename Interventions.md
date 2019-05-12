@@ -18,6 +18,7 @@
 - [Un ciel de 100 000 étoiles - Paysages cosmiques #1](https://youtu.be/AbvCRpO2pEc) - Décembre 2018
 - [Ryugu, le diamant céleste - Paysages cosmiques #2](https://youtu.be/GiEr1Q_tu_A) - Janvier 2019
 - [Bande-annonce 2019](https://youtu.be/QWKRVYsr5eI) - Janvier 2019
+- [La Vie dans L'Univers - #leSOW 6](https://youtu.be/whaWJN9GPZk) - Mai 2019
 
 ## String Theory
 
@@ -115,7 +116,7 @@
 - [La Méthode scientifique : la 500ème !](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-vendredi-16-novembre-2018) - La Méthode Scientifique, Novembre 2018
 - [L’influence de la lune sur les volcans / Culture de cerveaux néandertaliens / Mission Chang'e 4](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-vendredi-04-janvier-2019) - La Méthode Scientifique, Janvier 2019
 - [Révolution quantique / Vaccin contre Ebola / Origine extraterrestre des éléments lourds](https://www.franceculture.fr/emissions/la-methode-scientifique/revolution-quantique-vaccin-contre-ebola-origine-extraterrestre-des-elements-lourds) - La Méthode Scientifique, Mai 2019
-- [Dernières nouvelles de l'univers](https://www.franceculture.fr/evenement/week-end-imagine-quelle-histoire-en-public-au-centre-pompidou) - Weekend Imagine, Mai 2019
+- [Dernières nouvelles de l'univers](https://www.franceculture.fr/emissions/week-end-imagine/quelle-histoire-emission-en-direct-du-festival-imagine-a-beaubourg-0?fbclid=IwAR0oTLzaCL6dyxnz9FsWA2v-cQpg73xagdbhlDp0ObauQuNOeuqVCCmxux0) - Weekend Imagine, Mai 2019
 
 # Podcasts
 
