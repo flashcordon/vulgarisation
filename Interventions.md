@@ -140,3 +140,12 @@
 # Formations
 
 - L'écriture de vidéos de sciences, à destination de doctorants, Centre de Vulgarisation de la Connaissance de l'université Paris Saclay, Novembre 2018 / Mars 2019 (x2) / Avril 2019
+
+# Consultation scientifique
+
+- Balade Mentale - Avril 2019
+
+# Jury de concours
+
+- [Finale Famelab France](https://www.britishcouncil.fr/apropos/presse/jeunes-scientifiques-famelab-2017) - Mars 2017
+- [Concours de vidéo Lyon Science](http://www.lyon-science.fr/le-programme-1-2-samedi-soir/) - Avril 2019
