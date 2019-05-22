@@ -19,6 +19,7 @@
 - [Ryugu, le diamant céleste - Paysages cosmiques #2](https://youtu.be/GiEr1Q_tu_A) - Janvier 2019
 - [Bande-annonce 2019](https://youtu.be/QWKRVYsr5eI) - Janvier 2019
 - [La Vie dans L'Univers - #leSOW 6](https://youtu.be/whaWJN9GPZk) - Mai 2019
+- [La Vie dans L'Univers - FAQ](https://youtu.be/2Qar5zxLgMQ) - Mai 2019
 
 ## String Theory
 
@@ -80,6 +81,7 @@
 - [L'Univers à relier](https://www.sfpnet.fr/piece-de-theatre-galilee-le-mecano-et-conference-de-sebastien-carassou) - Théâtre de la Reine blanche, Octobre 2018
 - [Le voyage interstellaire, du rêve à la réalité](https://urlz.fr/8BOQ) - Espace V, Janvier 2019
 - [Objectif Konsciensz](https://youtu.be/nM6Sj0YD5Lg) - Play Azur Festival, Février 2019
+- "Nos liens cosmiques" - Ramène ta science, Mai 2019
 
 # Articles de blog
 
