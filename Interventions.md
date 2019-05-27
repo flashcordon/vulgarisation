@@ -72,7 +72,7 @@
 
 - [La Mort, l'Univers et le Reste](https://youtu.be/oZr9nY5i0uI) - Geekopolis, Août 2015
 - [la Mort, l’Univers et le Reste](https://youtu.be/-vbhvV2qJGw) -Lyon Science, 2016
-- [Il était une fois l'univers](http://www.ens-lyon.fr/evenement/lecole/vulgarizators-4) - Vulgarizators 4, Novembre 2016
+- [Il était une fois l'univers](https://youtu.be/E2Lo29lZGkg) - Vulgarizators 4, Novembre 2016
 - [Il était une fois l'univers](https://www.alcor.asso.u-psud.fr/event/conference-de-sebastien-carassou-jeudi-8-decembre/) - ALCOR, Décembre 2017
 - Le voyage interstellaire, du rêve à la réalité - Salon Fantastique, Novembre 2017
 - Et si on parlait vulgarisation ? Clefs et astuces pour encenser la science et la communiquer - CYROI, Février 2018
