@@ -20,6 +20,9 @@
 - [Bande-annonce 2019](https://youtu.be/QWKRVYsr5eI) - Janvier 2019
 - [La Vie dans L'Univers - #leSOW 6](https://youtu.be/whaWJN9GPZk) - Mai 2019
 - [La Vie dans L'Univers - FAQ](https://youtu.be/2Qar5zxLgMQ) - Mai 2019
+- La nuit blanche de l'astronomie à l'IAP - Juin 2019
+- Le mystère de l'expansion des tropiques - Juin 2019
+- La fin des temps - Juillet 2019
 
 ## String Theory
 
@@ -81,7 +84,7 @@
 - [L'Univers à relier](https://www.sfpnet.fr/piece-de-theatre-galilee-le-mecano-et-conference-de-sebastien-carassou) - Théâtre de la Reine blanche, Octobre 2018
 - [Le voyage interstellaire, du rêve à la réalité](https://urlz.fr/8BOQ) - Espace V, Janvier 2019
 - [Objectif Konsciensz](https://youtu.be/nM6Sj0YD5Lg) - Play Azur Festival, Février 2019
-- "Nos liens cosmiques" - Ramène ta science, Mai 2019
+- Nos liens cosmiques - Ramène ta science, Mai 2019
 
 # Articles de blog
 
@@ -128,6 +131,9 @@
 - [De l’astrophysique à la cosmologie, le ciel sens dessus dessous](https://www.podcastscience.fm/emission/2017/02/28/podcast-science-284-les-tables-rondes-de-lyon-science-2016/) - Table ronde de Lyon Science, 2016
 - [Jean Audouze, Michel Cassé et Sébastien Carassou - Du nouveau dans l'invisible ?](https://podtail.com/da/podcast/l-ete-des-13-dimanches/jean-audouze-michel-casse-et-sebastien-carassou-du/) - Ecole des filles, Septembre 2018
 - [Songe d’une Nuit de Podcast : émission radio-dessinée](https://www.podcastscience.fm/annonces/2018/09/10/songe-dune-nuit-de-podcast-emission-radio-dessinee/) - Podcast Science, Octobre 2018
+- Scepticisme galactique avec Sébastien Carassou - Probablement ?, Juin 2019
+- Futur environnemental avec Sébastien Carassou - Probablement ?, Juin 2019
+- Sismique, Juin 2019
 
 # Twitter
 
@@ -145,6 +151,7 @@
 
 # Consultation scientifique
 
+- XXX - 2017-2019
 - Balade Mentale - Avril 2019
 
 # Jury de concours
