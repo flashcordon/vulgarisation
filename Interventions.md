@@ -52,7 +52,8 @@
 - [L’Esprit Sorcier - Pourquoi/Comment ?](https://youtu.be/lqx4OT8ftdg) - L'Esprit Sorcier (Août 2015)
 - [L'Esprit Sorcier avec Le Sense of Wonder](https://youtu.be/gIL_mAucrGA) - L'Esprit Sorcier (Août 2015)
 - [LE SON DE L'UNIVERS les sons des planètes feat Le Sense Of Wonder](https://youtu.be/O4Wa9vc69ew) - Balade Mentale, Mars 2016
-- [15 MILLIONS DE DEGRÉS AU COEUR DU SOLEIL ? Vrai ou Faux #16](https://youtu.be/sxoiD4BwiOk) - Dr Nozman (Mai 2016)
+- [15 MILLIONS DE DEGRÉS AU COEUR DU SOLEIL ? Vrai ou Faux #16](https://youtu.be/sxoiD4BwiOk) - Dr Nozman, Mai 2016
+- [LE MONDE ENTIER dans une tasse de café !!!](https://youtu.be/is1CHlzyBcA) - Balade Mentale, Janvier 2017
 - [Le Génocide, mais Relax ! - Partie 1](https://youtu.be/u1z16qyRxLs) - Dave Sheik, Avril 2017
 - [Le Génocide, mais Relax ! - Partie 2](https://youtu.be/8acG4JFcSqY) - Asclepios, Avril 2017
 - [L'Univers Express #5 Feat Le Sense of Wonder - Planète 9](https://youtu.be/YOqmWNVKI2A) - Above Earth, Juin 2017
