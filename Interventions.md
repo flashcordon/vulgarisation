@@ -65,6 +65,7 @@
 - [Jouons avec la dilatation temporelle... (2/2)](https://youtu.be/WL71EXXG_b8?list=WL) - Astronogeek (Décembre 2018)
 - [Exodus S01E04 Feat. Doc7, Florence Porcel & NotaBene](https://youtu.be/GRA7qM-7c8c) - Above-Earth (Février 2019)
 - [Quel est l'avenir des sciences sur YouTube ? - DROP OF CURIOSITY](https://youtu.be/j1tFOSgeAAI) - Drop of Curiosity (Mars 2019)
+- [Comment fabriquer de l'or ? (Spoiler : c'est compliqué](https://youtu.be/o4UDmbo3TTA) - Astronogeek (Juin 2019)
 
 ## Divers
 
