@@ -134,7 +134,7 @@
 - [De l’astrophysique à la cosmologie, le ciel sens dessus dessous](https://www.podcastscience.fm/emission/2017/02/28/podcast-science-284-les-tables-rondes-de-lyon-science-2016/) - Table ronde de Lyon Science, 2016
 - [Jean Audouze, Michel Cassé et Sébastien Carassou - Du nouveau dans l'invisible ?](https://podtail.com/da/podcast/l-ete-des-13-dimanches/jean-audouze-michel-casse-et-sebastien-carassou-du/) - Ecole des filles, Septembre 2018
 - [Songe d’une Nuit de Podcast : émission radio-dessinée](https://www.podcastscience.fm/annonces/2018/09/10/songe-dune-nuit-de-podcast-emission-radio-dessinee/) - Podcast Science, Octobre 2018
-- Scepticisme galactique avec Sébastien Carassou - Probablement ?, Juin 2019
+- [Scepticisme galactique avec Sébastien Carassou - Probablement ?](https://www.youtube.com/watch?v=i7BIwI9f7PU) - Science4all, Juin 2019
 - Futur environnemental avec Sébastien Carassou - Probablement ?, Juin 2019
 - Sismique, Juin 2019
 
