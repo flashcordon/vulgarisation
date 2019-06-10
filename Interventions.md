@@ -20,7 +20,7 @@
 - [Bande-annonce 2019](https://youtu.be/QWKRVYsr5eI) - Janvier 2019
 - [La Vie dans L'Univers - #leSOW 6](https://youtu.be/whaWJN9GPZk) - Mai 2019
 - [La Vie dans L'Univers - FAQ](https://youtu.be/2Qar5zxLgMQ) - Mai 2019
-- La nuit blanche de l'astronomie à l'IAP - Juin 2019
+- [La nuit blanche de l'astronomie #80ansCNRS](https://youtu.be/Ik-aBWmHTLU) - Juin 2019
 - Le mystère de l'expansion des tropiques - Juin 2019
 - La fin des temps - Juillet 2019
 
