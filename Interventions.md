@@ -155,7 +155,9 @@
 # Consultation scientifique
 
 - XXX - 2017-2019
-- Balade Mentale - Avril 2019
+- [Le calendrier COSMIQUE - tout le temps qui s'est écoulé](https://youtu.be/_p1YSNa1Tdw) - Balade Mentale, Mai 2019
+- [Le BIG BANG - comment fabriquer l'univers ?](https://youtu.be/X9D43ECoYWg) - Balade Mentale, Mai 2019
+- [Puissances et tailles des étoiles](https://youtu.be/LhfXGjKcXHw) - Balade Mentale, Juin 2019
 
 # Jury de concours
 
