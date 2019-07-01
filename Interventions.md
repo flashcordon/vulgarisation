@@ -138,6 +138,8 @@
 - [Futur environnemental avec Sébastien Carassou - Probablement ?](https://youtu.be/KEQDvVCuFv4) - Science4all, Juin 2019
 - Sismique, Juin 2019
 - [La nouvelle course à l’espace c’est quoi ?!](https://www.brain-magazine.fr/article/brainorama/54343-SMT-S05E14-La-nouvelle-course-a-lespace-cest-quoi) - SMT ?!, Juin 2019
+- [L’astrophysique pour mieux comprendre le monde - Sébastien Carassou (1ère partie)](http://podcast.sismique.fr/episodes/27-1ere-partie-lastrophysique-pour-mieux-comprendre-le-monde) - Sismique (Juin 2019)
+- [L’astrophysique pour mieux comprendre le monde - Sébastien Carassou (2ème partie)](http://podcast.sismique.fr/episodes/27-2eme-partie-lastrophysique-pour-mieux-comprendre-le-monde)
 
 # Twitter
 
