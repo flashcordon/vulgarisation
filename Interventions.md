@@ -105,6 +105,7 @@
 - [École des Filles. Trois questions à Sébastien Carassou, astrophysicien](https://www.ouest-france.fr/bretagne/ecole-des-filles-trois-questions-sebastien-carassou-astrophysicien-5945475) - Ouest France, Septembre 2018
 - [La vulgarisation sur Youtube | Le Sense Of Wonder et Zeste de Science - Cabaret de la Science](https://youtu.be/lqlrbVk9VO4) - L'Esprit Sorcier, Octobre 2018
 - [Ce que Stephen Hawking a apporté à la compréhension de l'Univers](https://www.rtl.fr/actu/futur/ce-que-stephen-hawking-a-apporte-a-la-comprehension-de-l-univers-7792621001) - RTL, Mars 2018
+- [La science infuse sur Youtube](https://imgur.com/a/6y9nule) - Tout Comprendre, Juillet - Août 2019
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
