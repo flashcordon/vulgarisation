@@ -22,7 +22,7 @@
 - [La Vie dans L'Univers - FAQ](https://youtu.be/2Qar5zxLgMQ) - Mai 2019
 - [La nuit blanche de l'astronomie #80ansCNRS](https://youtu.be/Ik-aBWmHTLU) - Juin 2019
 - Le mystère de l'expansion des tropiques - Juin 2019
-- La fin des temps - Juillet 2019
+- [La fin des temps (avec Astronogeek)](https://youtu.be/cFtB79F11QM) - Juillet 2019
 
 ## String Theory
 
@@ -66,6 +66,8 @@
 - [Exodus S01E04 Feat. Doc7, Florence Porcel & NotaBene](https://youtu.be/GRA7qM-7c8c) - Above-Earth (Février 2019)
 - [Quel est l'avenir des sciences sur YouTube ? - DROP OF CURIOSITY](https://youtu.be/j1tFOSgeAAI) - Drop of Curiosity (Mars 2019)
 - [Comment fabriquer de l'or ? (Spoiler : c'est compliqué)](https://youtu.be/o4UDmbo3TTA) - Astronogeek (Juin 2019)
+- [A quoi ressemblera la fin du monde ?](https://youtu.be/qUkGZOEsV8U) - Astronogeek (Juillet 2019)
+- [On The Moon Again - France](https://youtu.be/-Fb0NAFFTQU) - On the Moon Again (Juillet 2019)
 
 ## Divers
 
@@ -161,6 +163,8 @@
 - [Le calendrier COSMIQUE - tout le temps qui s'est écoulé](https://youtu.be/_p1YSNa1Tdw) - Balade Mentale, Mai 2019
 - [Le BIG BANG - comment fabriquer l'univers ?](https://youtu.be/X9D43ECoYWg) - Balade Mentale, Mai 2019
 - [Puissances et tailles des étoiles](https://youtu.be/LhfXGjKcXHw) - Balade Mentale, Juin 2019
+- [Vos ancètres oubliés - Transformations et origines de la matière ?](https://youtu.be/O-Th0ims8UY) - Balade Mentale, Juin 2019
+- [L'immortalité qui se cache en nous](https://youtu.be/blLFPiR03Tc) - Balade Mentale, Juillet 2019
 
 # Jury de concours
 
