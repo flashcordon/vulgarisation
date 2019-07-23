@@ -68,6 +68,7 @@
 - [Comment fabriquer de l'or ? (Spoiler : c'est compliqué)](https://youtu.be/o4UDmbo3TTA) - Astronogeek (Juin 2019)
 - [A quoi ressemblera la fin du monde ?](https://youtu.be/qUkGZOEsV8U) - Astronogeek (Juillet 2019)
 - [On The Moon Again - France](https://youtu.be/-Fb0NAFFTQU) - On the Moon Again (Juillet 2019)
+-  - Le Monde (Juillet 2019)
 
 ## Divers
 
@@ -143,6 +144,7 @@
 - [La nouvelle course à l’espace c’est quoi ?!](https://www.brain-magazine.fr/article/brainorama/54343-SMT-S05E14-La-nouvelle-course-a-lespace-cest-quoi) - SMT ?!, Juin 2019
 - [L’astrophysique pour mieux comprendre le monde - Sébastien Carassou (1ère partie)](http://podcast.sismique.fr/episodes/27-1ere-partie-lastrophysique-pour-mieux-comprendre-le-monde) - Sismique (Juin 2019)
 - [L’astrophysique pour mieux comprendre le monde - Sébastien Carassou (2ème partie)](http://podcast.sismique.fr/episodes/27-2eme-partie-lastrophysique-pour-mieux-comprendre-le-monde)
+- [Sébastien Carassou dans les fils de la toile cosmique](https://www.grandlabo.com/sebastien-carassou-dans-les-fils-de-la-toile-cosmique/) - Poster (Juillet 2019)
 
 # Twitter
 
