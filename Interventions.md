@@ -168,6 +168,7 @@
 - [Puissances et tailles des étoiles](https://youtu.be/LhfXGjKcXHw) - Balade Mentale, Juin 2019
 - [Vos ancètres oubliés - Transformations et origines de la matière ?](https://youtu.be/O-Th0ims8UY) - Balade Mentale, Juin 2019
 - [L'immortalité qui se cache en nous](https://youtu.be/blLFPiR03Tc) - Balade Mentale, Juillet 2019
+- [La Lumière, la clef pour comprendre l'univers](https://youtu.be/70s1mPPkkmo) - Balade Mentale, Juillet 2019
 
 # Jury de concours
 
