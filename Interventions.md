@@ -95,6 +95,13 @@
 # Articles de blog
 
 - [L'intrication quantique, ou le rêve de la communication instantanée](http://lesenseofwonder.blogspot.com/2013/03/lintrication-quantique-ou-le-reve-de-la_30.html) - le Sense of Wonder, Mars 2013
+- [Une banane et de la bière pour déchirer l'espace-temps? Nom de Zeus!](http://lesenseofwonder.blogspot.com/2013/03/une-banane-et-de-la-biere-pour-dechirer.html) - le Sense of Wonder, Mars 2013
+- [Notre place dans l'Univers, Partie 1: se repérer dans l'Espace](http://lesenseofwonder.blogspot.com/2013/04/notre-place-dans-lunivers-partie-1-se.html) - le Sense of Wonder, Avril 2013
+- [Notre place dans l'Univers Partie 2: se repérer dans le Temps](http://lesenseofwonder.blogspot.com/2013/04/notre-place-dans-lunivers-partie-2-se.html) - le Sense of Wonder, Avril 2013
+- [L'Art perdu du Dessin Animé éducatif](http://lesenseofwonder.blogspot.com/2013/06/lart-perdu-du-dessin-anime-educatif.html) - le Sense of Wonder, Juin 2013
+- [L'univers comme vous ne l'avez jamais vu !](http://lesenseofwonder.blogspot.com/2013/08/lunivers-comme-vous-ne-lavez-jamais-vu.html) - le Sense of Wonder, Août 2013
+- [Vacances scientifiques: Une visite du synchrotron Australien !](http://lesenseofwonder.blogspot.com/2013/08/vacances-scientifiques-une-visite-du.html) - le Sense of Wodner, Août 2013
+- [La vie d'Archimède en BD !](http://lesenseofwonder.blogspot.com/2013/09/la-vie-darchimede-en-bd.html) - le Sense of Wonder, Septembre 2013
 - [J'ai écouté l'Univers, et voici ce qu'Il m'a dit](http://lesenseofwonder.blogspot.com/2013/09/jai-ecoute-lunivers-et-voici-ce-quil-ma_28.html) - le Sense of Wonder, Septembre 2013
 - [Territoires (in)connus : les surfaces de notre Système Solaire](http://lesenseofwonder.blogspot.com/2013/10/territoires-inconnus-les-surfaces-de.html) - le Sense of Wonder, Octobre 2013
 - [Carl Sagan, l'héritage d'une icône de la science](http://lesenseofwonder.blogspot.com/2013/11/carl-sagan-lheritage-dune-icone-de-la.html) - le Sense of Wonder, Novembre 2013
