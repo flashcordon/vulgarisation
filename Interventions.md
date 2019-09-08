@@ -94,7 +94,17 @@
 
 # Articles de blog
 
-- [L'intrication quantique, ou le rêve de la communication instantanée](http://lesenseofwonder.blogspot.com/2013/03/lintrication-quantique-ou-le-reve-de-la_30.html) - Mars 2013
+- [L'intrication quantique, ou le rêve de la communication instantanée](http://lesenseofwonder.blogspot.com/2013/03/lintrication-quantique-ou-le-reve-de-la_30.html) - le Sense of Wonder, Mars 2013
+- [J'ai écouté l'Univers, et voici ce qu'Il m'a dit](http://lesenseofwonder.blogspot.com/2013/09/jai-ecoute-lunivers-et-voici-ce-quil-ma_28.html) - le Sense of Wonder, Septembre 2013
+- [Territoires (in)connus : les surfaces de notre Système Solaire](http://lesenseofwonder.blogspot.com/2013/10/territoires-inconnus-les-surfaces-de.html) - le Sense of Wonder, Octobre 2013
+- [Carl Sagan, l'héritage d'une icône de la science](http://lesenseofwonder.blogspot.com/2013/11/carl-sagan-lheritage-dune-icone-de-la.html) - le Sense of Wonder, Novembre 2013
+- [Comme un parfum d'universel... (Like a universal scent)](http://lesenseofwonder.blogspot.com/2014/03/comme-un-parfum-duniversel_20.html) - le Sense of Wonder, Mars 2014
+- [20 minutes (x7) pour comprendre l'univers !](http://lesenseofwonder.blogspot.com/2014/04/20-minutes-x7-pour-comprendre-lunivers.html) - le Sense of Wonder, Avril 2014
+- [La cosmologie deviendra t-elle un culte (dans 100 milliards d'années)?](http://lesenseofwonder.blogspot.com/2014/04/la-cosmologie-deviendra-t-elle-un-culte.html) - le Sense of Wonder, Avril 2014
+- [Astronomie et poésie créole](http://lesenseofwonder.blogspot.com/2014/07/astronomie-et-poesie-creole.html) - le Sense of Wonder, Juillet 2014
+- [Sonder les entrailles de Mars, grâce à la sonde Insight](http://lesenseofwonder.blogspot.com/2014/07/sonder-les-entrailles-de-mars-grace-la.html) - le Sense of Wonder, Juillet 2014
+- ["Connais-toi toi-même" - Chapitre 1 : Intro(spection)](http://lesenseofwonder.blogspot.com/2015/01/connais-toi-toi-meme-chapitre-1.html) - le Sense of Wonder, Janvier 2015
+- [La Glace et le Ciel, de Luc Jacquet](http://lesenseofwonder.blogspot.com/2015/10/la-glace-et-le-ciel-de-luc-jacquet.html) - le Sense of Wonder, Octobre 2015
 - [Making sense of two trillion galaxies](https://about.hindawi.com/opinion/making-sense-of-two-trillion-galaxies/) - Hindawi, Avril 2018
 - [Quand la planète rouge était… Bleue !](http://kidiscience.cafe-sciences.org/articles/quand-la-planete-rouge-etait-bleue/) - Kidiscience, Août 2018
 
