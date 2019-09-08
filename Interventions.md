@@ -94,6 +94,7 @@
 
 # Articles de blog
 
+- [L'intrication quantique, ou le rêve de la communication instantanée](http://lesenseofwonder.blogspot.com/2013/03/lintrication-quantique-ou-le-reve-de-la_30.html) - Mars 2013
 - [Making sense of two trillion galaxies](https://about.hindawi.com/opinion/making-sense-of-two-trillion-galaxies/) - Hindawi, Avril 2018
 - [Quand la planète rouge était… Bleue !](http://kidiscience.cafe-sciences.org/articles/quand-la-planete-rouge-etait-bleue/) - Kidiscience, Août 2018
 
