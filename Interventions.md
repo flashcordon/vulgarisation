@@ -91,6 +91,7 @@
 - [Le voyage interstellaire, du rêve à la réalité](https://urlz.fr/8BOQ) - Espace V, Janvier 2019
 - [Objectif Konsciensz](https://youtu.be/nM6Sj0YD5Lg) - Play Azur Festival, Février 2019
 - Nos liens cosmiques - Ramène ta science, Mai 2019
+- Montrer la science en images - SNCF Recherche-Innovation, Septembre 2019
 
 # Articles de blog
 
