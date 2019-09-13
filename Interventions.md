@@ -23,6 +23,7 @@
 - [La nuit blanche de l'astronomie #80ansCNRS](https://youtu.be/Ik-aBWmHTLU) - Juin 2019
 - Le mystère de l'expansion des tropiques - Juin 2019
 - [La fin des temps (avec Astronogeek)](https://youtu.be/cFtB79F11QM) - Juillet 2019
+- [Méga-Terres et Mondes Superhabitables - Retour sur #leSOW 6](https://youtu.be/f0x0LDNyD9I) - Septembre 2019
 
 ## String Theory
 
