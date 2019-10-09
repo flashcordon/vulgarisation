@@ -93,6 +93,8 @@
 - [Objectif Konsciensz](https://youtu.be/nM6Sj0YD5Lg) - Play Azur Festival, Février 2019
 - Nos liens cosmiques - Ramène ta science, Mai 2019
 - Montrer la science en images - SNCF Recherche-Innovation, Septembre 2019
+- [Big History : une brève histoire de l'univers, de la vie, et de nous](https://www.alcor.asso.u-psud.fr/event/conference-de-sebastien-carassou-la-big-story/) - ALCOR, Octobre 2019
+- [L'Histoire de l'univers](https://union-des-savoirs.fr/event/lhistoire-de-lunivers/) - Union des Savoirs, Octobre 2019
 
 # Articles de blog
 
