@@ -200,3 +200,4 @@
 - [Finale Famelab France](https://www.britishcouncil.fr/apropos/presse/jeunes-scientifiques-famelab-2017) - Mars 2017
 - [Concours de vidéo Lyon Science](http://www.lyon-science.fr/le-programme-1-2-samedi-soir/) - Avril 2019
 - Concours "Ramène ta science" à Auxerres - Mai 2019
+- Concours Science en court(s) à Rennes - Octobre 2019
