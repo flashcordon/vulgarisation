@@ -132,7 +132,7 @@
 - [Ce que Stephen Hawking a apporté à la compréhension de l'Univers](https://www.rtl.fr/actu/futur/ce-que-stephen-hawking-a-apporte-a-la-comprehension-de-l-univers-7792621001) - RTL, Mars 2018
 - [La science infuse sur Youtube](https://imgur.com/a/6y9nule) - Tout Comprendre, Juillet - Août 2019
 - [C'est quand la FIN du MONDE ? (avec Le Sense Of Wonder)](https://youtu.be/gC4UIG6Gnzo) - Sivaland, Septembre 2019
-- Télérama (Octobre 2019)
+- [Comment vulgariser la science sur YouTube ?](https://www.telerama.fr/sortir/comment-vulgariser-la-science-sur-youtube,n6484150.php) - Télérama (Octobre 2019)
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
