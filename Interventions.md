@@ -140,6 +140,7 @@
 - Table ronde "Une espèce à part" - Forum des images, Mars 2019
 - Table ronde "Faut-il être gentil ?" - Kamo Con, Mars 2019
 - Table ronde "Mythes et légendes en astronomie" - Lyon Science, Avril 2019
+- Table ronde ["Les vidéastes et les institutions scientifiques : le nouveau binôme ?"](https://pariscience.fr/session/youtube-et-les-institutions-scientifiques-le-nouveau-binome/) - Pariscience, Octobre 2019
 
 # Radio
 
