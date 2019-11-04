@@ -146,6 +146,7 @@
 
 - [Table ronde actualité des sciences et de la recherche](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-table-ronde-actualite-des-sciences-et-de) - La Méthode Scientifique, Octobre 2016
 - [Que nous apprennent les grands relevés de l'univers sur le cosmos et son évolution ? / Les sprays à ARN / Les statistiques de la désinformation sur les réseaux sociaux](https://www.franceculture.fr/emissions/la-methode-scientifique/table-ronde-que-nous-apprennent-les-grands-releves-de-lunivers-sur) - La Méthode Scientifique, Février 2017
+- [Faut-il revoir l'éducation scientifique en France ?](https://www.franceculture.fr/emissions/la-methode-scientifique/faut-il-revoir-leducation-scientifique-en-france) - La Méthode Scientifique, Avril 2017
 - [De la SF plein la valise !](https://www.franceculture.fr/emissions/la-methode-scientifique/de-la-sf-plein-la-valise) - La Méthode Scientifique, Juin 2017
 - [Principe d’équivalence / Intelligence végétale / Topologie physique](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-vendredi-8-decembre-2017) - La Méthode Scientifique, Décembre 2017
 - [Débat : Science et citoyen, comment le citoyen peut-il intervenir dans le débat scientifique ?](https://radioagora-nanterre.fr/broadcast/8071-6-D%C3%A9bat-Science-et-citoyen-comment-le-citoyen-peut-il-intervenir-dans-le-d%C3%A9bat-scientifique) - Radio Agora Nanterre, Janvier 2018
