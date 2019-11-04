@@ -71,7 +71,7 @@
 - [On The Moon Again - France](https://youtu.be/-Fb0NAFFTQU) - On the Moon Again (Juillet 2019)
 - [Sommes-nous tous complotistes ? (ft. le Sense of Wonder) #LesDécodeurs](https://youtu.be/x1ha2ETSSH0) - Le Monde (Juillet 2019)
 - QTG (?)
-- Le Point Genius (Novembre 2019)
+- [Portrait - Carl Sagan (feat. Sébastien Carassou) - Le Point Genius](https://youtu.be/b7EQAor09eQ) - Le Point Genius (Novembre 2019)
 
 ## Divers
 
