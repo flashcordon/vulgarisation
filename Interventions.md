@@ -176,6 +176,8 @@
 # Twitter
 
 - [Sébastien Carassou, astrophysicien et vidéaste sur la chaine Youtube Le Sense of Wonder](http://comscicomca.org/2018/02/11/sebastien-carassou-astrophysicien-et-videaste-sur-la-chaine-youtube-le-sense-of-wonder/) - Comscicomca, Février 2018
+- Hashtags lancés : [#1jour1cause](https://twitter.com/search?q=%231jour1cause&src=typed_query), [#AujourdhuiJapprendsQue](https://twitter.com/search?q=%23aujourdhuijapprendsque&src=typed_query)
+- Comptes Twitter lancés : [@Endirectdulabo](https://twitter.com/EnDirectDuLabo)
 
 # Livres
 
