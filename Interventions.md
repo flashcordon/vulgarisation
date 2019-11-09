@@ -97,6 +97,9 @@
 - Montrer la science en images - SNCF Recherche-Innovation, Septembre 2019
 - [Big History : une brève histoire de l'univers, de la vie, et de nous](https://www.alcor.asso.u-psud.fr/event/conference-de-sebastien-carassou-la-big-story/) - ALCOR, Octobre 2019
 - [L'Histoire de l'univers](https://union-des-savoirs.fr/event/lhistoire-de-lunivers/) - Union des Savoirs, Octobre 2019
+- L'histoire de l'univers - Lycée Jacques Amyot, Novembre 2019
+- Le voyage interstellaire, du rêve à la réalité - LuxIO, Novembre 2019
+- L'histoire de l'univers - Médiathèque de Granville, Novembre 2019
 
 # Articles de blog
 
