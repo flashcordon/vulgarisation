@@ -99,7 +99,7 @@
 - [L'Histoire de l'univers](https://union-des-savoirs.fr/event/lhistoire-de-lunivers/) - Union des Savoirs, Octobre 2019
 - L'histoire de l'univers - Lycée Jacques Amyot, Novembre 2019
 - Le voyage interstellaire, du rêve à la réalité - LuxIO, Novembre 2019
-- L'histoire de l'univers - Médiathèque de Granville, Novembre 2019
+- [Comprendre le ciel : des mythes à la science](http://www.granville-terre-mer.fr/actualites/comprendre-le-ciel-des-mythes-a-la-science-663.html) - Médiathèque de Granville, Novembre 2019
 - Big History : théoriser l'évolution de la complexité dans l'univers - Exobiologie Jeunes Chercheurs, Novembre 2019
 
 # Articles de blog
