@@ -101,7 +101,7 @@
 - L'histoire de l'univers - Lycée Jacques Amyot, Novembre 2019
 - Le voyage interstellaire, du rêve à la réalité - LuxIO, Novembre 2019
 - [Comprendre le ciel : des mythes à la science](http://www.granville-terre-mer.fr/actualites/comprendre-le-ciel-des-mythes-a-la-science-663.html) - Médiathèque de Granville, Novembre 2019
-- Big History : théoriser l'évolution de la complexité dans l'univers - Exobiologie Jeunes Chercheurs, Novembre 2019
+- Big History : Théoriser l'évolution de la complexité dans l'univers - Exobiologie Jeunes Chercheurs, Novembre 2019
 
 # Articles de blog
 
@@ -138,6 +138,7 @@
 - [La science infuse sur Youtube](https://imgur.com/a/6y9nule) - Tout Comprendre, Juillet - Août 2019
 - [C'est quand la FIN du MONDE ? (avec Le Sense Of Wonder)](https://youtu.be/gC4UIG6Gnzo) - Sivaland, Septembre 2019
 - [Comment vulgariser la science sur YouTube ?](https://www.telerama.fr/sortir/comment-vulgariser-la-science-sur-youtube,n6484150.php) - Télérama (Octobre 2019)
+- [L'Incroyable Soleil (feat. Le Sense Of Wonder) - Les Rendez-Vous de l'Espace](https://youtu.be/H_cJyU9Rf2I) - Science et vie TV (Novembre 2019)
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
