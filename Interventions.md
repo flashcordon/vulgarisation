@@ -25,6 +25,7 @@
 - [La fin des temps (avec Astronogeek)](https://youtu.be/cFtB79F11QM) - Juillet 2019
 - [Méga-Terres et Mondes Superhabitables - Retour sur #leSOW 6](https://youtu.be/f0x0LDNyD9I) - Septembre 2019
 - [Aux Origines de la Matière](https://youtu.be/wbbGuex-mFI) - Novembre 2019
+- [Pourquoi pas plus d'épisodes ?](https://youtu.be/A7Oc8RslVB0) - Novembre 2019
 
 ## String Theory
 
