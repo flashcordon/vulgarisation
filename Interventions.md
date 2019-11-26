@@ -139,6 +139,7 @@
 - [C'est quand la FIN du MONDE ? (avec Le Sense Of Wonder)](https://youtu.be/gC4UIG6Gnzo) - Sivaland, Septembre 2019
 - [Comment vulgariser la science sur YouTube ?](https://www.telerama.fr/sortir/comment-vulgariser-la-science-sur-youtube,n6484150.php) - Télérama (Octobre 2019)
 - [L'Incroyable Soleil (feat. Le Sense Of Wonder) - Les Rendez-Vous de l'Espace](https://youtu.be/H_cJyU9Rf2I) - Science et vie TV (Novembre 2019)
+- [Cephalus Live #2 avec Sébastien Carassou](https://youtu.be/ei19wwOLG0A) - Cephalus Live (Novembre 2019)
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
