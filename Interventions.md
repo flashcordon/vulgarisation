@@ -81,6 +81,7 @@
 - [La vulgarisation scientifique sur Internet - 17h - La 6ème #NuitOriginale](https://youtu.be/fATge4JpG5A?list=WL) - Mai 2016
 - [Pourquoi communiquer les sciences? Sébastien Carassou, parrain de FameLab France 2017 nous explique](https://youtu.be/d67U2hz-tdk) - FameLab, Mars 2017
 - [5 astuces pour vulgariser les sciences](https://youtu.be/FfsUUoRxtas) - FameLab, Mars 2017
+- MOOC IA (2020)
 
 # Conférences
 
@@ -196,7 +197,8 @@
 
 # Formations
 
-- L'écriture de vidéos de sciences, à destination de doctorants, Centre de Vulgarisation de la Connaissance de l'université Paris Saclay, Novembre 2018 / Mars 2019 (x2) / Avril 2019
+- L'écriture de vidéos de sciences, à destination de doctorants, Centre de Vulgarisation de la Connaissance de l'université Paris Saclay, Novembre 2018 / Mars 2019 (x2) / Avril, Novembre 2019
+- "Face à la caméra", à destination de chercheurs, à la Maison d'Initiation et de Sensibilisation aux Sciences (MISS) d'Orsay, Décembre 2019
 
 # Consultation scientifique
 
