@@ -48,6 +48,7 @@
 - [Le Soleil et nous](https://youtu.be/qgbPiKudNKs) - Novembre 2018 
 - [Le Système solaire](https://youtu.be/4cBg6vrimfI) - Janvier 2019
 - [Cryosphère et climat](https://youtu.be/4Uu51uBPRbA) - Février 2019
+- [Sur les pas d'Eratosthène](https://youtu.be/rSWcc61J-d0) - Décembre 2019
 
 ## Collabs et caméos
 
