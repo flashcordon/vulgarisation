@@ -26,6 +26,7 @@
 - [Méga-Terres et Mondes Superhabitables - Retour sur #leSOW 6](https://youtu.be/f0x0LDNyD9I) - Septembre 2019
 - [Aux Origines de la Matière](https://youtu.be/wbbGuex-mFI) - Novembre 2019
 - [Pourquoi pas plus d'épisodes ?](https://youtu.be/A7Oc8RslVB0) - Novembre 2019
+- [Documentaire - Le Mystère de l'Expansion des Tropiques](https://www.youtube.com/watch?v=zqMmRdsK5WM&feature=youtu.be) - Décembre 2019
 
 ## String Theory
 
