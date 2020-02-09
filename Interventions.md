@@ -105,6 +105,7 @@
 - Le voyage interstellaire, du rêve à la réalité - LuxIO, Novembre 2019
 - [Comprendre le ciel : des mythes à la science](http://www.granville-terre-mer.fr/actualites/comprendre-le-ciel-des-mythes-a-la-science-663.html) - Médiathèque de Granville, Novembre 2019
 - Big History : Théoriser l'évolution de la complexité dans l'univers - Exobiologie Jeunes Chercheurs, Novembre 2019
+- Le grand Récit de l'Univers - Play Azur Festival, Février 2020
 
 # Articles de blog
 
@@ -144,6 +145,7 @@
 - [Comment vulgariser la science sur YouTube ?](https://www.telerama.fr/sortir/comment-vulgariser-la-science-sur-youtube,n6484150.php) - Télérama (Octobre 2019)
 - [L'Incroyable Soleil (feat. Le Sense Of Wonder) - Les Rendez-Vous de l'Espace](https://youtu.be/H_cJyU9Rf2I) - Science et vie TV (Novembre 2019)
 - [Cephalus Live #2 avec Sébastien Carassou](https://youtu.be/ei19wwOLG0A) - Cephalus Live (Novembre 2019)
+- Cephalus Live Play Azur Festival, Février 2020
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
@@ -185,6 +187,7 @@
 - [L’astrophysique pour mieux comprendre le monde - Sébastien Carassou (1ère partie)](http://podcast.sismique.fr/episodes/27-1ere-partie-lastrophysique-pour-mieux-comprendre-le-monde) - Sismique (Juin 2019)
 - [L’astrophysique pour mieux comprendre le monde - Sébastien Carassou (2ème partie)](http://podcast.sismique.fr/episodes/27-2eme-partie-lastrophysique-pour-mieux-comprendre-le-monde)
 - [Sébastien Carassou dans les fils de la toile cosmique](https://www.grandlabo.com/sebastien-carassou-dans-les-fils-de-la-toile-cosmique/) - Poster (Juillet 2019)
+- Podcast Indéscience, Février 2020
 
 # Twitter
 
