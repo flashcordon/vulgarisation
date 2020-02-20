@@ -149,7 +149,7 @@
 - [Comment vulgariser la science sur YouTube ?](https://www.telerama.fr/sortir/comment-vulgariser-la-science-sur-youtube,n6484150.php) - Télérama (Octobre 2019)
 - [L'Incroyable Soleil (feat. Le Sense Of Wonder) - Les Rendez-Vous de l'Espace](https://youtu.be/H_cJyU9Rf2I) - Science et vie TV (Novembre 2019)
 - [Cephalus Live #2 avec Sébastien Carassou](https://youtu.be/ei19wwOLG0A) - Cephalus Live (Novembre 2019)
-- Cephalus Live Play Azur Festival, Février 2020
+- [#CEPHALUSLIVE au #PAF2020 avec Science du Comptoir, Seb #leSOW, Science4all, MrPhi, Robin Isnard](https://youtu.be/7rPpdvTPTZk), Février 2020
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
