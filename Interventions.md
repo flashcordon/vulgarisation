@@ -26,6 +26,7 @@
 - [Aux Origines de la Matière](https://youtu.be/wbbGuex-mFI) - Novembre 2019
 - [Pourquoi pas plus d'épisodes ?](https://youtu.be/A7Oc8RslVB0) - Novembre 2019
 - [Documentaire - Le Mystère de l'Expansion des Tropiques](https://www.youtube.com/watch?v=zqMmRdsK5WM&feature=youtu.be) - Décembre 2019
+- [Là où naissent les étoiles - Paysages Cosmiques #3](https://www.youtube.com/watch?v=3dVdcvMJDKU) - Mars 2020
 
 ## String Theory
 
