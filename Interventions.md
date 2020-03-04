@@ -112,6 +112,8 @@
 - [Comprendre le ciel : des mythes à la science](http://www.granville-terre-mer.fr/actualites/comprendre-le-ciel-des-mythes-a-la-science-663.html) - Médiathèque de Granville, Novembre 2019
 - Big History : Théoriser l'évolution de la complexité dans l'univers - Exobiologie Jeunes Chercheurs, Novembre 2019
 - Le grand Récit de l'Univers - Play Azur Festival, Février 2020
+- [Comprendre le ciel : des mythes à la science](https://www.lesmureaux.fr/Festival-Ciel-en-Seine/15066/) - Festival Ciel en Seine, Mars 2020
+- [Le grand Récit de l'Univers](https://kamo-con.fr/invites) - Kamo Con, Mars 2020
 
 # Articles de blog
 
