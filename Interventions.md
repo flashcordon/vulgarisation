@@ -80,7 +80,7 @@
 
 ## MOOC
 
-- [Objectif IA : Initiez-vous à l'intelligence artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle?status=waiting-for-publication) - Open Classrooms, 2020
+- [Objectif IA : Initiez-vous à l'intelligence artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle) - Open Classrooms, 2020
 
 ## Divers
 
