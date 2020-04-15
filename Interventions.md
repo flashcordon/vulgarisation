@@ -114,6 +114,7 @@
 - Le grand Récit de l'Univers - Play Azur Festival, Février 2020
 - [Comprendre le ciel : des mythes à la science](https://www.lesmureaux.fr/Festival-Ciel-en-Seine/15066/) - Festival Ciel en Seine, Mars 2020
 - [Le grand Récit de l'Univers](https://kamo-con.fr/invites) - Kamo Con, Mars 2020
+- Comprendre le ciel : des mythes à la science - Clever Age, Avril 2020
 
 # Articles de blog
 
