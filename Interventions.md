@@ -108,7 +108,7 @@
 - [Big History : une brève histoire de l'univers, de la vie, et de nous](https://www.alcor.asso.u-psud.fr/event/conference-de-sebastien-carassou-la-big-story/) - ALCOR, Octobre 2019
 - [L'Histoire de l'univers](https://union-des-savoirs.fr/event/lhistoire-de-lunivers/) - Union des Savoirs, Octobre 2019
 - L'histoire de l'univers - Lycée Jacques Amyot, Novembre 2019
-- Le voyage interstellaire, du rêve à la réalité - LuxIO, Novembre 2019
+- [Le voyage interstellaire, du rêve à la réalité](https://www.youtube.com/watch?v=sE29SbNLg7o&feature=youtu.be) - LuxIO, Novembre 2019
 - [Comprendre le ciel : des mythes à la science](http://www.granville-terre-mer.fr/actualites/comprendre-le-ciel-des-mythes-a-la-science-663.html) - Médiathèque de Granville, Novembre 2019
 - Big History : Théoriser l'évolution de la complexité dans l'univers - Exobiologie Jeunes Chercheurs, Novembre 2019
 - Le grand Récit de l'Univers - Play Azur Festival, Février 2020
