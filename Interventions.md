@@ -88,7 +88,8 @@
 - [La vulgarisation scientifique sur Internet - 17h - La 6ème #NuitOriginale](https://youtu.be/fATge4JpG5A?list=WL) - Mai 2016
 - [Pourquoi communiquer les sciences? Sébastien Carassou, parrain de FameLab France 2017 nous explique](https://youtu.be/d67U2hz-tdk) - FameLab, Mars 2017
 - [5 astuces pour vulgariser les sciences](https://youtu.be/FfsUUoRxtas) - FameLab, Mars 2017
-- [La vie sur Mars ? De Lowell à Levin](https://www.youtube.com/watch?v=-IA4Dqvodok&feature=emb_logo) - Yuri's night, Avril 2020
+- [La vie sur Mars ? De Lowell à Levin](https://www.youtube.com/watch?v=-IA4Dqvodok&feature=emb_logo) - Yuri's night, Twitch du café des sciences, Avril 2020
+- [Emerveillement et beauté des sciences](https://www.twitch.tv/videos/597320659) - Twitch du Café des science, Avril 2020
 
 # Conférences
 
@@ -154,7 +155,7 @@
 - [Comment vulgariser la science sur YouTube ?](https://www.telerama.fr/sortir/comment-vulgariser-la-science-sur-youtube,n6484150.php) - Télérama (Octobre 2019)
 - [L'Incroyable Soleil (feat. Le Sense Of Wonder) - Les Rendez-Vous de l'Espace](https://youtu.be/H_cJyU9Rf2I) - Science et vie TV (Novembre 2019)
 - [Cephalus Live #2 avec Sébastien Carassou](https://youtu.be/ei19wwOLG0A) - Cephalus Live (Novembre 2019)
-- [#CEPHALUSLIVE au #PAF2020 avec Science du Comptoir, Seb #leSOW, Science4all, MrPhi, Robin Isnard](https://youtu.be/7rPpdvTPTZk), Février 2020
+- [#CEPHALUSLIVE au #PAF2020 avec Science du Comptoir, Seb #leSOW, Science4all, MrPhi, Robin Isnard](https://youtu.be/7rPpdvTPTZk), Twitch du collectif Conscience, Février 2020
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
