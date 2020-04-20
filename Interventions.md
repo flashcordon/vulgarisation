@@ -228,6 +228,7 @@
 - [Où et comment naissent les étoiles ?](https://youtu.be/fou_v4TL9MI) - Balade Mentale, Août 2019
 - [Comment s'est formé notre système solaire ?](https://youtu.be/wPZvWBr9FMc) - Balade Mentale, Septembre 2019
 - [Les FUTURS LOINTAINS, un voyage en direction de l'éternité](https://www.youtube.com/watch?v=yd3tQFt2QUY&list=PL2DG92SmasJaM670t3Z2RJWS6imWdSwxZ&index=16) - Balade Mentale, Février 2020
+- [Pourquoi la Terre est ronde ?](https://youtu.be/V6y0hk4eZU0) - Robin Isnard, Avril 2020
 
 # Jury de concours
 
