@@ -82,14 +82,18 @@
 
 - [Objectif IA : Initiez-vous à l'intelligence artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle) - Open Classrooms, 2020
 
+## Lives Twitch
+- [La vie sur Mars ? De Lowell à Levin](https://www.youtube.com/watch?v=-IA4Dqvodok&feature=emb_logo) - Yuri's night, Twitch du café des sciences, Avril 2020
+- [Salon de Thé, épisode 2 - Ré-enchanter la science avec Sébastien Carassou (Le Sense of Wonder)](https://www.twitch.tv/videos/597320659) - Twitch du Café des science, Avril 2020
+- [Astronomer@Home Invité : Sébastien Carassou "L'évolution des galaxies"](https://www.twitch.tv/videos/599223077) - Planétarium de Vaulx en Velin, Avril 2020
+
+
 ## Divers
 
 - [SEBASTIEN CARASSOU - OOA](https://youtu.be/_liHAQmkyy8) - Juin 2014
 - [La vulgarisation scientifique sur Internet - 17h - La 6ème #NuitOriginale](https://youtu.be/fATge4JpG5A?list=WL) - Mai 2016
 - [Pourquoi communiquer les sciences? Sébastien Carassou, parrain de FameLab France 2017 nous explique](https://youtu.be/d67U2hz-tdk) - FameLab, Mars 2017
 - [5 astuces pour vulgariser les sciences](https://youtu.be/FfsUUoRxtas) - FameLab, Mars 2017
-- [La vie sur Mars ? De Lowell à Levin](https://www.youtube.com/watch?v=-IA4Dqvodok&feature=emb_logo) - Yuri's night, Twitch du café des sciences, Avril 2020
-- [Salon de Thé, épisode 2 - Ré-enchanter la science avec Sébastien Carassou (Le Sense of Wonder)](https://www.twitch.tv/videos/597320659) - Twitch du Café des science, Avril 2020
 
 # Conférences
 
