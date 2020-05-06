@@ -95,6 +95,7 @@
 - [La vulgarisation scientifique sur Internet - 17h - La 6ème #NuitOriginale](https://youtu.be/fATge4JpG5A?list=WL) - Mai 2016
 - [Pourquoi communiquer les sciences? Sébastien Carassou, parrain de FameLab France 2017 nous explique](https://youtu.be/d67U2hz-tdk) - FameLab, Mars 2017
 - [5 astuces pour vulgariser les sciences](https://youtu.be/FfsUUoRxtas) - FameLab, Mars 2017
+- [COMMENT DEVENIR ASTROPHYSICIEN ? ft. Sébastien Carassou](https://youtu.be/HAmxBo3n-4M?list=WL) - Passion Astronomie, Mai 2020
 
 # Conférences
 
