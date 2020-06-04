@@ -44,3 +44,7 @@
 
 - [Le guide du vulgarisateur galactique](https://collectifconscience.org/le-vulgarisateur-galactique/)
 > Le guide parfait si vous voulez diffuser les sciences autour de vous mais que vous ne savez pas par où commencer. 
+
+# Des recommandations de vidéastes culturels de qualité
+
+- [Une liste personnelle de recommandation de chaînes Youtube de vulgarisation en français](https://www.sebastiencarassou.com/chaines-youtube)
