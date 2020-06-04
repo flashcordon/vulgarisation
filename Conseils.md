@@ -1,6 +1,6 @@
 # Quelques ressources pour bien débuter dans la vidéo de vulgarisation
 
-# Quelques chaînes Youtube utiles po
+# Quelques chaînes Youtube utiles pour vidéastes débutants
 
 - [Scilabus Plus](https://www.youtube.com/channel/UCaZRpfXzlHVchIJMpf-PVFw/videos)
 > Toutes les coulisses des chaînes Youtube culturelles, par Vivianne de la chaîne [Scilabus](https://www.youtube.com/user/scilabus), avec d'excellents conseils pour débuter
@@ -9,7 +9,7 @@
 - [Tout sur comment je fais mes vidéos](https://sciencetonnante.wordpress.com/2016/11/30/tout-sur-comment-je-fais-mes-videos/)
 > Des conseils détaillés de David Louapre, de la chaîne [Science Etonnante](https://www.youtube.com/scienceetonnante)
 
-# Quelques ressources techniques utiles à la création de vidéos
+# Quelques ressources techniques et outils web utiles à la création de vidéos
 
 - [Kdenlive](https://kdenlive.org/fr/)
 > Un logiciel de montage vidéo gratuit
