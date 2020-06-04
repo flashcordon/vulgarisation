@@ -13,6 +13,8 @@
 
 - [Kdenlive](https://kdenlive.org/fr/)
 > Un logiciel de montage vidéo gratuit
+- [Gimp](https://www.gimp.org/downloads/)
+> Un logiciel gratuit de montage photo
 - [Audacity](https://audacity.fr/)
 > Un logiciel gratuit d'enregistrement de son
 - [Videvo](https://www.videvo.net/)
