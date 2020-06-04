@@ -32,3 +32,8 @@
 > Paris Musées met à disposition gratuitement et sans restriction d'usage plus de 150 000 reproductions numériques des œuvres des collections des musées de la ville. 
 - [Flaticon](https://www.flaticon.com/)
 > La plus vaste connexion d'images et d'icones vectorisées
+
+# Quelques ressources pour bien vulgariser
+
+- [Le guide du vulgarisateur galactique](https://collectifconscience.org/le-vulgarisateur-galactique/)
+> Le guide parfait si vous voulez diffuser les sciences autour de vous mais que vous ne savez pas par où commencer. 
