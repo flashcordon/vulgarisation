@@ -3,11 +3,11 @@
 # Quelques chaînes Youtube utiles po
 
 - [Scilabus Plus](https://www.youtube.com/channel/UCaZRpfXzlHVchIJMpf-PVFw/videos)
-> Toutes les coulisses des chaînes Youtube culturelles, par Vivianne de la chaîne Scilabus, avec d'excellents conseils pour débuter
+> Toutes les coulisses des chaînes Youtube culturelles, par Vivianne de la chaîne [Scilabus](https://www.youtube.com/user/scilabus), avec d'excellents conseils pour débuter
 - [Rouge Vert Bleu](https://www.youtube.com/channel/UCrEIilIgRtGlYlbR0QLHb5g/videos)
 > Des tutoriels pour gérer toutes les phases de la production d'une vidéo, du tournage à la post-production
 - [Tout sur comment je fais mes vidéos](https://sciencetonnante.wordpress.com/2016/11/30/tout-sur-comment-je-fais-mes-videos/)
-> Des conseils détaillés de David Louapre, de la chaîne Science Etonnante
+> Des conseils détaillés de David Louapre, de la chaîne [Science Etonnante](https://www.youtube.com/scienceetonnante)
 
 # Quelques ressources techniques utiles à la création de vidéos
 
