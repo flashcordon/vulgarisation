@@ -13,8 +13,12 @@
 
 - [Kdenlive](https://kdenlive.org/fr/)
 > Un logiciel de montage vidéo gratuit
+- [Da Vinci Resolve](https://www.blackmagicdesign.com/fr/products/davinciresolve)
+> Logiciel de montage, d'étalonnage et de trucage gratuit
 - [Gimp](https://www.gimp.org/downloads/)
 > Un logiciel gratuit de montage photo
+- [Krita](https://krita.org/en/item/krita-4-3-0-released/)
+> Un logiciel gratuit et open source de peinture numérique
 - [Audacity](https://audacity.fr/)
 > Un logiciel gratuit d'enregistrement de son
 - [Videvo](https://www.videvo.net/)
