@@ -80,6 +80,7 @@
 - [Sommes-nous tous complotistes ? (ft. le Sense of Wonder) #LesDécodeurs](https://youtu.be/x1ha2ETSSH0) - Le Monde (Juillet 2019)
 - [Portrait - Carl Sagan (feat. Sébastien Carassou) - Le Point Genius](https://youtu.be/b7EQAor09eQ) - Le Point Genius (Novembre 2019)
 - [Comment survivre aux radiations quand on est un ordinateur spatial ? – #QG7](https://youtu.be/7mp8atJXEi4) - Qu'est-ce que tu Geekes (Mars 2020)
+- [TSC#28 - Les extraterrestres existent-ils ? (Sébastien Carassou)](https://www.twitch.tv/videos/611416480) - Tout se Comprend (Avril 2020)
 
 ## MOOC
 
