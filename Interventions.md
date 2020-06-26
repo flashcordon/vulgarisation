@@ -165,6 +165,8 @@
 - [L'Incroyable Soleil (feat. Le Sense Of Wonder) - Les Rendez-Vous de l'Espace](https://youtu.be/H_cJyU9Rf2I) - Science et vie TV (Novembre 2019)
 - [Cephalus Live #2 avec Sébastien Carassou](https://youtu.be/ei19wwOLG0A) - Cephalus Live (Novembre 2019)
 - [#CEPHALUSLIVE au #PAF2020 avec Science du Comptoir, Seb #leSOW, Science4all, MrPhi, Robin Isnard](https://youtu.be/7rPpdvTPTZk), Twitch du collectif Conscience, Février 2020
+- [Ré-enchanter la science, ft. Sébastien Carassou du Sense of Wonder (Salon de Thé #2)](https://youtu.be/_T7ajDyd2uA) - Avril 2020
+- [Comment la science alimente la fiction (et l'inverse) ? feat. Le Sense of Wonder - Stream Science #9](https://youtu.be/WsTpO4ds-j4) - Juin 2020
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
