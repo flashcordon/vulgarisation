@@ -27,6 +27,9 @@
 - [Pourquoi pas plus d'épisodes ?](https://youtu.be/A7Oc8RslVB0) - Novembre 2019
 - [Documentaire - Le Mystère de l'Expansion des Tropiques](https://www.youtube.com/watch?v=zqMmRdsK5WM&feature=youtu.be) - Décembre 2019
 - [Là où naissent les étoiles - Paysages Cosmiques #3](https://www.youtube.com/watch?v=3dVdcvMJDKU) - Mars 2020
+- [La fusée lunaire d’Hergé – Scientifiction #2](https://youtu.be/98hnR0q-jrQ) - Mai 2020
+- [L’ascenseur spatial d’Arthur C. Clarke - Scientifiction #3](https://youtu.be/PndYfuGtCBY) - Juin 2020
+- [LIVE - Du Big Bang aux Big Bands : Astronomie, Musique, Cinéma](https://youtu.be/PMAzr7cELxs) - Juin 2020
 
 ## String Theory
 
