@@ -30,6 +30,7 @@
 - [La fusée lunaire d’Hergé – Scientifiction #2](https://youtu.be/98hnR0q-jrQ) - Mai 2020
 - [L’ascenseur spatial d’Arthur C. Clarke - Scientifiction #3](https://youtu.be/PndYfuGtCBY) - Juin 2020
 - [LIVE - Du Big Bang aux Big Bands : Astronomie, Musique, Cinéma](https://youtu.be/PMAzr7cELxs) - Juin 2020
+- [LIVE - Du Big Bang aux Big Bands (suite et fin)](https://youtu.be/fG-UOASSon4) - Juillet 2020
 
 ## String Theory
 
