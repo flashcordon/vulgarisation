@@ -24,8 +24,8 @@
 - Il y a essentiellement 4 types de projecteurs : les projecteurs LED, Tungsten, HMI et Fluo
 - ***Projecteurs LED :*** très légers, basse consommation électrique, ne chauffent pas, peut changer la température de couleur
 - ***Projecteurs Tungsten (mandarines) :*** lourds, forte consommation électrique, chauds, température de couleur fixe, technologie dépassée
-- ***Projecteurs HMI (projo de cinéma) :*** on l'utilise pour simuler la lumière du Soleil (5600K). Très lourds, très chauds, très puissants, température de couleur fixe
-- ***Projecteurs Fluo (néons, ancêtres directs de la LED), aussi appelés kinoflo à tubes :*** légers, faible conso électrique, ne chauffe pas beaucoup, température de couleur variable, peu puissants, teinte verte légère
+- ***Projecteurs HMI (projecteurs de cinéma) :*** on les utilise pour simuler la lumière du Soleil (5600K). Très lourds, très chauds, très puissants, température de couleur fixe
+- ***Projecteurs Fluo (néons, ancêtres directs de la LED), aussi appelés Kino Flo à tubes :*** légers, faible consommation électrique, ne chauffe pas beaucoup, température de couleur variable, peu puissants, légère teinte verte
 
 La lumière provenant d'un projecteur peut être diffuse ou ponctuelle, ce qui influe en particulier sur les ombres portées.
 
