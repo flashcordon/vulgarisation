@@ -35,25 +35,21 @@ La lumière provenant d'un projecteur peut être diffuse ou ponctuelle, ce qui i
 Avec une lumière ponctuelle, on a un gros contraste et des ombres très marquées.
 Avec une lumière diffuse, on a une ombre moins marquée.
 
-L'éclairage 3 points 
-Technique de base qui marche toujours
-Il consiste en 3 projecteurs placés en triangle (gauche, droite, derrière) : un key (lumière principale qui éclaire le sujet), un fill (lumière plus diffuse qui atténue l'ombre créée par le key), et un contre (permet de détacher le personnage du fond).
+### L'éclairage 3 points 
+- C'est une technique de base qui marche toujours
+- Elle consiste en 3 projecteurs placés en triangle (gauche, droite, derrière) : un ***key*** (lumière principale qui éclaire le sujet), un ***fill*** (lumière plus diffuse qui atténue l'ombre créée par le key), et un ***contre*** (permet de détacher le personnage du fond).
 
-on peut rendre une lumière diffuse avec une "feuille de diff" ou une softbox
-
-Le key doit être le plus puissant
-le key doit être diffus
-attention à l'ombre portée du nez, c'est un bon indicatif pour la diffusion du key
-Le contre doit être ponctuel
-le contre foit être un peu plus puissant que le key
-le fill doit être utilisé avec parcimonie. il doit être à peu près 2x moins puissant que le key
-Le fill doit être très diffus (il doit pas produire d'ombre)
+> * Le key doit être le plus puissant et doit être diffus (attention à l'ombre portée du nez, c'est un bon indicateur pour la diffusion du key)
+> * Le contre doit être ponctuel et un peu plus puissant que le key
+> * Le fill doit être à peu près 2x moins puissant que le key et doit être très diffus (il ne doit pas produire d'ombre)
 
 Key : puissance 3/5 diffus
 Fill : puissance 1/5 très diffus
 Contre : puissance 5/5 ponctuel
 
 lorsqu'on s'éclaire avec un néon, c'est une lumière pulsée, et c'est visible par la caméra. Dans ce cas, il faut synchroniser la vitesse d'obturation de la caméra avec la fréquence du néon. 
+
+on peut rendre une lumière diffuse avec une "feuille de diff" ou une softbox
 
 on aime bien mettre le contre sur le haut, pour reproduire l'effet naturel du Soleil
 Dans la vie de tous les jours on n'est jamais éclairé par le bas. C'est d'ailleurs pour ça que les films d'horreur utilisent des éclairages par le bas !
