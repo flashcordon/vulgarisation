@@ -45,9 +45,7 @@ Avec une lumière diffuse, on a une ombre moins marquée.
 
 Key : puissance 3/5 diffus
 Fill : puissance 1/5 très diffus
-Contre : puissance 5/5 ponctuel
-
-lorsqu'on s'éclaire avec un néon, c'est une lumière pulsée, et c'est visible par la caméra. Dans ce cas, il faut synchroniser la vitesse d'obturation de la caméra avec la fréquence du néon. 
+Contre : puissance 5/5 ponctuel 
 
 on peut rendre une lumière diffuse avec une "feuille de diff" ou une softbox
 
@@ -69,7 +67,9 @@ Il y a un projecteur à effet au Youtube Space (Arri Skypanel à 5900€) : on p
 key et fill ont la même température de couleur
 et on aime bien que le contre ait une lumière plus froide, plus bleue
 
-les lunettes sont des miroirs. Il faut donc jouer sur les réflexions pour ne pas avoir le projo dans les lunettes. Pour remédier à ce problème, on excentre le projo par rapport à la caméra, et en particulier, on le monte à 2m-2m20 du sol. Mais en pratique c'est du bricolage.
+### Conseils d'experts
+- ***Lunettes*** : les lunettes sont des miroirs. Ils vont donc réfléchir les projecteurs qui sont braqués dessus. Pour ne pas avoir le reflet des projecteurs dans les lunettes, on excentre le projo par rapport à la caméra, et en particulier, on le monte à 2m-2m20 du sol. Mais en pratique c'est du bricolage et on s'adapte à la situation.
+- ***Néon*** : un néon, c'est une lumière pulsée, et cette pulsation est visible par la caméra. Pour remédier à ce problème, il faut synchroniser la vitesse d'obturation de la caméra avec la fréquence du néon.
 
 La couleur donne une intention, une émotion à la vidéo
 
