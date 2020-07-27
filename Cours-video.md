@@ -13,19 +13,19 @@
 - Chaque projecteur a sa propre température de couleur. Sur certains, on peut la modifier électroniquement. On peut aussi appliquer des filtres (des gélatines) qui vont modifier la température de couleur.
 
 - Balance des blancs :
-- 3200 K : température Tungsten
-- 5600 K : température du Soleil
+> * 3200 Kelvin : température Tungsten
+> * 5600 Kelvin : température du Soleil
 
-- Si vous réglez la balance des blancs sur 5600K sur votre caméra, la peau apparaîtra en général plus orangée. Si vous réglez la balance des blancs sur 3200K, la peau apparaîtra en général plus bleue.
+- Si vous réglez la balance des blancs de votre caméra sur 5600K, la peau apparaîtra en général plus orangée. Si vous réglez la balance des blancs sur 3200K, la peau apparaîtra en général plus bleue.
 - Vous pouvez aussi avoir un mélange des 2 en réglant la balance des blancs sur 4400K.
 
 ### Projecteurs
 
 - Il y a essentiellement 4 types de projecteurs : les projecteurs LED, Tungsten, HMI et Fluo
-- Projecteurs LED : très légers, basse consommation électrique, ne chauffent pas, peut changer la température de couleur
-- Projecteurs Tungsten (mandarines) : lourds, forte consommation électrique, chauds, température de couleur fixe, technologie dépassée
-- Projecteurs HMI (projo de cinéma): o l'utilise pour simuler la lumière du Soleil (5600K). Très lourds, très chauds, très puissants, température de couleur fixe
-- Projecteurs Fluo (néons, ancêtres directs de la LED), aussi appelés kinoflo à tubes : légers, faible conso électrique, ne chauffe pas beaucoup, température de couleur variable, peu puissants, teinte verte légère
+- ***Projecteurs LED :*** très légers, basse consommation électrique, ne chauffent pas, peut changer la température de couleur
+- ***Projecteurs Tungsten (mandarines) :*** lourds, forte consommation électrique, chauds, température de couleur fixe, technologie dépassée
+- ***Projecteurs HMI (projo de cinéma) :*** on l'utilise pour simuler la lumière du Soleil (5600K). Très lourds, très chauds, très puissants, température de couleur fixe
+- ***Projecteurs Fluo (néons, ancêtres directs de la LED), aussi appelés kinoflo à tubes :*** légers, faible conso électrique, ne chauffe pas beaucoup, température de couleur variable, peu puissants, teinte verte légère
 
 La lumière provenant d'un projecteur peut être diffuse ou ponctuelle, ce qui influe en particulier sur les ombres portées.
 
