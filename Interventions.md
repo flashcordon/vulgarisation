@@ -31,6 +31,7 @@
 - [L’ascenseur spatial d’Arthur C. Clarke - Scientifiction #3](https://youtu.be/PndYfuGtCBY) - Juin 2020
 - [LIVE - Du Big Bang aux Big Bands : Astronomie, Musique, Cinéma](https://youtu.be/PMAzr7cELxs) - Juin 2020
 - [LIVE - Du Big Bang aux Big Bands (suite et fin)](https://youtu.be/fG-UOASSon4) - Juillet 2020
+- [Détecter des Civilisations Extraterrestres – Scientifiction #4](https://youtu.be/G88pConTmc8) - Juillet 2020
 
 ## String Theory
 
