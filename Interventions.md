@@ -83,6 +83,7 @@
 - [Portrait - Carl Sagan (feat. Sébastien Carassou) - Le Point Genius](https://youtu.be/b7EQAor09eQ) - Le Point Genius (Novembre 2019)
 - [Comment survivre aux radiations quand on est un ordinateur spatial ? – #QG7](https://youtu.be/7mp8atJXEi4) - Qu'est-ce que tu Geekes (Mars 2020)
 - [TSC#28 - Les extraterrestres existent-ils ? (Sébastien Carassou)](https://www.twitch.tv/videos/611416480) - Tout se Comprend (Avril 2020)
+- [Les climats du passé - CARBONE#3 (ft. Sébastien Carassou)](https://www.youtube.com/watch?v=NRdaPrMNrkI&feature=emb_logo) - Le Réveilleur (Août 2020)
 
 ## MOOC
 
