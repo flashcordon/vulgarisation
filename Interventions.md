@@ -130,6 +130,7 @@
 - [Comprendre le ciel : des mythes à la science](https://www.lesmureaux.fr/Festival-Ciel-en-Seine/15066/) - Festival Ciel en Seine, Mars 2020
 - [Le grand Récit de l'Univers](https://kamo-con.fr/invites) - Kamo Con, Mars 2020
 - Comprendre le ciel : des mythes à la science - Clever Age, Avril 2020
+- Les odeurs du cosmos - Cité des sciences, Septembre 2020
 
 # Articles de blog
 
@@ -246,6 +247,7 @@
 - [Comment s'est formé notre système solaire ?](https://youtu.be/wPZvWBr9FMc) - Balade Mentale, Septembre 2019
 - [Les FUTURS LOINTAINS, un voyage en direction de l'éternité](https://www.youtube.com/watch?v=yd3tQFt2QUY&list=PL2DG92SmasJaM670t3Z2RJWS6imWdSwxZ&index=16) - Balade Mentale, Février 2020
 - [Pourquoi la Terre est ronde ?](https://youtu.be/V6y0hk4eZU0) - Robin Isnard, Avril 2020
+- XXX (2020)
 
 # Jury de concours
 
