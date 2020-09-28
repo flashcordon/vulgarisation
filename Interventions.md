@@ -85,6 +85,7 @@
 - [Comment survivre aux radiations quand on est un ordinateur spatial ? – #QG7](https://youtu.be/7mp8atJXEi4) - Qu'est-ce que tu Geekes (Mars 2020)
 - [TSC#28 - Les extraterrestres existent-ils ? (Sébastien Carassou)](https://www.twitch.tv/videos/611416480) - Tout se Comprend (Avril 2020)
 - [Les climats du passé - CARBONE#3 (ft. Sébastien Carassou)](https://www.youtube.com/watch?v=NRdaPrMNrkI&feature=emb_logo) - Le Réveilleur (Août 2020)
+- La planète la plus proche de la Terre n'est pas celle que vous croyez - Fête de la science (Septembre 2020)
 
 ## MOOC
 
@@ -96,6 +97,9 @@
 - [Astronomer@Home Invité : Sébastien Carassou "L'évolution des galaxies"](https://www.twitch.tv/videos/599223077) - Planétarium de Vaulx en Velin, Avril 2020
 - [TSC#28 - Les extraterrestres existent-ils ? (Sébastien Carassou)](https://www.twitch.tv/videos/611416480) - Tout Se Comprend, Mai 2020
 
+## Séries TV
+
+- GeoCargo, Science&Vie TV (tournage du pilote en Septembre 2020)
 
 ## Divers
 
