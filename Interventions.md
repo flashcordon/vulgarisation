@@ -108,6 +108,7 @@
 - [Pourquoi communiquer les sciences? Sébastien Carassou, parrain de FameLab France 2017 nous explique](https://youtu.be/d67U2hz-tdk) - FameLab, Mars 2017
 - [5 astuces pour vulgariser les sciences](https://youtu.be/FfsUUoRxtas) - FameLab, Mars 2017
 - [COMMENT DEVENIR ASTROPHYSICIEN ? ft. Sébastien Carassou](https://youtu.be/HAmxBo3n-4M?list=WL) - Passion Astronomie, Mai 2020
+- [360 degrés avec Le Sense Of Wonder](https://www.youtube.com/watch?v=rgtpH9Kakxo) - Fête de la science Sorbonne Université, Octobre 2020
 
 # Conférences
 
@@ -135,6 +136,8 @@
 - [Le grand Récit de l'Univers](https://kamo-con.fr/invites) - Kamo Con, Mars 2020
 - Comprendre le ciel : des mythes à la science - Clever Age, Avril 2020
 - Les odeurs du cosmos - Cité des sciences, Septembre 2020
+- SAV du cosmos #1 et #2 - Cité des sciences, Fête de la Science, Octobre 2020
+- Le Grand Récit : l'Humanité dans son contexte cosmique - Bibliothèque universitaire du Creusot, Octobre 2020
 
 # Articles de blog
 
