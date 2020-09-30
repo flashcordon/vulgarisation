@@ -180,6 +180,7 @@
 - [#CEPHALUSLIVE au #PAF2020 avec Science du Comptoir, Seb #leSOW, Science4all, MrPhi, Robin Isnard](https://youtu.be/7rPpdvTPTZk), Twitch du collectif Conscience, Février 2020
 - [Ré-enchanter la science, ft. Sébastien Carassou du Sense of Wonder (Salon de Thé #2)](https://youtu.be/_T7ajDyd2uA) - Avril 2020
 - [Comment la science alimente la fiction (et l'inverse) ? feat. Le Sense of Wonder - Stream Science #9](https://youtu.be/WsTpO4ds-j4) - Juin 2020
+- [La science à portée de tous avec l’astrophysicien Youtubeur Sébastien Carassou](https://www.letelegramme.fr/finistere/morlaix/la-science-a-portee-de-tout-avec-l-astrophysicien-youtubeur-sebastien-carassou-27-09-2020-12626381.php) - Le Télégramme, Septembre 2020
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
