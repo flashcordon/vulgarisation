@@ -85,7 +85,7 @@
 - [Comment survivre aux radiations quand on est un ordinateur spatial ? – #QG7](https://youtu.be/7mp8atJXEi4) - Qu'est-ce que tu Geekes (Mars 2020)
 - [TSC#28 - Les extraterrestres existent-ils ? (Sébastien Carassou)](https://www.twitch.tv/videos/611416480) - Tout se Comprend (Avril 2020)
 - [Les climats du passé - CARBONE#3 (ft. Sébastien Carassou)](https://www.youtube.com/watch?v=NRdaPrMNrkI&feature=emb_logo) - Le Réveilleur (Août 2020)
-- [La planète la plus proche n'est pas celle que vous croyez](https://www.youtube.com/watch?v=b8ID0xg7e4I&feature=youtu.be) - Fête de la science (Septembre 2020)
+- [La planète la plus proche n'est pas celle que vous croyez](https://youtu.be/Y2G4rENZg1s?t=290) - Fête de la science (Septembre 2020)
 
 ## MOOC
 
