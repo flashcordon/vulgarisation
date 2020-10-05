@@ -136,7 +136,7 @@
 - [Le grand Récit de l'Univers](https://kamo-con.fr/invites) - Kamo Con, Mars 2020
 - Comprendre le ciel : des mythes à la science - Clever Age, Avril 2020
 - Les odeurs du cosmos - Cité des sciences, Septembre 2020
-- SAV du cosmos #1 et #2 - Cité des sciences, Fête de la Science, Octobre 2020
+- SAV du cosmos [#1](https://youtu.be/WyeY5NEpBO4?t=16372) et #2 - Cité des sciences, Fête de la Science, Octobre 2020
 - Le Grand Récit : l'Humanité dans son contexte cosmique - Bibliothèque universitaire du Creusot, Octobre 2020
 
 # Articles de blog
