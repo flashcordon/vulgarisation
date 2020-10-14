@@ -266,3 +266,4 @@
 - Concours "Ramène ta science" à Auxerres - Mai 2019
 - [Concours Science en court(s) à Rennes](http://sciences-en-courts.fr/) - Octobre 2019
 - Concours Schools Challenge - Mars 2020
+- Younivers, Octobre 2020
