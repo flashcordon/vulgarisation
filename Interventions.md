@@ -135,9 +135,10 @@
 - [Comprendre le ciel : des mythes à la science](https://www.lesmureaux.fr/Festival-Ciel-en-Seine/15066/) - Festival Ciel en Seine, Mars 2020
 - [Le grand Récit de l'Univers](https://kamo-con.fr/invites) - Kamo Con, Mars 2020
 - Comprendre le ciel : des mythes à la science - Clever Age, Avril 2020
-- Les odeurs du cosmos - Cité des sciences, Septembre 2020
+- [Les odeurs du cosmos](https://www.youtube.com/watch?v=NuE2E0rFygo) - Cité des sciences, Septembre 2020
 - SAV du cosmos [#1](https://youtu.be/qIfBmDN5vkc) et [#2](https://youtu.be/03LxmhLbZtY?list=WL) - Cité des sciences, Fête de la Science, Octobre 2020
 - Le Grand Récit : l'Humanité dans son contexte cosmique - Bibliothèque universitaire du Creusot, Octobre 2020
+- Le Grand Récit : l'Humanité dans son contexte cosmique - Frames Festival, Octobre 2020
 
 # Articles de blog
 
