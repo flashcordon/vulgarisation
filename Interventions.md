@@ -96,7 +96,7 @@
 - [Salon de Thé, épisode 2 - Ré-enchanter la science avec Sébastien Carassou (Le Sense of Wonder)](https://www.twitch.tv/videos/597320659) - Twitch du Café des science, Avril 2020
 - [Astronomer@Home Invité : Sébastien Carassou "L'évolution des galaxies"](https://www.youtube.com/watch?v=rpMzMbxiVe0&feature=emb_title) - Planétarium de Vaulx en Velin, Avril 2020
 - [TSC#28 - Les extraterrestres existent-ils ? (Sébastien Carassou)](https://www.twitch.tv/videos/611416480) - Tout Se Comprend, Mai 2020
-- Géocargo, feat Seb Carassou - Léa Bello, Octobre 2020
+- [#Géocargo - Live avec Seb Carassou (Le Sense of Wonder)](https://youtu.be/_sdj0zRhTIE) - Léa Bello, Octobre 2020
 
 ## Séries TV
 
