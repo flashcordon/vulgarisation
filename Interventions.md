@@ -182,6 +182,7 @@
 - [Ré-enchanter la science, ft. Sébastien Carassou du Sense of Wonder (Salon de Thé #2)](https://youtu.be/_T7ajDyd2uA) - Avril 2020
 - [Comment la science alimente la fiction (et l'inverse) ? feat. Le Sense of Wonder - Stream Science #9](https://youtu.be/WsTpO4ds-j4) - Juin 2020
 - [La science à portée de tous avec l’astrophysicien Youtubeur Sébastien Carassou](https://www.letelegramme.fr/finistere/morlaix/la-science-a-portee-de-tout-avec-l-astrophysicien-youtubeur-sebastien-carassou-27-09-2020-12626381.php) - Le Télégramme, Septembre 2020
+- [Le choix de Sense of Wonder: les Green Brothers](https://i.imgur.com/U5y8bpj.jpg) - Phosphore, Octobre 2020
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
@@ -266,4 +267,4 @@
 - Concours "Ramène ta science" à Auxerres - Mai 2019
 - [Concours Science en court(s) à Rennes](http://sciences-en-courts.fr/) - Octobre 2019
 - Concours Schools Challenge - Mars 2020
-- Younivers, Octobre 2020
+- [Younivers : la chaîne des astro-ados](https://saf-astronomie.fr/younivers-la-chaine-des-astro-ados/) - Octobre 2020
