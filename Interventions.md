@@ -33,6 +33,7 @@
 - [LIVE - Du Big Bang aux Big Bands (suite et fin)](https://youtu.be/fG-UOASSon4) - Juillet 2020
 - [Détecter des Civilisations Extraterrestres – Scientifiction #4](https://youtu.be/G88pConTmc8) - Juillet 2020
 - [Le Premier Contact – Scientifiction #5](https://www.youtube.com/watch?v=amck8SruIKg) - Septembre 2020
+- [Poussée des Fusées et Trajectoires Lunaires - Retour sur Scientifiction #2](https://youtu.be/RzlPat9MILs) - Novembre 2020
 
 ## String Theory
 
