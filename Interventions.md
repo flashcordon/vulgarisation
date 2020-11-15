@@ -141,7 +141,7 @@
 - [Les odeurs du cosmos](https://www.youtube.com/watch?v=NuE2E0rFygo) - Cité des sciences, Septembre 2020
 - SAV du cosmos [#1](https://youtu.be/qIfBmDN5vkc) et [#2](https://youtu.be/03LxmhLbZtY?list=WL) - Cité des sciences, Fête de la Science, Octobre 2020
 - Le Grand Récit : l'Humanité dans son contexte cosmique - Bibliothèque universitaire du Creusot, Octobre 2020
-- [Le Grand Récit : l'Humanité dans son contexte cosmique](https://youtu.be/32HaQuVYyMQ?list=WL) - Frames Festival, Octobre 2020
+- [L'Histoire de l'Univers](https://youtu.be/gbQa1A96jAE?list=WL) - Frames Festival, Octobre 2020
 
 # Articles de blog
 
