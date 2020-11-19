@@ -89,6 +89,7 @@
 - [Les climats du passé - CARBONE#3 (ft. Sébastien Carassou)](https://www.youtube.com/watch?v=NRdaPrMNrkI&feature=emb_logo) - Le Réveilleur (Août 2020)
 - [La planète la plus proche n'est pas celle que vous croyez](https://youtu.be/Y2G4rENZg1s?t=290) - Fête de la science (Septembre 2020)
 - [#5 Questions à Sébastien Carassou (Le Sense Of Wonder)](https://www.youtube.com/watch?v=DSf-DxoehGQ&feature=youtu.be&fbclid=IwAR3YpZMY-9-tavwEWhURRkTg-0lrXlriqoeCLx3ZZZxIEjO50pu8CiVDBl4) - Guilde des vidéastes (Novembre 2020)
+- [Les bases de l’observation du Soleil ft. Le Sense of Wonder [1/3]](https://youtu.be/maalFXvpXOo) - Science Loop (Novembre 2020)
 
 ## MOOC
 
