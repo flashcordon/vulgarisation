@@ -102,6 +102,7 @@
 - [TSC#28 - Les extraterrestres existent-ils ? (Sébastien Carassou)](https://www.twitch.tv/videos/611416480) - Tout Se Comprend, Mai 2020
 - [#Géocargo - Live avec Seb Carassou (Le Sense of Wonder)](https://youtu.be/_sdj0zRhTIE) - Léa Bello, Octobre 2020
 - [Soirée vidéastes](https://fb.watch/1RWPkM2EcB/) - Metz Film Festival De La Transition Ecologique, Novembre 2020
+- Astronomie et science-fiction - Twitch du planétarium de Vaulx en Vélin, Novembre 2020
 
 ## Séries TV
 
@@ -189,6 +190,8 @@
 - [Comment la science alimente la fiction (et l'inverse) ? feat. Le Sense of Wonder - Stream Science #9](https://youtu.be/WsTpO4ds-j4) - Juin 2020
 - [La science à portée de tous avec l’astrophysicien Youtubeur Sébastien Carassou](https://www.letelegramme.fr/finistere/morlaix/la-science-a-portee-de-tout-avec-l-astrophysicien-youtubeur-sebastien-carassou-27-09-2020-12626381.php) - Le Télégramme, Septembre 2020
 - [Le choix de Sense of Wonder: les Green Brothers](https://i.imgur.com/U5y8bpj.jpg) - Phosphore, Octobre 2020
+- Interview pour le blog Hypothèse de Léa Fournasson, Décembre 2020
+- Interview pour le Rotary Magazine sur le complotisme, Décembre 2020
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
