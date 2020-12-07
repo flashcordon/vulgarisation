@@ -91,9 +91,10 @@
 - [#5 Questions à Sébastien Carassou (Le Sense Of Wonder)](https://www.youtube.com/watch?v=DSf-DxoehGQ&feature=youtu.be&fbclid=IwAR3YpZMY-9-tavwEWhURRkTg-0lrXlriqoeCLx3ZZZxIEjO50pu8CiVDBl4) - Guilde des vidéastes (Novembre 2020)
 - [Les bases de l’observation du Soleil ft. Le Sense of Wonder [1/3]](https://youtu.be/maalFXvpXOo) - Science Loop (Novembre 2020)
 
-## MOOC
+## Cours en ligne
 
 - [Objectif IA : Initiez-vous à l'intelligence artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle) - Open Classrooms, 2020
+- [Formation "L'écriture de vidéo de science"](https://youtu.be/y-wp-x6S0ao) - MISS, Décembre 2020
 
 ## Lives 
 - [La vie sur Mars ? De Lowell à Levin](https://www.youtube.com/watch?v=-IA4Dqvodok&feature=emb_logo) - Yuri's night, Twitch du café des sciences, Avril 2020
