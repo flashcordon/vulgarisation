@@ -1,5 +1,9 @@
 # Quelques ressources pour bien débuter dans la vidéo de vulgarisation
 
+# Guides pour du matériel
+
+- [Gear Guide for Videographers](https://www.izharris.com/gear-guide) - Iz Harris
+
 # Quelques chaînes Youtube utiles pour vidéastes débutants
 
 - [Scilabus Plus](https://www.youtube.com/channel/UCaZRpfXzlHVchIJMpf-PVFw/videos)
