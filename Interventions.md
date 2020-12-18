@@ -121,6 +121,7 @@
 - [5 astuces pour vulgariser les sciences](https://youtu.be/FfsUUoRxtas) - FameLab, Mars 2017
 - [COMMENT DEVENIR ASTROPHYSICIEN ? ft. Sébastien Carassou](https://youtu.be/HAmxBo3n-4M?list=WL) - Passion Astronomie, Mai 2020
 - [360 degrés avec Le Sense Of Wonder](https://www.youtube.com/watch?v=rgtpH9Kakxo) - Fête de la science Sorbonne Université, Octobre 2020
+- Etonnante chimie (4 épisodes et 1 teaser)
 
 # Conférences
 
