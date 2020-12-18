@@ -90,6 +90,8 @@
 - [La planète la plus proche n'est pas celle que vous croyez](https://youtu.be/Y2G4rENZg1s?t=290) - Fête de la science (Septembre 2020)
 - [#5 Questions à Sébastien Carassou (Le Sense Of Wonder)](https://www.youtube.com/watch?v=DSf-DxoehGQ&feature=youtu.be&fbclid=IwAR3YpZMY-9-tavwEWhURRkTg-0lrXlriqoeCLx3ZZZxIEjO50pu8CiVDBl4) - Guilde des vidéastes (Novembre 2020)
 - [Les bases de l’observation du Soleil ft. Le Sense of Wonder [1/3]](https://youtu.be/maalFXvpXOo) - Science Loop (Novembre 2020)
+- [Solar Orbiter : des images jamais vues du Soleil [2/3]](https://youtu.be/dqw7Xsjp0nA) - Science Loop (Décembre 2020)
+- [Le Soleil : le rire des étoiles [3/3]](https://youtu.be/-1D-ktu_liU) - Science Loop (Décembre 2020)
 
 ## Cours en ligne
 
@@ -105,6 +107,7 @@
 - [Soirée vidéastes](https://www.youtube.com/watch?v=PsDLdA6CW8M&ab_channel=MetzFilmFestivaldeLaTransitionEcologique) - Metz Film Festival De La Transition Ecologique, Novembre 2020
 - Astronomie et science-fiction - Twitch du planétarium de Vaulx en Vélin, Novembre 2020
 - [GoodBooks III feat. Emma Hollen, @Tania Louis, @Le Sense Of Wonder, A. Blanchard et P. Henriquet](https://www.youtube.com/watch?v=j0U6BHtbByQ) - Grand Labo, Décembre 2020
+- Twitch de Pellichi, Décembre 2020
 
 ## Séries TV
 
