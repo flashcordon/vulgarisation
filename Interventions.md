@@ -199,6 +199,7 @@
 - [Le choix de Sense of Wonder: les Green Brothers](https://i.imgur.com/U5y8bpj.jpg) - Phosphore, Octobre 2020
 - Interview pour le blog Hypothèse de Léa Fournasson, Décembre 2020
 - Interview pour le Rotary Magazine sur le complotisme, Décembre 2020
+- Interview pour Néon Magazine, Décembre 2020
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
