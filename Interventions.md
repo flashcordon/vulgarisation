@@ -199,7 +199,7 @@
 - [La science à portée de tous avec l’astrophysicien Youtubeur Sébastien Carassou](https://www.letelegramme.fr/finistere/morlaix/la-science-a-portee-de-tout-avec-l-astrophysicien-youtubeur-sebastien-carassou-27-09-2020-12626381.php) - Le Télégramme, Septembre 2020
 - [Le choix de Sense of Wonder: les Green Brothers](https://i.imgur.com/U5y8bpj.jpg) - Phosphore, Octobre 2020
 - Interview pour le blog Hypothèse de Léa Fournasson, Décembre 2020
-- Interview pour le Rotary Magazine sur le complotisme, Décembre 2020
+- [Interview pour le Rotary Magazine sur le complotisme](https://i.imgur.com/ChXrVDd.jpg) - Rotary Mag, Décembre 2020
 - Interview pour Néon Magazine, Décembre 2020
 
 # Tables rondes 
