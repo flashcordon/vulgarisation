@@ -70,6 +70,7 @@
 - [LE MONDE ENTIER dans une tasse de café !!!](https://youtu.be/is1CHlzyBcA) - Balade Mentale, Janvier 2017
 - [Le Génocide, mais Relax ! - Partie 1](https://youtu.be/u1z16qyRxLs) - Dave Sheik, Avril 2017
 - [Le Génocide, mais Relax ! - Partie 2](https://youtu.be/8acG4JFcSqY) - Asclepios, Avril 2017
+- [Six pieds sous terre : les Catacombes de Paris (4K)](https://youtu.be/VVnRvsJkBgc) - Science de Comptoir, Avril 2017
 - [L'Univers Express #5 Feat Le Sense of Wonder - Planète 9](https://youtu.be/YOqmWNVKI2A) - Above Earth, Juin 2017
 - [Peut-on simuler l’histoire du cosmos ? - Feat. Sebastien Carassou - ZdS#4](https://youtu.be/CtCK75lfE7A) - Zeste de Science, Décembre 2017
 - [Live e-penser le jeu avec DirtyBiology, Florence Porcel, Science Etonnante et le Sense of Wonder](https://youtu.be/zO-cRBrH5ZU) - E-Penser, Septembre 2017
