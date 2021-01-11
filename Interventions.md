@@ -155,6 +155,7 @@
 - SAV du cosmos [#1](https://youtu.be/qIfBmDN5vkc) et [#2](https://youtu.be/03LxmhLbZtY?list=WL) - Cité des sciences, Fête de la Science, Octobre 2020
 - Le Grand Récit : l'Humanité dans son contexte cosmique - Bibliothèque universitaire du Creusot, Octobre 2020
 - [L'Histoire de l'Univers](https://youtu.be/gbQa1A96jAE?list=WL) - Frames Festival, Octobre 2020
+- Comprendre la Lumière, Percevoir le cosmos - Séminaire ALCON, Janvier 2021
 
 # Articles de blog
 
