@@ -267,6 +267,7 @@
 - L'écriture de vidéos de sciences, à destination de doctorants, Centre de Vulgarisation de la Connaissance de l'université Paris Saclay, Novembre 2018 / Mars 2019 (x2) / Avril, Novembre 2019
 - "Face à la caméra", à destination de chercheurs, à la Maison d'Initiation et de Sensibilisation aux Sciences (MISS) d'Orsay, Décembre 2019
 - [Défi Savanturiers : L'Histoire de la Terre à portée de main](https://savanturiers-projects.cri-paris.org/projects/kMP5Gd06/summary), Janvier 2021
+> * [Présentation du défi](https://youtu.be/pPSE350kWUE)
 
 # Consultation scientifique
 
