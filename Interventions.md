@@ -203,6 +203,7 @@
 - Interview pour le blog Hypothèse de Léa Fournasson, Décembre 2020
 - [Interview pour le Rotary Magazine sur le complotisme](https://i.imgur.com/ChXrVDd.jpg) - Rotary Mag, Décembre 2020
 - Interview pour Néon Magazine, Décembre 2020
+- [« Je faisais partie des esprits supérieurs » : pourquoi le complotisme séduit autant](https://www.lemonde.fr/les-decodeurs/article/2021/01/18/je-faisais-partie-des-esprits-superieurs-pourquoi-le-complotisme-seduit-autant_6066685_4355770.html) - Les Décodeurs, Janvier 2021
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
