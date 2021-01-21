@@ -270,6 +270,7 @@
 - "Face à la caméra", à destination de chercheurs, à la Maison d'Initiation et de Sensibilisation aux Sciences (MISS) d'Orsay, Décembre 2019
 - [Défi Savanturiers : L'Histoire de la Terre à portée de main](https://savanturiers-projects.cri-paris.org/projects/kMP5Gd06/summary), Janvier 2021
 > * [Présentation du défi](https://youtu.be/pPSE350kWUE)
+> * [FAQ sur l'histoire de la Terre](https://www.youtube.com/watch?v=tyUSIcdh-Tk&feature=youtu.be) 
 
 # Consultation scientifique
 
