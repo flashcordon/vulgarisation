@@ -271,6 +271,7 @@
 - [Défi Savanturiers : L'Histoire de la Terre à portée de main](https://savanturiers-projects.cri-paris.org/projects/kMP5Gd06/summary), Janvier 2021
 > * [Présentation du défi](https://youtu.be/pPSE350kWUE)
 > * [FAQ sur l'histoire de la Terre](https://www.youtube.com/watch?v=tyUSIcdh-Tk&feature=youtu.be) 
+> * [Résolution du défi](https://www.youtube.com/watch?v=5XO1isj5DmA&feature=youtu.be)
 
 # Consultation scientifique
 
