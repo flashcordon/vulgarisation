@@ -297,3 +297,4 @@
 - [Concours Science en court(s) à Rennes](http://sciences-en-courts.fr/) - Octobre 2019
 - [Concours Schools Challenge](https://youtu.be/7xIaaj3epTw) - Mars 2020
 - [Younivers : la chaîne des astro-ados](https://saf-astronomie.fr/younivers-la-chaine-des-astro-ados/) - Octobre 2020
+- 2e édition du challenge vidéo astronomique de la SAF - 2021
