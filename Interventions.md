@@ -233,6 +233,7 @@
 - [Fusion nucléaire, planète infernale et Molière contre Corneille](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-07-fevrier-2020) - La Méthode Scientifique, Février 2020
 - [La relation entre l'univers et la science-fiction](http://franck.futura-sciences.com/IDFM/ATLE2020-11-17.mp3) - À toi les étoiles, Radio Enghien, Novembre 2020
 - [Vie sur Vénus, magnétars et livraison robotisée](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-20-novembre-2020) - La méthode scientifique, Novembre 2020
+- [Grand entretien avec Neil deGrasse Tyson](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-jeudi-04-fevrier-2021) - La méthode scientifique, Février 2021
 
 # Podcasts
 
