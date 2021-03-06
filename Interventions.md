@@ -97,6 +97,11 @@
 - [Les VRAIS pionniers de la conquête spatiale ! Ft Sébastien Carassou et Pierre Kerner](https://youtu.be/K_35naUnOh8) - La boîte à curiosités (Décembre 2020)
 - [Tony Stark, le pire de tous les Avengers ! ANALYSE 🎄 feat. plein de monde [2020]](https://youtu.be/HGdpZS6Q88o) - Le Point Genius (Décembre 2020)
 
+## Tiktok
+
+- [Clyde Tombaugh](https://www.tiktok.com/@sebastiencarassou/video/6932877942448000262?_d=secCgYIASAHKAESMgowmrvy2qmfjbLXxYv75xwbMIoxHBzoeu3%2F%2BW8iJFQCYaxOlWgxPLDWE87XhmUxBP%2FGGgA%3D&language=fr&preview_pb=0&sec_user_id=MS4wLjABAAAAT-ptyM62cHDgogaDBsoIJjGFeeMpT9oE4TmQBBP1Szu0IRoy8V_H9G2pNyNWxH9w&share_app_name=musically&share_item_id=6932877942448000262&share_link_id=01f6c698-2b96-403b-a559-920e3ebc60fd&timestamp=1614186863&u_code=dfea4f523i201j&user_id=6894954069997306885&utm_campaign=client_share&utm_medium=android&utm_source=twitter&source=h5_m&is_copy_url=1&is_from_webapp=v2)
+- [Le point NEMO](https://www.tiktok.com/@sebastiencarassou/video/6936619105852165382?_d=secCgYIASAHKAESMgowmrvy2qmfjbLXxYv75xwbMIoxHBzoeu3%2F%2BW8iJFQCYaxOlWgxPLDWE87XhmUxBP%2FGGgA%3D&language=fr&preview_pb=0&sec_user_id=MS4wLjABAAAAT-ptyM62cHDgogaDBsoIJjGFeeMpT9oE4TmQBBP1Szu0IRoy8V_H9G2pNyNWxH9w&share_app_name=musically&share_item_id=6932877942448000262&share_link_id=01f6c698-2b96-403b-a559-920e3ebc60fd&timestamp=1614186863&u_code=dfea4f523i201j&user_id=6894954069997306885&utm_campaign=client_share&utm_medium=android&utm_source=twitter&source=h5_m&is_copy_url=0&is_from_webapp=v3&lang=fr&sender_device=pc&sender_web_id=6932886727581517318)
+
 ## Cours en ligne
 
 - [Objectif IA : Initiez-vous à l'intelligence artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle) - Open Classrooms, 2020
