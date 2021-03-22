@@ -122,7 +122,7 @@
 
 ## Séries TV
 
-- [GeoCargo](https://www.youtube.com/watch?v=kEW25we-tKM&feature=youtu.be), Science&Vie TV (tournage du pilote en Septembre 2020)
+- [Les températures du passé - Géocargo, l’Odyssée de la Terre (avec Le Sense of Wonder & Léa Bello)](https://youtu.be/AJc3ZtqdSBk), Science&Vie TV (Mars 2021)
 
 ## Divers
 
