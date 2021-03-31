@@ -133,7 +133,7 @@
 - [COMMENT DEVENIR ASTROPHYSICIEN ? ft. Sébastien Carassou](https://youtu.be/HAmxBo3n-4M?list=WL) - Passion Astronomie, Mai 2020
 - [360 degrés avec Le Sense Of Wonder](https://www.youtube.com/watch?v=rgtpH9Kakxo) - Fête de la science Sorbonne Université, Octobre 2020
 - Etonnante chimie (4 épisodes et 1 teaser)
-- [Bande-Annonce recrutement des astronautes de l'Agence Spatiale Européenne](https://twitter.com/esa/status/1377108392200732675) - Duck Factory / ESA, Mars 2021
+- [Your way to space](https://www.youtube.com/watch?v=EmqNg_PRDeA) - Duck Factory / ESA, Mars 2021
 
 # Conférences
 
