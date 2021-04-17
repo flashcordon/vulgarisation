@@ -120,6 +120,8 @@
 - Twitch de Pellichi, Décembre 2020
 - [LIVE Mars 2020 Mission Perseverance Rover | Présenté par Axolot](https://youtu.be/iK2QDewUwL4) - ARTE, Février 2021
 - Yuri's Night 2021 - Alice au pays des étoiles, Avril 2021
+- [Wikipédia Battle avec Sébastien Carassou et Genetix](https://www.youtube.com/watch?v=nw7rWdZqBlk) - MiaAstrogirl
+- Live avec Whitney
 
 ## Séries TV
 
