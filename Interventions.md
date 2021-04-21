@@ -139,7 +139,8 @@
 - [COMMENT DEVENIR ASTROPHYSICIEN ? ft. Sébastien Carassou](https://youtu.be/HAmxBo3n-4M?list=WL) - Passion Astronomie, Mai 2020
 - [360 degrés avec Le Sense Of Wonder](https://www.youtube.com/watch?v=rgtpH9Kakxo) - Fête de la science Sorbonne Université, Octobre 2020
 - [Your way to space](https://www.youtube.com/watch?v=EmqNg_PRDeA) - Duck Factory / ESA, Mars 2021
-- [Étonnante chimie | 80 chercheuses et chercheurs racontent l’inattendu (teaser)][https://www.youtube.com/watch?v=5rh7Nmdon_A) - CNRS, Avril 2021
+- [Étonnante chimie | 80 chercheuses et chercheurs racontent l’inattendu (teaser)](https://www.youtube.com/watch?v=5rh7Nmdon_A) - CNRS, Avril 2021
+- [L’alchimie des origines | Étonnante chimie](https://youtu.be/gfXae8MPoj8) - CNRS, Avril 2021
 
 # Conférences
 
