@@ -125,7 +125,7 @@
 - Yuri's Night 2021 - Alice au pays des étoiles, Avril 2021
 - [Wikipédia Battle avec Sébastien Carassou et Genetix](https://www.youtube.com/watch?v=nw7rWdZqBlk) - MiaAstrogirl, Avril 2021
 - [La science dans tous ses états](https://www.facebook.com/109047794099847/videos/537339454317498) - 1 endroit où aller, Avril 2021
-- Live avec Whitney
+- [On regarde le C'est Pas Sorcier sur le système solaire avec Sébastien Carassou !](https://www.twitch.tv/videos/998184167) - SpaceExplorerW
 
 ## Séries TV
 
