@@ -143,6 +143,7 @@
 - [Your way to space](https://www.youtube.com/watch?v=EmqNg_PRDeA) - Duck Factory / ESA, Mars 2021
 - [Étonnante chimie | 80 chercheuses et chercheurs racontent l’inattendu (teaser)](https://www.youtube.com/watch?v=5rh7Nmdon_A) - CNRS, Avril 2021
 - [L’alchimie des origines | Étonnante chimie](https://youtu.be/gfXae8MPoj8) - CNRS, Avril 2021
+- [Vulgariser en vidéo : le script](https://www.youtube.com/watch?v=uc91nK_bQhY) - Raccoursci, Mai 2021
 
 # Conférences
 
