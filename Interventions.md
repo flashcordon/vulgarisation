@@ -61,6 +61,7 @@
 - [Sur les pas d'Eratosthène](https://youtu.be/rSWcc61J-d0) - Décembre 2019
 - [Les phases de la Lune](https://www.youtube.com/watch?v=wlpNCqlU-Mo&feature=youtu.be) - Février 2020
 - [La machine océanique](https://youtu.be/JHVoXYYnIwQ) - Novembre 2020
+- [Le rôle régulateur de l’océan sur le climat](https://www.youtube.com/watch?v=UuZcOV2o6w0) - Mai 2021
 
 ## Collabs et caméos
 
