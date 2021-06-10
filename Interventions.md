@@ -113,8 +113,6 @@
 - [Objectif IA : Initiez-vous à l'intelligence artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle) - Open Classrooms, 2020
 - [Formation "L'écriture de vidéo de science"](https://youtu.be/y-wp-x6S0ao) - MISS, Décembre 2020
 
-
-
 ## Lives 
 - [La vie sur Mars ? De Lowell à Levin](https://www.youtube.com/watch?v=-IA4Dqvodok&feature=emb_logo) - Yuri's night, Twitch du café des sciences, Avril 2020
 - [Salon de Thé, épisode 2 - Ré-enchanter la science avec Sébastien Carassou (Le Sense of Wonder)](https://www.twitch.tv/videos/597320659) - Twitch du Café des science, Avril 2020
@@ -179,6 +177,7 @@
 - Le Grand Récit : l'Humanité dans son contexte cosmique - Bibliothèque universitaire du Creusot, Octobre 2020
 - [L'Histoire de l'Univers](https://youtu.be/gbQa1A96jAE?list=WL) - Frames Festival, Octobre 2020
 - Comprendre la Lumière, Percevoir le cosmos - Séminaire ALCON, Janvier 2021
+- [Le sens de la vie](https://www.twitch.tv/videos/1051743353) - Escape from earth : Where are the others ? Juin 2021
 
 # Articles de blog
 
