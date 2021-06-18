@@ -114,6 +114,7 @@
 - [Formation "L'écriture de vidéo de science"](https://youtu.be/y-wp-x6S0ao) - MISS, Décembre 2020
 
 ## Lives 
+
 - [La vie sur Mars ? De Lowell à Levin](https://www.youtube.com/watch?v=-IA4Dqvodok&feature=emb_logo) - Yuri's night, Twitch du café des sciences, Avril 2020
 - [Salon de Thé, épisode 2 - Ré-enchanter la science avec Sébastien Carassou (Le Sense of Wonder)](https://www.twitch.tv/videos/597320659) - Twitch du Café des science, Avril 2020
 - [Astronomer@Home Invité : Sébastien Carassou "L'évolution des galaxies"](https://www.youtube.com/watch?v=rpMzMbxiVe0&feature=emb_title) - Planétarium de Vaulx en Velin, Avril 2020
@@ -129,6 +130,7 @@
 - [La science dans tous ses états](https://www.facebook.com/109047794099847/videos/537339454317498) - 1 endroit où aller, Avril 2021
 - [On regarde le C'est Pas Sorcier sur le système solaire avec Sébastien Carassou !](https://www.twitch.tv/videos/998184167) - SpaceExplorerW
 - [FAQ du cosmos avec @Darkastro85](https://www.instagram.com/tv/CPd4qg6IDf8/?utm_source=ig_web_button_share_sheet) - Instagram, Mai 2021
+- [live Mission Alpha | BLOB | Sortie Extravéhiculaire Thomas Pesquet | ARTE](https://www.youtube.com/watch?v=JBCrb6FNUT8) - ARTE, Juin 2021
 
 ## Séries TV
 
@@ -314,6 +316,9 @@
 - [Les FUTURS LOINTAINS, un voyage en direction de l'éternité](https://www.youtube.com/watch?v=yd3tQFt2QUY&list=PL2DG92SmasJaM670t3Z2RJWS6imWdSwxZ&index=16) - Balade Mentale, Février 2020
 - [Pourquoi la Terre est ronde ?](https://youtu.be/V6y0hk4eZU0) - Robin Isnard, Avril 2020
 - XXX (2020)
+
+# Communication numérique
+- Festival de Fleurance (2021)
 
 # Jury de concours
 
