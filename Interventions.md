@@ -36,6 +36,7 @@
 - [Poussée des Fusées et Trajectoires Lunaires - Retour sur Scientifiction #2](https://youtu.be/RzlPat9MILs) - Novembre 2020
 - [Balises Aliens et Équation de Drake - Retour sur Scientifiction #4](https://youtu.be/WQ2mcmNq9-I) - Février 2021
 - [Le Jour où l'Humanité découvrit la Terre - Paysages Cosmiques #4](https://youtu.be/U_PgFGeiWOg) - Avril 2021
+- [Bande-annonce DU BIG BANG AUX BIG BANDS 2021](https://www.youtube.com/watch?v=AAY8Io6gn2I) - Juin 2021
 
 ## String Theory
 
