@@ -37,6 +37,8 @@
 - [Balises Aliens et Équation de Drake - Retour sur Scientifiction #4](https://youtu.be/WQ2mcmNq9-I) - Février 2021
 - [Le Jour où l'Humanité découvrit la Terre - Paysages Cosmiques #4](https://youtu.be/U_PgFGeiWOg) - Avril 2021
 - [Bande-annonce DU BIG BANG AUX BIG BANDS 2021](https://www.youtube.com/watch?v=AAY8Io6gn2I) - Juin 2021
+- [Live - DU BIG BANG AUX BIG BANDS 2021](https://youtu.be/8RzsK2HhPXI) - Juillet 2021
+- [DU BIG BANG AUX BIG BANDS 2021 - Suite et fin](https://youtu.be/0usL7Trikmo) - Juillet 2021
 
 ## String Theory
 
