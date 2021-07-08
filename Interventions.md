@@ -183,6 +183,7 @@
 - [L'Histoire de l'Univers](https://youtu.be/gbQa1A96jAE?list=WL) - Frames Festival, Octobre 2020
 - Comprendre la Lumière, Percevoir le cosmos - Séminaire ALCON, Janvier 2021
 - [Le sens de la vie](https://www.twitch.tv/videos/1051743353) - Escape from earth : Where are the others ? Juin 2021
+- [Paysages cosmiques](https://www.bretagne-cotedegranitrose.com/offres/histoires-dart-lannion-fr-3228585/) - Histoires d'art Lannion, Juillet 2021
 
 # Articles de blog
 
