@@ -235,6 +235,7 @@
 - [« Je faisais partie des esprits supérieurs » : pourquoi le complotisme séduit autant](https://www.lemonde.fr/les-decodeurs/article/2021/01/18/je-faisais-partie-des-esprits-superieurs-pourquoi-le-complotisme-seduit-autant_6066685_4355770.html) - Les Décodeurs, Janvier 2021
 - [« J’ai été un abruti sans esprit critique » : l’imprévisible déclic de la sortie du complotisme](https://www.lemonde.fr/les-decodeurs/article/2021/01/19/j-ai-ete-un-abruti-sans-esprit-critique-l-imprevisible-declic-de-la-sortie-du-complotisme_6066827_4355770.html) - Les Décodeurs, Janvier 2021
 - [Mon petit-fils croit aux thèses complotistes, comment réagir ?](Mon petit-fils croit aux thèses complotistes, comment réagir ?) - Pleine Vie, Mars 2021
+- [Festival d'astronomie de Fleurance : l'univers sent l'œuf pourri, le goudron et la framboise](https://www.ladepeche.fr/2021/08/11/festival-dastronomie-de-fleurance-lunivers-sent-loeuf-pourri-le-goudron-et-la-framboise-9727183.php) - La dépêche du Midi, Août 2021
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
