@@ -186,7 +186,7 @@
 - Comprendre la Lumière, Percevoir le cosmos - Séminaire ALCON, Janvier 2021
 - [Le sens de la vie](https://www.twitch.tv/videos/1051743353) - Escape from earth : Where are the others ? Juin 2021
 - [Paysages cosmiques](https://www.bretagne-cotedegranitrose.com/offres/histoires-dart-lannion-fr-3228585/) - Histoires d'art Lannion, Juillet 2021
-- [Sommes-nous seuls dans l'univers ?](https://www.oagc.fr/) - Observatoire Astronomique du gros cerveau
+- [Sommes-nous seuls dans l'univers ?](https://www.oagc.fr/) - Observatoire Astronomique du gros cerveau, Août 2021
 - [2000 ans d'astronomie : d'Aristote à Newton](https://www.conferentia.fr/blogs/infos/en-immersion-dans-2000-ans-dastronomie) - Conferentia, Septembre 2021
 - [Le sens de la vie : vers une définition universelle du vivant ?](https://www.alcor.asso.universite-paris-saclay.fr/conference-de-rentree-sebastien-carassou/) - ALCOR, Septembre 2021
 - [A la recherche de la vie : sommes-nous seuls dans l'univers ?](https://www.conferentia.fr/products/a-la-recherche-de-la-vie-sommes-nous-seuls-dans-lunivers) - Conferentia, Septembre 2021
