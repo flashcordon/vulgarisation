@@ -153,6 +153,7 @@
 - [Étonnante chimie | 80 chercheuses et chercheurs racontent l’inattendu (teaser)](https://www.youtube.com/watch?v=5rh7Nmdon_A) - CNRS, Avril 2021
 - [L’alchimie des origines | Étonnante chimie](https://youtu.be/gfXae8MPoj8) - CNRS, Avril 2021
 - [Vulgariser en vidéo : le script](https://www.youtube.com/watch?v=uc91nK_bQhY) - Raccoursci, Mai 2021
+- [Déchets nos trésors cachés | Étonnante chimie](https://youtu.be/fnk31g-4SRw) - CNRS, Septembre 2021
 
 # Conférences
 
