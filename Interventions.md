@@ -272,6 +272,7 @@
 - [Vie sur Vénus, magnétars et livraison robotisée](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-20-novembre-2020) - La méthode scientifique, Novembre 2020
 - [Grand entretien avec Neil deGrasse Tyson](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-jeudi-04-fevrier-2021) - La méthode scientifique, Février 2021
 - [Pollution plastique, mort et conscience et toile cosmique](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-28-mai-2021) - La méthode scientifique, Mai 2021
+- [On mise tout sur la physique](https://physique.u-paris.fr/actualites/webradio-ufr-de-physique) - Webradio UFR Physique Université Paris-Diderot
 
 # Podcasts
 
