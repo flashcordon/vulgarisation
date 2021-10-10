@@ -191,6 +191,7 @@
 - [2000 ans d'astronomie : d'Aristote à Newton](https://www.conferentia.fr/blogs/infos/en-immersion-dans-2000-ans-dastronomie) - Conferentia, Septembre 2021
 - [Le sens de la vie : vers une définition universelle du vivant ?](https://www.alcor.asso.universite-paris-saclay.fr/conference-de-rentree-sebastien-carassou/) - ALCOR, Septembre 2021
 - [A la recherche de la vie : sommes-nous seuls dans l'univers ?](https://www.conferentia.fr/products/a-la-recherche-de-la-vie-sommes-nous-seuls-dans-lunivers) - Conferentia, Septembre 2021
+- L'humanité dans son contexte cosmique - Les Apprentis pas Sages, Fête de la Science, Octobre 2021
 
 # Articles de blog
 
