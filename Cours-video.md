@@ -31,8 +31,7 @@
 - Le workflow optimum pour tourner des vidéos sur Internet avec le GH5 est le 4K 422 10 bits 25i/s 150Mbps. 
 - Un autre conseil de format, moins gourmand : FHD 422 10 bits 25 i/s 100Mbps  
 > * En terme de volume de données, on peut remplir avec ce réglage une carte de 128 GO avec environ 1h40 de vidéo. 
-
-Verifier Vitesse d'écriture sur carte sd : w/r. S'adapter pour régler le Mbps
+- En réglant le début de données, s'assurer que la carte SD possède une vitesse d'écriture adaptée (cela correspond au nombre "w/r" sur la carte)
 
 *Les formats d'image*
 - HD (720p) : 1280 x 720 pixels,
@@ -42,14 +41,21 @@ Verifier Vitesse d'écriture sur carte sd : w/r. S'adapter pour régler le Mbps
 - 8K : 7680 x 4320 pixels
 
 ![formats](https://i.imgur.com/ehMEVHD.jpg)
-*Source : [CNET](https://www.cnetfrance.fr/produits/sd-hd-ultra-hd-4k-8k-comprendre-les-definitions-des-tv-39786402.htm)
 
-Echabtillonnage couleur : 8 bits OU 10 BITS :  Infos couleurs (petite ou grande)
-All i : pas conseillé.
-LongGOP
-8 bit pas cool pour etalonneurs
-10 bit ok
-422 ok. 420 pas ok. En partant de 10 bits
+*Source : [CNET](https://www.cnetfrance.fr/produits/sd-hd-ultra-hd-4k-8k-comprendre-les-definitions-des-tv-39786402.htm)*
+
+*L'échabtillonnage couleur* 
+- Il y a 2 options : 8 bits ou 10 bits (petit échantillonage ou grand échantillonage)
+> Le format 8 bits n'est pas adapté si vous souhaiter étalonner précisément vos images. On préfèrera donc le 10 bits (422 plutôt que 420).
+- Le format All i n'est pas conseillé.
+- LongGOP ?
+
+*Les profils d'image*
+- C'est important de régler ce paramètre si l'on fait de l'étalonnage en post-prod
+- On peut le régler via Menu video -> style photo
+> Rester sur "standard" si on ne fait pas d'étalonnage
+- On peut avoir accès au profil vLOG si on l'achète (30 euros environ). C'est un profil très complet et favorisé par les étalonneurs mais complexe en terme d'exposition.
+- Conseil de profil : Cinelike D.
 
 *Vitesse dobturation (shutter speed)* 
 - Elle se mesure en 1/x de seconde
@@ -83,24 +89,16 @@ LongGOP
 > * Pour qu'une image soit bien exposée, il faut que l'histogramme soit bien réparti. Si y a une coupure quelque part ou que l'histogramme est précipité vers la gauche ou la droite cela signifie que l'image est réiproquement sous-exposée ou sur-exposée réciproquement. 
 - Un filtre ND (filtre à densité neutre) coupe la lumière sans changer la teinte de l'image.
 
-*Focus peaking*
+*Le focus peaking*
 - Il sert à dénoter dans l'image les zones où la mise au point est bien faite.
 - On peut l'activer dans Ecran -> affichage, et régler sa sensibilité (élevé ou bas)
 - Toutes les zones où les points scintillent sont bien nettes.
 
-*Autofocus*
+*L'autofocus*
 - Le GH5 dispose de 3 modes de focus :
 > * AFS/AFF : ?
 > * AFC : autofocus continu
 > * MF : manual focus
-
-Profils d'image 
-Important si on fait de l'étalonnage 
-Menu video : style photo
-Rester sur standard si on fait pas d'etalo
-On peut avoir du vlog en version payante 30e
-Profil complexe en terme d'exposition 
-Cinelike d cool 
 
 *Stabilisation*
 - La stabilisation est très utile si l'on souhaite tourner des plans non-fixes à la main. 
