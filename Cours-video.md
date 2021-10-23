@@ -34,8 +34,14 @@
 
 Verifier Vitesse d'écriture sur carte sd : w/r. S'adapter pour régler le Mbps
 
-Full hd 1080 1920
-Hd peut etre 1280 720
+*Les formats d'image*
+- HD (720p) : 1280 x 720 pixels,
+- FullHD (1080p) : 1920 x 1080 pixels
+- Ultra HD (souvent appelée à tord 4K) : 3840 x 2160 pixels
+- 4K (4K cinéma) : 4096 x 2160 pixels
+- 8K : 7680 x 4320 pixels
+
+
 
 Echabtillonnage couleur : 8 bits OU 10 BITS :  Infos couleurs (petite ou grande)
 All i : pas conseillé.
