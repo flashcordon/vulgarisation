@@ -3,6 +3,106 @@
 *Table des matières*
 - [Comment éclairer son tournage](#Comment-éclairer-son-tournage)
 
+## Bien utiliser un GH5
+
+*Les tailles de capteur*
+- Le standard pour la photo argentique est le 24x36 (sony alpha)  -> cette taille de capteur donne donc aux vidéos un rendu photo
+- Le standard cinéma est le super 35 (ce qui correspond historiquement à la taille de la pellicule cinéma de 35 mm)
+- Le capteur du Gh5 est basé sur le système Micro 4/3 (il est tout petit), ce qui lui donne une profondeur de champ. Par contre, il est pas excellent en basse lumière. Il est idéal pour la captation et la vidéo Youtube. 
+
+*Les réglages micro*
+- Le micro doit être réglé entre -6dB et -12dB (-6 max)
+- Sur le GH5, il ne peut pas etre réglé pendant l'enregistrement 
+
+*Codecs*
+Menu video -> format enregistrement : hevc lpcm avchd horrible
+Mp4 pour format youtube 
+Rester sur 100Mbps 
+Frequence courant 50hz
+Du coup on fait du 25 i/s standard tele et internet
+Cine 24 i/s
+US : 30 i/s tele et web
+Ça joue sur le flicker
+Plein d'options en mov
+Conseil: 4k 422 10 bits 25 i/s 150Mbps. Optimum pour le gh5 en workflow internet
+Conseil 2 : FHD 10 bits 100Mbps 422 10 bits 
+-> 1h40 de video pour une carte de 128 GO
+
+Verifier Vitesse d'écriture sur carte sd : w/r. S'adapter pour régler le Mbps
+
+Full hd 1080 1920
+Hd peut etre 1280 720
+
+Echabtillonnage couleur : 8 bits OU 10 BITS :  Infos couleurs (petite ou grande)
+All i : pas conseillé.
+LongGOP
+8 bit pas cool pour etalonneurs
+10 bit ok
+422 ok. 420 pas ok. En partant de 10 bits
+
+
+*Vitesse dobturation (shutter speed)* 
+- Elle doit être réglée sur le double du choix d'images par seconde
+> Si 25 i/s vitesse doit etre à 1/50e
+- Sinon on peut avoir des soucis de flicker avec des écrans ou de la lumière tungsten
+- Le GH5 monte jusqu'à 240i/s
+
+*Ralenti*
+- Pour tourner au ralenti il faut aller dans Video M -> cadence variable. 
+- On peut monter jusqu'à 60i/s en 4K, et jusqu'à 180i/s en fHD 8 bits. 
+- La cadence variable n'est pas possible en fHD 10 bits
+
+Les 3 règles d'exposition : diaphragme (iris), vitesse d'obturation (shutter speed), et l'ISO (marque en bas de l'écran)
+
+Diaphragme molette à côté du déclencheur. 
+Chiffre élevé laisse entrer peu de lumiere
+Chiffre bas laisse entrer beaucoup de lumiere
+
+Plus on ferme le diaphragme plus on a une profondeur de champ étendue 
+Pour effet stylé il faut ouvrir le diaphragme
+
+Vitesse obturation en 1/x de seconde
+Pour le motion blur
+Il faut qu'il soit un multiple du nombre d'images par seconde
+
+Iso : sensibilité de la pellicule argebtique par le passé 
+Sensibilité du capteur a la lumière 
+Le bruit apparait au dela de 1600 iso
+
+Régler d'abord l'ouverture, puis la vitesse d'obturation pour augmenter la lumiere. L'iso en dernier recours
+
+Histogramme mesure l'exposition 
+Se lit de gauche a droite. Gauche basses lumieres. Droite haute lumiere
+Il faut qu'il soit bien réparti. Si y a un gros pavé qq part ça precipite lhisto vers la gauche ou vers la droite et on est sous exp ou sur exp
+Faut aussi se fier a son oeil
+Blanc equilibre bien fait
+
+Le filtre nd coupe la lumiere sanschanger la teinte
+
+Focus peaking
+Selectioner dans ecran affichage
+Elevé ou bas
+Toutes les zones au point scintillent
+
+Afs/aff 
+Afc autofocus continu
+Mf manual focus
+
+Profils d'image 
+Important si on fait de l'étalonnage 
+Menu video : style photo
+Rester sur standard si on fait pas d'etalo
+On peut avoir du vlog en version payante 30e
+Profil complexe en terme d'exposition 
+Cinelike d cool 
+
+Stabilisation 
+Dans menu video
+Tout activer
+Anamorphique juste quand on utilise des objectifs anamorphiques
+Activer aussi la stab sur l'objectif 
+Ca permet de tourner a la main sans pb
+
 ## Comment éclairer son tournage
 
 *Sources*
