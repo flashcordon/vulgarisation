@@ -26,13 +26,11 @@
 - Par contre, au cinéma le stadard est de 24 i/s.
 - Aux Etats Unis, le standard télé et Web est de 30 i/s.
 - Pour du Youtube, on privilégiera les formats MP4 ou MOV, et on évitera les formats HEVC, LPCM et AVCHD.
-
-
-Rester sur 100Mbps 
-Plein d'options en mov
-Conseil: 4k 422 10 bits 25 i/s 150Mbps. Optimum pour le gh5 en workflow internet
-Conseil 2 : FHD 10 bits 100Mbps 422 10 bits 
--> 1h40 de video pour une carte de 128 GO
+> Il y a beaucoup plus d'options en MOV qu'en MP4
+- En terme de débit de compression, on peut rester sur 100 Mbps
+- Le workflow optimum pour tourner des vidéos sur Internet avec le GH5 est le 4K 422 10 bits 25i/s 150Mbps. 
+- Un autre conseil de format, moins gourmand : FHD 422 10 bits 25 i/s 100Mbps  
+> * En terme de volume de données, on peut remplir avec ce réglage une carte de 128 GO avec environ 1h40 de vidéo. 
 
 Verifier Vitesse d'écriture sur carte sd : w/r. S'adapter pour régler le Mbps
 
@@ -45,7 +43,6 @@ LongGOP
 8 bit pas cool pour etalonneurs
 10 bit ok
 422 ok. 420 pas ok. En partant de 10 bits
-
 
 *Vitesse dobturation (shutter speed)* 
 - Elle se mesure en 1/x de seconde
