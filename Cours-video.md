@@ -56,7 +56,12 @@ LongGOP
 - On peut monter jusqu'à 60i/s en 4K, et jusqu'à 180i/s en fHD 8 bits. 
 - La cadence variable n'est pas possible en fHD 10 bits
 
-Les 3 règles d'exposition : diaphragme (iris), vitesse d'obturation (shutter speed), et l'ISO (marque en bas de l'écran)
+*Le triangle d'exposition*
+
+![triangle_expo](https://i.imgur.com/pQq0PWR.png)
+*Source : [Gabriel Gorgi](https://www.gabrielgorgi.com/triangle-de-lexposition-comprendre-les-bases-de-la-photographie/)*
+
+- Les 3 règles d'exposition : diaphragme (iris), vitesse d'obturation (shutter speed), et l'ISO (marque en bas de l'écran)
 
 Diaphragme molette à côté du déclencheur. 
 Chiffre élevé laisse entrer peu de lumiere
