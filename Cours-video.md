@@ -41,7 +41,8 @@ Verifier Vitesse d'écriture sur carte sd : w/r. S'adapter pour régler le Mbps
 - 4K (4K cinéma) : 4096 x 2160 pixels
 - 8K : 7680 x 4320 pixels
 
-
+![formats](https://i.imgur.com/ehMEVHD.jpg)
+*Source : [CNET](https://www.cnetfrance.fr/produits/sd-hd-ultra-hd-4k-8k-comprendre-les-definitions-des-tv-39786402.htm)
 
 Echabtillonnage couleur : 8 bits OU 10 BITS :  Infos couleurs (petite ou grande)
 All i : pas conseillé.
