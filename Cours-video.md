@@ -48,6 +48,7 @@ LongGOP
 
 
 *Vitesse dobturation (shutter speed)* 
+- Elle se mesure en 1/x de seconde
 - Elle doit être réglée sur le double du choix d'images par seconde
 > Par exemple, si on tourne à 25 i/s, la vitesse d'obturation doit être réglée à 1/50e de seconde. Sinon on peut avoir des soucis de flicker avec des écrans ou de la lumière Tungsten.
 - Le GH5 monte jusqu'à 240i/s
@@ -58,36 +59,25 @@ LongGOP
 - La cadence variable n'est pas possible en fHD 10 bits
 
 *Le triangle d'exposition*
+- Pour régler l'exposition d'une image, on peut jouer sur 3 paramètres : le diaphragme (iris), la vitesse d'obturation (shutter speed), et l'ISO 
+- Ces paramètres sont marqués en bas de l'écran de retour du GH5.
 
 ![triangle_expo](https://i.imgur.com/pQq0PWR.png)
 *Source : [Gabriel Gorgi](https://www.gabrielgorgi.com/triangle-de-lexposition-comprendre-les-bases-de-la-photographie/)*
 
-- Les 3 règles d'exposition : diaphragme (iris), vitesse d'obturation (shutter speed), et l'ISO (marque en bas de l'écran)
-
-Diaphragme molette à côté du déclencheur. 
-Chiffre élevé laisse entrer peu de lumiere
-Chiffre bas laisse entrer beaucoup de lumiere
-
-Plus on ferme le diaphragme plus on a une profondeur de champ étendue 
-Pour effet stylé il faut ouvrir le diaphragme
-
-Vitesse obturation en 1/x de seconde
-Pour le motion blur
-Il faut qu'il soit un multiple du nombre d'images par seconde
-
-Iso : sensibilité de la pellicule argebtique par le passé 
-Sensibilité du capteur a la lumière 
-Le bruit apparait au dela de 1600 iso
-
-Régler d'abord l'ouverture, puis la vitesse d'obturation pour augmenter la lumiere. L'iso en dernier recours
-
-Histogramme mesure l'exposition 
-Se lit de gauche a droite. Gauche basses lumieres. Droite haute lumiere
-Il faut qu'il soit bien réparti. Si y a un gros pavé qq part ça precipite lhisto vers la gauche ou vers la droite et on est sous exp ou sur exp
-Faut aussi se fier a son oeil
-Blanc equilibre bien fait
-
-Le filtre nd coupe la lumiere sanschanger la teinte
+- L'ouverture du diaphragme se règle via la molette à côté du déclencheur. 
+> Un chiffre élevé laisse entrer peu de lumiere, un chiffre bas laisse entrer beaucoup de lumiere
+- Plus on ferme le diaphragme, plus on a une profondeur de champ étendue.
+> Si l'on souhaite détacher un personnage du décor, et rendre flou ce dernier, il faut donc ouvrir le diaphragme au maximum
+- La vitesse d'obturation impacte le flou de mouvement (motion blur)
+- L'ISO est sensibilité du capteur à la lumière
+> Historiquement il désignait la sensibilité de la pellicule argentique
+- Sur le GH5, du bruit apparait sur l'image au delà de 1600 ISO.
+- Pour bin gérer l'exposition avec un minimum de bruit, régler d'abord l'ouverture, puis la vitesse d'obturation, puis l'ISO en dernier recours
+- On peut mesurer l'exposition de l'image à l'oeil, mais on peut aussi se servir de l'histogramme
+> * Celui-ci se lit de gauche a droite. À gauche on retrouve les basses lumières, et à droite les hautes lumières.
+> * Pour qu'une image soit bien exposée, il faut que l'histogramme soit bien réparti. Si y a une coupure quelque part ou que l'histogramme est précipité vers la gauche ou la droite cela signifie que l'image est réiproquement sous-exposée ou sur-exposée réciproquement. 
+- Un filtre ND (filtre à densité neutre) coupe la lumière sans changer la teinte de l'image.
 
 *Focus peaking*
 - Il sert à dénoter dans l'image les zones où la mise au point est bien faite.
