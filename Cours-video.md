@@ -20,15 +20,15 @@
 - Le micro doit être réglé entre -6dB et -12dB (-6 max)
 - Sur le GH5, il ne peut pas etre réglé pendant l'enregistrement 
 
-*Codecs*
-Menu video -> format enregistrement : hevc lpcm avchd horrible
-Mp4 pour format youtube 
+*Les codecs*
+- On les règle en passant par le menu Vidéo ->  format enregistrement 
+- En France, la fréquence du courant est de 50 Hz. Du coup, le standard télé et Web est de 25 images/s. (pour éviter le flicker)
+- Par contre, au cinéma le stadard est de 24 i/s.
+- Aux Etats Unis, le standard télé et Web est de 30 i/s.
+- Pour du Youtube, on privilégiera les formats MP4 ou MOV, et on évitera les formats HEVC, LPCM et AVCHD.
+
+
 Rester sur 100Mbps 
-Frequence courant 50hz
-Du coup on fait du 25 i/s standard tele et internet
-Cine 24 i/s
-US : 30 i/s tele et web
-Ça joue sur le flicker
 Plein d'options en mov
 Conseil: 4k 422 10 bits 25 i/s 150Mbps. Optimum pour le gh5 en workflow internet
 Conseil 2 : FHD 10 bits 100Mbps 422 10 bits 
