@@ -5,6 +5,11 @@
 
 ## Bien utiliser un GH5
 
+*Sources*
+- Formation de Sylvain Elfassy
+
+---
+
 *Les tailles de capteur*
 - Le standard pour la photo argentique est le 24x36 (sony alpha)  -> cette taille de capteur donne donc aux vidéos un rendu photo
 - Le standard cinéma est le super 35 (ce qui correspond historiquement à la taille de la pellicule cinéma de 35 mm)
@@ -43,8 +48,7 @@ LongGOP
 
 *Vitesse dobturation (shutter speed)* 
 - Elle doit être réglée sur le double du choix d'images par seconde
-> Si 25 i/s vitesse doit etre à 1/50e
-- Sinon on peut avoir des soucis de flicker avec des écrans ou de la lumière tungsten
+> Par exemple, si on tourne à 25 i/s, la vitesse d'obturation doit être réglée à 1/50e de seconde. Sinon on peut avoir des soucis de flicker avec des écrans ou de la lumière Tungsten.
 - Le GH5 monte jusqu'à 240i/s
 
 *Ralenti*
@@ -79,14 +83,16 @@ Blanc equilibre bien fait
 
 Le filtre nd coupe la lumiere sanschanger la teinte
 
-Focus peaking
-Selectioner dans ecran affichage
-Elevé ou bas
-Toutes les zones au point scintillent
+*Focus peaking*
+- Il sert à dénoter dans l'image les zones où la mise au point est bien faite.
+- On peut l'activer dans Ecran -> affichage, et régler sa sensibilité (élevé ou bas)
+- Toutes les zones où les points scintillent sont bien nettes.
 
-Afs/aff 
-Afc autofocus continu
-Mf manual focus
+*Autofocus*
+- Le GH5 dispose de 3 modes de focus :
+> * AFS/AFF : ?
+> * AFC : autofocus continu
+> * MF : manual focus
 
 Profils d'image 
 Important si on fait de l'étalonnage 
@@ -96,12 +102,10 @@ On peut avoir du vlog en version payante 30e
 Profil complexe en terme d'exposition 
 Cinelike d cool 
 
-Stabilisation 
-Dans menu video
-Tout activer
-Anamorphique juste quand on utilise des objectifs anamorphiques
-Activer aussi la stab sur l'objectif 
-Ca permet de tourner a la main sans pb
+*Stabilisation*
+- La stabilisation est très utile si l'on souhaite tourner des plans non-fixes à la main. 
+> Elle se trouve dans le menu vidéo (tout activer sauf anamorphique, qui est seulement pertinent quand on utilise des objectifs anamorphiques)
+- Si l'on dispose d'un objectif 12-35, on peut aussi activer la stabilisation sur l'objectif via un interrupteur.
 
 ## Comment éclairer son tournage
 
