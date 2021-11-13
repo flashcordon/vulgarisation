@@ -39,6 +39,7 @@
 - [Bande-annonce DU BIG BANG AUX BIG BANDS 2021](https://www.youtube.com/watch?v=AAY8Io6gn2I) - Juin 2021
 - [Live - DU BIG BANG AUX BIG BANDS 2021](https://youtu.be/8RzsK2HhPXI) - Juillet 2021
 - [DU BIG BANG AUX BIG BANDS 2021 - Suite et fin](https://youtu.be/0usL7Trikmo) - Juillet 2021
+- [Ce livre contient TOUT l'univers !](https://www.youtube.com/watch?v=PBlFM3SmK44) - Novembre 2021
 
 ## String Theory
 
@@ -105,6 +106,7 @@
 - [Chasseurs de Sciences : Louise Arner Boyd, la femme qui a dompté l'Arctique](https://www.futura-sciences.com/sciences/actualites/histoire-chasseurs-sciences-louise-arner-boyd-femme-dompte-arctique-podcast-87437/?utm_content=actu&utm_medium=social&utm_source=twitter.com&utm_campaign=futura) - Chasseurs de Sciences (Mai 2021)
 - [Gaia, cartographe des étoiles ft. Le Sense of Wonder](https://www.youtube.com/watch?v=l2eEi68FJuo) - Alice au pays des étoiles (Juillet 2021)
 - [☄️ Pourquoi ça nous tombe dessus ‽ avec @Le Sense Of Wonder (Ep.22)](https://www.youtube.com/watch?v=rDgaeo1eo_A) - Muséum des Pourquoies (Septembre 2021)
+- [Peut-on voyager vers d’autres étoiles ? Oui mais … | The Flares](https://www.youtube.com/watch?v=PBlFM3SmK44) - The Flares (Novembre 2021)
 
 ## Tiktok
 
