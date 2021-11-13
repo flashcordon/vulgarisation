@@ -1,3 +1,7 @@
+# Livres
+
+- [Le Cosmos et nous](editionsdesequateurs.fr/aParaitre/oo/LeCosmosEtNous) - Edition des Equateurs (Novembre 2021)
+
 # Vidéos
 
 ## Le Sense of Wonder
