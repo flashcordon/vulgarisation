@@ -224,6 +224,7 @@
 - [Sébastien Carassou, des ovnis à l’astrophysique](https://www.lemonde.fr/sciences/article/2018/03/21/sebastien-carassou-des-ovnis-a-l-astrophysique_5274144_1650684.html) - Le Monde, Mars 2018
 - [Sébastien Carassou, #LeSOW : “La perspective cosmique, ça change des vies”](https://www.humanafterhal.com/itw-sebastien-carassou-senseofwonder-science-et-fiction/) - Human After Hal, Avril 2018
 - [Sébastien Carassou, la tête dans les étoiles](https://i.imgur.com/ZR6FhHU.png) - Avril 2018
+- [Ces six "galaxies noires" en apparence dénuées d'étoiles nous en apprennent plus sur l'histoire de l'univers](https://www.maxisciences.com/galaxie/les-scientifiques-decouvrent-6-galaxies-sans-etoiles_art40853.html) - Gentside (Mai 2018)
 - [Sébastien Carassou, un Petit-îlois astrophysicien](https://i.imgur.com/IzSoSfG.jpg) - Août 2018
 - [École des Filles. Trois questions à Sébastien Carassou, astrophysicien](https://www.ouest-france.fr/bretagne/ecole-des-filles-trois-questions-sebastien-carassou-astrophysicien-5945475) - Ouest France, Septembre 2018
 - [La vulgarisation sur Youtube | Le Sense Of Wonder et Zeste de Science - Cabaret de la Science](https://youtu.be/lqlrbVk9VO4) - L'Esprit Sorcier, Octobre 2018
