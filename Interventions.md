@@ -250,6 +250,7 @@
 - [« J’ai été un abruti sans esprit critique » : l’imprévisible déclic de la sortie du complotisme](https://www.lemonde.fr/les-decodeurs/article/2021/01/19/j-ai-ete-un-abruti-sans-esprit-critique-l-imprevisible-declic-de-la-sortie-du-complotisme_6066827_4355770.html) - Les Décodeurs, Janvier 2021
 - [Mon petit-fils croit aux thèses complotistes, comment réagir ?](Mon petit-fils croit aux thèses complotistes, comment réagir ?) - Pleine Vie, Mars 2021
 - [Festival d'astronomie de Fleurance : l'univers sent l'œuf pourri, le goudron et la framboise](https://www.ladepeche.fr/2021/08/11/festival-dastronomie-de-fleurance-lunivers-sent-loeuf-pourri-le-goudron-et-la-framboise-9727183.php) - La dépêche du Midi, Août 2021
+- [Destination Cosmos](https://www.francetvinfo.fr/replay-jt/france-3/19-20/jt-de-19-20-du-samedi-13-novembre-2021_4823159.html) - JT de France 3, Novembre 2021
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
