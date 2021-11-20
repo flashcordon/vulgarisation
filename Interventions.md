@@ -251,6 +251,7 @@
 - [Mon petit-fils croit aux thèses complotistes, comment réagir ?](Mon petit-fils croit aux thèses complotistes, comment réagir ?) - Pleine Vie, Mars 2021
 - [Festival d'astronomie de Fleurance : l'univers sent l'œuf pourri, le goudron et la framboise](https://www.ladepeche.fr/2021/08/11/festival-dastronomie-de-fleurance-lunivers-sent-loeuf-pourri-le-goudron-et-la-framboise-9727183.php) - La dépêche du Midi, Août 2021
 - [Destination Cosmos](https://www.francetvinfo.fr/replay-jt/france-3/19-20/jt-de-19-20-du-samedi-13-novembre-2021_4823159.html) - JT de France 3, Novembre 2021
+- [Voyages interstellaires: Raisons et solutions – avec Sébastien Carassou (Le Sense Of Wonder)](https://www.youtube.com/watch?v=akcgxCFxa4o) - The Flares, Novembre 2021
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
@@ -282,6 +283,7 @@
 - [Grand entretien avec Neil deGrasse Tyson](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-jeudi-04-fevrier-2021) - La méthode scientifique, Février 2021
 - [Pollution plastique, mort et conscience et toile cosmique](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-28-mai-2021) - La méthode scientifique, Mai 2021
 - [On mise tout sur la physique](https://physique.u-paris.fr/actualites/webradio-ufr-de-physique) - Webradio UFR Physique Université Paris-Diderot
+- [Guerre spatiale, vie extraterrestre, trou noir, et fourmilier...](https://www.franceculture.fr/emissions/la-methode-scientifique/vie-extraterrestre-trou-noir-et-tamanoir) - La Méthode Scientifique, Novembre 2021
 
 # Podcasts
 
