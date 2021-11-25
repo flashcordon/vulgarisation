@@ -142,6 +142,7 @@
 - [On regarde le C'est Pas Sorcier sur le système solaire avec Sébastien Carassou !](https://www.twitch.tv/videos/998184167) - SpaceExplorerW
 - [FAQ du cosmos avec @Darkastro85](https://www.instagram.com/tv/CPd4qg6IDf8/?utm_source=ig_web_button_share_sheet) - Instagram, Mai 2021
 - [live Mission Alpha | BLOB | Sortie Extravéhiculaire Thomas Pesquet | ARTE](https://www.youtube.com/watch?v=JBCrb6FNUT8) - ARTE, Juin 2021
+- Interview avec un astrophysicien - gdelaculturegeek, Novembre 2021
 
 ## Séries TV
 
