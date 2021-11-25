@@ -303,6 +303,7 @@
 - [Sébastien Carassou dans les fils de la toile cosmique](https://www.grandlabo.com/sebastien-carassou-dans-les-fils-de-la-toile-cosmique/) - Poster (Juillet 2019)
 - [#1 RENCONTRE - SEBASTIEN CARASSOU](https://open.spotify.com/episode/4TT0ecZAzL84EwBih6V3up?utm_campaign=twitter-player&utm_source=open&utm_medium=twitter&si=M9QZV4uRTkqcoNoQC_gQYA&autoplay=1&auto_play=true&t=1343006) - Podcast Indéscience, Février 2020
 - [#05 Portrait de voyageur (FEAT CAMILLE GIRY, ARNAUD HUCK et SEBASTIEN CARASSOU /Le sense of wonder/)](https://youtu.be/eWb-ZpaPXBg) - Loic Bartolini (Septembre 2020)
+- [Podcast Science 459 – Le Cosmos et Nous, avec Sébastien Carassou](https://www.podcastscience.fm/emission/2021/11/25/podcast-science-459-le-cosmos-et-nous/) - Podcast Science (Novembre 2021)
 
 # Twitter
 
