@@ -143,6 +143,7 @@
 - [FAQ du cosmos avec @Darkastro85](https://www.instagram.com/tv/CPd4qg6IDf8/?utm_source=ig_web_button_share_sheet) - Instagram, Mai 2021
 - [live Mission Alpha | BLOB | Sortie Extravéhiculaire Thomas Pesquet | ARTE](https://www.youtube.com/watch?v=JBCrb6FNUT8) - ARTE, Juin 2021
 - Interview avec un astrophysicien - gdelaculturegeek, Novembre 2021
+- [Live avec Thomas Pesquet](https://www.lemonde.fr/sciences/article/2021/12/02/venez-discuter-en-direct-avec-thomas-pesquet-sur-notre-compte-tiktok_6104501_1650684.html) - Le Monde, Décembre 2021
 
 ## Séries TV
 
