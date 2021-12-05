@@ -144,6 +144,7 @@
 - [live Mission Alpha | BLOB | Sortie Extravéhiculaire Thomas Pesquet | ARTE](https://www.youtube.com/watch?v=JBCrb6FNUT8) - ARTE, Juin 2021
 - Interview avec un astrophysicien - gdelaculturegeek, Novembre 2021
 - [Live avec Thomas Pesquet](https://www.lemonde.fr/sciences/article/2021/12/02/venez-discuter-en-direct-avec-thomas-pesquet-sur-notre-compte-tiktok_6104501_1650684.html) - Le Monde, Décembre 2021
+- [Cephalus Live #18 de Noël avec Sébastien Carassou](https://www.twitch.tv/videos/1225102311) - Cephalus LIve, Décembre 2021
 
 ## Séries TV
 
