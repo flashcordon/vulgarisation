@@ -290,6 +290,7 @@
 - [Pollution plastique, mort et conscience et toile cosmique](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-vendredi-28-mai-2021) - La méthode scientifique, Mai 2021
 - [On mise tout sur la physique](https://physique.u-paris.fr/actualites/webradio-ufr-de-physique) - Webradio UFR Physique Université Paris-Diderot
 - [Guerre spatiale, vie extraterrestre, trou noir, et fourmilier...](https://www.franceculture.fr/emissions/la-methode-scientifique/vie-extraterrestre-trou-noir-et-tamanoir) - La Méthode Scientifique, Novembre 2021
+- [Que nous apprennent les sciences du 21e siècle sur la Vie, l’Univers et le Reste ?](https://www.rfi.fr/fr/podcasts/autour-de-la-question/20211215-que-nous-apprennent-les-sciences-du-21-si%C3%A8cle-sur-la-vie-l-univers-et-le-reste?fbclid=IwAR2yRiyHmyzPldTlNI-mGJEwn4F3rf1GR7imjjqlJTtvdrvWaRKMTsQyV9g) - Autour de la Question, Décembre 2021
 
 # Podcasts
 
@@ -309,6 +310,7 @@
 - [#1 RENCONTRE - SEBASTIEN CARASSOU](https://open.spotify.com/episode/4TT0ecZAzL84EwBih6V3up?utm_campaign=twitter-player&utm_source=open&utm_medium=twitter&si=M9QZV4uRTkqcoNoQC_gQYA&autoplay=1&auto_play=true&t=1343006) - Podcast Indéscience, Février 2020
 - [#05 Portrait de voyageur (FEAT CAMILLE GIRY, ARNAUD HUCK et SEBASTIEN CARASSOU /Le sense of wonder/)](https://youtu.be/eWb-ZpaPXBg) - Loic Bartolini (Septembre 2020)
 - [Podcast Science 459 – Le Cosmos et Nous, avec Sébastien Carassou](https://www.podcastscience.fm/emission/2021/11/25/podcast-science-459-le-cosmos-et-nous/) - Podcast Science (Novembre 2021)
+- [Les grandes questions cosmiques ft. Sébastien Carassou (Astrozoom #10)](https://podcasts.futura-sciences.com/futura-futura-dans-les-etoiles/202112150500-les-grandes-questions-cosmiques-ft-sebastien-carassou-astroz.html) - Futura dans les étoiles, Décembre 2021
 
 # Twitter
 
