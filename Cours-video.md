@@ -166,3 +166,4 @@ En général, lorsque vous filmez un personnage, ne placez pas vos projecteurs  
 # Ressources pour aller plus loin
 
 - [La chaîne Youtube RougeVertBleu](https://www.youtube.com/channel/UCrEIilIgRtGlYlbR0QLHb5g)
+- [La chaîne Youtube Sci+](https://www.youtube.com/c/SciPlus/videos)
