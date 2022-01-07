@@ -316,6 +316,10 @@
 - [#6 Les mystères de la vie – Sébastien Carassou](http://dans-la-lune.fr/2021/12/18/6-les-mysteres-de-la-vie-sebastien-carassou/) - Dans la Lune, Décembre 2021
 - [Dans les secrets du Cosmos](https://www.lesechos.fr/idees-debats/livres/recit-dexplorateurs-dans-les-secrets-du-cosmos-1374600) - La Story, Décembre 2021
 
+# Plateaux télé
+
+- [28 Minutes le Club](https://www.arte.tv/fr/videos/103958-092-A/28-minutes/) - 28 Minutes, ARTE, Janvier 2022
+
 # Twitter
 
 - [Sébastien Carassou, astrophysicien et vidéaste sur la chaine Youtube Le Sense of Wonder](http://comscicomca.org/2018/02/11/sebastien-carassou-astrophysicien-et-videaste-sur-la-chaine-youtube-le-sense-of-wonder/) - Comscicomca, Février 2018
