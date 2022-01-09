@@ -203,6 +203,7 @@
 - [Le sens de la vie : vers une définition universelle du vivant ?](https://www.alcor.asso.universite-paris-saclay.fr/conference-de-rentree-sebastien-carassou/) - ALCOR, Septembre 2021
 - [A la recherche de la vie : sommes-nous seuls dans l'univers ?](https://www.conferentia.fr/products/a-la-recherche-de-la-vie-sommes-nous-seuls-dans-lunivers) - Conferentia, Septembre 2021
 - L'humanité dans son contexte cosmique - Les Apprentis pas Sages, Fête de la Science, Octobre 2021
+- [Comprendre le ciel : des mythes à la science](https://www.ville-montmorency.fr/mes-loisirs/vie-culturelle/programmation-culturelle/conference-comprendre-le-ciel-des-mythes-la) - Bibliothèque Aimé Césaire Montmorency, Janvier 2022
 
 # Articles de blog
 
