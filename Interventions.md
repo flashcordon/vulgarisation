@@ -260,6 +260,7 @@
 - [Destination Cosmos](https://www.francetvinfo.fr/replay-jt/france-3/19-20/jt-de-19-20-du-samedi-13-novembre-2021_4823159.html) - JT de France 3, Novembre 2021
 - [Voyages interstellaires: Raisons et solutions – avec Sébastien Carassou (Le Sense Of Wonder)](https://www.youtube.com/watch?v=akcgxCFxa4o) - The Flares, Novembre 2021
 - [Sébastien Carassou : « Transmettre le flambeau des grands vulgarisateurs scientifiques aux générations futures »](https://usbeketrica.com/fr/article/sebastien-carassou-transmettre-le-flambeau-des-grands-vulgarisateurs-scientifiques-aux-generations-futures?fbclid=IwAR2chB-mbz5PUZ5OMlXgo1Fvo3cfdkM2k6wH-QOIugyZmZShSXziJymnDOE) - Usbek & Rica, Novembre 2021
+- [Sense of Wonder : « L’astrophysique, un recul ultime sur le monde »](https://okaydoc.fr/sebastien-carassou-une-carriere-academique-aujourdhui-demande-des-sacrifices/) - Okay Doc, Janvier 2022
 
 # Tables rondes 
 - Table ronde "Les nouveaux héraults de la culture scientifique", IHEST, Janvier 2018
