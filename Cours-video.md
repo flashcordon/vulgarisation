@@ -10,6 +10,8 @@
 
 ## L'écriture de script
 
+- [Vidéo](https://www.youtube.com/watch?v=uc91nK_bQhY)
+
 - On va partir du principe que vous avez déjà déterminé le sujet de votre vidéo, son angle ainsi que son public cible.
 - À l’exception des formats improvisés comme le vlog, l’élaboration d’une vidéo de vulgarisation commence toujours par l’écriture d’un script. Ce script, c’est un texte qui contient l’intégralité du déroulé de votre vidéo et que vous allez réciter ou lire devant la caméra. À quoi ressemble-t-il, ce texte, en pratique ?
 
