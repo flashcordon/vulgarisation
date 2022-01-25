@@ -5,6 +5,7 @@
 - [Bien utiliser un GH5](#Bien-utiliser-un-GH5)
 - [Comment éclairer son tournage](#Comment-éclairer-son-tournage)
 - [Le cadrage](#Le-cadrage)
+- [Le son](#Le-son)
 
 ## L'écriture de script
 
@@ -183,6 +184,18 @@ En général, lorsque vous filmez un personnage, ne placez pas vos projecteurs  
 
 - ***La règle des tiers*** : cadrage 2/3 de l'image devant le personnage 1/3 devant lui (cf
 https://apprendre-la-photo.fr/la-composition-et-la-regle-des-tiers/# )
+
+# Le son
+
+- Ne pas utiliser le micro de la caméra
+- Ne pas saturer le micro
+- Si vous tournez dehors, utilisez une bonnette / un deadcat
+- Différentes sortes de micro : micro carvate, directionnel
+
+# Le montage
+
+Logiciels de montage gratuits :
+- Kdenlive
 
 # Ressources pour aller plus loin
 
