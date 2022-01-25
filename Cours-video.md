@@ -1,8 +1,23 @@
 # Débuter dans la vidéo sur Youtube
 
 *Table des matières*
+- [L'écriture de script](#Lécriture-de-script)
 - [Bien utiliser un GH5](#Bien-utiliser-un-GH5)
 - [Comment éclairer son tournage](#Comment-éclairer-son-tournage)
+
+## L'écriture de script
+
+- On va partir du principe que vous avez déjà déterminé le sujet de votre vidéo, son angle ainsi que son public cible.
+- À l’exception des formats improvisés comme le vlog, l’élaboration d’une vidéo de vulgarisation commence toujours par l’écriture d’un script. Ce script, c’est un texte qui contient l’intégralité du déroulé de votre vidéo et que vous allez réciter ou lire devant la caméra. À quoi ressemble-t-il, ce texte, en pratique ?
+
+### Anatomie d’un script de vidéo
+
+- Il n’y a pas UNE manière unique d’écrire un script de vidéo. Tout dépend de vos attentes, de votre ambition au niveau de la mise en scène et de vos contraintes en termes de temps et de ressources. Par contre, il y a quelques bonnes pratiques que je recommande en général.
+> * Un script ne se limite pas à un simple pavé de texte. Tout d’abord, il est divisé en blocs. Chaque bloc représente une séquence filmée, et chaque bloc est séparé par ce qu’on appelle un “cut”, c'est-à-dire un changement de séquence, que j’ai représenté par une barre oblique dans le texte. Un tel découpage vous permettra d’avoir une idée globale du rythme que vous allez donner à votre vidéo finale. S’il y a beaucoup de cuts, la vidéo aura tendance à être beaucoup plus nerveuse et dynamique que si l’intégralité de votre vidéo se déroule sur une même séquence. Un rythme bien maîtrisé peut être au service de votre message, tandis qu’un rythme mal maîtrisé peut-être une / source de nuisance pour votre public. C’est pourquoi il est souhaitable d’avoir une idée au préalable du placement des cuts dans votre script. 
+> * Autre point important, en particulier si vous tournez une vidéo face caméra, c’est que chaque bloc du script est coloré. Et chaque couleur correspond à ce qu’on appelle une ***valeur de plan***, c’est-à-dire une façon particulière de cadrer votre personnage ou vous-mêmes à l’image. Il existe une véritable grammaire visuelle dans les choix de valeurs de plan. Cette grammaire dépasse largement le cadre de cette vidéo, et si vous souhaitez en savoir plus, je vous renvoie vers les ressources disponibles en description. Pour résumer grossièrement, on va dire que plus votre personnage va prendre de la place à l’écran, plus vous allez créer une sensation d’intimité avec vos spectateurs et vos spectatrices. Maîtriser cette typologie vous permettra non seulement de transmettre plus clairement votre vision aux personnes avec qui vous allez collaborer sur votre vidéo, mais aussi de tirer parti de cette grammaire visuelle pour faire passer des messages ou des émotions particulières. Par exemple, dans ma propre pratique j’utilise en général 2 valeurs de plans : le plan taille pour développer des idées générales, par exemple pour introduire des concepts scientifiques, et le plan poitrine (écrire PLAN POITRINE) pour développer des points plus spécifiques. Vous pouvez par exemple détailler le fonctionnement d’une expérience scientifique associée aux concepts que vous avez introduit précédemment, ou encore raconter une anecdote particulière issue de l’histoire des sciences. Ces valeurs de plans sont régulièrement alternées afin de rythmer la vidéo.
+> * Les valeurs de plan et le découpage en séquences ne sont pas les seules indications que vous pouvez inclure dans votre script. Vous pouvez aussi y indiquer si vous souhaitez afficher du texte à l’écran, ou bien une image, une animation ou un extrait de film que vous avez le droit de réutiliser et qui illustre le concept que vous êtes en train de vulgariser.
+> * Enfin, comme au théâtre, un script de vidéo est en général entrecoupé de didascalies (écrire DIDASCALIES), qui vous renseigneront sur la mise en scène de votre vidéo, et qui vous aideront à mieux planifier votre tournage. Ces indications de mise en scène peuvent inclure des informations aussi diverses qu’une interaction avec un objet du décor, un changement de costume ou encore un changement de décor.
+- Plus votre script sera riche en informations de ce type, plus vous aurez une bonne vision d’ensemble de votre vidéo avant même de la tourner. Ces informations vous seront très utiles, à vous et à votre équipe pendant le tournage de votre vidéo, mais aussi pendant la phase dite de “post-production”, qui inclut le montage, l’étalonnage et le mixage.
 
 ## Bien utiliser un GH5
 
