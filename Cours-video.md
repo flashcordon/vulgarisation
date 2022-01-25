@@ -4,6 +4,7 @@
 - [L'écriture de script](#Lécriture-de-script)
 - [Bien utiliser un GH5](#Bien-utiliser-un-GH5)
 - [Comment éclairer son tournage](#Comment-éclairer-son-tournage)
+- [Le cadrage](#Le-cadrage)
 
 ## L'écriture de script
 
@@ -177,6 +178,11 @@ En général, lorsque vous filmez un personnage, ne placez pas vos projecteurs  
 ### Projecteurs LEDs abordables
 - [Mini Led Panel - Neewer](https://www.amazon.fr/Neewer-Photographie-R%C3%A9glables-Puissance-d%C3%89clairage/dp/B00OIVKALG/ref=asc_df_B00OIVKALG/?tag=googshopfr-21&linkCode=df0&hvadid=90669266932&hvpos=&hvnetw=g&hvrand=17262272202228023480&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9040869&hvtargid=pla-220287301252&psc=1): 55 euros
 - [RingLed - Neewer](https://www.amazon.fr/Neewer-Lumineux-Porte-Smartphone-Maquillage-Portrait/dp/B07F252MH2/ref=sr_1_5?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=ring+led+neewer&qid=1595864512&s=electronics&sr=1-5) 90 euros
+
+# Le cadrage
+
+- ***La règle des tiers*** : cadrage 2/3 de l'image devant le personnage 1/3 devant lui (cf
+https://apprendre-la-photo.fr/la-composition-et-la-regle-des-tiers/# )
 
 # Ressources pour aller plus loin
 
