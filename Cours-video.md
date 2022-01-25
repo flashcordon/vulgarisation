@@ -6,6 +6,7 @@
 - [Comment éclairer son tournage](#Comment-éclairer-son-tournage)
 - [Le cadrage](#Le-cadrage)
 - [Le son](#Le-son)
+- [Le montage](#Le-montage)
 
 ## L'écriture de script
 
@@ -201,3 +202,4 @@ Logiciels de montage gratuits :
 
 - [La chaîne Youtube RougeVertBleu](https://www.youtube.com/channel/UCrEIilIgRtGlYlbR0QLHb5g)
 - [La chaîne Youtube Sci+](https://www.youtube.com/c/SciPlus/videos)
+- [Tout sur comment je fais mes vidéos](https://scienceetonnante.com/2016/11/30/tout-sur-comment-je-fais-mes-videos/) - Science Etonnante
