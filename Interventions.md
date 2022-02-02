@@ -148,6 +148,7 @@
 - [BACKSEAT - avec Sébastien Carassou à 20h et Julien Denormandie à 21h](https://www.twitch.tv/videos/1228745518) - Backseat, Décembre 2021
 - [Sébastien Carassou est dans le Bouquin des Copains !](https://www.twitch.tv/videos/1232392234?filter=archives&sort=time) - Le Drenche, Décembre 2021
 - [Vulgari-quoi ❔ ft. Sébastien Carassou : découvrez les métiers de la vulgarisation scientifique 🎙️ !invité !sow](https://www.twitch.tv/videos/1263583567) - Space_thomalice, Janvier 2022
+- [WikipediaBattle #4 avec Sébastien Carassou et ElboughLeZoreil](https://www.youtube.com/watch?app=desktop&v=Tn6msxRxmPs) - Galacticamille, Janvier 2022
 
 ## Séries TV
 
