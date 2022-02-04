@@ -8,6 +8,10 @@
 - [Le son](#Le-son)
 - [Le montage](#Le-montage)
 
+## Cours sur mon site
+
+- [Comment vulgariser en vidéo](https://www.sebastiencarassou.com/post/l-art-peut-%C3%AAtre-chaotique-pas-votre-atelier) 
+
 ## L'écriture de script
 
 - [Vidéo](https://www.youtube.com/watch?v=uc91nK_bQhY)
