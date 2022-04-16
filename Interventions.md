@@ -298,6 +298,7 @@
 - [Que nous apprennent les sciences du 21e siècle sur la Vie, l’Univers et le Reste ?](https://www.rfi.fr/fr/podcasts/autour-de-la-question/20211215-que-nous-apprennent-les-sciences-du-21-si%C3%A8cle-sur-la-vie-l-univers-et-le-reste?fbclid=IwAR2yRiyHmyzPldTlNI-mGJEwn4F3rf1GR7imjjqlJTtvdrvWaRKMTsQyV9g) - Autour de la Question, Décembre 2021
 - [Michel Wieviorka et Sébastien Carassou](https://www.franceinter.fr/emissions/le-6-9/le-6-9-du-dimanche-26-decembre-2021) - Matinale de France Inter, Décembre 2021
 - [Dernières nouvelles du cosmos](https://podcast.ausha.co/recherche-en-cours/derniere-nouvelles-du-cosmos) - Recherche en cours (Alligre FM), Mars 2022
+- [Rencontre avec Sébastien Carassou, un spécialiste des galaxies](https://pages.rts.ch/la-1ere/programmes/cqfd/12985859-rencontre-avec-sebastien-carassou-un-specialiste-des-galaxies-15-04-2022.html?mediaShare=1) - RTS, Avril 2022
 
 # Podcasts
 
