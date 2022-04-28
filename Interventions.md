@@ -206,7 +206,7 @@
 - [A la recherche de la vie : sommes-nous seuls dans l'univers ?](https://www.conferentia.fr/products/a-la-recherche-de-la-vie-sommes-nous-seuls-dans-lunivers) - Conferentia, Septembre 2021
 - L'humanité dans son contexte cosmique - Les Apprentis pas Sages, Fête de la Science, Octobre 2021
 - [Comprendre le ciel : des mythes à la science](https://www.ville-montmorency.fr/mes-loisirs/vie-culturelle/programmation-culturelle/conference-comprendre-le-ciel-des-mythes-la) - Bibliothèque Aimé Césaire Montmorency, Janvier 2022
-- [Sommes nous seuls dans l'univers ?](https://www.sab-astro.fr/pour-le-public/conferences/250-14-04-22-sommes-nous-seuls.html) - SAB, Avril 2022
+- [Sommes nous seuls dans l'univers ?](https://www.youtube.com/watch?fbclid=IwAR25KjBGvgCfxPNslzZVZrZ8Fw08e1zdB0n1Qe-3WeqWrvAs7uY99v41iMo&v=b8jEPEi1O5o&feature=youtu.be) - SAB, Avril 2022
 
 # Articles de blog
 
