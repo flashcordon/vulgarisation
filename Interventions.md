@@ -149,6 +149,7 @@
 - [Sébastien Carassou est dans le Bouquin des Copains !](https://www.twitch.tv/videos/1232392234?filter=archives&sort=time) - Le Drenche, Décembre 2021
 - [Vulgari-quoi ❔ ft. Sébastien Carassou : découvrez les métiers de la vulgarisation scientifique 🎙️ !invité !sow](https://www.twitch.tv/videos/1263583567) - Space_thomalice, Janvier 2022
 - [WikipediaBattle #4 avec Sébastien Carassou et ElboughLeZoreil](https://www.youtube.com/watch?app=desktop&v=Tn6msxRxmPs) - Galacticamille, Janvier 2022
+- Sciences participatives avec Alice au pays des étoiles - collectif Conscience, Play Azur Festival, Mai 2022
 
 ## Séries TV
 
@@ -207,6 +208,7 @@
 - L'humanité dans son contexte cosmique - Les Apprentis pas Sages, Fête de la Science, Octobre 2021
 - [Comprendre le ciel : des mythes à la science](https://www.ville-montmorency.fr/mes-loisirs/vie-culturelle/programmation-culturelle/conference-comprendre-le-ciel-des-mythes-la) - Bibliothèque Aimé Césaire Montmorency, Janvier 2022
 - [Sommes nous seuls dans l'univers ?](https://www.youtube.com/watch?fbclid=IwAR25KjBGvgCfxPNslzZVZrZ8Fw08e1zdB0n1Qe-3WeqWrvAs7uY99v41iMo&v=b8jEPEi1O5o&feature=youtu.be) - SAB, Avril 2022
+- Les odeurs du cosmos - Play Azur Festival, Mai 2022
 
 # Articles de blog
 
