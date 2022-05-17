@@ -150,6 +150,7 @@
 - [Vulgari-quoi ❔ ft. Sébastien Carassou : découvrez les métiers de la vulgarisation scientifique 🎙️ !invité !sow](https://www.twitch.tv/videos/1263583567) - Space_thomalice, Janvier 2022
 - [WikipediaBattle #4 avec Sébastien Carassou et ElboughLeZoreil](https://www.youtube.com/watch?app=desktop&v=Tn6msxRxmPs) - Galacticamille, Janvier 2022
 - Sciences participatives avec Alice au pays des étoiles - collectif Conscience, Play Azur Festival, Mai 2022
+- [Comment les étoiles créent la matière](https://fb.watch/d3WfhR1QPI/) - Brief.science, Mai 2022
 
 ## Séries TV
 
