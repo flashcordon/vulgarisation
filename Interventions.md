@@ -352,6 +352,7 @@
 > * [FAQ sur l'histoire de la Terre](https://www.youtube.com/watch?v=tyUSIcdh-Tk&feature=youtu.be) 
 > * [Résolution du défi](https://www.youtube.com/watch?v=5XO1isj5DmA&feature=youtu.be)
 - [La médiation scientifique sur Twitter](https://www.echosciences-grenoble.fr/articles/atelier-cst-raconter-recherche-twitter) - Université Grenoble-Alpes, Février 2021
+- [Twitter pour la recherche](https://youtu.be/aRaelVQJUZ4) - Université de Poitiers, Mai 2022
 
 # Consultation scientifique
 
