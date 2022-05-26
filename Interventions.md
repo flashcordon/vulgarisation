@@ -151,6 +151,7 @@
 - [WikipediaBattle #4 avec Sébastien Carassou et ElboughLeZoreil](https://www.youtube.com/watch?app=desktop&v=Tn6msxRxmPs) - Galacticamille, Janvier 2022
 - Sciences participatives avec Alice au pays des étoiles - collectif Conscience, Play Azur Festival, Mai 2022
 - [Comment les étoiles créent la matière](https://youtu.be/cD6EbKO8SX4) - Brief.science, Mai 2022
+- Les OVNIs - Mash up, Mai 2022
 
 ## Séries TV
 
@@ -210,6 +211,7 @@
 - [Comprendre le ciel : des mythes à la science](https://www.ville-montmorency.fr/mes-loisirs/vie-culturelle/programmation-culturelle/conference-comprendre-le-ciel-des-mythes-la) - Bibliothèque Aimé Césaire Montmorency, Janvier 2022
 - [Sommes nous seuls dans l'univers ?](https://www.youtube.com/watch?fbclid=IwAR25KjBGvgCfxPNslzZVZrZ8Fw08e1zdB0n1Qe-3WeqWrvAs7uY99v41iMo&v=b8jEPEi1O5o&feature=youtu.be) - SAB, Avril 2022
 - Les odeurs du cosmos - Play Azur Festival, Mai 2022
+- Mon parcours dans la médiation scientifique - ED Seif, Mai 2022
 
 # Articles de blog
 
