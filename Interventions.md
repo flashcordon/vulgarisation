@@ -212,6 +212,7 @@
 - [Sommes nous seuls dans l'univers ?](https://www.youtube.com/watch?fbclid=IwAR25KjBGvgCfxPNslzZVZrZ8Fw08e1zdB0n1Qe-3WeqWrvAs7uY99v41iMo&v=b8jEPEi1O5o&feature=youtu.be) - SAB, Avril 2022
 - Les odeurs du cosmos - Play Azur Festival, Mai 2022
 - Mon parcours dans la médiation scientifique - ED Seif, Mai 2022
+- Sommes-nous seuls ? - Médiathèque de Tulle, Juin 2022
 
 # Articles de blog
 
