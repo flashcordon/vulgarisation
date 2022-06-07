@@ -29,3 +29,7 @@ Toutes les bonnes choses ont une fin, et l’univers lui-même ne fait pas excep
 ## Sommes-nous seuls ?
 
 Sommes-nous seuls dans l'univers ? Nul ne le sait. Mais nous vivons une époque particulière, car nous sommes sur le point de nous doter, pour la toute première fois de l'Histoire, d'outils qui pourraient nous permettre de répondre enfin à cette question millénaire. Dans cette conférence à la croisée de la biologie, de la philosophie et de l'astrophysique, on s'interrogera sur la nature de la vie et sur les conditions potentielles de son émergence, sur Terre et dans le cosmos. 
+
+## 2000 ans d'astronomie
+
+Toutes les sociétés du monde ont cherché un ordre dans le chaos des étoiles. Le ciel nocturne a permis aux navigateurs de se repérer dans l’espace, et aux civilisations agraires de se repérer dans le temps. Mais notre manière de concevoir l'ordre cosmique a énormément évolué au cours des deux derniers millénaires. Dans cette conférence, je vous propose un grand voyage dans le temps, à la découverte des personnalités qui ont marqué à jamais l'histoire de l'astronomie.
