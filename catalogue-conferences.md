@@ -45,4 +45,4 @@ XXX
 ## Les odeurs du cosmos
 
 L’astronomie est une science de l’image, et notre imaginaire collectif regorge de merveilleux clichés de mondes lointains et d’astres inaccessibles…
-Mais la vision n’est pas le seul sens que nous pouvons mobiliser pour appréhender ces objets : nous pouvons aussi les sentir. Grâce à la puissance de la spectroscopie (et de quelques témoignages d’astronautes), nous connaissons aujourd’hui l’odeur de la poussière lunaire, des profondeurs d’Uranus, de la surface d’une comète ou encore des nuages interstellaires situés près du centre galactique. Venez expérimenter ces odeurs par vous-mêmes ! 
+Mais la vision n’est pas le seul sens que nous pouvons mobiliser pour appréhender ces objets : nous pouvons aussi les sentir. Grâce à la puissance de la spectroscopie (et de quelques témoignages d’astronautes), nous connaissons aujourd’hui l’odeur de la poussière lunaire, des profondeurs d’Uranus, de la surface d’une comète ou encore des nuages interstellaires situés près du centre galactique. Dans cette conférence olfactive, vous aurez l'occasion d'expérimenter ces odeurs par vous-mêmes ! 
