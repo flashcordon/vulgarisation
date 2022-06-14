@@ -216,6 +216,7 @@
 - Les odeurs du cosmos - Play Azur Festival, Mai 2022
 - Mon parcours dans la médiation scientifique - ED Seif, Mai 2022
 - Sommes-nous seuls ? - Médiathèque de Tulle, Juin 2022
+- Sommes-nous seuls ? - Collège Saint-Bruno de la Tour du Pin, Tic & Sciences, Juin 2022
 
 # Articles de blog
 
