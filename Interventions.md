@@ -73,6 +73,7 @@
 - [Les phases de la Lune](https://www.youtube.com/watch?v=wlpNCqlU-Mo&feature=youtu.be) - Février 2020
 - [La machine océanique](https://youtu.be/JHVoXYYnIwQ) - Novembre 2020
 - [Le rôle régulateur de l’océan sur le climat](https://www.youtube.com/watch?v=UuZcOV2o6w0) - Mai 2021
+- [Billes de sciences #53 : Sébastien Carassou - Biodiversité marine et changement climatique](https://www.youtube.com/watch?v=5b0FDeqoMQs) - Juin 2022
 
 ## Collabs et caméos
 
@@ -217,6 +218,7 @@
 - Mon parcours dans la médiation scientifique - ED Seif, Mai 2022
 - Sommes-nous seuls ? - Médiathèque de Tulle, Juin 2022
 - Sommes-nous seuls ? - Collège Saint-Bruno de la Tour du Pin, Tic & Sciences, Juin 2022
+- [Mondes imag(in)és](https://una-volta.com/paysages-cosmiques/) - Una Volta, Juin 2022
 
 # Articles de blog
 
