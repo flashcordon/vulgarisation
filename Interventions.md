@@ -75,6 +75,14 @@
 - [Le rôle régulateur de l’océan sur le climat](https://www.youtube.com/watch?v=UuZcOV2o6w0) - Mai 2021
 - [Billes de sciences #53 : Sébastien Carassou - Biodiversité marine et changement climatique](https://www.youtube.com/watch?v=5b0FDeqoMQs) - Juin 2022
 
+## Etonnante Chimie
+
+- [Étonnante chimie | 80 chercheuses et chercheurs racontent l’inattendu (teaser)](https://www.youtube.com/watch?v=5rh7Nmdon_A) - CNRS, Avril 2021
+- [L’alchimie des origines | Étonnante chimie](https://youtu.be/gfXae8MPoj8) - CNRS, Avril 2021
+- [Déchets nos trésors cachés | Étonnante chimie](https://youtu.be/fnk31g-4SRw) - CNRS, Septembre 2021
+- [Batteries du futur | Étonnante chimie](https://youtu.be/pRqC_43Msl4) - CNRS, Décembre 2021
+- [Faire mieux avec moins | Étonnante chimie](https://www.youtube.com/watch?v=FVAqZP8vk7g) - CNRS, Décembre 2021
+
 ## Collabs et caméos
 
 - [Hors série: La fonte des glaces. Avec Florence Porcel, Axolot, et Le sense of wonder](https://youtu.be/syL0pw3Ct-g) - This is Science, Novembre 2015
@@ -170,10 +178,7 @@
 - [COMMENT DEVENIR ASTROPHYSICIEN ? ft. Sébastien Carassou](https://youtu.be/HAmxBo3n-4M?list=WL) - Passion Astronomie, Mai 2020
 - [360 degrés avec Le Sense Of Wonder](https://www.youtube.com/watch?v=rgtpH9Kakxo) - Fête de la science Sorbonne Université, Octobre 2020
 - [Your way to space](https://www.youtube.com/watch?v=EmqNg_PRDeA) - Duck Factory / ESA, Mars 2021
-- [Étonnante chimie | 80 chercheuses et chercheurs racontent l’inattendu (teaser)](https://www.youtube.com/watch?v=5rh7Nmdon_A) - CNRS, Avril 2021
-- [L’alchimie des origines | Étonnante chimie](https://youtu.be/gfXae8MPoj8) - CNRS, Avril 2021
 - [Vulgariser en vidéo : le script](https://www.youtube.com/watch?v=uc91nK_bQhY) - Raccoursci, Mai 2021
-- [Déchets nos trésors cachés | Étonnante chimie](https://youtu.be/fnk31g-4SRw) - CNRS, Septembre 2021
 
 # Conférences
 
