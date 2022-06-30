@@ -50,10 +50,25 @@
 
 # Le système solaire interne
 
-## Le Soleil
+## 1. Le Soleil
 
 - [Pourquoi le Soleil brille-t-il?](https://www.pourlascience.fr/sd/astronomie/pourquoi-le-soleil-brille-t-il-4222.php) - Roland Lehoucq
 - [Voyage au centre du Soleil](https://www.cea.fr/comprendre/Pages/matiere-univers/soleil.aspx?Type=Chapitre&numero=2) - CEA
 - [L’image du mois de mai 2015 : Protubérance solaire](https://saplimoges.fr/limage-du-mois-de-mai-2015-protuberance-solaire/) - Michel Vampouille
 - [La couronne](https://media4.obspm.fr/public/ressources_lu/pages_introduction-soleil/so-couronne.html) - Observatoire de Paris
 - [Our Sun](https://solarsystem.nasa.gov/solar-system/sun/in-depth/) - NASA
+- Le Soleil
+
+## 2. Mercure
+
+- [Mercury](https://solarsystem.nasa.gov/planets/mercury/in-depth/) - NASA
+- [BepiColombo, studying how Mercury formed](https://www.planetary.org/space-missions/bepicolombo) - Planetary Society
+- [Mercure, le monde des extrêmes](https://www.futura-sciences.com/sciences/actualites/soleil-mercure-monde-extremes-91696/) - Futura Sciences
+- [Mercure est bien loin d’être une Lune-bis](https://www.pourlascience.fr/sd/planetologie/mercure-est-bien-loin-d-etre-une-lune-bis-14734.php) - Pour la Science
+- [Three reasons why we know so little about Mercury](https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Three_reasons_why_we_know_so_little_about_Mercury) - ESA
+- [Permanently shadowed, radar-bright regions on Mercury](https://www.planetary.org/space-images/permanently-shadowed-radar-bright-mercury) - Planetary Society
+- [On sait pourquoi Mercure a un si gros cœur de fer](https://www.futura-sciences.com/sciences/actualites/mercure-on-sait-mercure-si-gros-coeur-fer-92360/) - Futura Sciences
+- [Mercure, la planète qui se ratatine](https://www.lemonde.fr/passeurdesciences/article/2014/03/16/mercure-la-planete-qui-se-ratatine_5999016_5470970.html) - Pierre Barthélémy
+- [Mercury, world of extremes](https://www.planetary.org/worlds/mercury) - Planetary Society
+- [Mercury](https://www.youtube.com/watch?v=P3GkZe3nRQ0) - Crash Course Astronomy
+- Dernières Nouvelles des planètes - Charles Frankel (Seuil, 2009)
