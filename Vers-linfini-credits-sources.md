@@ -47,3 +47,13 @@
 - [One Small Step For Man](https://www.youtube.com/watch?v=Z9WDsgCIroE) - NASA
 - [Six Flags on the Moon: What is Their Current Condition?](https://www.hq.nasa.gov/alsj/ApolloFlags-Condition.html) - Eric Jones
 - [All the American Flags On the Moon Are Now White](https://gizmodo.com/all-the-american-flags-on-the-moon-are-now-white-5930450) - Jesus Diaz
+
+# Le système solaire interne
+
+## Le Soleil
+
+- [Pourquoi le Soleil brille-t-il?](https://www.pourlascience.fr/sd/astronomie/pourquoi-le-soleil-brille-t-il-4222.php) - Roland Lehoucq
+- [Voyage au centre du Soleil](https://www.cea.fr/comprendre/Pages/matiere-univers/soleil.aspx?Type=Chapitre&numero=2) - CEA
+- [L’image du mois de mai 2015 : Protubérance solaire](https://saplimoges.fr/limage-du-mois-de-mai-2015-protuberance-solaire/) - Michel Vampouille
+- [La couronne](https://media4.obspm.fr/public/ressources_lu/pages_introduction-soleil/so-couronne.html) - Observatoire de Paris
+- [Our Sun](https://solarsystem.nasa.gov/solar-system/sun/in-depth/) - NASA
