@@ -57,7 +57,7 @@
 - [L’image du mois de mai 2015 : Protubérance solaire](https://saplimoges.fr/limage-du-mois-de-mai-2015-protuberance-solaire/) - Michel Vampouille
 - [La couronne](https://media4.obspm.fr/public/ressources_lu/pages_introduction-soleil/so-couronne.html) - Observatoire de Paris
 - [Our Sun](https://solarsystem.nasa.gov/solar-system/sun/in-depth/) - NASA
-- Le Soleil
+- Soleil - Christian Ngô, Jean-Claude Vial et Jean-Pierre Verdet (Fayard, 2004)
 
 ## 2. Mercure
 
