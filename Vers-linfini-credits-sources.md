@@ -27,4 +27,7 @@
 
 ## 3. Le vaisseau
 
-- []() - 
+- [The warp drive: hyper-fast travel within general relativity](https://iopscience.iop.org/article/10.1088/0264-9381/11/5/001) - Miguel Alcubierre (1994)
+- [Reduced Total Energy Requirements for the Original Alcubierre and Natario Warp Drive Spacetimes-the Role of Warp Factors](https://hal.archives-ouvertes.fr/hal-00599640/document) - Fernando Loup (2011)
+- [Positive Energy Warp Drive from Hidden Geometric Structures](https://arxiv.org/pdf/2104.06488.pdf) - Fell et Heisenberg (2021)
+- [Are warp drives science now?](https://www.youtube.com/watch?v=YdVIBlyiyBA) - Sabine Hossenfelder
