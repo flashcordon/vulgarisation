@@ -14,4 +14,5 @@
 
 ## 1. Décollage
 
-- [Astronauts say riding Falcon 9 rocket was “totally different” from the space shuttle](https://spaceflightnow.com/2020/06/12/astronauts-say-riding-falcon-9-rocket-was-totally-different-from-the-space-shuttle/)
+- [Astronauts say riding Falcon 9 rocket was “totally different” from the space shuttle](https://spaceflightnow.com/2020/06/12/astronauts-say-riding-falcon-9-rocket-was-totally-different-from-the-space-shuttle/) - Space Flight Now
+- [Crew-1 Mission | Launch](https://www.youtube.com/watch?v=bnChQbxLkkI&feature=youtu.be) - SpaceX
