@@ -72,3 +72,13 @@
 - [Mercury, world of extremes](https://www.planetary.org/worlds/mercury) - Planetary Society
 - [Mercury](https://www.youtube.com/watch?v=P3GkZe3nRQ0) - Crash Course Astronomy
 - Dernières Nouvelles des planètes - Charles Frankel (Seuil, 2009)
+
+## 3. Vénus
+
+- [Venus](https://solarsystem.nasa.gov/planets/venus/in-depth/#otp_structure) - NASA
+- [Vénus n'a probablement jamais eu d'océan à sa surface !](https://www.futura-sciences.com/sciences/actualites/venus-venus-na-probablement-jamais-eu-ocean-surface-94144/) - Nathalie Mayer, Futura Sciences
+- [Day–night cloud asymmetry prevents early oceans on Venus but not on Earth ](https://hal-univ-pau.archives-ouvertes.fr/L3AB/insu-03381670v1) - Turbet et al. (2021)
+- [Quand la Terre était une boule de neige](https://lejournal.cnrs.fr/articles/quand-la-terre-etait-une-boule-de-neige) - Anne-Sophie Boutaud, Journal du CNRS
+- [Surface winds on Venus: Probability distribution from in-situ measurements](https://www.sciencedirect.com/science/article/abs/pii/S0019103515004509) - Lorenz (2016)
+- [Bimodal distribution of sulfuric acid aerosols in the upper haze of Venus](https://www.sciencedirect.com/science/article/abs/pii/S0019103513004326?casa_token=w-uQOfYUX-4AAAAA:uJ2wdNPhjaQAXU4fO8AEa5wG6nTamwgDzlj-qR42VTBDDNbn6uMCHHehR6qLfPdsb7815LOTLw) - Gao et al. (2014)
+- The Solar System - Michael Seeds (Brooks/Cole, 2015)
