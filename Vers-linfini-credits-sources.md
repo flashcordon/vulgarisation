@@ -116,3 +116,6 @@
 - [Pour en savoir plus : la nature des comètes](https://www.futura-sciences.com/sciences/dossiers/astronomie-cometes-ces-visiteuses-soir-138/page/6/) - Franck Menant, Futura Sciences
 - [Le débat sur l’origine cométaire des océans terrestres est-il relancé ?](https://lesia.obspm.fr/Le-debat-sur-l-origine-cometaire.html) - LESIA
 - [L'eau dans les comètes](https://www.cnrs.fr/cw/dossiers/doseau/decouv/univers/eauCometes.html) - Jacques Croivisier
+
+# Le système solaire externe
+
