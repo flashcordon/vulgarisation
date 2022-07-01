@@ -101,3 +101,18 @@
 - [La ceinture d'astéroides](https://www.astrofiles.net/asteroides) - Astrofiles
 - [Découverte de plusieurs volcans de glace sur une planète naine](https://www.nationalgeographic.fr/espace/decouverte-de-plusieurs-volcans-de-glace-sur-une-planete-naine) - National Geographic
 - [Asteroid Belt: Facts & Formation](https://www.space.com/16105-asteroid-belt.html) - Nola Taylor, Space.com
+- [The Asteroid Belt: Not What You Think!](https://www.youtube.com/watch?v=DrbCAoiyUNw) - Scishow Space
+
+## 6. La comète Tchouri
+
+- [67P/ Churyumov-Gerasimenko](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/) - NASA
+- [67P/Tchourioumov-Guérassimenko](https://fr.wikipedia.org/wiki/Com%C3%A8te#Description) - Wikipédia
+- [The Philae lander mission and science overview](https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0248) - Boehnhardt et al. (2017)
+- [Origine(s) de l'eau sur Terre](https://planet-terre.ens-lyon.fr/ressource/origine-eau-sur-Terre.xml) - Pierre Thomas
+- [Rosetta et la comète 67P/Churyumov-Gerasimenko : résultats scientifiques publiés à partir des données du survol rapproché d'août et septembre 2014](https://planet-terre.ens-lyon.fr/ressource/Rosetta-Chury-Science-janvier-2015.xml) - Pierre Thomas
+- [Les queues des comètes](http://cometes.obspm.fr/fr/queues-cometes.html) - Observatoire de Paris-Meudon
+- [INFOGRAPHIE. Comment sait-on que l'eau de la comète Tchouri est différente de celle que l'on trouve sur Terre ?](https://www.sciencesetavenir.fr/espace/infographie-comment-sait-on-que-l-eau-de-la-comete-tchouri-est-differente-de-celle-que-l-on-trouve-sur-terre_34398) - Sciences & Avenir
+- [Jean-Pierre Bibring: «Les comètes ne sont pas des boules de neige sale»](https://www.lefigaro.fr/sciences/2016/09/29/01008-20160929ARTFIG00281-les-cometes-ne-sont-pas-des-boules-de-neige-sale.php) - Le Figaro
+- [Pour en savoir plus : la nature des comètes](https://www.futura-sciences.com/sciences/dossiers/astronomie-cometes-ces-visiteuses-soir-138/page/6/) - Franck Menant, Futura Sciences
+- [Le débat sur l’origine cométaire des océans terrestres est-il relancé ?](https://lesia.obspm.fr/Le-debat-sur-l-origine-cometaire.html) - LESIA
+- [L'eau dans les comètes](https://www.cnrs.fr/cw/dossiers/doseau/decouv/univers/eauCometes.html) - Jacques Croivisier
