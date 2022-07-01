@@ -82,3 +82,11 @@
 - [Surface winds on Venus: Probability distribution from in-situ measurements](https://www.sciencedirect.com/science/article/abs/pii/S0019103515004509) - Lorenz (2016)
 - [Bimodal distribution of sulfuric acid aerosols in the upper haze of Venus](https://www.sciencedirect.com/science/article/abs/pii/S0019103513004326?casa_token=w-uQOfYUX-4AAAAA:uJ2wdNPhjaQAXU4fO8AEa5wG6nTamwgDzlj-qR42VTBDDNbn6uMCHHehR6qLfPdsb7815LOTLw) - Gao et al. (2014)
 - The Solar System - Michael Seeds (Brooks/Cole, 2015)
+
+## 4. Mars
+
+- [Mars](https://solarsystem.nasa.gov/planets/mars/in-depth/) - NASA
+- [Valles Marineris: The Grand Canyon of Mars](https://www.nasa.gov/multimedia/imagegallery/image_feature_83.html) - NASA
+- [De l’eau sur Mars ? Mieux, c’était un océan…](https://theconversation.com/de-leau-sur-mars-mieux-cetait-un-ocean-175084) - Frédéric Schmidt, The Conversation
+- [Why is there so little water left on Mars?](https://theconversation.com/why-is-there-so-little-water-left-on-mars-163333) - Franck Montmessin, The Conversation
+- [Au plus près de la Terre, Mars nous dévoile Olympus Mons](https://blogs.futura-sciences.com/feldmann/2020/10/06/au-plus-pres-de-la-terre-mars-nous-devoile-olympus-mons/) - Jean-Baptiste Feldmann
