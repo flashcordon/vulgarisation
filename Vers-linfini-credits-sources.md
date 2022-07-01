@@ -90,3 +90,14 @@
 - [De l’eau sur Mars ? Mieux, c’était un océan…](https://theconversation.com/de-leau-sur-mars-mieux-cetait-un-ocean-175084) - Frédéric Schmidt, The Conversation
 - [Why is there so little water left on Mars?](https://theconversation.com/why-is-there-so-little-water-left-on-mars-163333) - Franck Montmessin, The Conversation
 - [Au plus près de la Terre, Mars nous dévoile Olympus Mons](https://blogs.futura-sciences.com/feldmann/2020/10/06/au-plus-pres-de-la-terre-mars-nous-devoile-olympus-mons/) - Jean-Baptiste Feldmann
+
+## 5. La ceinture d'astéroides
+
+- [Asteroids](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/asteroids/in-depth/) - NASA
+- [asteroid belt](https://en.wikipedia.org/wiki/Asteroid_belt) - Wikipédia
+- [La ceinture des astéroides](http://www.astrosurf.com/luxorion/sysol-asteroides2.htm) - Luxorion
+- [The vanishing cryovolcanoes of Ceres](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016GL072319) - Sori et al. (2017)
+- [Young Cryovolcano on Ceres](https://www.youtube.com/watch?v=-6nxKqPIUkE) - NASA Goddard
+- [La ceinture d'astéroides](https://www.astrofiles.net/asteroides) - Astrofiles
+- [Découverte de plusieurs volcans de glace sur une planète naine](https://www.nationalgeographic.fr/espace/decouverte-de-plusieurs-volcans-de-glace-sur-une-planete-naine) - National Geographic
+- [Asteroid Belt: Facts & Formation](https://www.space.com/16105-asteroid-belt.html) - Nola Taylor, Space.com
