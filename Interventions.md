@@ -47,6 +47,8 @@
 - [Live - DU BIG BANG AUX BIG BANDS 2021](https://youtu.be/8RzsK2HhPXI) - Juillet 2021
 - [DU BIG BANG AUX BIG BANDS 2021 - Suite et fin](https://youtu.be/0usL7Trikmo) - Juillet 2021
 - [Ce livre contient TOUT l'univers !](https://www.youtube.com/watch?v=PBlFM3SmK44) - Novembre 2021
+- [Téléporter des scientifiques sur Mars - #leSOW 8](https://www.youtube.com/watch?v=TBz9MsS7q70) - Décembre 2021
+- [Live - Du Big Bang aux Big Bands #3](https://youtu.be/NQSqjRdtZYo) - Juillet 2022
 
 ## String Theory
 
