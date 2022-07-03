@@ -75,7 +75,7 @@
 - [Les phases de la Lune](https://www.youtube.com/watch?v=wlpNCqlU-Mo&feature=youtu.be) - Février 2020
 - [La machine océanique](https://youtu.be/JHVoXYYnIwQ) - Novembre 2020
 - [Le rôle régulateur de l’océan sur le climat](https://www.youtube.com/watch?v=UuZcOV2o6w0) - Mai 2021
-- [Billes de sciences #53 : Sébastien Carassou - Biodiversité marine et changement climatique](https://www.youtube.com/watch?v=5b0FDeqoMQs) - Juin 2022
+- [Biodiversité marine et changement climatique](https://www.youtube.com/watch?v=5b0FDeqoMQs) - Juin 2022
 
 ## Etonnante Chimie
 
