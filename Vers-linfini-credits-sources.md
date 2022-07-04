@@ -186,6 +186,22 @@
 
 ## 6. Uranus
 
+- [Uranus, la géante glacée](https://www.stelvision.com/astro/uranus-la-geante-glacee/) - Stelvision
+- [A New Approach to Tilting Uranus](https://aasnova.org/2020/03/10/a-new-approach-to-tilting-uranus/) - Zeeve Rogoszinski et Douglas Hamilton, Astrobites
+- [What is the temperature of Uranus?](https://www.space.com/18707-uranus-temperature.html) -  Daisy Dobrijevic , Nola Taylor Tillman, Space.com
+- [Encyclopedia of the Solar System](https://books.google.fr/books?id=G7UtYkLQoYoC&pg=PA414&lpg=PA414&dq=composition+uranus+80%25&source=bl&ots=jHRi3Ys2FR&sig=ACfU3U3S8T-y8r3XtaPaNOGF6JgoWEnyPA&hl=fr&sa=X&ved=2ahUKEwix1qLEnc31AhWoxYUKHb3NACYQ6AF6BAgkEAM#v=onepage&q=composition%20uranus%2080%25&f=false) - Lucy-Ann McFadden, Torrence Johnson, Paul Weissman
+- [Atmospheric chemistry on Uranus and Neptune](https://hal.archives-ouvertes.fr/hal-03366547/document) - Moses et al. (2020)
+- [Uranus: The Planet on a Very Tilted Axis](https://science.howstuffworks.com/46008-uranus-explained.htm) -  Mark Mancini, How Stuff Works
+- [Detection of hydrogen sulfide above the clouds in Uranus’s atmosphere](https://www.nature.com/articles/s41550-018-0432-1) - Irwin et al. (2018)
+- [Magnetic fields of Uranus and Neptune: Metallic fluid hydrogen](https://aip.scitation.org/doi/pdf/10.1063/1.4971621) - W. J. Nellis
+- [Uranus & Neptune: Crash Course Astronomy #19](https://youtu.be/1hIwD17Crko) - Crash Course Astronomy
+- [Tilted magnetic fields](https://ase.tufts.edu/cosmos/view_picture.asp?id=1004) - Kenneth R. Lang
+- [The Magnetic Poles of Uranus](https://www.windows2universe.org/uranus/uranus_magnetic_poles.html) - Windows to the universe  
+- [What Color is Uranus?](https://www.universetoday.com/18867/color-of-uranus/) - Fraser Cain, Universe Today
+- [URANUS, planète](https://www.universalis.fr/encyclopedie/uranus-planete/2-les-anneaux/) - Universalis
+- [Anneaux d'Uranus](https://fr.wikipedia.org/wiki/Anneaux_d%27Uranus) - 
+- Drifting on Alien Winds: Exploring the Skies and Weather of Other Worlds - Michael Carroll (Springer, 2011)
+
 - []() - 
 - []() - 
 - []() - 
