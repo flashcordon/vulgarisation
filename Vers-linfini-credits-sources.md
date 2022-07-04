@@ -131,3 +131,35 @@
 - [Juno révèle les dessous de Jupiter et de sa Grande Tache rouge](https://www.futura-sciences.com/sciences/actualites/jupiter-juno-revele-dessous-jupiter-grande-tache-rouge-94534/) - Nathalie Mayer, Futura Sciences
 - [Juno révèle l’exquise finesse des aurores de Jupiter](https://www.news.uliege.be/cms/c_10137122/fr/juno-revele-l-exquise-finesse-des-aurores-de-jupiter) - Université de Liège
 - [Les aurores polaires de Jupiter sont différentes des aurores terrestres ](https://www.ca-se-passe-la-haut.fr/2017/09/les-aurores-polaires-de-jupiter-sont.html) - Ca se passe là-haut
+
+## 2. Europe (lune de Jupiter)
+
+- [Europa](https://solarsystem.nasa.gov/moons/jupiter-moons/europa/in-depth/) - NASA
+- [Europa, Jupiter’s possible watery moon](https://www.planetary.org/worlds/europa) - Planetary Society
+- [Galileo magnetometer measurements: a stronger case for a subsurface ocean at Europa](https://pubmed.ncbi.nlm.nih.gov/10958778/) - Kivelson et al. (2000)
+- [Les satellites de Jupiter](https://www.astronomes.com/systeme-solaire-externe/les-satellites-de-jupiter/) - Olivier Esslinger
+- [Giant Water Plume Detected Again on Jupiter Moon Europa](https://www.space.com/36464-jupiter-moon-europa-water-plume-hubble.html) - Mike Wall, Space.com
+- Ocean worlds - Jan Zalasiewicz et Mark Williams (Oxford Press, 2017)
+- The Solar System - Michael Seeds (Brooks/Cole, 2015)
+
+## 3. Io (lune de Jupiter)
+
+- [Io (lune)](https://fr.wikipedia.org/wiki/Io_(lune)) - Wikipédia
+- [Magnétosphère de Jupiter - Définition et Explications](https://www.techno-science.net/glossaire-definition/Magnetosphere-de-Jupiter.html) - Techno-science.net 
+- [Looking at Io's Volcanoes Since Galileo](https://www.planetary.org/articles/looking-at-ios-volcanoes) - Planetary Society
+- [Exposing Io's true colors](https://www.planetary.org/articles/2629) - Planetary Society
+- [Io, la lune la plus volcanique du système solaire](https://www.nationalgeographic.fr/espace/2019/07/io-la-lune-la-plus-volcanique-du-systeme-solaire) - National Geographic
+- [Io's surface composition](https://lasp.colorado.edu/home/mop/files/2018/07/Chapter-9.pdf) - Robert W. Carlson, Jeff S. Karge!, Sylvain Doute, Laurence A. Soderblom, et J. Brad Dalton
+
+## 4. Saturne
+
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
