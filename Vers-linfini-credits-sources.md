@@ -223,6 +223,19 @@
 
 ## 8. Triton (lune de Neptune)
 
+- [Triton](https://solarsystem.nasa.gov/moons/neptune-moons/triton/in-depth/) - NASA
+- [Triton (lune)](https://fr.wikipedia.org/wiki/Triton_(lune)) - Wikipédia
+- [EXPLORING TRITON WITH TRIDENT: A DISCOVERY-CLASS MISSION](https://www.hou.usra.edu/meetings/lpsc2019/pdf/3188.pdf) - rockter et al. (2019)
+- [Welcome To Triton, Neptune’s Bizarre ‘Wet Moon’ That Could Change Where We Look For Alien Life](https://www.forbes.com/sites/jamiecartereurope/2019/09/10/welcome-to-triton-neptunes-bizarre-wet-moon-that-could-change-where-we-look-for-alien-life/) - Jamie Carter, Forbes
+- [How Neptune’s Triton Destroyed Nearly All Of Its Moons](https://www.forbes.com/sites/startswithabang/2020/08/27/how-neptunes-triton-destroyed-nearly-all-of-its-moons/) - Ethan Siegel, Forbes
+- [The NASA Roadmap to Ocean Worlds](https://www.liebertpub.com/doi/full/10.1089/ast.2018.1955) - Hendrix et al. (2019)
+- [What lies beneath Triton's ice](https://astronomy.com/magazine/2019/08/what-lies-beneath-tritons-ice) - Nola Taylor Redd, Astronomy.com
+- [Pourquoi la Nasa devrait absolument explorer Triton, la lune bizarre de Neptune](https://www.numerama.com/sciences/631142-pourquoi-la-nasa-devrait-absolument-explorer-triton-la-lune-bizarre-de-neptune.html) - Nelly Sesage, Numerama
+- [Where the geysers on Neptune’s moon, Triton, come from](https://hard-sf.com/where-the-geysers-on-neptunes-moon-triton-come-from/) - Hard Science Fiction
+- [Triton: Fascinating Moon, Likely Ocean World, Compelling Destination !](https://assets.pubpub.org/kitmw0gh/31617915406778.pdf) - Hansen et al.
+
+## 9. Pluton
+
 - []() - 
 - []() - 
 - []() - 
