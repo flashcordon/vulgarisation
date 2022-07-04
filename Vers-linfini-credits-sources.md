@@ -236,6 +236,21 @@
 
 ## 9. Pluton
 
+- [Pluto](https://solarsystem.nasa.gov/planets/dwarf-planets/pluto/in-depth/) - NASA
+- [Pluton (planète naine)](https://fr.wikipedia.org/wiki/Pluton_(plan%C3%A8te_naine)) - Wikipédia
+- [Pluto revealed: 5 years ago, NASA's New Horizons gave us our first close look at this distant world](https://www.space.com/pluto-flyby-new-horizons-fifth-anniversary.html) - Mike Wall, Space.com
+- [5 years after New Horizons flyby, 10 cool things about Pluto](https://earthsky.org/space/new-horizons-flyby-10-cool-things-about-pluto/) - EarthSky
+- [What would the Sun look like from Pluto? ](https://coolcosmos.ipac.caltech.edu/ask/153-What-would-the-Sun-look-like-from-Pluto-) - Cool Cosmos
+- [A man’s cremated ashes are heading to Pluto on a space probe, and it’s the longest known post-mortem flight](https://www.businessinsider.com/cremated-ashes-pluto-space-probe-2018-10?r=US&IR=T) - Business Insider
+- [Today in science: Clyde Tombaugh discovers Pluto](https://earthsky.org/space/clyde-tombaugh-discovered-pluto-on-february-18-1930/) - Earthsky
+- [Tombaugh's discovery of Pluto revolutionized knowledge of our solar system](https://phys.org/news/2020-02-tombaugh-discovery-pluto-revolutionized-knowledge.html) - Physorg
+- [Le 29 juillet 2005, la découverte d’Eris et le jour où Pluton cessa d’être une planète](https://www.sciencesetavenir.fr/espace/systeme-solaire/le-29-juillet-2005-la-decouverte-d-eris-et-le-jour-ou-pluton-cessa-d-etre-une-planete_146370) - Antoine Duval, Sciences et Avenir
+- [Pluton et Charon](https://www.astronomes.com/systeme-solaire-externe/pluton-et-charon/) - Olivier Esslinger
+- [Cracking the mystery of nitrogen ice dynamics on Pluto](https://www.cnrs.fr/en/cracking-mystery-nitrogen-ice-dynamics-pluto) - CNRS
+- [Comment le « cœur » gelé à la surface de Pluton influencerait ses vents ](https://www.numerama.com/sciences/603830-comment-le-coeur-gele-a-la-surface-de-pluton-influencerait-ses-vents.html) - Nelly Lesage, Numerama
+- [Pluton : la dynamique des glaces d'azote dans la plaine Sputnik enfin expliquée ?](https://www.futura-sciences.com/sciences/actualites/espace-pluton-dynamique-glaces-azote-plaine-sputnik-enfin-expliquee-95640/) - Gaspard Salomon, Futura Sciences
+- [Sur Pluton, la glace d’azote se comporte plus comme les océans terrestres que comme de la roche](https://new-horizons.cnes.fr/fr/sur-pluton-la-glace-dazote-se-comporte-plus-comme-les-oceans-terrestres-que-comme-de-la-roche) - CNES
+
 ## 10. Les frontières du système solaire
 
 - [Real World: Limits of the Solar System](https://www.youtube.com/watch?v=4q4ocW7tuG8&feature=youtu.be) - NASA
