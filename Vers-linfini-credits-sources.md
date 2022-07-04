@@ -149,7 +149,7 @@
 - [Looking at Io's Volcanoes Since Galileo](https://www.planetary.org/articles/looking-at-ios-volcanoes) - Planetary Society
 - [Exposing Io's true colors](https://www.planetary.org/articles/2629) - Planetary Society
 - [Io, la lune la plus volcanique du système solaire](https://www.nationalgeographic.fr/espace/2019/07/io-la-lune-la-plus-volcanique-du-systeme-solaire) - National Geographic
-- [Io's surface composition](https://lasp.colorado.edu/home/mop/files/2018/07/Chapter-9.pdf) - Robert W. Carlson, Jeff S. Karge!, Sylvain Doute, Laurence A. Soderblom, et J. Brad Dalton
+- [Io's surface composition](https://lasp.colorado.edu/home/mop/files/2018/07/Chapter-9.pdf) - Robert W. Carlson, Jeff S. Karge, Sylvain Doute, Laurence A. Soderblom, et J. Brad Dalton
 
 ## 4. Saturne
 
@@ -173,6 +173,18 @@
 - [A brief astronomical history of Saturn’s amazing rings](https://theconversation.com/a-brief-astronomical-history-of-saturns-amazing-rings-120945) - Vahe Peroomian, The Conversation
 
 ## 5. Titan (lune de Saturne)
+
+- [Titan, a moon with familiar vistas](https://www.planetary.org/worlds/titan) - Planetary Society
+- [Cassini détecte pour la première fois des tempêtes de poussière sur Titan](http://www.ipgp.fr/fr/cassini-detecte-premiere-tempetes-de-poussiere-titan) - IPGP
+- [Titan : un monde si éloigné, et en même temps si proche du notre ?](https://www.exobiologie.fr/blog/2010/04/04/titan-un-monde-si-eloigne-et-en-meme-temps-si-proche-du-notre/) -  Olivier Poch, Exobiologie.fr
+- [This Is What The Clouds Of Titan Sound Like! Huygens Probe Sound Recording 2005](https://youtu.be/owtvGIQDdiU) - V101 Science
+- [Résultats Scientifiques obtenus avec l'instrument DISR](https://cassini-huygens.cnes.fr/fr/CASSINI/Fr/lien1_res_scie.htm) - CNES
+- [Methane storms as a driver of Titan’s dune orientation](https://www.nature.com/articles/ngeo2406) - Charnay et al. (2015)
+- [Titan’s great lakes appear to be filled with clear, colorless methane](https://arstechnica.com/science/2016/04/titans-great-lakes-appear-to-be-filled-with-clear-colorless-methane/) - Eric Berger, Ars Technica
+- [Titan’s surface organics surpass oil reserves on Earth](https://www.esa.int/Science_Exploration/Space_Science/Cassini-Huygens/Titan_s_surface_organics_surpass_oil_reserves_on_Earth) - ESA
+- [Science Goals and Objectives for the Dragonfly Titan Rotorcraft Relocatable Lander](https://iopscience.iop.org/article/10.3847/PSJ/abfdcf) - Barnes et al. (2021)
+
+## 6. Uranus
 
 - []() - 
 - []() - 
