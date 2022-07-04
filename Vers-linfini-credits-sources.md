@@ -119,3 +119,15 @@
 
 # Le système solaire externe
 
+## 1. Jupiter
+
+- [Jupiter](https://solarsystem.nasa.gov/planets/jupiter/in-depth/) - NASA
+- [Juno - Jupiter Missions](https://solarsystem.nasa.gov/missions/juno/overview/) - NASA
+- [Jupiter (planète)](https://fr.wikipedia.org/wiki/Jupiter_(plan%C3%A8te)) - Wikipédia
+- [Grande tache rouge](https://fr.wikipedia.org/wiki/Grande_Tache_rouge) - Wikipédia
+- [À la découverte de l'Univers: Les bases de l'astronomie et de l'astrophysique](https://books.google.fr/books?id=qWFBDQAAQBAJ&pg=PA193&lpg=PA193&dq=bandes+claires+sombres+jupiter+tourbillons&source=bl&ots=0erh1iZYOM&sig=ACfU3U2xZZBmd_bfCKBuAqqETSQRDAmKZQ&hl=fr&sa=X&ved=2ahUKEwjukIi_w9_1AhVHqxoKHSbrDgcQ6AF6BAgqEAM#v=onepage&q=bandes%20claires%20sombres%20jupiter%20tourbillons&f=false) - Neil Comins
+- [La mission Juno vers Jupiter](https://www.astronomes.com/systeme-solaire-externe/la-mission-juno-vers-jupiter/) - Olivier Esslinger
+- [La Grande Tache rouge de Jupiter… en laboratoire !](https://www.pourlascience.fr/sd/physique/la-grande-tache-rouge-de-jupiter-en-laboratoire-20591.php) - Pour la Science
+- [Juno révèle les dessous de Jupiter et de sa Grande Tache rouge](https://www.futura-sciences.com/sciences/actualites/jupiter-juno-revele-dessous-jupiter-grande-tache-rouge-94534/) - Nathalie Mayer, Futura Sciences
+- [Juno révèle l’exquise finesse des aurores de Jupiter](https://www.news.uliege.be/cms/c_10137122/fr/juno-revele-l-exquise-finesse-des-aurores-de-jupiter) - Université de Liège
+- [Les aurores polaires de Jupiter sont différentes des aurores terrestres ](https://www.ca-se-passe-la-haut.fr/2017/09/les-aurores-polaires-de-jupiter-sont.html) - Ca se passe là-haut
