@@ -236,8 +236,18 @@
 
 ## 9. Pluton
 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
+## 10. Les frontières du système solaire
+
+- [Real World: Limits of the Solar System](https://www.youtube.com/watch?v=4q4ocW7tuG8&feature=youtu.be) - NASA
+- [Where does the solar system end? Voyager isn't officially there yet](https://www.nbcnews.com/sciencemain/where-does-solar-system-end-voyager-isnt-officially-there-yet-8c11142403) - Alan Boyle, NBC News
+- [What defines the boundary of the solar system?](https://www.nasa.gov/mission_pages/ibex/IBEXDidYouKnow.html) - NASA
+- [Oort Cloud](https://solarsystem.nasa.gov/solar-system/oort-cloud/in-depth/) - NASA
+- [The Solar System Beyond Neptune](https://usuaris.tinet.cat/klunn/outer-solar-system.html) - Ken Lunn
+- [Oort Cloud](https://en.wikipedia.org/wiki/Oort_cloud) - Wikipédia
+- [The Oort Cloud: Crash Course Astronomy #22](https://www.youtube.com/watch?v=ZJscxTyI__s) - Crash Course Astronomy
+- [A Three-dimensional Map of the Heliosphere from IBEX](https://iopscience.iop.org/article/10.3847/1538-4365/abf658) - Reisenfeld et al. (2021)
+- [À quoi ressemble l’héliosphère, la bulle protectrice du Système solaire ?](https://sciencepost.fr/limites-heliosphere-systeme-solaire/) - Brice Louvet, Science Post
+- [Voyager 2 Makes an Unexpectedly Clean Break from the Solar System](https://www.scientificamerican.com/article/voyager-2-makes-an-unexpectedly-clean-break-from-the-solar-system/) - Jonathan O'Callaghan, Scientific American
+- [À la découverte du nuage de Oort, aux confins du Système solaire](https://www.nextinpact.com/article/45063/a-decouverte-nuage-oort-aux-confins-systeme-solaire) - Sébastien Gavois, Next Impact 
+- [Ceinture de Kuiper, nuage d’Oort et occultations stellaires al ́eatoires](https://gepi.obspm.fr/IMG/pdf/presentation.pdf) - Slides de Yannick Boissel
+- [HELIOPAUSE](https://space.physics.uiowa.edu/voyager/heliopr.html) - NASA
