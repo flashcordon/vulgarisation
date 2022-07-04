@@ -153,11 +153,27 @@
 
 ## 4. Saturne
 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
+- [Like a Mini Solar System](https://solarsystem.nasa.gov/news/12998/like-a-mini-solar-system/) - Jay R. Thompson, NASA
+- [Insolite : l'hexagone nuageux de Saturne](https://www.futura-sciences.com/sciences/actualites/astronomie-insolite-hexagone-nuageux-saturne-22536/) - Jean-Baptiste Feldmann, Futura Sciences
+- [Saturn's hexagon](https://en.wikipedia.org/wiki/Saturn%27s_hexagon) - Wikipédia
+- [ Nouveaux détails sur l’hexagone de Saturne](https://www.cieletespace.fr/actualites/nouveaux-details-sur-l-hexagone-de-saturne) - David Fossé, Ciel & Espace 
+- [The Puzzling Hexagon](https://www.nasa.gov/mission_pages/voyager/hexagon_PIA_11682.html) - NASA
+- [A new 3D model could explain the formation of a hexagon storm on Saturn](https://news.harvard.edu/gazette/story/2020/10/3d-model-seeks-to-explain-mysterious-hexagon-storm-on-saturn/) - Harvard Gazette (2020)
+- [Deep rotating convection generates the polar hexagon on Saturn](https://www.pnas.org/content/117/25/13991/tab-article-info) - Yadav et Bloxham (2020)
+- [Origin and Evolution of Saturn’s Ring System](https://arxiv.org/ftp/arxiv/papers/0912/0912.3017.pdf) - Charnoz et al (2009), issu du livre "Saturn After Cassini-Huygens"
+- [Rings of Saturn](https://en.wikipedia.org/wiki/Rings_of_Saturn) - Wikiédia
+- [Curious Kids: why does Saturn have rings?](https://theconversation.com/curious-kids-why-does-saturn-have-rings-121433) - The Conversation (2019)
+- [Are Saturn’s Rings Really as Young as the Dinosaurs?](https://www.quantamagazine.org/are-saturns-rings-really-as-young-as-the-dinosaurs-20191121/) - Quanta Magazine (2019)
+- [Are Saturn’s rings actually young?](https://www.nature.com/articles/s41550-019-0876-y) - Crida et al (2019)
+- [Saturn and its Rings: Four Centuries of Imperfect Amodal Completion](https://journals.sagepub.com/doi/full/10.1177/2041669518822084) - Roncato (2019)
+- [The Origin of Planetary Ring Systems](https://arxiv.org/abs/1703.09741) - Charnoz et al (2018)
+- [Les anneaux de Saturne vus par la mission CASSINI-HUYGENS](http://www.aim.ufr-physique.univ-paris7.fr/CHARNOZ/homepage/l%27astronomie_charnoz.pdf) - Sébastien Charnoz, L'Astronomie (2005)
+- [NASA Research Reveals Saturn is Losing Its Rings at “Worst-Case-Scenario” Rate](https://www.nasa.gov/press-release/goddard/2018/ring-rain) - NASA
+- [The Rings of Saturn](https://caps.gsfc.nasa.gov/simpson/kingswood/rings/) - Dr. David G. Simpson, NASA
+- [A brief astronomical history of Saturn’s amazing rings](https://theconversation.com/a-brief-astronomical-history-of-saturns-amazing-rings-120945) - Vahe Peroomian, The Conversation
+
+## 5. Titan (lune de Saturne)
+
 - []() - 
 - []() - 
 - []() - 
