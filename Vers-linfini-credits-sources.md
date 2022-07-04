@@ -199,8 +199,29 @@
 - [The Magnetic Poles of Uranus](https://www.windows2universe.org/uranus/uranus_magnetic_poles.html) - Windows to the universe  
 - [What Color is Uranus?](https://www.universetoday.com/18867/color-of-uranus/) - Fraser Cain, Universe Today
 - [URANUS, planète](https://www.universalis.fr/encyclopedie/uranus-planete/2-les-anneaux/) - Universalis
-- [Anneaux d'Uranus](https://fr.wikipedia.org/wiki/Anneaux_d%27Uranus) - 
+- [Anneaux d'Uranus](https://fr.wikipedia.org/wiki/Anneaux_d%27Uranus) - Wikipédia
 - Drifting on Alien Winds: Exploring the Skies and Weather of Other Worlds - Michael Carroll (Springer, 2011)
+
+## 7. Neptune
+
+- [Both Uranus and Neptune Have Really Bizarre Magnetic Fields](https://www.universetoday.com/151135/both-uranus-and-neptune-have-really-bizarre-magnetic-fields/) - Paul Sutter, Universe Today 
+- [Yes, there is really 'diamond rain' on Uranus and Neptune](https://www.space.com/diamond-rain-atmosphere-uranus-neptune) - Paul Sutter, Space.com
+- [Au cœur des planètes](https://www.pourlascience.fr/sd/planetologie/au-coeur-des-planetes-5954.php) - Pour la Science
+- [Il pleuvrait des diamants au cœur de Neptune et d’Uranus : voici l’explication possible ](https://www.numerama.com/sciences/634950-il-pleuvrait-des-diamants-au-coeur-de-neptune-et-duranus-voici-lexplication-possible.html) - Marcus Dupont-Besnard, Numerama
+- [Neptune in Primary Colors](https://www.jpl.nasa.gov/images/pia01284-neptune-in-primary-colors) - NASA
+- [Neptune](https://www.astronomes.com/systeme-solaire-externe/neptune/) - Olivier Esslinger
+- [Neptune : une géante glacée bleue comme la Terre, découverte grâce à des calculs](https://www.nextinpact.com/article/43995/neptune-geante-glacee-bleue-comme-terre-decouverte-grace-a-calculs) - Sébastien Gavois, Next Impact
+- [The Realm of the Ice Giants](https://www.planetary.org/articles/simon-the-realm-of-the-ice-giants) - Planetary Society
+- [Examining ice giants of our solar system](https://www.sciencedaily.com/releases/2020/02/200228142006.htm) - NASA
+- [Magnetic fields of Uranus and Neptune: Metallic fluid hydrogen](https://aip.scitation.org/doi/pdf/10.1063/1.4971621) - W. J. Nellis
+- [Diamonds in the sky?](https://iopscience.iop.org/article/10.1088/2058-7058/13/10/34/meta) - Scandolo et al. (2000)
+- [Carbon precipitation from heavy hydrocarbon fluid in deep planetary interiors](https://www.nature.com/articles/ncomms3446) - Lobanov et al. (2013)
+- [The Diamonds of Neptune](https://www.jstor.org/stable/41213219) - Geoff Shandler (2001)
+- [Neptune : quand le calcul précède l’observation](https://gallica.bnf.fr/blog/24102016/neptune-quand-le-calcul-precede-lobservation?mode=desktop) - Sylvie Voisin, Joseph Chantier, Gallica
+
+
+
+## 8. Triton (lune de Neptune)
 
 - []() - 
 - []() - 
