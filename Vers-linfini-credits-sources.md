@@ -266,3 +266,24 @@
 - [À la découverte du nuage de Oort, aux confins du Système solaire](https://www.nextinpact.com/article/45063/a-decouverte-nuage-oort-aux-confins-systeme-solaire) - Sébastien Gavois, Next Impact 
 - [Ceinture de Kuiper, nuage d’Oort et occultations stellaires al ́eatoires](https://gepi.obspm.fr/IMG/pdf/presentation.pdf) - Slides de Yannick Boissel
 - [HELIOPAUSE](https://space.physics.uiowa.edu/voyager/heliopr.html) - NASA
+
+# Les étoiles
+
+## 1. Proto-étoiles
+
+- [La formation du système solaire](http://www.astrosurf.com/luxorion/sysol-generalites4.htm) - Luxorion
+- [Objet Herbig Haro](https://fr.wikipedia.org/wiki/Objet_Herbig-Haro) - Wikipédia
+- [T Tauri Stars](https://astronomy.swin.edu.au/cosmos/t/T+Tauri+Stars) - COSMOS - The SAO Encyclopedia of Astronomy
+- [T Tauri and Hind's Variable Nebula](https://apod.nasa.gov/apod/ap140503.html) - APOD
+- [T Tauri](https://www.aavso.org/vsots_ttau) - AAVSO
+- [T Tauri](https://www.daviddarling.info/encyclopedia/T/T_Tauri.html) - David Darling
+- [T Tauri star](https://www.britannica.com/science/T-Tauri-star) - Britannica
+- [Rotation and Activity of T Tauri Stars](https://www.eso.org/sci/publications/messenger/archive/no.39-mar85/messenger-no39-33-38.pdf) - J. Bauvier and C. Bertaut
+- [Les étoiles T Tauri, objets Herbig-Haro et régions HII](https://www.astronomes.com/voie-lactee/t-tauri-herbig-haro-hii/) - Olivier Esslinger
+- [HL Tauri](https://fr.wikipedia.org/wiki/HL_Tauri) - Wikipédia
+- [Naissance précoce d’un système planétaire](https://www.pourlascience.fr/sd/astronomie/naissance-precoce-d-un-systeme-planetaire-12020.php) - Pour la Science
+- [PLANÈTES (GENÈSE DES)](https://www.universalis.fr/encyclopedie/planetes-genese-des/) - Universalis
+- [Submillimetre Studies of Prestellar and Starless Cores in the Ophiuchus](https://books.google.fr/books?id=wfy_DgAAQBAJ&pg=PA28&lpg=PA28&dq=t+tauri+stars+fusion+core&source=bl&ots=7knD0BGBFk&sig=ACfU3U27Q0j6XtMa9ELo2gbWliVl1v7UvQ&hl=fr&sa=X&ved=2ahUKEwilpdOu4ZP2AhVPzhoKHU_IDr0Q6AF6BAgsEAM#v=onepage&q=t%20tauri%20stars%20fusion%20core&f=false) - Katherine Miranda Pattle
+- [Cosmic Discovery: The Search, Scope, and Heritage of Astronomy](https://books.google.fr/books?id=Nr2GDwAAQBAJ&pg=PA100&lpg=PA100&dq=brightness+t+tauri+multiplied+by+thousand&source=bl&ots=Sobd2pHON3&sig=ACfU3U0PtnFFPurka0jZGfQcQYWk810OLw&hl=fr&sa=X&ved=2ahUKEwiYuf_W6pP2AhUF3xoKHTFiBL0Q6AF6BAg-EAM#v=onepage&q=brightness%20t%20tauri%20multiplied%20by%20thousand&f=false) - Martin Harwit
+- [The Variability of Young Stellar Objects](https://app.aavso.org/media/jaavso/2832.pdf) - William Herbst
+- stars and stellar evolution - de boer
