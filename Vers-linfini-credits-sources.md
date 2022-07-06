@@ -286,4 +286,4 @@
 - [Submillimetre Studies of Prestellar and Starless Cores in the Ophiuchus](https://books.google.fr/books?id=wfy_DgAAQBAJ&pg=PA28&lpg=PA28&dq=t+tauri+stars+fusion+core&source=bl&ots=7knD0BGBFk&sig=ACfU3U27Q0j6XtMa9ELo2gbWliVl1v7UvQ&hl=fr&sa=X&ved=2ahUKEwilpdOu4ZP2AhVPzhoKHU_IDr0Q6AF6BAgsEAM#v=onepage&q=t%20tauri%20stars%20fusion%20core&f=false) - Katherine Miranda Pattle
 - [Cosmic Discovery: The Search, Scope, and Heritage of Astronomy](https://books.google.fr/books?id=Nr2GDwAAQBAJ&pg=PA100&lpg=PA100&dq=brightness+t+tauri+multiplied+by+thousand&source=bl&ots=Sobd2pHON3&sig=ACfU3U0PtnFFPurka0jZGfQcQYWk810OLw&hl=fr&sa=X&ved=2ahUKEwiYuf_W6pP2AhUF3xoKHTFiBL0Q6AF6BAg-EAM#v=onepage&q=brightness%20t%20tauri%20multiplied%20by%20thousand&f=false) - Martin Harwit
 - [The Variability of Young Stellar Objects](https://app.aavso.org/media/jaavso/2832.pdf) - William Herbst
-- stars and stellar evolution - de boer
+- Stars and Stellar Evolution - Klaas De Boer, EDP Sciences
