@@ -287,3 +287,15 @@
 - [Cosmic Discovery: The Search, Scope, and Heritage of Astronomy](https://books.google.fr/books?id=Nr2GDwAAQBAJ&pg=PA100&lpg=PA100&dq=brightness+t+tauri+multiplied+by+thousand&source=bl&ots=Sobd2pHON3&sig=ACfU3U0PtnFFPurka0jZGfQcQYWk810OLw&hl=fr&sa=X&ved=2ahUKEwiYuf_W6pP2AhUF3xoKHTFiBL0Q6AF6BAg-EAM#v=onepage&q=brightness%20t%20tauri%20multiplied%20by%20thousand&f=false) - Martin Harwit
 - [The Variability of Young Stellar Objects](https://app.aavso.org/media/jaavso/2832.pdf) - William Herbst
 - Stars and Stellar Evolution - Klaas De Boer, EDP Sciences
+
+## 2. Naines rouges
+
+- [Proxima Centauri](https://fr.wikipedia.org/wiki/Proxima_Centauri) - Wikipédia
+- [Une 3e planète confirmée autour de Proxima du Centaure, l'étoile la plus proche du Soleil !](https://www.futura-sciences.com/sciences/actualites/exoplanetes-3e-planete-confirmee-autour-proxima-centaure-etoile-plus-proche-soleil-57481/) - Laurent Sacco, Futura Sciences
+- [Une nouvelle planète détectée autour de l’étoile la proche du Soleil](https://www.eso.org/public/france/news/eso2202/?lang) - ESO
+- [Des étoiles naines de toutes les couleurs](https://blogs.letemps.ch/pierre-brisson/tag/naines-rouges/) - Blog de Pierre Brisson
+- [Proxima bound to Alpha Centauri](https://www.observatoiredeparis.psl.eu/spip.php?page=imprimer&id_article=3561) - Observatoire de Paris
+- [Calcul du temps de vie de Proxima Centauri](https://www.astronomy.ohio-state.edu/ryden.1/ast143/ps8_soln.pdf) - Ryden, Ohio State University
+- [The habitability of Proxima Centauri b](https://www.aanda.org/articles/aa/full_html/2016/12/aa29576-16/aa29576-16.html) - Ribas et al. (2016)
+- Etoiles - Florian Freistetter (Flammarion, 2020)
+- Under a crimson sun - David Stevenson (Springer, 2013)
