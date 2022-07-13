@@ -299,3 +299,35 @@
 - [The habitability of Proxima Centauri b](https://www.aanda.org/articles/aa/full_html/2016/12/aa29576-16/aa29576-16.html) - Ribas et al. (2016)
 - Etoiles - Florian Freistetter (Flammarion, 2020)
 - Under a crimson sun - David Stevenson (Springer, 2013)
+
+## 3. Géantes rouges
+
+- [Gacrux (γ Crucis) Facts](https://nineplanets.org/gacrux-%CE%B3-crucis/) - Nine Planets 
+- [Meet Gacrux, the top of the cross](https://skyandtelescope.org/astronomy-news/meet-gacrux-the-top-of-the-cross/) - Daniel Johnson, Sky and Telescope 
+- [Stars](https://iadd.astro.illinois.edu/basic-stars) - Illinois Astrophysical Dynamics Demonstrations
+- [Aging Into Gianthood](https://exoplanets.nasa.gov/life-and-death/chapter-6/) - NASA Exoplanets
+- Death from the skies - Phil Plait (2008, Viking Adult)
+- Etoiles - Florian Freistetter (Flammarion, 2020)
+
+# 4. Naines blanches
+
+- [Sirius](https://fr.wikipedia.org/wiki/Sirius) - Wikipédia
+- [À sa mort, le Soleil devrait se transformer en un cristal de Wigner géant](https://www.futura-sciences.com/sciences/actualites/physique-mort-soleil-devrait-transformer-cristal-wigner-geant-65722/) - Laurent Sacco, Futura Sciences 
+- [L'Univers en 100 questions](https://books.google.fr/books?id=y0CzDwAAQBAJ&pg=PT120&lpg=PT120&dq=sirius+b+cristallise&source=bl&ots=fQNRWPTI10&sig=ACfU3U0A35LEG6p8JmBRyihLoL3nzJ4_tA&hl=fr&sa=X&ved=2ahUKEwirprD8nYr2AhVLyoUKHUuRCTkQ6AF6BAgiEAM#v=onepage&q=sirius%20b%20cristallise&f=false) - Jean-Pierre Luminet (Tallandier, 2014)
+- [Des restes de planètes désintégrées ](https://www.futura-sciences.com/sciences/actualites/astronomie-restes-planetes-desintegrees-decouverts-autour-naines-blanches-32869/) - Laurent Sacco, Futura Sciences
+- [A Detailed Look at Sirius B](https://www.centauri-dreams.org/2005/12/19/weighing-sirius-b/) - Paul Gilster, Centauri Dreams
+- [Sirius B: How to see Sirius’ companion](https://earthsky.org/brightest-stars/how-to-observe-sirius-b/) - Florin Andrei, EarthSky
+- [La diversité des étoiles](http://www.astrosurf.com/luxorion/diversite-etoiles.htm#nainesblanches) - Luxorion
+- [Au-dessus de nos têtes, des milliers d'étoiles se transforment en cristal](https://www.sciencesetavenir.fr/espace/astrophysique/la-cristallisation-des-naines-blanches-est-desormais-averee_130726) - Bertille Dutheil, Sciences et Avenir
+- [The Sirius System and its Astrophysical Puzzles: Hubble Space Telescope and Ground-Based Astrometry](https://arxiv.org/pdf/1703.10625.pdf) - Bond et al. (2017)
+- [Les naines blanches](https://luth.obspm.fr/~luthier/mottez/haute_maurienne_2007/maurienne_2007_4_NB.pdf) - Conférence de Fabrice Mottez (2007)
+- [Naines blanches](https://astronomia.fr/4eme_partie/nainesBlanches.php) - Astronomia
+- [Naines blanches](https://www.astronomes.com/soleil-etoile/naine-blanche/) - Olivier Esslinger
+- [Systèmes binaires et multiples](https://media4.obspm.fr/public/ressources_lu/pages_binaire/impression.html) - Observatoire de Paris
+- [The Case for an Early Solar Binary Companion](https://iopscience.iop.org/article/10.3847/2041-8213/abac66) - Siraj et Loeb (2020)
+- [Le Soleil était en couple avec une étoile née en même temps que lui](https://www.futura-sciences.com/sciences/actualites/soleil-soleil-etait-couple-etoile-nee-meme-temps-lui-67641/) - Laurent Sacco, Futura Sciences 
+- [Les naines noires](https://espace-stellaire.com/blogs/blog-espace-astronomie/les-naines-noires) - Espace stellaire
+- [Ces explosions pourraient être les dernières avant que l'univers ne sombre dans l'obscurité](https://www.nationalgeographic.fr/espace/2020/08/ces-explosions-pourraient-etre-les-dernieres-avant-que-lunivers-ne-sombre-dans) - Dan Falk, National Geographic
+
+
+
