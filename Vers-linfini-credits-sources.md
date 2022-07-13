@@ -329,5 +329,55 @@
 - [Les naines noires](https://espace-stellaire.com/blogs/blog-espace-astronomie/les-naines-noires) - Espace stellaire
 - [Ces explosions pourraient être les dernières avant que l'univers ne sombre dans l'obscurité](https://www.nationalgeographic.fr/espace/2020/08/ces-explosions-pourraient-etre-les-dernieres-avant-que-lunivers-ne-sombre-dans) - Dan Falk, National Geographic
 
+# 5. Variables cataclysmiques
+
+https://www.space.com/fastest-spinning-white-dwarf-vampire.html 
+https://heasarc.gsfc.nasa.gov/docs/objects/cvs/cvstext.html 
+https://arxiv.org/pdf/astro-ph/0701654.pdf 
+http://www.astrosurf.com/luxorion/etoiles-variables.htm 
+https://lastronomie.fr/le-charme-discret-des-variables-cataclysmiques/ 
+https://iopscience.iop.org/article/10.3847/2515-5172/abd104 
+https://www.mssl.ucl.ac.uk/www_astro/gal/cv_beginners.html 
+https://en.wikipedia.org/wiki/Cataclysmic_variable_star 
+
+# 6. Etoiles hypergéantes
+
+Etoiles - florian freistetter 
+https://www.ca-se-passe-la-haut.fr/2021/10/eta-carinae-observation-dune.html 
+https://www.eso.org/public/france/news/eso1637/ 
+https://apod.nasa.gov/apod/ap971129.html 
+https://apod.nasa.gov/apod/ap190220.html 
+https://astronomynow.com/2018/08/03/astronomers-stunned-again-by-eta-carinae-the-star-that-will-not-die/ 
+https://nineplanets.org/eta-carinae-%CE%B7-carinae/ 
+https://www.oca.eu/fr/actu-lagrange/331-eta-carinae-violent-stellar-wind-collision-in-the-binary-star-monster
+https://www.universetoday.com/142734/hubble-has-a-brand-new-picture-of-the-massive-star-eta-carinae-it-could-detonate-as-a-supernova-any-day-now/ 
+https://www.forbes.com/sites/grrlscientist/2022/02/18/fluorescent-transgenic-fish-escape-captivity-into-atlantic-forest-creeks-of-brazil/?sh=51bd3dd87c7c 
+https://blog.wolfram.com/2020/03/04/exploring-the-enigmatic-star-eta-carinae/ 
+https://books.google.fr/books?id=oL47FgJAKSkC&pg=PA81&lpg=PA81&dq=brightest+mid-IR+eta+carinae&source=bl&ots=t8uKZCV4I9&sig=ACfU3U1j2YQM8CKHJA5fb2T-gbiwvL3ZHQ&hl=fr&sa=X&ved=2ahUKEwj6u8yT2pX2AhUQzYUKHZyUBi8Q6AF6BAg3EAM#v=onepage&q=brightest%20mid-IR%20eta%20carinae&f=false 
+https://www.universetoday.com/13507/what-is-the-biggest-star-in-the-universe/ 
+https://www.newscientist.com/article/2105336-csi-eta-carinae-clouds-suggest-odd-stars-history-of-violence/ 
+
+# 7. Etoiles à neutrons
+
+https://medium.com/amazing-science/the-amazing-power-of-the-crab-pulsar-b4a77d2a68cc 
+https://en.wikipedia.org/wiki/Crab_Pulsar 
+https://www.universetoday.com/41897/crab-nebula/ 
+https://www.wired.com/2012/02/crab-nebula-particle-acceleration/ 
+https://spacemath.gsfc.nasa.gov/news/7Page60.pdf 
+
+# 8. Trous noirs stellaires
+
+https://ui.adsabs.harvard.edu/abs/2022arXiv220201903L/abstract 
+https://www.syfy.com/syfy-wire/bad-astronomy-black-holes-quintillions 
+https://www.syfy.com/syfy-wire/bad-astronomy-first-rogue-black-hole-ever-found 
+https://sites.astro.caltech.edu/~srk/BlackHoles/BH_SRK.pdf 
+https://www.nasa.gov/feature/goddard/2019/nasa-visualization-shows-a-black-hole-s-warped-world/ 
+https://blogs.futura-sciences.com/e-luminet/2018/03/07/45-years-black-hole-imaging-1-early-work-1972-1988/ 
+https://astronomy.swin.edu.au/cosmos/s/Stellar+Black+Hole 
+https://www.nature.com/articles/d41586-022-00346-6 
+https://www.smithsonianmag.com/smart-news/astronomers-observed-the-first-isolated-stellar-mass-black-hole-in-the-milky-way-galaxy-180979541/ 
+https://arxiv.org/pdf/2201.13296.pdf 
+https://www.forbes.com/sites/startswithabang/2020/10/15/what-would-we-experience-if-earth-spontaneously-turned-into-a-black-hole/?sh=45740c881199 
+https://www.forbes.com/sites/startswithabang/2019/06/19/no-black-holes-dont-suck-everything-into-them/?sh=72bfa9d02b01 
 
 
