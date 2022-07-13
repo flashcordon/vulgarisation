@@ -329,7 +329,7 @@
 - [Les naines noires](https://espace-stellaire.com/blogs/blog-espace-astronomie/les-naines-noires) - Espace stellaire
 - [Ces explosions pourraient être les dernières avant que l'univers ne sombre dans l'obscurité](https://www.nationalgeographic.fr/espace/2020/08/ces-explosions-pourraient-etre-les-dernieres-avant-que-lunivers-ne-sombre-dans) - Dan Falk, National Geographic
 
-# 5. Variables cataclysmiques
+## 5. Variables cataclysmiques
 
 https://www.space.com/fastest-spinning-white-dwarf-vampire.html 
 https://heasarc.gsfc.nasa.gov/docs/objects/cvs/cvstext.html 
@@ -340,7 +340,7 @@ https://iopscience.iop.org/article/10.3847/2515-5172/abd104
 https://www.mssl.ucl.ac.uk/www_astro/gal/cv_beginners.html 
 https://en.wikipedia.org/wiki/Cataclysmic_variable_star 
 
-# 6. Etoiles hypergéantes
+## 6. Etoiles hypergéantes
 
 Etoiles - florian freistetter 
 https://www.ca-se-passe-la-haut.fr/2021/10/eta-carinae-observation-dune.html 
@@ -357,7 +357,7 @@ https://books.google.fr/books?id=oL47FgJAKSkC&pg=PA81&lpg=PA81&dq=brightest+mid-
 https://www.universetoday.com/13507/what-is-the-biggest-star-in-the-universe/ 
 https://www.newscientist.com/article/2105336-csi-eta-carinae-clouds-suggest-odd-stars-history-of-violence/ 
 
-# 7. Etoiles à neutrons
+## 7. Etoiles à neutrons
 
 https://medium.com/amazing-science/the-amazing-power-of-the-crab-pulsar-b4a77d2a68cc 
 https://en.wikipedia.org/wiki/Crab_Pulsar 
@@ -365,7 +365,7 @@ https://www.universetoday.com/41897/crab-nebula/
 https://www.wired.com/2012/02/crab-nebula-particle-acceleration/ 
 https://spacemath.gsfc.nasa.gov/news/7Page60.pdf 
 
-# 8. Trous noirs stellaires
+## 8. Trous noirs stellaires
 
 https://ui.adsabs.harvard.edu/abs/2022arXiv220201903L/abstract 
 https://www.syfy.com/syfy-wire/bad-astronomy-black-holes-quintillions 
