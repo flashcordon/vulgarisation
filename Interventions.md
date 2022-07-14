@@ -166,6 +166,7 @@
 - Sciences participatives avec Alice au pays des étoiles - collectif Conscience, Play Azur Festival, Mai 2022
 - [Comment les étoiles créent la matière](https://youtu.be/cD6EbKO8SX4) - Brief.science, Mai 2022
 - Les OVNIs - Mash up, Mai 2022
+- Premières images du JWST - Scope, Arte, Juillet 2022
 
 ## Séries TV
 
