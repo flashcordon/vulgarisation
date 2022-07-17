@@ -359,11 +359,11 @@ https://www.newscientist.com/article/2105336-csi-eta-carinae-clouds-suggest-odd-
 
 ## 7. Etoiles à neutrons
 
-https://medium.com/amazing-science/the-amazing-power-of-the-crab-pulsar-b4a77d2a68cc 
-https://en.wikipedia.org/wiki/Crab_Pulsar 
-https://www.universetoday.com/41897/crab-nebula/ 
-https://www.wired.com/2012/02/crab-nebula-particle-acceleration/ 
-https://spacemath.gsfc.nasa.gov/news/7Page60.pdf 
+- [Crab Pulsar](https://en.wikipedia.org/wiki/Crab_Pulsar) - Wikipéda 
+- [The Amazing Power of the Crab Pulsar](https://medium.com/amazing-science/the-amazing-power-of-the-crab-pulsar-b4a77d2a68cc) - Michele Diodati, Medium
+- [What Is The Crab Nebula?](https://www.universetoday.com/41897/crab-nebula/) - Jeane Tate, Universe Today 
+- [Crab Nebula's Pulsar May Be Fast Particle Accelerator](https://www.wired.com/2012/02/crab-nebula-particle-acceleration/) - Matthew Francis, Wired
+- [The Crab Nebula - Exploring a pulsar up close!](https://spacemath.gsfc.nasa.gov/news/7Page60.pdf) - NASA
 
 ## 8. Trous noirs stellaires
 
