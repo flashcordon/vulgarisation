@@ -367,17 +367,16 @@ https://www.newscientist.com/article/2105336-csi-eta-carinae-clouds-suggest-odd-
 
 ## 8. Trous noirs stellaires
 
-https://ui.adsabs.harvard.edu/abs/2022arXiv220201903L/abstract 
-https://www.syfy.com/syfy-wire/bad-astronomy-black-holes-quintillions 
-https://www.syfy.com/syfy-wire/bad-astronomy-first-rogue-black-hole-ever-found 
-https://sites.astro.caltech.edu/~srk/BlackHoles/BH_SRK.pdf 
-https://www.nasa.gov/feature/goddard/2019/nasa-visualization-shows-a-black-hole-s-warped-world/ 
-https://blogs.futura-sciences.com/e-luminet/2018/03/07/45-years-black-hole-imaging-1-early-work-1972-1988/ 
-https://astronomy.swin.edu.au/cosmos/s/Stellar+Black+Hole 
-https://www.nature.com/articles/d41586-022-00346-6 
-https://www.smithsonianmag.com/smart-news/astronomers-observed-the-first-isolated-stellar-mass-black-hole-in-the-milky-way-galaxy-180979541/ 
-https://arxiv.org/pdf/2201.13296.pdf 
-https://www.forbes.com/sites/startswithabang/2020/10/15/what-would-we-experience-if-earth-spontaneously-turned-into-a-black-hole/?sh=45740c881199 
-https://www.forbes.com/sites/startswithabang/2019/06/19/no-black-holes-dont-suck-everything-into-them/?sh=72bfa9d02b01 
+- [An Isolated Mass-gap Black Hole or Neutron Star Detected with Astrometric Microlensing](https://ui.adsabs.harvard.edu/abs/2022arXiv220201903L/abstract) - Lam et al (2022)
+- [An Isolated Stellar-Mass Black Hole Detected Through Astrometric Microlensing](https://arxiv.org/pdf/2201.13296.pdf) - Sahu et al (2022)
+- [There are 40 quintillion black holes in the observable Universe. More or less.](https://www.syfy.com/syfy-wire/bad-astronomy-black-holes-quintillions) - Phil Plait, Syfy
+- [Astronomers find the first rogue black hole wandering the Milky Way!](https://www.syfy.com/syfy-wire/bad-astronomy-first-rogue-black-hole-ever-found) - Phil Plait, Syfy
+- [How to find stellar black holes? (Notes)](https://sites.astro.caltech.edu/~srk/BlackHoles/BH_SRK.pdf) - S. R. Kulkarni
+- [NASA Visualization Shows a Black Hole’s Warped World](https://www.nasa.gov/feature/goddard/2019/nasa-visualization-shows-a-black-hole-s-warped-world/) - NASA
+- [40 Years of Black Hole Imaging (1): Early work 1972-1988](https://blogs.futura-sciences.com/e-luminet/2018/03/07/45-years-black-hole-imaging-1-early-work-1972-1988/) - Jean-Pierre Luminet, Futura Sciences
+- [Stellar Black Hole](https://astronomy.swin.edu.au/cosmos/s/Stellar+Black+Hole) - COSMOS : The SAO Encyclopedia of Astronomy
+- [First glimpse of lone black hole delights astronomers](https://www.nature.com/articles/d41586-022-00346-6) - Elizabeth Gibney, Nature 
+- [What Would We Experience If Earth Spontaneously Turned Into A Black Hole?](https://www.forbes.com/sites/startswithabang/2020/10/15/what-would-we-experience-if-earth-spontaneously-turned-into-a-black-hole/?sh=45740c881199) - Ethan Siegel, Forbes
+- [No, Black Holes Don't Suck Everything Into Them](https://www.forbes.com/sites/startswithabang/2019/06/19/no-black-holes-dont-suck-everything-into-them/?sh=72bfa9d02b01) - Ethan Siegel, Forbes
 
 
