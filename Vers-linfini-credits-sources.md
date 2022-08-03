@@ -331,14 +331,14 @@
 
 ## 5. Variables cataclysmiques
 
-https://www.space.com/fastest-spinning-white-dwarf-vampire.html 
-https://heasarc.gsfc.nasa.gov/docs/objects/cvs/cvstext.html 
-https://arxiv.org/pdf/astro-ph/0701654.pdf 
-http://www.astrosurf.com/luxorion/etoiles-variables.htm 
-https://lastronomie.fr/le-charme-discret-des-variables-cataclysmiques/ 
-https://iopscience.iop.org/article/10.3847/2515-5172/abd104 
-https://www.mssl.ucl.ac.uk/www_astro/gal/cv_beginners.html 
-https://en.wikipedia.org/wiki/Cataclysmic_variable_star 
+- [Astronomers discover the fastest-spinning white dwarf yet — and it's a vampire](https://www.space.com/fastest-spinning-white-dwarf-vampire.html) - Paul Sutter, Space.com
+- [Introduction to Cataclysmic Variables (CVs)](https://heasarc.gsfc.nasa.gov/docs/objects/cvs/cvstext.html) - NASA
+- [Cataclysmic variables](https://arxiv.org/pdf/astro-ph/0701654.pdf) - Robert Connon Smith (2007)
+- [Les étoiles variables](http://www.astrosurf.com/luxorion/etoiles-variables.htm) - Luxorion
+- [Le charme discret des variables cataclysmiques](https://lastronomie.fr/le-charme-discret-des-variables-cataclysmiques/) - L'Astronomie
+- [The Open Cataclysmic Variable Catalog](https://iopscience.iop.org/article/10.3847/2515-5172/abd104) - Jackim et al (2020)
+- [The Wonders of CVs or Things That Explode from Time to Time](https://www.mssl.ucl.ac.uk/www_astro/gal/cv_beginners.html) - Kate Harrop-Allin
+- [Cataclysmic variable star](https://en.wikipedia.org/wiki/Cataclysmic_variable_star) - Wikipédia
 
 ## 6. Etoiles hypergéantes
 
