@@ -771,3 +771,137 @@ https://sites.astro.caltech.edu/~george/ay127/Ay127_GalClusters.pdf
 https://www.pourlascience.fr/sd/astrophysique/la-fureur-de-vivre-des-grands-amas-de-galaxies-21520.php
 https://astronomia.fr/5eme_partie/amasGalaxies.php 
 https://phys.org/news/2014-11-hot-gas-clusters-galaxies.html 
+
+# Tout savoir sur le cosmos
+
+## Le système solaire
+
+https://www.podcastscience.fm/dossiers/2019/09/30/la-naissance-des-planetes/ 
+https://www-n.oca.eu/morby/papers/EMP1.pdf 
+https://www.universetoday.com/38118/how-was-the-solar-system-formed/ 
+https://www.futura-sciences.com/sciences/questions-reponses/astronomie-ciel-ete-sont-constellations-plus-beaux-objets-observer-6765/ 
+https://www.astronomy.ohio-state.edu/pogge.1/Ast161/Au06/Unit6/origin.html 
+https://www.cfa.harvard.edu/news/1000-light-year-wide-bubble-surrounding-earth-source-all-nearby-young-stars 
+https://www.emse.fr/~bouchardon/enseignement/processus-naturels/up1/web/wiki/Q%20-%20Planeto%20-%20Naissance%20du%20systeme%20solaire%20et%20des%20planetes%20-%20Biron.htm 
+https://www.franceculture.fr/emissions/la-methode-scientifique/origines-du-systeme-solaire-une-histoire-nebuleuse 
+https://www.futura-sciences.com/sciences/actualites/astronomie-visage-coatlicue-etoile-mere-soleil-precise-40912/ 
+http://sesp.esep.pro/fr/pages_mecanique-formation/migration-porto-planetes.html 
+The universe - Seeds
+https://en.wikipedia.org/wiki/List_of_possible_dwarf_planets 
+https://www.asc-csa.gc.ca/eng/astronomy/solar-system/dwarf-planets.asp 
+https://youtu.be/TKM0P3XlMNA 
+https://planet-terre.ens-lyon.fr/ressource/meteorites-origine-systeme-solaire.xml#condensation-nebuleuse-solaire 
+a history of the solar system claudio vita finzi
+http://obswww.unige.ch/Questions_Reponses/R3.html 
+https://www.pourlascience.fr/sd/planetologie/la-naissance-tumultueuse-des-planetes-3777.php 
+https://hubblesite.org/contents/news-releases/1994/news-1994-24.html 
+planètes extrasolaires - Fabienne Casoli et Thérèse Encrenaz (2005)
+https://media4.obspm.fr/public/ressources_lu/pages_planetologie-formation/accretion-planetest_impression.html 
+https://media4.obspm.fr/public/ressources_lu/pages_planetologie-formation/formation-planetesg_impression.html 
+https://royalsocietypublishing.org/doi/10.1098/rsta.2013.0072#d3e488 
+https://www.lpi.usra.edu/books/PPV/8056.pdf 
+https://www.youtube.com/watch?v=EL-_q8ufYO0 
+http://atropos.as.arizona.edu/aiz/teaching/nats102/mario/solar_system.html 
+https://www.planetary.org/articles/solar-system-history-101 
+https://www.palais-decouverte.fr/fileadmin/fileadmin_Palais/fichiersContribs/au-programme/expos-permanentes/astronomie/_documents/articles/Planete9.pdf 
+https://books.google.fr/books?id=NwocAgAAQBAJ&pg=PT38&lpg=PT38&dq=mod%C3%A8le+du+cosmos+construction+mentale&source=bl&ots=2i273rea6A&sig=ACfU3U1IKIERbhkueRZNEWkkxidN8UdRlw&hl=fr&sa=X&ved=2ahUKEwid_8HavoH3AhWK3YUKHUwkDsIQ6AF6BAgpEAM#v=onepage&q=mod%C3%A8le%20du%20cosmos%20construction%20mentale&f=false 
+https://www.astronomes.com/histoire-astronomie/gravitation-universelle-mecanique-celeste/ 
+ https://www.franceculture.fr/sciences/sciences-histoire-des-theories-du-cosmos 
+https://www.planetary.org/worlds/what-is-a-planet 
+https://www.iau.org/public/themes/pluto/ 
+https://iopscience.iop.org/article/10.1088/0031-8949/90/6/068001 
+https://www.britannica.com/science/solar-system/Modern-ideas 
+https://www.futura-sciences.com/sciences/actualites/ceinture-asteroides-origine-ceinture-asteroides-on-peut-etre-tout-faux-68591/ 
+
+## Les étoiles
+
+The universe – seeds
+http://www.slate.fr/life/76498/etoiles-mortes-vues-terre 
+https://www.youtube.com/watch?v=PUbJlrcyXUA 
+https://www.universetoday.com/110858/how-far-can-you-see-in-the-universe/ 
+https://www.numerama.com/sciences/750245-regarde-cette-etoile-elle-est-deja-morte-pourquoi-cette-phrase-est-fausse.html 
+https://slate.com/technology/2013/08/are-the-stars-you-see-in-the-sky-already-dead.html 
+https://www.futura-sciences.com/sciences/questions-reponses/etoile-etoiles-ont-elles-differentes-couleurs-16308/ 
+https://media4.obspm.fr/public/ressources_lu/pages_corps-noir/temperature-couleur_impression.html 
+https://theta.obs-besancon.fr/lunap/Niveau1/EchellesStructures/Textes/couleur.html 
+https://www.astreos.eu/l-oeil-en-astronomie.html 
+https://www.atnf.csiro.au/outreach/education/senior/astrophysics/photometry_colour.html 
+https://courses.lumenlearning.com/astronomy/chapter/colors-of-stars/ 
+https://www.cta-observatory.org/building-from-diversity-article-cecilia-payne-gaposchkin/ 
+https://youtu.be/PUbJlrcyXUA 
+https://journals.openedition.org/bibnum/746 
+death from the skies
+five ages cosmos
+https://iopscience.iop.org/article/10.1086/310296 
+https://books.openedition.org/editionscnrs/11537?lang=fr 
+https://en.wikipedia.org/wiki/G-type_main-sequence_star 
+https://arxiv.org/abs/0801.4031 
+http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/startime.html 
+https://media4.obspm.fr/public/ressources_lu/pages_vie-mort/bb-massives.html 
+https://arxiv.org/pdf/astro-ph/0010398.pdf 
+https://www.researchgate.net/publication/249316547_On_the_Maximum_Mass_of_Neutron_Stars 
+https://media4.obspm.fr/public/ressources_lu/pages_pourquoi-brillent/impression.html 
+
+## Les exoplanètes
+
+https://www.explore-exoplanets.eu/mooc/ 
+https://www.refletsdelaphysique.fr/articles/refdp/pdf/2017/03/refdp201754p20.pdf 
+https://sagascience.com/exoplanetes/
+https://exoplanets.nasa.gov/what-is-an-exoplanet/planet-types/overview/ 
+le cosmos et nous
+https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/21-fall/exoplanets%207.pdf 
+https://www.sciencesetavenir.fr/espace/au-moins-une-planete-par-etoile_33490 
+http://www.esep.pro/La-methode-des-vitesses-radiales.html 
+https://www.numerama.com/sciences/622915-voici-pourquoi-il-nest-pas-100-exact-de-dire-que-les-planetes-orbitent-autour-du-soleil.html 
+https://www.youtube.com/watch?v=HOybqkxxtqU
+https://www.lpi.usra.edu/books/MESSII/9005.pdf 
+http://sesp.esep.pro/fr/pages_ind-transits/atmosphere-3.html 
+https://www.physics.uu.se/research/astronomy-and-space-physics/research/planets/exoplanet-atmospheres/ 
+https://youtu.be/erq2jdm3pwY 
+https://www.frontiersin.org/articles/10.3389/fspas.2020.00010/full 
+mooc exoplanètes
+https://www.esa.int/Space_in_Member_States/France/La_mission_Ariel_en_voie_de_concretisation 
+exoplanètes david fossé
+planètes extrasolaire Thérèse Encrenaz Fabienne Casoli
+https://www.planetary.org/articles/where-are-moons-of-exoplanets 
+https://www.podcastscience.fm/dossiers/2014/01/31/exoplanetes-de-la-pluralite-des-mondes/ 
+https://www.youtube.com/watch?v=At5DuJ5FKlo
+https://tel.archives-ouvertes.fr/tel-00939349/document 
+https://www.sciencedirect.com/science/article/pii/S138764732200001X 
+https://astronomia.fr/seminaires/annee1314/hypertelescope.php 
+http://www.iap.fr/actualites/avoir/2022/Exoplanetes/Exoplanetes-fr.html 
+https://notendur.hi.is/~einar/Heimsfraedi/CroweLife.pdf 
+https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html 
+https://www.sciencesetavenir.fr/espace/les-systemes-a-quatre-etoiles-pas-si-rares_34507 
+https://gallica.bnf.fr/blog/29072019/la-pluralite-des-mondes-des-sciences-la-litterature-1?mode=desktop 
+https://arxiv.org/ftp/arxiv/papers/1701/1701.00493.pdf 
+
+## Les galaxies
+
+https://physicstoday.scitation.org/doi/10.1063/PT.3.1679 
+https://knowablemagazine.org/article/physical-world/2019/mighty-milky-way 
+https://astrobites.org/2018/07/11/satellite-galaxies-all-in-a-row/ 
+https://www.forbes.com/sites/startswithabang/2021/05/11/the-milky-way-might-never-become-an-elliptical-galaxy/?sh=e4efcdb52bdc 
+https://astrobites.org/2012/08/28/mixing-up-gas-in-the-wake-of-a-strangled-satellite/ 
+https://www.e-education.psu.edu/astro801/content/l9_p6.html 
+https://www.meteorologiaenred.com/fr/tipos-de-galaxias.html 
+https://books.google.fr/books?id=IAgOEAAAQBAJ&pg=PT137&lpg=PT137&dq=ic+1101+stars+orbits&source=bl&ots=ycAAKeD9xn&sig=ACfU3U2fqwCv3Nz-6KfklwX1Gwv8LBmaww&hl=fr&sa=X&ved=2ahUKEwiOs6Kro8H3AhVDSvEDHfYNAWcQ6AF6BAg0EAM#v=onepage&q=ic%201101%20stars%20orbits&f=false 
+https://www.astrolab.qc.ca/wp-content/uploads/2020/04/Galaxies.pdf 
+https://en.wikipedia.org/wiki/Hubble_sequence
+https://www.college-de-france.fr/media/francoise-combes/UPL86180037206958607_Yohan_Dubois___Simulations_cosmologiques.pdf 
+https://media4.obspm.fr/public/ressources_lu/pages_struc-univ/simu-cosmo.html 
+ma thèse
+https://iopscience.iop.org/article/10.1088/1742-6596/120/2/022001/pdf 
+https://arxiv.org/pdf/1507.06140.pdf 
+https://www.eso.org/public/france/images/b07/ 
+https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/about/research 
+https://www.nationalgeographic.fr/espace/laniakea-le-superamas-de-galaxies-dans-lequel-gravite-la-voie-lactee 
+https://static.zooniverse.org/gzconf.galaxyzoo.org/presentations/Masters_Secular_Processes_Galaxy_Evolution.pdf 
+https://astronomy.swin.edu.au/cosmos/s/Secular+Evolution 
+https://www.college-de-france.fr/site/francoise-combes/course-2018-01-15-16h45.htm 
+https://www.hindawi.com/journals/aa/2011/968283/ 
+https://www.academie-sciences.fr/pdf/lettre/lettre9.pdf 
+https://iopscience.iop.org/article/10.1088/1742-6596/120/2/022001/pdf 
+https://arxiv.org/pdf/1701.08720.pdf 
+https://theconversation.com/vers-une-simulation-de-lunivers-sur-un-telephone-portable-137421 
+https://www.cairn.info/les-modeles-possibilites-et-limites--9782919694624-page-47.htm 
