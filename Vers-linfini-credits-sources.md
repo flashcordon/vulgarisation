@@ -378,4 +378,274 @@
 - [What Would We Experience If Earth Spontaneously Turned Into A Black Hole?](https://www.forbes.com/sites/startswithabang/2020/10/15/what-would-we-experience-if-earth-spontaneously-turned-into-a-black-hole/?sh=45740c881199) - Ethan Siegel, Forbes
 - [No, Black Holes Don't Suck Everything Into Them](https://www.forbes.com/sites/startswithabang/2019/06/19/no-black-holes-dont-suck-everything-into-them/?sh=72bfa9d02b01) - Ethan Siegel, Forbes
 
+# Les exoplanètes
 
+## 1. Planètes de pulsars
+
+https://exoplanets.nasa.gov/exoplanet-catalog/7134/psr-b125712-b/ 
+https://nccr-planets.ch/blog/2017/01/11/psr-b125712/ 
+http://www.astrosurf.com/notrecosmos/pages/PSR%20B1257.html 
+https://www.netinbag.com/fr/science/what-was-the-first-extrasolar-planet-discovered.html
+https://fr.wikipedia.org/wiki/PSR_B1257%2B12 
+https://books.google.fr/books?id=DOm3BAAAQBAJ&pg=PA3&lpg=PA3&dq=PSR+B1257%2B12+pers+second&source=bl&ots=dTXAvEBAPf&sig=ACfU3U3BKf8QB4smW5C67gFgY5xPtJo6gQ&hl=fr&sa=X&ved=2ahUKEwi3j9jL69b2AhUN4BoKHWVMBLoQ6AF6BAgwEAM#v=onepage&q=PSR%20B1257%2B12%20pers%20second&f=false 
+https://books.google.fr/books?id=LADmBwAAQBAJ&pg=PA12&lpg=PA12&dq=PSR+B1257%2B12+pers+second&source=bl&ots=o45oggLVVL&sig=ACfU3U1RD1e81e413KDg34WD0JqOt-4iHg&hl=fr&sa=X&ved=2ahUKEwi3j9jL69b2AhUN4BoKHWVMBLoQ6AF6BAgvEAM#v=onepage&q=PSR%20B1257%2B12%20pers%20second&f=false 
+https://books.google.fr/books?id=RXMWAAAAQBAJ&pg=PA238&lpg=PA238&dq=PSR+B1257%2B12+pers+second+161&source=bl&ots=k9W6gUmFTE&sig=ACfU3U26SwoFJvYpe8Tj0ArwndUtIWgksg&hl=fr&sa=X&ved=2ahUKEwjsq7_J7Nb2AhUB2BoKHXEoAZ8Q6AF6BAgKEAM#v=onepage&q=PSR%20B1257%2B12%20pers%20second%20161&f=false 
+david fossé exoplanètes
+https://astronomia.fr/4eme_partie/pulsars.php 
+http://clea-astro.eu/archives/cahiers-clairaut/CLEA_CahiersClairaut_060_01.pdf 
+
+## 2. Jupiters ultra-chauds
+
+https://fr.wikipedia.org/wiki/KELT-9_b 
+https://exoplanets.nasa.gov/resources/2163/video-of-kelt-9b/ 
+https://exoplanets.nasa.gov/exoplanet-catalog/3508/kelt-9-b/ 
+https://www.franceinter.fr/emissions/l-edito-carre/l-edito-carre-05-septembre-2018 
+https://www.unige.ch/campus/numeros/134/recherche3/ 
+https://www.nature.com/articles/s41586-018-0401-y 
+https://www.gizmodo.com.au/2021/03/the-secrets-of-kelt-9-b-and-why-its-so-damn-hot/ 
+https://medium.com/amazing-science/the-double-seasons-of-kelt-9b-93f888df7e64 
+https://en.wikipedia.org/wiki/Gravity_darkening 
+
+## 3. Planètes océans
+
+Exoplanètes - David Fossé
+https://www.centauri-dreams.org/2019/02/14/planet-formation-how-ocean-worlds-happen/ 
+https://www.planetary.org/articles/the-different-kinds-of-exoplanets-you-meet-in-the-milky-way 
+https://en.wikipedia.org/wiki/Kepler-22b 
+https://arxiv.org/ftp/arxiv/papers/1607/1607.04207.pdf 
+https://www.futura-sciences.com/sciences/actualites/astronomie-exoplanetes-reperees-kepler-ecoutees-seti-sont-muettes-44546/ 
+
+## 4. Super-Terres
+
+https://theconversation.com/curious-kids-could-humans-live-on-kepler-452-b-123786 
+https://theconversation.com/the-five-most-earth-like-exoplanets-so-far-50669
+https://www.britannica.com/place/Kepler-452b 
+https://arxiv.org/abs/1507.06723 
+https://www.nasa.gov/press-release/nasa-kepler-mission-discovers-bigger-older-cousin-to-earth 
+https://www.futura-sciences.com/sciences/actualites/zone-habitabilite-kepler-452b-exoplanete-plus-ressemblante-terre-59111/ 
+https://tel.archives-ouvertes.fr/file/index/docid/933668/filename/BOLMONT_EMELINE_2013.pdf 
+https://fr.wikipedia.org/wiki/Kepler-452_b 
+https://www.cieletespace.fr/actualites/kepler-452b-une-cousine-de-la-terre-a-1400-annees-lumiere 
+https://exoplanets.nasa.gov/what-is-an-exoplanet/planet-types/super-earth/ 
+https://www.youtube.com/watch?v=7dGg83MzqiY 
+
+## 5. Autour des naines rouges
+
+https://fr.wikipedia.org/wiki/TRAPPIST-1#cite_note-Kaltenegger_21-19 
+https://www.sciencesetavenir.fr/espace/voie-lactee/on-en-sait-plus-sur-la-composition-des-7-planetes-du-systeme-trappist_151225
+https://www.cieletespace.fr/actualites/visitez-les-mondes-rocheux-du-systeme-trappist-1-avec-michael-gillon 
+https://www.nextinpact.com/article/45729/trappist-1-sept-exoplanetes-pesees-avec-precision-inedite-mais-comment-fait-on 
+https://www.exobiologie.fr/blog/2021/11/29/les-planetes-de-trappist-1-ont-subi-peu-dimpacts-depuis-leur-formation/ 
+https://irfu.cea.fr/Phocea/Vie_des_labos/Ast/ast.php?t=fait_marquant&id_ast=4276 
+https://www.aanda.org/articles/aa/full_html/2018/05/aa32233-17/aa32233-17.html 
+https://www.futura-sciences.com/sciences/actualites/exoplanetes-exoplanetes-autour-trappist-1-pourraient-accueillir-vie-62652/ 
+https://exoplanets.nasa.gov/trappist1/ 
+http://www.trappist.one/# 
+https://www.centauri-dreams.org/2021/01/26/trappist-1-seven-worlds-of-similar-compostion/ 
+
+## 6. Planètes de lave
+
+https://www.inverse.com/science/gj-367b-hellworld 
+https://earthsky.org/space/k2-141b-lava-planet-with-magma-ocean-rocky-rain-supersonic-winds-super-earth/ 
+Exoplanètes - david fossé
+https://www.centauri-dreams.org/2009/09/16/corot-7b-a-small-rocky-world-examined/ 
+https://www.planetary.org/articles/2295 
+https://www.eso.org/public/news/eso0933/
+https://hal.archives-ouvertes.fr/hal-00743840/document 
+https://www.britannica.com/place/CoRoT-7b 
+https://lesia.obspm.fr/Premiere-preuve-de-l-existence-d.html 
+https://fr.wikipedia.org/wiki/CoRoT-7_b 
+https://www.universetoday.com/41940/rocky-world-corot-7b-rains-rocks/ 
+
+## 7. Planètes glacées
+
+https://fr.wikipedia.org/wiki/OGLE-2005-BLG-390L_b 
+https://www.futura-sciences.com/sciences/actualites/astronomie-decouverte-premiere-exoplanete-tellurique-grosse-terre-glacee-8099/ 
+https://exoplanets.nasa.gov/news/239/meet-8-star-wars-planets-in-our-own-galaxy/ 
+https://www.pbs.org/video/yes-theres-really-frozen-exoplanet-named-hoth-p46k4g/ 
+https://www.skyatnightmagazine.com/space-science/which-exoplanets-are-like-star-wars-worlds/ 
+https://www.futura-sciences.com/sciences/actualites/exoplanete-finalement-planetes-glacees-pourraient-abriter-vie-77074/ 
+https://fr.wikipedia.org/wiki/Plan%C3%A8te_glac%C3%A9e 
+https://hal.archives-ouvertes.fr/hal-00084950/document 
+https://www.eso.org/public/news/eso0603/ 
+https://theconversation.com/the-seven-most-extreme-planets-ever-discovered-78959 
+http://www.exoplanetes.umontreal.ca/methode-de-microlentille-gravitationnelle/ 
+https://www.futura-sciences.com/sciences/actualites/astronomie-premiere-exoplanete-detectee-microlentille-gravitationnelle-3564/
+
+## 8. Neptunes chaudes
+
+https://www.lemonde.fr/mmpub/edt/zip/2016/05/03/161236169-7fcea4d429880d203df2d566f4c6cc3b0f390232/index.html 
+https://fr.wikipedia.org/wiki/Gliese_436_b 
+https://www.futura-sciences.com/sciences/actualites/exoplanetes-hubble-devoile-gj-436b-exoplanete-ressemble-comete-58809/ 
+https://esahubble.org/images/heic1515a/ 
+https://arxiv.org/abs/astro-ph/0312384 
+https://earthsky.org/space/exoplanet-has-a-comet-like-tail-gliese-436b/ 
+https://exoplanets.nasa.gov/exoplanet-catalog/6534/gj-436-b/ 
+https://www.nature.com/articles/nature14501 
+https://skyandtelescope.org/astronomy-news/exoplanet-with-a-comet-tail-06302015234/ 
+https://www.nationalgeographic.fr/sciences/2019/05/observation-dune-etrange-forme-de-glace-chaude-super-ionique 
+https://www.numerama.com/sciences/752195-comment-de-la-glace-chaude-superionique-aide-a-comprendre-uranus-et-neptune.html 
+
+## 9. Exolunes
+
+https://www.planetary.org/articles/where-are-moons-of-exoplanets 
+https://astrobites.org/2022/03/01/kepler-1708-bi-discovery/
+https://www.centauri-dreams.org/2022/01/26/the-persistent-case-for-exomoon-candidate-kepler-1708-b-i/ 
+https://www.nature.com/articles/s41550-021-01539-1 
+https://www.scientificamerican.com/article/astronomers-have-found-another-possible-exomoon-beyond-our-solar-system/ 
+http://www.exoplanetes.umontreal.ca/decouverte-de-la-premiere-candidate-exolune/ https://www.scientificamerican.com/article/an-exomoon-eludes-astronomers-for-now/ 
+
+# Curiosités cosmiques
+
+## 1. Naines brunes
+
+https://books.google.fr/books?id=rA5jDwAAQBAJ&pg=PA194&lpg=PA194&dq=tens+of+billions+brown+dwarfs&source=bl&ots=Rae0nhEz7q&sig=ACfU3U0fQ02f7eMBgd6ylkJ9E4SlpBxhVA&hl=fr&sa=X&ved=2ahUKEwjO8vDctOn2AhWRx4UKHYrHCBkQ6AF6BAgvEAM#v=onepage&q=tens%20of%20billions%20brown%20dwarfs&f=false 
+https://fr.wikipedia.org/wiki/Teide_1 
+https://physicstoday.scitation.org/doi/10.1063/1.2947658 
+https://en.wikipedia.org/wiki/Teide_1 
+https://ui.adsabs.harvard.edu/abs/2014ASSL..401...25R/abstract 
+https://www.pourlascience.fr/sd/astrophysique/la-naissance-tragique-des-naines-brunes-2291.php 
+Rebolo, R., Zapatero-Osorio, M.R., y Martín, E.L., “Discovery of a brown dwarf in the Pleiades star cluster”, en Nature, Vol. 377, Págs. 129-131, 14 de septiembre de 1995.
+https://www.iac.es/en/outreach/news/25th-anniversary-discovery-first-brown-dwarf 
+https://w.astro.berkeley.edu/~basri/bdwarfs/SciAm-book.pdf 
+https://www2.le.ac.uk/departments/physics/research/xroa/astrophysics-1/red-and-brown-dwarfs 
+https://webbtelescope.org/resource-gallery/articles/pagecontent/filter-articles/what-makes-brown-dwarfs-unique.html 
+https://www.daviddarling.info/encyclopedia/B/browndwarf.html 
+https://www.quantamagazine.org/neither-star-nor-planet-a-strange-brown-dwarf-puzzles-astronomers-20210804/ 
+http://www.exoplanetes.umontreal.ca/research/brown-dwarfs/?lang=en 
+https://astronomy.swin.edu.au/cosmos/B/brown+dwarf
+https://www.britannica.com/science/brown-dwarf 
+https://earthsky.org/space/definition-what-are-brown-dwarfs/ 
+https://w.astro.berkeley.edu/~basri/bdwarfs/SciAm-book.pdf 
+https://www.pourlascience.fr/sd/astronomie/la-decouverte-des-naines-brunes-4071.php 
+https://astronomycommunity.nature.com/posts/revealing-the-secret-life-of-lithium-in-sun-like-stars 
+https://www.scientificamerican.com/article/brown-dwarfs-could-reveal-secrets-of-planet-and-star-formation/ 
+
+## 2. Trous noirs supermassifs
+
+https://astrobites.org/2021/09/24/mw-smbh-lensing/ 
+https://youtu.be/SXN4hpv977s 
+https://www.cnrs.fr/fr/les-astronomes-revelent-la-premiere-image-du-trou-noir-au-coeur-de-notre-galaxie 
+https://beta.nsf.gov/science-matters/image-sgr-black-hole-center-our-galaxy 
+https://www.franceculture.fr/sciences/le-nobel-de-physique-a-roger-penrose-reinhard-genzel-et-andrea-gherz-pour-leur-travaux-sur-les-trous 
+https://www.iaa.es/en/news/structure-supermassive-black-hole-center-our-galaxy-revealed 
+https://chandra.si.edu/resources/faq/black_hole/bhole-18.html
+https://chandra.si.edu/resources/faq/black_hole/bhole-main.html 
+https://www.nature.com/articles/d41586-020-02717-3
+https://www.numerama.com/sciences/750916-le-telescope-james-webb-aidera-a-observer-le-trou-noir-central-de-la-voie-lactee.html
+https://www.space.com/event-horizon-telescope-black-hole-photos-future.html
+https://blogs.futura-sciences.com/luminet/2020/10/07/le-prix-nobel-de-physique-2020-pour-les-trous-noirs-2-2-genzel-et-ghez/#more-4052 
+https://fr.wikipedia.org/wiki/Sagittarius_A* 
+https://chandra.si.edu/resources/faq/black_hole/bhole-60.html 
+https://www.space.com/milky-way-monster-black-hole-cool-disk.html 
+https://www.nature.com/articles/s41586-019-1242-z 
+
+## 3. Amas globulaires
+
+https://skyandtelescope.org/astronomy-resources/astronomy-questions-answers/science-faq-answers/kavli-foundation-globular-clusters-black-holes/ 
+https://hubblesite.org/contents/news-releases/2000/news-2000-33.html 
+https://en.m.wikipedia.org/wiki/Globular_cluster
+https://www.youtube.com/playlist?list=PLukZ7R0PTZNyghM0Z0JIRtiucPJkrBFuQ&disable_polymer=true
+https://arxiv.org/ftp/astro-ph/papers/0701/0701310.pdf 
+https://astronomy.com/news/2021/02/snapshot-black-holes-sprinkled-in-a-globular-star-cluster 
+https://iopscience.iop.org/article/10.1088/0004-637X/812/1/25 
+https://www.youtube.com/watch?v=BjzptXhpsz8&index=4&list=WL&t=0s
+https://io9.gizmodo.com/what-the-night-sky-would-look-like-from-inside-a-globul-1589324556
+https://fr.wikipedia.org/wiki/Amas_globulaire
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiPhq6R27PcAhUKL1AKHURXAF4QFjABegQIBBAC&url=https%3A%2F%2Fwww.physicsforums.com%2Fattachments%2Flife-inside-a-globular-cluster-pdf.79520%2F&usg=AOvVaw0tRBLNPhWL0druQ1-MyxaO
+http://www.astro.utoronto.ca/~webb/liagc.html
+http://www.iac.es/gabinete/iacnoticias/winter98/xplaneta.htm
+https://www.spacetelescope.org/videos/?search=globular+cluster
+https://youtu.be/an4rgJ3O21A
+https://youtu.be/gHztrZIbc9g
+http://www.sartoretti.org/display.php?id1=348
+http://www.astrosurf.com/luxorion/univers-nebuleuses-amas5.htm
+https://www.esa.int/spaceinimages/Images/2016/09/Anatomy_of_the_Milky_Way
+https://www.youtube.com/watch?v=QSE21LSxslU
+http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/globular.html
+https://www.aanda.org/articles/aa/full_html/2019/10/aa36135-19/aa36135-19.html
+https://www.astro.keele.ac.uk/workx/globulars/globulars.html 
+https://www.researchgate.net/publication/253910327_Globular_clusters_as_galaxy_building_blocks 
+https://sites.astro.caltech.edu/~george/ay127/readings/KraussChaboyer2003.pdf 
+universe - seeds
+
+## 4. Nébuleuses planétaires
+
+phil plait - death from the skies
+https://www.daviddarling.info/encyclopedia/P/planneb.html 
+https://astronomy.swin.edu.au/cosmos/p/Planetary+Nebulae 
+https://esahubble.org/wordbank/planetary-nebula/ 
+https://fr.wikipedia.org/wiki/N%C3%A9buleuse_plan%C3%A9taire 
+https://en.wikipedia.org/wiki/Helix_Nebula 
+https://fr.wikipedia.org/wiki/NGC_7293 
+https://www.quora.com/Could-we-see-the-Helix-Nebula%E2%80%99s-rich-vibrant-colours-if-it-were-3-light-years-away-from-us 
+https://books.google.fr/books?id=3AODx2z63vEC&pg=PA237&lpg=PA237&dq=helix+nebula+true+colors+human+eye&source=bl&ots=0RQmlmPa6y&sig=ACfU3U1unzZMN2WzmEIGnvD2By2jQClgqQ&hl=fr&sa=X&ved=2ahUKEwj22o-OqJj3AhVPQhoKHQG9AbgQ6AF6BAhOEAM#v=onepage&q=helix%20nebula%20true%20colors%20human%20eye&f=false 
+https://www.galactic-hunter.com/post/ngc-7293-the-helix-nebula 
+https://fr.wikipedia.org/wiki/NGC_6302 
+
+## 5. Globules de Bok
+
+https://en.wikipedia.org/wiki/Bok_globule 
+https://astronomy.swin.edu.au/cosmos/b/Bok+Globule 
+https://astronomy.com/news-observing/ask%20astro/2008/07/what%20is%20a%20bok%20globule 
+https://www.researchgate.net/figure/TYPICAL-PROPERTIES-OF-BOK-GLOBULES-AND-THEIR-DENSE-CORES_tbl1_45910389 
+https://phys.org/news/2010-06-bok-globules.html 
+https://www.universetoday.com/10610/a-star-in-the-making/ 
+https://www.astro.uni-jena.de/Observations/FB08/marka_abstract_FBR.pdf 
+https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect15/lecture15.html 
+https://youtu.be/VRNH0zCzPK0 
+https://hubblesite.org/contents/media/images/2006/13/1872-Image.html?keyword=Bok%20globule 
+https://www.astronomes.com/voie-lactee/formation-etoile/ 
+https://ui.adsabs.harvard.edu/abs/1947ApJ...105..255B/abstract 
+https://astrobackyard.com/ngc-281-the-pacman-nebula/ 
+https://earthsky.org/clusters-nebulae-galaxies/the-lagoon-nebula-messier-8/ 
+https://www.freeastroscience.com/2021/07/the-laguna-nebula.html 
+https://www.eso.org/sci/publications/messenger/archive/no.26-dec81/messenger-no26-2-4.pdf 
+https://www.aanda.org/articles/aa/pdf/2002/08/aah2952.pdf 
+https://arxiv.org/abs/1005.2202 
+https://www.aanda.org/articles/aa/pdf/2002/08/aah2952.pdf
+https://www2.mpia-hd.mpg.de/homes/rlau/Talks/YLU_2004_globules_rl.pdf 
+https://adsabs.harvard.edu/full/1994ASPC...65..224L 
+https://www.aanda.org/articles/aa/full_html/2010/10/aa14537-10/aa14537-10.html 
+https://phys.org/news/2010-06-bok-globules.html 
+https://www.academia.edu/21557378/Looking_Into_the_Hearts_of_Bok_Globules_Millimeter_and_Submillimeter_Continuum_Images_of_Isolated_Star_Forming_Cores 
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.139.4152&rep=rep1&type=pdf 
+https://www.eso.org/sci/publications/messenger/archive/no.26-dec81/messenger-no26-2-4.pdf 
+https://andromedageek.wordpress.com/2015/10/18/a-star-is-born-part-3-cont-evidence-of-a-protostar-in-a-bok-globule/ 
+https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2629&context=theses 
+https://media4.obspm.fr/public/ressources_lu/pages_naissance/milieu-interstellaire_impression.html 
+https://fr.wikipedia.org/wiki/N%C3%A9buleuse_de_la_Lagune#/media/Fichier:Lagoon_Nebula_(ESO).jpg 
+http://www.badastronomy.com/media/inprint/underalienskies.html 
+https://iopscience.iop.org/article/10.1088/0067-0049/188/1/139/pdf 
+https://www.nasa.gov/feature/goddard/2018/lagoon-nebula-visible-light-view 
+
+## 6. Planètes errantes
+
+https://www.franceculture.fr/emissions/le-journal-des-sciences/la-decouverte-de-plus-de-70-planetes-errantes 
+https://www.nature.com/articles/21811 
+https://www.franceculture.fr/emissions/la-methode-scientifique/planetes-errantes-perdues-dans-l-espace 
+https://www.youtube.com/watch?v=XmgK3m6WXM8 
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E339F1FF6E8279146EB9515D3C2C1BE9/S1473550418000083a.pdf/subsurface_exolife.pdf 
+https://www.planetary.org/articles/is-life-possible-on-worlds-without-stars 
+https://www.emse.fr/~bouchardon/enseignement/processus-naturels/up1/web/wiki/Q%20-%20Energie%20interne%20-%20la%20chaleur%20interne%20sur%20Terre%20-%20Letellier.htm 
+https://www.liebertpub.com/doi/full/10.1089/ast.2015.1295 
+https://iopscience.iop.org/article/10.1088/2041-8205/734/1/L13/meta 
+https://aeon.co/essays/could-we-make-our-home-on-a-rogue-planet-without-a-sun 
+
+## 7. Oumuamua
+
+https://fr.wikipedia.org/wiki/1I/%CA%BBOumuamua
+https://planetplanet.net/2019/07/01/oumuamua-was-it-aliens-spoiler-no/ 
+https://www.syfy.com/syfy-wire/is-oumuamua-an-interstellar-spaceship-im-still-going-with-no
+https://www.centauri-dreams.org/2021/03/19/oumuamua-a-shard-of-nitrogen-ice/ 
+https://blogs.futura-sciences.com/e-luminet/2021/03/08/oumuamua-extraterrestial-spaceship-or-extrasolar-asteroid/
+https://en.wikipedia.org/wiki/%CA%BBOumuamua#Trajectory 
+https://www.centauri-dreams.org/2021/02/23/extraterrestrial-on-oumuamua-as-artifact/ 
+https://arxiv.org/pdf/1810.11490.pdf 
+https://www.pourlascience.fr/sd/astrophysique/les-premiers-visiteurs-interstellaires-20247.php 
+https://www.exobiologie.fr/blog/2021/02/07/oumuamua-est-il-une-preuve-de-lexistence-dextraterrestres/ 
+https://www.futura-sciences.com/sciences/actualites/objet-interstellaire-oumuamua-ne-serait-ni-comete-ni-asteroide-ni-vaisseau-spatial-extraterrestre-78536/ 
+
+# Les galaxies
+
+## 1. La Voie Lactée
