@@ -342,20 +342,19 @@
 
 ## 6. Etoiles hypergéantes
 
-Etoiles - florian freistetter 
-https://www.ca-se-passe-la-haut.fr/2021/10/eta-carinae-observation-dune.html 
-https://www.eso.org/public/france/news/eso1637/ 
-https://apod.nasa.gov/apod/ap971129.html 
-https://apod.nasa.gov/apod/ap190220.html 
-https://astronomynow.com/2018/08/03/astronomers-stunned-again-by-eta-carinae-the-star-that-will-not-die/ 
-https://nineplanets.org/eta-carinae-%CE%B7-carinae/ 
-https://www.oca.eu/fr/actu-lagrange/331-eta-carinae-violent-stellar-wind-collision-in-the-binary-star-monster
-https://www.universetoday.com/142734/hubble-has-a-brand-new-picture-of-the-massive-star-eta-carinae-it-could-detonate-as-a-supernova-any-day-now/ 
-https://www.forbes.com/sites/grrlscientist/2022/02/18/fluorescent-transgenic-fish-escape-captivity-into-atlantic-forest-creeks-of-brazil/?sh=51bd3dd87c7c 
-https://blog.wolfram.com/2020/03/04/exploring-the-enigmatic-star-eta-carinae/ 
-https://books.google.fr/books?id=oL47FgJAKSkC&pg=PA81&lpg=PA81&dq=brightest+mid-IR+eta+carinae&source=bl&ots=t8uKZCV4I9&sig=ACfU3U1j2YQM8CKHJA5fb2T-gbiwvL3ZHQ&hl=fr&sa=X&ved=2ahUKEwj6u8yT2pX2AhUQzYUKHZyUBi8Q6AF6BAg3EAM#v=onepage&q=brightest%20mid-IR%20eta%20carinae&f=false 
-https://www.universetoday.com/13507/what-is-the-biggest-star-in-the-universe/ 
-https://www.newscientist.com/article/2105336-csi-eta-carinae-clouds-suggest-odd-stars-history-of-violence/ 
+- [Eta Carinae : observation d'une variabilité incomprise du flux gamma entre périastres successifs ](https://www.ca-se-passe-la-haut.fr/2021/10/eta-carinae-observation-dune.html) - Eric Simon, Ca se passe là-haut
+- [Image haute résolution d’Eta Carinae](https://www.eso.org/public/france/news/eso1637/) - ESO
+- [Lasers in Eta Carinae](https://apod.nasa.gov/apod/ap971129.html) - APOD
+- [Doomed Star Eta Carinae](https://apod.nasa.gov/apod/ap190220.html) - APOD
+- [Astronomers stunned again by Eta Carinae – the star that will not die](https://astronomynow.com/2018/08/03/astronomers-stunned-again-by-eta-carinae-the-star-that-will-not-die/) - Astronomy Now
+- [Eta Carinae Facts](https://nineplanets.org/eta-carinae-%CE%B7-carinae/) - Nine Planets
+- [Eta Carinae: Violent stellar wind collision in the binary star monster ](https://www.oca.eu/fr/actu-lagrange/331-eta-carinae-violent-stellar-wind-collision-in-the-binary-star-monster) - Observatoire de la Côte d'Azur
+- [Hubble has a Brand New Picture of the Massive Star Eta Carinae. It Could Detonate as a Supernova Any Day Now](https://www.universetoday.com/142734/hubble-has-a-brand-new-picture-of-the-massive-star-eta-carinae-it-could-detonate-as-a-supernova-any-day-now/) - Evan Gough, Universe Today
+- [Exploring the Enigmatic Star, Eta Carinae](https://blog.wolfram.com/2020/03/04/exploring-the-enigmatic-star-eta-carinae/) - Wolfram Blog
+- [The New Astronomy](https://books.google.fr/books?id=oL47FgJAKSkC&pg=PA81&lpg=PA81&dq=brightest+mid-IR+eta+carinae&source=bl&ots=t8uKZCV4I9&sig=ACfU3U1j2YQM8CKHJA5fb2T-gbiwvL3ZHQ&hl=fr&sa=X&ved=2ahUKEwj6u8yT2pX2AhUQzYUKHZyUBi8Q6AF6BAg3EAM#v=onepage&q=brightest%20mid-IR%20eta%20carinae&f=false) - Nigel Henbest, Michael Marten
+- [What is the Biggest Star in the Universe?](https://www.universetoday.com/13507/what-is-the-biggest-star-in-the-universe/) - Fraser Cain, Universe Today
+- [CSI Eta Carinae: Clouds suggest odd star's history of violence](https://www.newscientist.com/article/2105336-csi-eta-carinae-clouds-suggest-odd-stars-history-of-violence/) - Adam Mann, New Scientist
+- Etoiles - Florian Freistetter (Flammarion, 2020)
 
 ## 7. Etoiles à neutrons
 
