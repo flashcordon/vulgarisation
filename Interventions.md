@@ -227,6 +227,12 @@
 - Sommes-nous seuls ? - Médiathèque de Tulle, Juin 2022
 - Sommes-nous seuls ? - Collège Saint-Bruno de la Tour du Pin, Tic & Sciences, Juin 2022
 - [Mondes imag(in)és](https://una-volta.com/paysages-cosmiques/) - Una Volta, Juin 2022
+- Balade dans le système solaire - Festival de Fleurance, Août 2022 
+- La vie secrète des étoiles - Festival de Fleurance, Août 2022 
+- Exoplanètes : la symphonie des nouveaux mondes - Festival de Fleurance, Août 2022
+- Le royaume des galaxies - Festival de Fleurance, Août 2022
+- Le grand récit : du Big Bang à nos jours - Festival de Fleurance, Août 2022
+- La fin des temps - Festival de Fleurance, Août 2022
 
 # Articles de blog
 
