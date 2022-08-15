@@ -738,12 +738,12 @@ https://www.syfy.com/syfy-wire/battle-of-the-bulges-have-astronomers-been-wrong-
 
 ## 6. Galaxies en interaction
 
-https://www.e-education.psu.edu/astro801/content/l9_p6.html 
-https://www.forbes.com/sites/startswithabang/2021/05/11/the-milky-way-might-never-become-an-elliptical-galaxy/?sh=e4efcdb52bdc 
-http://amandabauer.blogspot.com/2009/05/crimes-against-galaxies.html 
-https://academic.oup.com/mnras/article/475/3/3934/4797166 
-https://earthsky.org/space/earths-night-sky-milky-way-andromeda-merge/ 
-https://fr.wikipedia.org/wiki/Collision_entre_la_galaxie_d%27Androm%C3%A8de_et_la_Voie_lact%C3%A9e
+- [Galaxy Interactions](https://www.e-education.psu.edu/astro801/content/l9_p6.html) - Astro 801, Penn State University
+- [The Milky Way Might Never Become An Elliptical Galaxy](https://www.forbes.com/sites/startswithabang/2021/05/11/the-milky-way-might-never-become-an-elliptical-galaxy/?sh=e4efcdb52bdc) - Ethan Siegel, Forbes
+- [crimes against galaxies](http://amandabauer.blogspot.com/2009/05/crimes-against-galaxies.html) -  Amanda Bauer, astropixie
+- [The fate of the Antennae galaxies](https://academic.oup.com/mnras/article/475/3/3934/4797166) - Lahen et al (2018)
+- [Andromeda and Milky Way galaxies are merging](https://earthsky.org/space/earths-night-sky-milky-way-andromeda-merge/) - Deborah Byrd, EarthSky
+- [Collision entre la galaxie d'Andromède et la Voie lactée](https://fr.wikipedia.org/wiki/Collision_entre_la_galaxie_d%27Androm%C3%A8de_et_la_Voie_lact%C3%A9e) - Wikipédia
 
 ## 7. Galaxies actives
 
