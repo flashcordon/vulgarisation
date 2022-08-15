@@ -408,12 +408,12 @@ https://en.wikipedia.org/wiki/Gravity_darkening
 
 ## 3. Planètes océans
 
-Exoplanètes - David Fossé
-https://www.centauri-dreams.org/2019/02/14/planet-formation-how-ocean-worlds-happen/ 
-https://www.planetary.org/articles/the-different-kinds-of-exoplanets-you-meet-in-the-milky-way 
-https://en.wikipedia.org/wiki/Kepler-22b 
-https://arxiv.org/ftp/arxiv/papers/1607/1607.04207.pdf 
-https://www.futura-sciences.com/sciences/actualites/astronomie-exoplanetes-reperees-kepler-ecoutees-seti-sont-muettes-44546/ 
+- Exoplanètes - David Fossé (Belin)
+- [Planet Formation: How Ocean Worlds Happen](https://www.centauri-dreams.org/2019/02/14/planet-formation-how-ocean-worlds-happen/) - Paul Gilster, Centauri Dreams
+- [Exoplanets You Meet in the Milky Way](https://www.planetary.org/articles/the-different-kinds-of-exoplanets-you-meet-in-the-milky-way) - Planetary Society
+- [Kepler 22b](https://en.wikipedia.org/wiki/Kepler-22b) - Wikipédia
+- [SETI OBSERVATIONS OF EXOPLANETS WITH THE ALLEN TELESCOPE ARRAY](https://arxiv.org/ftp/arxiv/papers/1607/1607.04207.pdf) - Harp et al. (2016)
+- [Les exoplanètes repérées par Kepler et écoutées par Seti sont muettes](https://www.futura-sciences.com/sciences/actualites/astronomie-exoplanetes-reperees-kepler-ecoutees-seti-sont-muettes-44546/) - Laurent Sacco, Futura Sciences
 
 ## 4. Super-Terres
 
