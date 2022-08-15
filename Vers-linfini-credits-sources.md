@@ -703,11 +703,11 @@ https://fr.wikipedia.org/wiki/IC_1101
 
 ## 4. Galaxies à anneau
 
-https://fr.wikipedia.org/wiki/Objet_de_Hoag 
-https://en.wikipedia.org/wiki/Hoag%27s_Object
-https://www.forbes.com/sites/startswithabang/2020/07/08/astronomys-most-perfect-ring-galaxy-hoags-object-is-still-a-mystery-after-70-years/?sh=2410e7dc1c35 
-https://apod.nasa.gov/apod/ap100822.html 
-https://arxiv.org/html/astro-ph/9908269/section7.html 
+- [Objet de Hoag](https://fr.wikipedia.org/wiki/Objet_de_Hoag) - Wikipédia
+- [Hoag's Object](https://en.wikipedia.org/wiki/Hoag%27s_Object) - Wikipédia
+- [Astronomy's Most Perfect Ring Galaxy, Hoag's Object, Is Still A Mystery After 70 Years](https://www.forbes.com/sites/startswithabang/2020/07/08/astronomys-most-perfect-ring-galaxy-hoags-object-is-still-a-mystery-after-70-years/?sh=2410e7dc1c35) - Ethan Siegel, Forbes
+- [Hoag's Object: A Strange Ring Galaxy](https://apod.nasa.gov/apod/ap100822.html) - APOD
+- [Galaxy Collisions](https://arxiv.org/html/astro-ph/9908269/section7.html) - Curtis Struck (1999)
 
 ## 5. Galaxies naines
 
