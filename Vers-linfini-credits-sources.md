@@ -649,14 +649,13 @@ https://www.futura-sciences.com/sciences/actualites/objet-interstellaire-oumuamu
 
 ## 1. La Voie Lactée
 
-https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html 
-https://www.space.com/19915-milky-way-galaxy.html 
-https://www.space.com/25959-how-many-stars-are-in-the-milky-way.html 
-https://en.wikipedia.org/wiki/Milky_Way 
-https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/the-milky-way-one-of-the-many-galaxies 
-https://arxiv.org/abs/2002.09497 
-https://www.nationalgeographic.com/science/article/milky-way-galaxy-facts-black-hole-stars-space-science 
-https://www.nationalgeographic.com/science/article/milky-way-galaxy-facts-black-hole-stars-space-science 
+- [The Milky Way Galaxy](https://imagine.gsfc.nasa.gov/science/objects/milkyway1.html) - NASA
+- [Milky Way galaxy: Facts about our cosmic neighborhood](https://www.space.com/19915-milky-way-galaxy.html) -  Tereza Pultarova et Daisy Dobrijevic, Space.com 
+- [How many stars are in the Milky Way?](https://www.space.com/25959-how-many-stars-are-in-the-milky-way.html) -  Elizabeth Howell, Space.com
+- [Milky Way](https://en.wikipedia.org/wiki/Milky_Way) - Wikipédia 
+- [The Milky Way: One of the Many Galaxies](https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/the-milky-way-one-of-the-many-galaxies) - Library of Congress 
+- [The Edge of the Galaxy](https://arxiv.org/abs/2002.09497) - Deason et al (2020)
+- [10 Weird Things You (Probably) Didn't Know About the Milky Way](https://www.nationalgeographic.com/science/article/milky-way-galaxy-facts-black-hole-stars-space-science) - National Geographic
 
 ## 2. Galaxies spirales
 
