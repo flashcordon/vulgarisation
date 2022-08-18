@@ -488,12 +488,11 @@ https://www.numerama.com/sciences/752195-comment-de-la-glace-chaude-superionique
 
 ## 9. Exolunes
 
-https://www.planetary.org/articles/where-are-moons-of-exoplanets 
-https://astrobites.org/2022/03/01/kepler-1708-bi-discovery/
-https://www.centauri-dreams.org/2022/01/26/the-persistent-case-for-exomoon-candidate-kepler-1708-b-i/ 
-https://www.nature.com/articles/s41550-021-01539-1 
-https://www.scientificamerican.com/article/astronomers-have-found-another-possible-exomoon-beyond-our-solar-system/ 
-http://www.exoplanetes.umontreal.ca/decouverte-de-la-premiere-candidate-exolune/ https://www.scientificamerican.com/article/an-exomoon-eludes-astronomers-for-now/ 
+- [Where are the moons that orbit exoplanets?](https://www.planetary.org/articles/where-are-moons-of-exoplanets) - Briley Lewis, Planetary Society
+- [A new exomoon candidate: Kepler-1708 b-i](https://astrobites.org/2022/03/01/kepler-1708-bi-discovery/) - Ishan Mishra, Astrobites
+- [The Persistent Case for Exomoon Candidate Kepler-1708 b-i](https://www.centauri-dreams.org/2022/01/26/the-persistent-case-for-exomoon-candidate-kepler-1708-b-i/) - Paul Gilster, Centauri Dreams
+- [An exomoon survey of 70 cool giant exoplanets and the new candidate Kepler-1708 b-i](https://www.nature.com/articles/s41550-021-01539-1) - Kipping et al (2022)
+- [Astronomers Have Found Another Possible ‘Exomoon’ beyond Our Solar System](https://www.scientificamerican.com/article/astronomers-have-found-another-possible-exomoon-beyond-our-solar-system/) - Jonathan O'Callaghan, Scientific American
 
 # Curiosités cosmiques
 
