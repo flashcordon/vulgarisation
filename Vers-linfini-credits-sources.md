@@ -745,17 +745,17 @@ https://www.syfy.com/syfy-wire/battle-of-the-bulges-have-astronomers-been-wrong-
 
 ## 7. Galaxies actives
 
-https://www.astronomes.com/galaxie/quasar/
-https://www.astronomes.com/galaxie/galaxie-active-modele-unifie/ 
-https://www.astronomes.com/galaxie/galaxie-noyau-actif/ 
-https://www.pourlascience.fr/sd/astronomie/les-quasars-trous-noirs-en-action-1183.php 
-https://books.openedition.org/editionscnrs/11557?lang=fr 
-https://media4.obspm.fr/public/ressources_lu/pages_galaxies/agn_impression.html 
-https://astronomia.fr/5eme_partie/galaxiesActives.php 
-https://www.syfy.com/syfy-wire/supermassive-black-holes-jets-of-matter-hot-gas-magnetism 
-https://apod.nasa.gov/apod/ap030705.html 
-https://theplanets.org/centaurus-a/ 
-https://youtu.be/Douno3m0s8Y 
+- [Les quasars](https://www.astronomes.com/galaxie/quasar/) - Olivier Esslinger
+- [Le modèle unifié des galaxies actives](https://www.astronomes.com/galaxie/galaxie-active-modele-unifie/) - Olivier Esslinger
+- [Les galaxies de Seyfert, radiogalaxies et blazars](https://www.astronomes.com/galaxie/galaxie-noyau-actif/) - Olivier Esslinger
+- [Les quasars, trous noirs en action](https://www.pourlascience.fr/sd/astronomie/les-quasars-trous-noirs-en-action-1183.php) - Suzy Collin, Pour la Science
+- [17. Quasars et Noyaux Actifs de Galaxies](https://books.openedition.org/editionscnrs/11557?lang=fr) - Suzy Collin-Zahn
+- [Les galaxies à noyau actif](https://media4.obspm.fr/public/ressources_lu/pages_galaxies/agn_impression.html) - Florence Durret, Observatoire de Paris
+- [Galaxies actives](https://astronomia.fr/5eme_partie/galaxiesActives.php) - Astronomia
+- [How do supermassive black holes launch powerful jets of matter? With hot gas and magnetism](https://www.syfy.com/syfy-wire/supermassive-black-holes-jets-of-matter-hot-gas-magnetism) - Phil Plait, Bad Astronomy
+- [Centaurus A: X-Rays from an Active Galaxy](https://apod.nasa.gov/apod/ap030705.html) - APOD
+- [Centaurus A Galaxy Facts](https://theplanets.org/centaurus-a/) - The planets
+- [The is What Centaurus A Galaxy Looks Like From Earth (in Radio)](https://youtu.be/Douno3m0s8Y) - Anton Petrov
 
 ## 8. Amas de galaxies
 
