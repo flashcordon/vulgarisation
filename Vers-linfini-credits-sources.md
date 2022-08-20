@@ -758,16 +758,16 @@ https://www.syfy.com/syfy-wire/battle-of-the-bulges-have-astronomers-been-wrong-
 
 ## 8. Amas de galaxies
 
-http://amandabauer.blogspot.com/2009/05/crimes-against-galaxies.html 
-https://www.astronomes.com/galaxie/groupe-amas-galaxie/
-https://fr.wikipedia.org/wiki/Abell_1689 
-https://www.futura-sciences.com/sciences/actualites/astronomie-abell-1689-amas-galaxies-intriguant-16684/ 
-https://www.cieletespace.fr/actualites/abell-1689-revele-sa-matiere-noire 
-https://www.cidehom.com/apod.php?_date=130917 
-https://sites.astro.caltech.edu/~george/ay127/Ay127_GalClusters.pdf 
-https://www.pourlascience.fr/sd/astrophysique/la-fureur-de-vivre-des-grands-amas-de-galaxies-21520.php
-https://astronomia.fr/5eme_partie/amasGalaxies.php 
-https://phys.org/news/2014-11-hot-gas-clusters-galaxies.html 
+- [Crimes against galaxies](http://amandabauer.blogspot.com/2009/05/crimes-against-galaxies.html) - Amanda Bauer
+- [Les groupes et amas de galaxies](https://www.astronomes.com/galaxie/groupe-amas-galaxie/) - Olivier Esslinger
+- [Abell 1689](https://fr.wikipedia.org/wiki/Abell_1689) - Wikipédia
+- [Abell 1689, un amas de galaxies intriguant](https://www.futura-sciences.com/sciences/actualites/astronomie-abell-1689-amas-galaxies-intriguant-16684/) - Jean Etoenne, Futura Sciences
+- [Abell 1689 révèle sa matière noire](https://www.cieletespace.fr/actualites/abell-1689-revele-sa-matiere-noire) - Philippe Henarejos, Ciel et Espace 
+- [Abell 1689 courbe la lumière](https://www.cidehom.com/apod.php?_date=130917) - Ciel des Hommes
+- [Galaxy Clusters](https://sites.astro.caltech.edu/~george/ay127/Ay127_GalClusters.pdf) - Cours de George Djorgovski
+- [La fureur de vivre des grands amas de galaxies](https://www.pourlascience.fr/sd/astrophysique/la-fureur-de-vivre-des-grands-amas-de-galaxies-21520.php) - Arianna Long, Pour la Science
+- [Amas de galaxies](https://astronomia.fr/5eme_partie/amasGalaxies.php) - Astronomia
+- [Staying warm: The hot gas in clusters of galaxies](https://phys.org/news/2014-11-hot-gas-clusters-galaxies.html) - Physorg
 
 # Tout savoir sur le cosmos
 
