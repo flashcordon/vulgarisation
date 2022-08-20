@@ -620,16 +620,15 @@ https://www.nasa.gov/feature/goddard/2018/lagoon-nebula-visible-light-view
 
 ## 6. Planètes errantes
 
-https://www.franceculture.fr/emissions/le-journal-des-sciences/la-decouverte-de-plus-de-70-planetes-errantes 
-https://www.nature.com/articles/21811 
-https://www.franceculture.fr/emissions/la-methode-scientifique/planetes-errantes-perdues-dans-l-espace 
-https://www.youtube.com/watch?v=XmgK3m6WXM8 
-https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E339F1FF6E8279146EB9515D3C2C1BE9/S1473550418000083a.pdf/subsurface_exolife.pdf 
-https://www.planetary.org/articles/is-life-possible-on-worlds-without-stars 
-https://www.emse.fr/~bouchardon/enseignement/processus-naturels/up1/web/wiki/Q%20-%20Energie%20interne%20-%20la%20chaleur%20interne%20sur%20Terre%20-%20Letellier.htm 
-https://www.liebertpub.com/doi/full/10.1089/ast.2015.1295 
-https://iopscience.iop.org/article/10.1088/2041-8205/734/1/L13/meta 
-https://aeon.co/essays/could-we-make-our-home-on-a-rogue-planet-without-a-sun 
+- [La découverte de plus de 70 planètes errantes](https://www.franceculture.fr/emissions/le-journal-des-sciences/la-decouverte-de-plus-de-70-planetes-errantes) - Le journal des sciences, France Culture
+- [Life-sustaining planets in interstellar space?](https://www.nature.com/articles/21811) - Stevenson (1999)
+- [Planètes errantes, perdues dans l'espace](https://www.franceculture.fr/emissions/la-methode-scientifique/planetes-errantes-perdues-dans-l-espace) - La Méthode Scientifique
+- [LES PLANÈTES ERRANTES](https://www.youtube.com/watch?v=XmgK3m6WXM8) - Conférence de Caroline Terquem
+- [Subsurface exolife](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E339F1FF6E8279146EB9515D3C2C1BE9/S1473550418000083a.pdf/subsurface_exolife.pdf) - Lingam et Loeb (2018)
+- [Is life possible on rogue planets and moons?](https://www.planetary.org/articles/is-life-possible-on-worlds-without-stars) - Planetary Society
+- [Habitability: A Review](https://www.liebertpub.com/doi/full/10.1089/ast.2015.1295) - Cockell et al (2016)
+- [HYDROGEN GREENHOUSE PLANETS BEYOND THE HABITABLE ZONE](https://iopscience.iop.org/article/10.1088/2041-8205/734/1/L13/meta) - Pierrehumbert et Gaidos (2011)
+- [Life in the dark](https://aeon.co/essays/could-we-make-our-home-on-a-rogue-planet-without-a-sun) - Sean Raymond, Aeon
 
 ## 7. Oumuamua
 
