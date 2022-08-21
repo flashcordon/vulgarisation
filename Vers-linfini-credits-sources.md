@@ -656,26 +656,24 @@ https://www.nasa.gov/feature/goddard/2018/lagoon-nebula-visible-light-view
 
 ## 2. Galaxies spirales
 
-https://astrobites.org/2018/10/22/how-the-milky-way-got-its-spiral-arms/
-https://esahubble.org/wordbank/spiral-galaxy/ 
-https://www.pourlascience.fr/sd/astrophysique/l-origine-des-bras-multiples-dans-les-galaxies-spirales-11614.php 
-https://youtu.be/HBhqr0KkntQ 
-https://www.cidehom.com/apod.php?_date=190506 
-https://twitter.com/astro_md/status/1117006010328211456 
-http://astronomy.nmsu.edu/geas/lectures/lecture29/slide03.html 
-https://www.eso.org/public/france/images/eso9845d/ 
-https://en.wikipedia.org/wiki/NGC_1232 
-https://astronomy.swin.edu.au/cosmos/s/Spiral+Arm 
-https://earthsky.org/space/galaxies-spiral-arm/ 
-https://beltoforion.de/en/spiral_galaxy_renderer/ 
-http://faculty.washington.edu/ivezic/Teaching/Astr509/lecture12.pdf 
-https://astronomy.swin.edu.au/cosmos/O/Origin+Of+Spiral+Arms 
-https://astronomy.com/magazine/ask-astro/2021/02/ask-astro-why-do-galaxies-have-spiral-arms 
-https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5AAD9BB4EC87A557728FB2428444814F/S1323358014000319a.pdf/dawes_review_4_spiral_structures_in_disc_galaxies.pdf 
-https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/dawes-review-4-spiral-structures-in-disc-galaxies/5AAD9BB4EC87A557728FB2428444814F 
-https://www.scientificamerican.com/article/what-process-creates-and/ 
-https://en.wikipedia.org/wiki/Spiral_galaxy 
-http://burro.cwru.edu/academics/Astr222/Galaxies/Spiral/spiral.html 
+- [How the Milky Way Got its Spiral Arms](https://astrobites.org/2018/10/22/how-the-milky-way-got-its-spiral-arms/) - Astrobites
+- [Spiral Galaxy](https://esahubble.org/wordbank/spiral-galaxy/) - ESA 
+- [L’origine des bras multiples dans les galaxies spirales](https://www.pourlascience.fr/sd/astrophysique/l-origine-des-bras-multiples-dans-les-galaxies-spirales-11614.php) - Sean Bailly, Pour la Science 
+- [Virtual Flyby of the Whirlpool Galaxy](https://youtu.be/HBhqr0KkntQ) - APOD
+- [L'origine de la forme spirale des galaxies](https://twitter.com/astro_md/status/1117006010328211456) - Thread de Maxime Delorme
+- [Spiral Galaxies](http://astronomy.nmsu.edu/geas/lectures/lecture29/slide03.html) - General Education Astronomy Source (GEAS) project
+- [La galaxie spirale NGC 1232](https://www.eso.org/public/france/images/eso9845d/) - ESO
+- [NGC 1232](https://en.wikipedia.org/wiki/NGC_1232) - Wikipédia
+- [Spiral Arm](https://astronomy.swin.edu.au/cosmos/s/Spiral+Arm) - The SAO Encyclopedia of Astronomy
+- [Why are some galaxies shaped liked spirals?](https://earthsky.org/space/galaxies-spiral-arm/) - EarthSky
+- [Rendering a Galaxy with the density wave theory](https://beltoforion.de/en/spiral_galaxy_renderer/) - Ingo Berg
+- [Disk Dynamics, Spiral Arms and Bars: Introduction](http://faculty.washington.edu/ivezic/Teaching/Astr509/lecture12.pdf) - cours de Zeljko Ivezi 
+- [Origin Of Spiral Arms](https://astronomy.swin.edu.au/cosmos/O/Origin+Of+Spiral+Arms) - The SAO Encyclopedia of Astronomy 
+- [Ask Astro: Why do galaxies have spiral arms? Do smaller objects have them too?](https://astronomy.com/magazine/ask-astro/2021/02/ask-astro-why-do-galaxies-have-spiral-arms) - Debra Elmegreen, Astronomy Magazine
+- [Dawes Review 4: Spiral Structures in Disc Galaxies](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5AAD9BB4EC87A557728FB2428444814F/S1323358014000319a.pdf/dawes_review_4_spiral_structures_in_disc_galaxies.pdf) - Dobbs et Baba (2014)
+- [What process creates and maintains the beautiful spiral arms around spiral galaxies? I've been told that density waves are responsible--so where do the density waves come from?](https://www.scientificamerican.com/article/what-process-creates-and/) - Scientific American 
+- [Spiral galaxy](https://en.wikipedia.org/wiki/Spiral_galaxy) - Wikipédia
+- [Spiral Structure](http://burro.cwru.edu/academics/Astr222/Galaxies/Spiral/spiral.html) - cours de Chris Mihos 
 
 ## 3. Galaxies elliptiques
 
