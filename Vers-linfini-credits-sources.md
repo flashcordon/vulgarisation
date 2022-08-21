@@ -459,18 +459,18 @@ https://www.universetoday.com/41940/rocky-world-corot-7b-rains-rocks/
 
 ## 7. Planètes glacées
 
-https://fr.wikipedia.org/wiki/OGLE-2005-BLG-390L_b 
-https://www.futura-sciences.com/sciences/actualites/astronomie-decouverte-premiere-exoplanete-tellurique-grosse-terre-glacee-8099/ 
-https://exoplanets.nasa.gov/news/239/meet-8-star-wars-planets-in-our-own-galaxy/ 
-https://www.pbs.org/video/yes-theres-really-frozen-exoplanet-named-hoth-p46k4g/ 
-https://www.skyatnightmagazine.com/space-science/which-exoplanets-are-like-star-wars-worlds/ 
-https://www.futura-sciences.com/sciences/actualites/exoplanete-finalement-planetes-glacees-pourraient-abriter-vie-77074/ 
-https://fr.wikipedia.org/wiki/Plan%C3%A8te_glac%C3%A9e 
-https://hal.archives-ouvertes.fr/hal-00084950/document 
-https://www.eso.org/public/news/eso0603/ 
-https://theconversation.com/the-seven-most-extreme-planets-ever-discovered-78959 
-http://www.exoplanetes.umontreal.ca/methode-de-microlentille-gravitationnelle/ 
-https://www.futura-sciences.com/sciences/actualites/astronomie-premiere-exoplanete-detectee-microlentille-gravitationnelle-3564/
+- [OGLE-2005-BLG-390L b](https://fr.wikipedia.org/wiki/OGLE-2005-BLG-390L_b) - Wikipédia
+- [Découverte de la première exoplanète tellurique : une grosse Terre glacée ?](https://www.futura-sciences.com/sciences/actualites/astronomie-decouverte-premiere-exoplanete-tellurique-grosse-terre-glacee-8099/) - IAP, Futura Sciences
+- [Meet 8 'Star Wars' Planets in Our Own Galaxy](https://exoplanets.nasa.gov/news/239/meet-8-star-wars-planets-in-our-own-galaxy/) - NASA 
+- [Yes, There's Really a Frozen Exoplanet named Hoth](https://www.pbs.org/video/yes-theres-really-frozen-exoplanet-named-hoth-p46k4g/) - PBS
+- [Which exoplanets are like Star Wars worlds?](https://www.skyatnightmagazine.com/space-science/which-exoplanets-are-like-star-wars-worlds/) - Sky at night Magazine
+- [Finalement, les planètes glacées pourraient abriter la vie](https://www.futura-sciences.com/sciences/actualites/exoplanete-finalement-planetes-glacees-pourraient-abriter-vie-77074/) - Nathalie Mayer, Futura Sciences
+- [Planète glacée](https://fr.wikipedia.org/wiki/Plan%C3%A8te_glac%C3%A9e) - Wikipédia
+- [On the Possible Properties of Small and Cold Extrasolar Planets: Is OGLE-2005-BLG-390Lb Entirely Frozen?](https://hal.archives-ouvertes.fr/hal-00084950/document) - Ehrenreich et al. (2006)
+- [It's Far, It's Small, It's Cool: It's an Icy Exoplanet!](https://www.eso.org/public/news/eso0603/) - ESO
+- [The seven most extreme planets ever discovered](https://theconversation.com/the-seven-most-extreme-planets-ever-discovered-78959) - Christian Schroeder, The Conversation
+- [Méthode de microlentille gravitationnelle](http://www.exoplanetes.umontreal.ca/methode-de-microlentille-gravitationnelle/) - IREx  
+- [Première exoplanète détectée par microlentille gravitationnelle](https://www.futura-sciences.com/sciences/actualites/astronomie-premiere-exoplanete-detectee-microlentille-gravitationnelle-3564/) - Rémy Decourt, Futura Sciences
 
 ## 8. Neptunes chaudes
 
