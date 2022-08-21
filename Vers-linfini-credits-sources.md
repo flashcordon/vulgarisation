@@ -382,17 +382,17 @@
 
 ## 1. Planètes de pulsars
 
-https://exoplanets.nasa.gov/exoplanet-catalog/7134/psr-b125712-b/ 
-https://nccr-planets.ch/blog/2017/01/11/psr-b125712/ 
-http://www.astrosurf.com/notrecosmos/pages/PSR%20B1257.html 
-https://www.netinbag.com/fr/science/what-was-the-first-extrasolar-planet-discovered.html
-https://fr.wikipedia.org/wiki/PSR_B1257%2B12 
-https://books.google.fr/books?id=DOm3BAAAQBAJ&pg=PA3&lpg=PA3&dq=PSR+B1257%2B12+pers+second&source=bl&ots=dTXAvEBAPf&sig=ACfU3U3BKf8QB4smW5C67gFgY5xPtJo6gQ&hl=fr&sa=X&ved=2ahUKEwi3j9jL69b2AhUN4BoKHWVMBLoQ6AF6BAgwEAM#v=onepage&q=PSR%20B1257%2B12%20pers%20second&f=false 
-https://books.google.fr/books?id=LADmBwAAQBAJ&pg=PA12&lpg=PA12&dq=PSR+B1257%2B12+pers+second&source=bl&ots=o45oggLVVL&sig=ACfU3U1RD1e81e413KDg34WD0JqOt-4iHg&hl=fr&sa=X&ved=2ahUKEwi3j9jL69b2AhUN4BoKHWVMBLoQ6AF6BAgvEAM#v=onepage&q=PSR%20B1257%2B12%20pers%20second&f=false 
-https://books.google.fr/books?id=RXMWAAAAQBAJ&pg=PA238&lpg=PA238&dq=PSR+B1257%2B12+pers+second+161&source=bl&ots=k9W6gUmFTE&sig=ACfU3U26SwoFJvYpe8Tj0ArwndUtIWgksg&hl=fr&sa=X&ved=2ahUKEwjsq7_J7Nb2AhUB2BoKHXEoAZ8Q6AF6BAgKEAM#v=onepage&q=PSR%20B1257%2B12%20pers%20second%20161&f=false 
-david fossé exoplanètes
-https://astronomia.fr/4eme_partie/pulsars.php 
-http://clea-astro.eu/archives/cahiers-clairaut/CLEA_CahiersClairaut_060_01.pdf 
+- [PSR B1257+12](https://exoplanets.nasa.gov/exoplanet-catalog/7134/psr-b125712-b/) - NASA 
+- [PSR B1257+12](https://nccr-planets.ch/blog/2017/01/11/psr-b125712/) - PlanetS
+- [PSR B1257+12](http://www.astrosurf.com/notrecosmos/pages/PSR%20B1257.html) - Astrosurf
+- [Quelle a été la première planète extrasolaire découverte?](https://www.netinbag.com/fr/science/what-was-the-first-extrasolar-planet-discovered.html) - Netinbag
+- [PSR B1257+12](https://fr.wikipedia.org/wiki/PSR_B1257%2B12) - Wikipédia
+- [Under a Crimson Sun: Prospects for Life in a Red Dwarf System](https://books.google.fr/books?id=DOm3BAAAQBAJ&pg=PA3&lpg=PA3&dq=PSR+B1257%2B12+pers+second&source=bl&ots=dTXAvEBAPf&sig=ACfU3U3BKf8QB4smW5C67gFgY5xPtJo6gQ&hl=fr&sa=X&ved=2ahUKEwi3j9jL69b2AhUN4BoKHWVMBLoQ6AF6BAgwEAM#v=onepage&q=PSR%20B1257%2B12%20pers%20second&f=false) - David Stevenson
+- [Distant Wanderers: The Search for Planets Beyond the Solar System](https://books.google.fr/books?id=LADmBwAAQBAJ&pg=PA12&lpg=PA12&dq=PSR+B1257%2B12+pers+second&source=bl&ots=o45oggLVVL&sig=ACfU3U1RD1e81e413KDg34WD0JqOt-4iHg&hl=fr&sa=X&ved=2ahUKEwi3j9jL69b2AhUN4BoKHWVMBLoQ6AF6BAgvEAM#v=onepage&q=PSR%20B1257%2B12%20pers%20second&f=false) - Bruce Dorminey
+- [Horizons: Exploring the Universe](https://books.google.fr/books?id=RXMWAAAAQBAJ&pg=PA238&lpg=PA238&dq=PSR+B1257%2B12+pers+second+161&source=bl&ots=k9W6gUmFTE&sig=ACfU3U26SwoFJvYpe8Tj0ArwndUtIWgksg&hl=fr&sa=X&ved=2ahUKEwjsq7_J7Nb2AhUB2BoKHXEoAZ8Q6AF6BAgKEAM#v=onepage&q=PSR%20B1257%2B12%20pers%20second%20161&f=false) - Michael A. Seeds, Dana Backman
+- david fossé exoplanètes
+- [Pulsars](https://astronomia.fr/4eme_partie/pulsars.php) - Astronomia
+- [Les pulsars millisecondes](http://clea-astro.eu/archives/cahiers-clairaut/CLEA_CahiersClairaut_060_01.pdf) - François Biraud
 
 ## 2. Jupiters ultra-chauds
 
