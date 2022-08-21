@@ -633,15 +633,15 @@ https://www.nasa.gov/feature/goddard/2018/lagoon-nebula-visible-light-view
 ## 7. Oumuamua
 
 - [Oumuamua](https://fr.wikipedia.org/wiki/1I/%CA%BBOumuamua) - Wikipédia
-- [](https://planetplanet.net/2019/07/01/oumuamua-was-it-aliens-spoiler-no/) - 
-- [](https://www.syfy.com/syfy-wire/is-oumuamua-an-interstellar-spaceship-im-still-going-with-no) - 
-- [](https://www.centauri-dreams.org/2021/03/19/oumuamua-a-shard-of-nitrogen-ice/) - Centauri Dreams
-- [](https://blogs.futura-sciences.com/e-luminet/2021/03/08/oumuamua-extraterrestial-spaceship-or-extrasolar-asteroid/) - 
-- [](https://www.centauri-dreams.org/2021/02/23/extraterrestrial-on-oumuamua-as-artifact/) -  
-- [](https://arxiv.org/pdf/1810.11490.pdf) -  
-- [](https://www.pourlascience.fr/sd/astrophysique/les-premiers-visiteurs-interstellaires-20247.php) -  
-- [](https://www.exobiologie.fr/blog/2021/02/07/oumuamua-est-il-une-preuve-de-lexistence-dextraterrestres/) - Exobiologie 
-- [](https://www.futura-sciences.com/sciences/actualites/objet-interstellaire-oumuamua-ne-serait-ni-comete-ni-asteroide-ni-vaisseau-spatial-extraterrestre-78536/) -  
+- [‘Oumuamua: was it aliens? (spoiler: no)](https://planetplanet.net/2019/07/01/oumuamua-was-it-aliens-spoiler-no/) - Sean Raymond, Planetplanet
+- [Is 'Oumuamua an interstellar spaceship? I'm still going with 'no.'](https://www.syfy.com/syfy-wire/is-oumuamua-an-interstellar-spaceship-im-still-going-with-no) - Phil Plait, Syfy
+- [‘Oumuamua: A Shard of Nitrogen Ice?](https://www.centauri-dreams.org/2021/03/19/oumuamua-a-shard-of-nitrogen-ice/) - Centauri Dreams
+- [Oumuamua : extraterrestial spaceship or extrasolar asteroid?](https://blogs.futura-sciences.com/e-luminet/2021/03/08/oumuamua-extraterrestial-spaceship-or-extrasolar-asteroid/) - Jean-Pierre Luminet, e-Luminesciences
+- [Extraterrestrial: On ‘Oumuamua as Artifact](https://www.centauri-dreams.org/2021/02/23/extraterrestrial-on-oumuamua-as-artifact/) - Paul Gilster, Centauri Dreams 
+- [COULD SOLAR RADIATION PRESSURE EXPLAIN ‘OUMUAMUA’S PECULIAR ACCELERATION?](https://arxiv.org/pdf/1810.11490.pdf) -  Bialy et Loeb (2018)
+- [Les premiers visiteurs interstellaires](https://www.pourlascience.fr/sd/astrophysique/les-premiers-visiteurs-interstellaires-20247.php) -  David Jewitt et Amaya Moro-Martin, Pour la Science 
+- [Oumuamua est-il une preuve de l’existence d’extraterrestres ?](https://www.exobiologie.fr/blog/2021/02/07/oumuamua-est-il-une-preuve-de-lexistence-dextraterrestres/) - Sean Raymond, Exobiologie 
+- [‘Oumuamua ne serait ni une comète, ni un astéroïde, ni un vaisseau spatial extraterrestre…](https://www.futura-sciences.com/sciences/actualites/objet-interstellaire-oumuamua-ne-serait-ni-comete-ni-asteroide-ni-vaisseau-spatial-extraterrestre-78536/) - Nathalie Mayer, Futura Sciences
 
 # Les galaxies
 
