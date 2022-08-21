@@ -396,15 +396,15 @@ http://clea-astro.eu/archives/cahiers-clairaut/CLEA_CahiersClairaut_060_01.pdf
 
 ## 2. Jupiters ultra-chauds
 
-https://fr.wikipedia.org/wiki/KELT-9_b 
-https://exoplanets.nasa.gov/resources/2163/video-of-kelt-9b/ 
-https://exoplanets.nasa.gov/exoplanet-catalog/3508/kelt-9-b/ 
-https://www.franceinter.fr/emissions/l-edito-carre/l-edito-carre-05-septembre-2018 
-https://www.unige.ch/campus/numeros/134/recherche3/ 
-https://www.nature.com/articles/s41586-018-0401-y 
-https://www.gizmodo.com.au/2021/03/the-secrets-of-kelt-9-b-and-why-its-so-damn-hot/ 
-https://medium.com/amazing-science/the-double-seasons-of-kelt-9b-93f888df7e64 
-https://en.wikipedia.org/wiki/Gravity_darkening 
+- [KELT-9 b](https://fr.wikipedia.org/wiki/KELT-9_b) - Wikipédia
+- [Video of KELT-9b ](https://exoplanets.nasa.gov/resources/2163/video-of-kelt-9b/) - NASA
+- [KELT-9 b](https://exoplanets.nasa.gov/exoplanet-catalog/3508/kelt-9-b/) - NASA
+- ["KELT-9b" : une planète plus chaude que des étoiles](https://www.franceinter.fr/emissions/l-edito-carre/l-edito-carre-05-septembre-2018) - La chronique environnement, France Inter
+- [des vapeurs de fer et de titane hantent L’atmosphère de KELT-9b](https://www.unige.ch/campus/numeros/134/recherche3/) - Université de Genève 
+- [Atomic iron and titanium in the atmosphere of the exoplanet KELT-9b](https://www.nature.com/articles/s41586-018-0401-y) - Hoeijmakers et al. (2018)
+- [The Secrets of Kelt-9 b and Why It’s So Damn Hot](https://www.gizmodo.com.au/2021/03/the-secrets-of-kelt-9-b-and-why-its-so-damn-hot/) - Quentin Changeat et Billy Edwards, Gizmodo
+- [The Double Seasons of Kelt-9b](https://medium.com/amazing-science/the-double-seasons-of-kelt-9b-93f888df7e64) - Michele Diodati, Medium
+- [Gravity Darkening](https://en.wikipedia.org/wiki/Gravity_darkening) - Wikipédia
 
 ## 3. Planètes océans
 
