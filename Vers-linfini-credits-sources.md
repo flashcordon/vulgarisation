@@ -707,30 +707,29 @@ http://burro.cwru.edu/academics/Astr222/Galaxies/Spiral/spiral.html
 
 ## 5. Galaxies naines
 
-https://www.nasa.gov/feature/goddard/2019/nasa-s-webb-to-unveil-the-secrets-of-nearby-dwarf-galaxies 
-https://hal.archives-ouvertes.fr/hal-03108603/document 
-https://arxiv.org/pdf/2201.04648.pdf 
-https://www.thoughtco.com/large-magellanic-cloud-4628124 
-https://www.nature.com/articles/s41550-021-01563-1 
-https://sazabi4.github.io/DwarfGalaxies2021_NatAst.pdf 
-https://esahubble.org/wordbank/dwarf-galaxy/ 
-https://www.numerama.com/sciences/452639-grand-nuage-de-magellan-l-ennemi-interieur-qui-est-en-train-de-foncer-droit-vers-notre-voie-lactee.html
-https://astronomy.swin.edu.au/cosmos/D/dwarf+galaxy 
-https://en.wikipedia.org/wiki/Dwarf_galaxy 
-https://astronomy.swin.edu.au/cosmos/i/Irregular+Galaxy 
-https://academic.oup.com/mnras/article/483/2/2185/5181341?login=false
-https://fr.wikipedia.org/wiki/Nuages_de_Magellan 
-https://www.futura-sciences.com/sciences/actualites/astronomie-revelation-nuages-magellan-ils-ne-seraient-pas-satellites-voie-lactee-12910/ 
-https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mardi-23-mars-2021 
-https://irfu.cea.fr/dap/Phocea/Vie_des_labos/Ast/ast.php?id_ast=1384 
-https://www.syfy.com/syfy-wire/reassessing-an-irregular-spiral-a-spectacular-image-of-the-large-magellanic-cloud 
-https://www.esa.int/ESA_Multimedia/Images/2021/11/Dwarf_galaxies_around_the_Milky_Way 
-https://earthsky.org/clusters-nebulae-galaxies/magellanic-clouds-large-small/ 
-https://astronomy.swin.edu.au/cosmos/M/Magellanic+Clouds 
-https://www.eso.org/public/france/images/b01/ 
-http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/magclo.html 
-https://www.cidehom.com/apod.php?_date=031117 
-https://www.syfy.com/syfy-wire/battle-of-the-bulges-have-astronomers-been-wrong-about-spiral-galaxies-all-this-time
+- [NASA’s Webb to Unveil the Secrets of Nearby Dwarf Galaxies](https://www.nasa.gov/feature/goddard/2019/nasa-s-webb-to-unveil-the-secrets-of-nearby-dwarf-galaxies) - NASA
+- [Satellite dwarf galaxies: stripped but not quenched](https://hal.archives-ouvertes.fr/hal-03108603/document) - Hausammann et al. (2019)
+- [The recent LMC-SMC collision: Timing and impact parameter constraints from comparison of Gaia LMC disk kinematics and N-body simulations](https://arxiv.org/pdf/2201.04648.pdf) - Choi et al. (2022)
+- [Explore the Large Magellanic Cloud](https://www.thoughtco.com/large-magellanic-cloud-4628124) - Carolyn Collins Petersen, ThoughtCo
+- [Dwarf galaxies yesterday, now and tomorrow](https://sazabi4.github.io/DwarfGalaxies2021_NatAst.pdf) - Crnojević aet Mutlu-Pakdil (2021)
+- [Dwarf galaxy](https://esahubble.org/wordbank/dwarf-galaxy/) - ESA
+- [Grand Nuage de Magellan : cet « ennemi intérieur » qui est en train de foncer droit vers notre Voie lactée](https://www.numerama.com/sciences/452639-grand-nuage-de-magellan-l-ennemi-interieur-qui-est-en-train-de-foncer-droit-vers-notre-voie-lactee.html) - Nelly Lesage, Numerama
+- [Dwarf galaxy](https://astronomy.swin.edu.au/cosmos/D/dwarf+galaxy) - The SAO Encyclopedia of Astronomy
+- [Dwarf galaxy](https://en.wikipedia.org/wiki/Dwarf_galaxy) - Wikipédia
+- [Irregular Galaxy](https://astronomy.swin.edu.au/cosmos/i/Irregular+Galaxy) - The SAO Encyclopedia of Astronomy
+- [The aftermath of the Great Collision between our Galaxy and the Large Magellanic Cloud](https://academic.oup.com/mnras/article/483/2/2185/5181341?login=false) - Cautun et al. (2018)
+- [Nuages de Magellan](https://fr.wikipedia.org/wiki/Nuages_de_Magellan) - Wikipédia
+- [Révélation sur les Nuages de Magellan : ils ne seraient pas des satellites de la Voie Lactée !](https://www.futura-sciences.com/sciences/actualites/astronomie-revelation-nuages-magellan-ils-ne-seraient-pas-satellites-voie-lactee-12910/) - Laurent Sacco, Futura Sciences
+- [Magellan, la tête dans le Grand Nuage](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mardi-23-mars-2021) - La méthode scientifique
+- [Where do the satellites galaxies come from ?](https://irfu.cea.fr/dap/Phocea/Vie_des_labos/Ast/ast.php?id_ast=1384) - CEA
+- [Reassessing an irregular spiral: A spectacular image of the Large Magellanic Cloud](https://www.syfy.com/syfy-wire/reassessing-an-irregular-spiral-a-spectacular-image-of-the-large-magellanic-cloud) - Phil Plait, Syfy
+- [Dwarf galaxies around the Milky Way ](https://www.esa.int/ESA_Multimedia/Images/2021/11/Dwarf_galaxies_around_the_Milky_Way) - ESA
+- [The Magellanic Clouds, our galactic neighbors](https://earthsky.org/clusters-nebulae-galaxies/magellanic-clouds-large-small/) - Larry Sessions, Earthsky
+- [Magellanic Clouds](https://astronomy.swin.edu.au/cosmos/M/Magellanic+Clouds) - The SAO Encyclopedia of Astronomy
+- [Magellanic Clouds ― irregular dwarf galaxies](https://www.eso.org/public/france/images/b01/) - ESO
+- [The Magellanic Clouds](http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/magclo.html) - Hyperphysics
+- [Naine du Grand Chien : la nouvelle galaxie la plus proche](https://www.cidehom.com/apod.php?_date=031117) - Ciel des Hommes
+- [Battle of the bulges: Have astronomers been wrong about spiral galaxies all this time?](https://www.syfy.com/syfy-wire/battle-of-the-bulges-have-astronomers-been-wrong-about-spiral-galaxies-all-this-time) - Phil Plait, Syfy
 
 ## 6. Galaxies en interaction
 
