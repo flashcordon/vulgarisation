@@ -680,22 +680,22 @@ http://burro.cwru.edu/academics/Astr222/Galaxies/Spiral/spiral.html
 
 ## 3. Galaxies elliptiques
 
-http://astronomy.nmsu.edu/geas/lectures/lecture29/slide05.html
-https://medium.com/starts-with-a-bang/the-largest-black-hole-in-the-known-universe-67b792a1d856 
-https://astronomy.com/magazine/ask-astro/2020/08/why-do-colliding-spiral-galaxies-form-elliptical-galaxies
-https://youtu.be/oHnLm8PiI5k 
-https://esahubble.org/wordbank/elliptical-galaxy/ 
-https://astronomy.swin.edu.au/cosmos/e/Elliptical+Galaxy 
-https://www.futura-sciences.com/sciences/questions-reponses/univers-plus-grand-objet-univers-13654/ 
-https://astronomia.fr/5eme_partie/galaxies.php 
-https://sites.astro.caltech.edu/~george/ay21/Ay21_Lec12.pdf 
-https://www.space.com/22395-elliptical-galaxies.html 
-https://cesar.esa.int/upload/201801/galaxies_booklet.pdf 
-https://medium.com/island-universes/ic-1101-the-largest-of-all-galaxies-b54c874315ba 
-https://ui.adsabs.harvard.edu/abs/2006MNRAS.366..499D/abstract 
-https://people.astro.umass.edu/~hjmo/astro850/lecture9_3.pdf 
-https://books.google.fr/books?id=Zj7fDU3Z4wsC&pg=PA588&lpg=PA588&dq=monolithic+collapse+elliptical&source=bl&ots=_WTMQCI3KC&sig=ACfU3U3lwBVZmJPtlVUmatu6N5PvbBZHSw&hl=fr&sa=X&ved=2ahUKEwiWkKump7n3AhVGJhoKHXA1CoI4MhDoAXoECB0QAw#v=onepage&q=monolithic%20collapse%20elliptical&f=false 
-https://fr.wikipedia.org/wiki/IC_1101 
+- [Elliptical Galaxies](http://astronomy.nmsu.edu/geas/lectures/lecture29/slide05.html) - General Education Astronomy Source project 
+- [The Largest Black Hole In the Known Universe](https://medium.com/starts-with-a-bang/the-largest-black-hole-in-the-known-universe-67b792a1d856) - Ethan Siegel, Medium
+- [Why do colliding spiral galaxies form elliptical galaxies?](https://astronomy.com/magazine/ask-astro/2020/08/why-do-colliding-spiral-galaxies-form-elliptical-galaxies) - Alison Klesman, Astronomy Magazine
+- [The Black Hole of IC 1101 - The Largest Galaxy in the Universe](https://youtu.be/oHnLm8PiI5k) - Anton Petrov
+- [Elliptical Galaxy](https://esahubble.org/wordbank/elliptical-galaxy/) - ESA
+- [Elliptical Galaxy](https://astronomy.swin.edu.au/cosmos/e/Elliptical+Galaxy) - Swinburne University
+- [Quel est le plus grand objet de l’Univers ?](https://www.futura-sciences.com/sciences/questions-reponses/univers-plus-grand-objet-univers-13654/) - Nathalie Mayer, Futura Sciences
+- [Les galaxies](https://astronomia.fr/5eme_partie/galaxies.php) - Astronomia
+- [Elliptical Galaxies](https://sites.astro.caltech.edu/~george/ay21/Ay21_Lec12.pdf) - cours de George Djorgovski
+- [What Are Elliptical Galaxies?](https://www.space.com/22395-elliptical-galaxies.html) - Elizabeth Howell, Space.com
+- [Galaxies CESAR’s Booklet](https://cesar.esa.int/upload/201801/galaxies_booklet.pdf) - ESA
+- [IC 1101, the Largest of All Galaxies](https://medium.com/island-universes/ic-1101-the-largest-of-all-galaxies-b54c874315ba) - Michele Diodati
+- [The formation history of elliptical galaxies](https://ui.adsabs.harvard.edu/abs/2006MNRAS.366..499D/abstract) - De Lucia et al (2006)
+- [Elliptical Galaxies](https://people.astro.umass.edu/~hjmo/astro850/lecture9_3.pdf) - cours de Houjun Mo
+- [Galaxy Formation and Evolution](https://books.google.fr/books?id=Zj7fDU3Z4wsC&pg=PA588&lpg=PA588&dq=monolithic+collapse+elliptical&source=bl&ots=_WTMQCI3KC&sig=ACfU3U3lwBVZmJPtlVUmatu6N5PvbBZHSw&hl=fr&sa=X&ved=2ahUKEwiWkKump7n3AhVGJhoKHXA1CoI4MhDoAXoECB0QAw#v=onepage&q=monolithic%20collapse%20elliptical&f=false) -   Mo, van den Boschet  White (2010)
+- [IC 1101](https://fr.wikipedia.org/wiki/IC_1101) - Wikipédia 
 
 ## 4. Galaxies à anneau
 
