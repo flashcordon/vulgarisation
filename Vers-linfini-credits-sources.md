@@ -522,22 +522,20 @@ https://www.scientificamerican.com/article/brown-dwarfs-could-reveal-secrets-of-
 
 ## 2. Trous noirs supermassifs
 
-https://astrobites.org/2021/09/24/mw-smbh-lensing/ 
-https://youtu.be/SXN4hpv977s 
-https://www.cnrs.fr/fr/les-astronomes-revelent-la-premiere-image-du-trou-noir-au-coeur-de-notre-galaxie 
-https://beta.nsf.gov/science-matters/image-sgr-black-hole-center-our-galaxy 
-https://www.franceculture.fr/sciences/le-nobel-de-physique-a-roger-penrose-reinhard-genzel-et-andrea-gherz-pour-leur-travaux-sur-les-trous 
-https://www.iaa.es/en/news/structure-supermassive-black-hole-center-our-galaxy-revealed 
-https://chandra.si.edu/resources/faq/black_hole/bhole-18.html
-https://chandra.si.edu/resources/faq/black_hole/bhole-main.html 
-https://www.nature.com/articles/d41586-020-02717-3
-https://www.numerama.com/sciences/750916-le-telescope-james-webb-aidera-a-observer-le-trou-noir-central-de-la-voie-lactee.html
-https://www.space.com/event-horizon-telescope-black-hole-photos-future.html
-https://blogs.futura-sciences.com/luminet/2020/10/07/le-prix-nobel-de-physique-2020-pour-les-trous-noirs-2-2-genzel-et-ghez/#more-4052 
-https://fr.wikipedia.org/wiki/Sagittarius_A* 
-https://chandra.si.edu/resources/faq/black_hole/bhole-60.html 
-https://www.space.com/milky-way-monster-black-hole-cool-disk.html 
-https://www.nature.com/articles/s41586-019-1242-z 
+- [Peering through the lens of the Milky Way Supermassive Black Hole](https://astrobites.org/2021/09/24/mw-smbh-lensing/) - Sumeet Kulkarni, Astrobites
+- [Observing Supermassive Black Holes in Virtual Reality](https://youtu.be/SXN4hpv977s) - BlackHoleCam
+- [Les astronomes révèlent la première image du trou noir au cœur de notre galaxie](https://www.cnrs.fr/fr/les-astronomes-revelent-la-premiere-image-du-trou-noir-au-coeur-de-notre-galaxie) - CNRS
+- [Image of Sgr A*, the black hole at the center of our galaxy](https://beta.nsf.gov/science-matters/image-sgr-black-hole-center-our-galaxy) - NSF
+- [Le Nobel de physique à Roger Penrose, Andrea Ghez et Reinhard Genzel pour leurs travaux sur les trous noirs](https://www.franceculture.fr/sciences/le-nobel-de-physique-a-roger-penrose-reinhard-genzel-et-andrea-gherz-pour-leur-travaux-sur-les-trous) - Pauline Petit, Sciences Physiques
+- [Structure of the supermassive black hole at the center of our galaxy revealed](https://www.iaa.es/en/news/structure-supermassive-black-hole-center-our-galaxy-revealed) - Instituto de Astrofísica de Andalucía
+- [The first-ever image of a black hole is now a movie](https://www.nature.com/articles/d41586-020-02717-3) - Davide Castelvecchi, Nature
+- [Le télescope James-Webb aidera à observer le trou noir central de la Voie lactée ](https://www.numerama.com/sciences/750916-le-telescope-james-webb-aidera-a-observer-le-trou-noir-central-de-la-voie-lactee.html) - Nelly Lesage, Numerama
+- [1 year after epic black hole photo, Event Horizon Telescope team is dreaming very big](https://www.space.com/event-horizon-telescope-black-hole-photos-future.html) - Mike Wall, Space.com
+- [Le prix Nobel de physique 2020 pour les trous noirs (2/2) : Genzel et Ghez](https://blogs.futura-sciences.com/luminet/2020/10/07/le-prix-nobel-de-physique-2020-pour-les-trous-noirs-2-2-genzel-et-ghez/#more-4052) - Jean-Pierre Luminet, e-Luminesciences
+- [Sagittarius A*](https://fr.wikipedia.org/wiki/Sagittarius_A*) - Wikipédia 
+- [Q & A: Black Holes](https://chandra.si.edu/resources/faq/black_hole/bhole-main.html) - Chandra
+- [The Milky Way's Monster Black Hole Has a Cool Gas Halo — Literally](https://www.space.com/milky-way-monster-black-hole-cool-disk.html) - Charles Q. Choi, Space.com
+- [A cool accretion disk around the Galactic Centre black hole](https://www.nature.com/articles/s41586-019-1242-z) - Murchikova et al. (2019)
 
 ## 3. Amas globulaires
 
