@@ -570,17 +570,16 @@ universe - seeds
 
 ## 4. Nébuleuses planétaires
 
-phil plait - death from the skies
-https://www.daviddarling.info/encyclopedia/P/planneb.html 
-https://astronomy.swin.edu.au/cosmos/p/Planetary+Nebulae 
-https://esahubble.org/wordbank/planetary-nebula/ 
-https://fr.wikipedia.org/wiki/N%C3%A9buleuse_plan%C3%A9taire 
-https://en.wikipedia.org/wiki/Helix_Nebula 
-https://fr.wikipedia.org/wiki/NGC_7293 
-https://www.quora.com/Could-we-see-the-Helix-Nebula%E2%80%99s-rich-vibrant-colours-if-it-were-3-light-years-away-from-us 
-https://books.google.fr/books?id=3AODx2z63vEC&pg=PA237&lpg=PA237&dq=helix+nebula+true+colors+human+eye&source=bl&ots=0RQmlmPa6y&sig=ACfU3U1unzZMN2WzmEIGnvD2By2jQClgqQ&hl=fr&sa=X&ved=2ahUKEwj22o-OqJj3AhVPQhoKHQG9AbgQ6AF6BAhOEAM#v=onepage&q=helix%20nebula%20true%20colors%20human%20eye&f=false 
-https://www.galactic-hunter.com/post/ngc-7293-the-helix-nebula 
-https://fr.wikipedia.org/wiki/NGC_6302 
+- [planetary nebula](https://www.daviddarling.info/encyclopedia/P/planneb.html) - David Darling
+- [Planetary nebulae](https://astronomy.swin.edu.au/cosmos/p/Planetary+Nebulae) - The SAO Enclyclopedia of Astronomy
+- [Planetary Nebula](https://esahubble.org/wordbank/planetary-nebula/) - ESA
+- [Nébuleuse planétaire](https://fr.wikipedia.org/wiki/N%C3%A9buleuse_plan%C3%A9taire) - Wikipédia 
+- [Helix Nebula](https://en.wikipedia.org/wiki/Helix_Nebula) - Wikipédia
+- [NGC 7293](https://fr.wikipedia.org/wiki/NGC_7293) - Wikipédia
+- [Human Vision and The Night Sky: How to Improve Your Observing Skills](https://books.google.fr/books?id=3AODx2z63vEC&pg=PA237&lpg=PA237&dq=helix+nebula+true+colors+human+eye&source=bl&ots=0RQmlmPa6y&sig=ACfU3U1unzZMN2WzmEIGnvD2By2jQClgqQ&hl=fr&sa=X&ved=2ahUKEwj22o-OqJj3AhVPQhoKHQG9AbgQ6AF6BAhOEAM#v=onepage&q=helix%20nebula%20true%20colors%20human%20eye&f=false) - Michael Borgia
+- [NGC 7293 - The Helix Nebula - DSLR vs ASI 1600MM](https://www.galactic-hunter.com/post/ngc-7293-the-helix-nebula) - Antoine & Dalia Grelin
+- [NGC 6302](https://fr.wikipedia.org/wiki/NGC_6302) - Wikipédia
+- Death from the skies - Phil Plait (2008, Viking Adult)
 
 ## 5. Globules de Bok
 
