@@ -445,17 +445,17 @@ https://www.centauri-dreams.org/2021/01/26/trappist-1-seven-worlds-of-similar-co
 
 ## 6. Planètes de lave
 
-https://www.inverse.com/science/gj-367b-hellworld 
-https://earthsky.org/space/k2-141b-lava-planet-with-magma-ocean-rocky-rain-supersonic-winds-super-earth/ 
-Exoplanètes - david fossé
-https://www.centauri-dreams.org/2009/09/16/corot-7b-a-small-rocky-world-examined/ 
-https://www.planetary.org/articles/2295 
-https://www.eso.org/public/news/eso0933/
-https://hal.archives-ouvertes.fr/hal-00743840/document 
-https://www.britannica.com/place/CoRoT-7b 
-https://lesia.obspm.fr/Premiere-preuve-de-l-existence-d.html 
-https://fr.wikipedia.org/wiki/CoRoT-7_b 
-https://www.universetoday.com/41940/rocky-world-corot-7b-rains-rocks/ 
+- [This hellish planet could come equipped with “lava oceans”](https://www.inverse.com/science/gj-367b-hellworld) - Jon Kelvey, Inverse
+- [Meet the hell planet with a magma ocean and rocky rain](https://earthsky.org/space/k2-141b-lava-planet-with-magma-ocean-rocky-rain-supersonic-winds-super-earth/) - Paul Scott Anderson, EarthSky
+- [CoRoT-7b: A Small, Rocky World Examined](https://www.centauri-dreams.org/2009/09/16/corot-7b-a-small-rocky-world-examined/) - Paul Gilster, Centauri Dreams 
+- [Evaporating exoplanet](https://www.planetary.org/articles/2295) - Emily Lakdawalla, Planetary Society 
+- [First Solid Evidence for a Rocky Exoplanet](https://www.eso.org/public/news/eso0933/) - ESO
+- [The extreme physical properties of the CoRoT-7b super-Earth](https://hal.archives-ouvertes.fr/hal-00743840/document) - Léger et al. (2011)
+- [CoRot-7 b](https://www.britannica.com/place/CoRoT-7b) - Britannica 
+- [Première preuve de l’existence d’une exoplanète rocheuse](https://lesia.obspm.fr/Premiere-preuve-de-l-existence-d.html) - LESIA
+- [CoRot-7 b](https://fr.wikipedia.org/wiki/CoRoT-7_b) - Wikipédia 
+- [Rocky World COROT-7b Rains Rocks](https://www.universetoday.com/41940/rocky-world-corot-7b-rains-rocks/) - Nancy Atkinson, Universe Today
+- Exoplanètes - David Fossé (Belin)
 
 ## 7. Planètes glacées
 
