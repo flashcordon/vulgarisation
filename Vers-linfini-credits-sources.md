@@ -408,26 +408,26 @@
 
 ## 3. Planètes océans
 
-- Exoplanètes - David Fossé (Belin)
 - [Planet Formation: How Ocean Worlds Happen](https://www.centauri-dreams.org/2019/02/14/planet-formation-how-ocean-worlds-happen/) - Paul Gilster, Centauri Dreams
 - [Exoplanets You Meet in the Milky Way](https://www.planetary.org/articles/the-different-kinds-of-exoplanets-you-meet-in-the-milky-way) - Planetary Society
 - [Kepler 22b](https://en.wikipedia.org/wiki/Kepler-22b) - Wikipédia
 - [SETI OBSERVATIONS OF EXOPLANETS WITH THE ALLEN TELESCOPE ARRAY](https://arxiv.org/ftp/arxiv/papers/1607/1607.04207.pdf) - Harp et al. (2016)
 - [Les exoplanètes repérées par Kepler et écoutées par Seti sont muettes](https://www.futura-sciences.com/sciences/actualites/astronomie-exoplanetes-reperees-kepler-ecoutees-seti-sont-muettes-44546/) - Laurent Sacco, Futura Sciences
+- Exoplanètes - David Fossé (Belin)
 
 ## 4. Super-Terres
 
-https://theconversation.com/curious-kids-could-humans-live-on-kepler-452-b-123786 
-https://theconversation.com/the-five-most-earth-like-exoplanets-so-far-50669
-https://www.britannica.com/place/Kepler-452b 
-https://arxiv.org/abs/1507.06723 
-https://www.nasa.gov/press-release/nasa-kepler-mission-discovers-bigger-older-cousin-to-earth 
-https://www.futura-sciences.com/sciences/actualites/zone-habitabilite-kepler-452b-exoplanete-plus-ressemblante-terre-59111/ 
-https://tel.archives-ouvertes.fr/file/index/docid/933668/filename/BOLMONT_EMELINE_2013.pdf 
-https://fr.wikipedia.org/wiki/Kepler-452_b 
-https://www.cieletespace.fr/actualites/kepler-452b-une-cousine-de-la-terre-a-1400-annees-lumiere 
-https://exoplanets.nasa.gov/what-is-an-exoplanet/planet-types/super-earth/ 
-https://www.youtube.com/watch?v=7dGg83MzqiY 
+- [Curious Kids: could humans live on Kepler 452-b? ](https://theconversation.com/curious-kids-could-humans-live-on-kepler-452-b-123786) - Andrew Norton, The Conversation 
+- [The five most Earth-like exoplanets (so far)](https://theconversation.com/the-five-most-earth-like-exoplanets-so-far-50669) - Andrew Norton, The Conversation
+- [Kepler-452 b](https://www.britannica.com/place/Kepler-452b) - Britannica 
+- [Discovery and Validation of Kepler-452b: A 1.6-Re Super Earth Exoplanet in the Habitable Zone of a G2 Star](https://arxiv.org/abs/1507.06723) - Jenkins et al. (2015)
+- [NASA’s Kepler Mission Discovers Bigger, Older Cousin to Earth](https://www.nasa.gov/press-release/nasa-kepler-mission-discovers-bigger-older-cousin-to-earth) - NASA 
+- [Kepler 452b, l'exoplanète la plus ressemblante à la Terre](https://www.futura-sciences.com/sciences/actualites/zone-habitabilite-kepler-452b-exoplanete-plus-ressemblante-terre-59111/) - Laurent Sacco, Futura Sciences
+- [Evolution et habitabilité de systèmes planétaires autour d’étoiles de faible masse et de naines brunes](https://tel.archives-ouvertes.fr/file/index/docid/933668/filename/BOLMONT_EMELINE_2013.pdf) - Thèse de Emeline Bolmont (2013)
+- [Kepler-452 b](https://fr.wikipedia.org/wiki/Kepler-452_b) - Wikipédia 
+- [Kepler-452b, une cousine de la Terre à 1400 années-lumière](https://www.cieletespace.fr/actualites/kepler-452b-une-cousine-de-la-terre-a-1400-annees-lumiere) - David Fossé, Ciel et Espace
+- [Super-Earth](https://exoplanets.nasa.gov/what-is-an-exoplanet/planet-types/super-earth/) - NASA 
+- [Kepler 452-b - Is it Really Earth's Twin?](https://www.youtube.com/watch?v=7dGg83MzqiY) - Scott Manley
 
 ## 5. Autour des naines rouges
 
