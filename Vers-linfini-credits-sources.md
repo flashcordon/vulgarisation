@@ -474,17 +474,17 @@ https://www.universetoday.com/41940/rocky-world-corot-7b-rains-rocks/
 
 ## 8. Neptunes chaudes
 
-https://www.lemonde.fr/mmpub/edt/zip/2016/05/03/161236169-7fcea4d429880d203df2d566f4c6cc3b0f390232/index.html 
-https://fr.wikipedia.org/wiki/Gliese_436_b 
-https://www.futura-sciences.com/sciences/actualites/exoplanetes-hubble-devoile-gj-436b-exoplanete-ressemble-comete-58809/ 
-https://esahubble.org/images/heic1515a/ 
-https://arxiv.org/abs/astro-ph/0312384 
-https://earthsky.org/space/exoplanet-has-a-comet-like-tail-gliese-436b/ 
-https://exoplanets.nasa.gov/exoplanet-catalog/6534/gj-436-b/ 
-https://www.nature.com/articles/nature14501 
-https://skyandtelescope.org/astronomy-news/exoplanet-with-a-comet-tail-06302015234/ 
-https://www.nationalgeographic.fr/sciences/2019/05/observation-dune-etrange-forme-de-glace-chaude-super-ionique 
-https://www.numerama.com/sciences/752195-comment-de-la-glace-chaude-superionique-aide-a-comprendre-uranus-et-neptune.html 
+- [Qu’est-ce qu’une exoplanète ?](https://www.lemonde.fr/mmpub/edt/zip/2016/05/03/161236169-7fcea4d429880d203df2d566f4c6cc3b0f390232/index.html) - Gary Dagorn, Le Monde 
+- [Gliese-436 b](https://fr.wikipedia.org/wiki/Gliese_436_b) - Wikipédia 
+- [Hubble dévoile GJ 436b, l’exoplanète qui ressemble à une comète](https://www.futura-sciences.com/sciences/actualites/exoplanetes-hubble-devoile-gj-436b-exoplanete-ressemble-comete-58809/) - Xavier Demeersman, Futura Sciences 
+- [Artist impression of Gliese 436b](https://esahubble.org/images/heic1515a/) - ESA 
+- [Evaporation rate of hot Jupiters and formation of Chthonian planets](https://arxiv.org/abs/astro-ph/0312384) - Hébrard et al. (2003)
+- [Exoplanet has a comet-like tail Gliese 436b](https://earthsky.org/space/exoplanet-has-a-comet-like-tail-gliese-436b/) - Deborah Byrd, EarthSky 
+- [GJ 436 b](https://exoplanets.nasa.gov/exoplanet-catalog/6534/gj-436-b/) - NASA 
+- [A giant comet-like cloud of hydrogen escaping the warm Neptune-mass exoplanet GJ 436b](https://www.nature.com/articles/nature14501) - Ehrenreich et al. (2015)
+- [Planet with a Comet Tail](https://skyandtelescope.org/astronomy-news/exoplanet-with-a-comet-tail-06302015234/) - John Bochanski, Sky and Telescope
+- [Observation d'une étrange forme de glace chaude super-ionique](https://www.nationalgeographic.fr/sciences/2019/05/observation-dune-etrange-forme-de-glace-chaude-super-ionique) - Adam Mann, National Geographic 
+- [Comment de la glace chaude « superionique » aide à comprendre Uranus et Neptune](https://www.numerama.com/sciences/752195-comment-de-la-glace-chaude-superionique-aide-a-comprendre-uranus-et-neptune.html) - Hugo Ruher, Numerama
 
 ## 9. Exolunes
 
