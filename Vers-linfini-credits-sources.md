@@ -431,17 +431,17 @@
 
 ## 5. Autour des naines rouges
 
-https://fr.wikipedia.org/wiki/TRAPPIST-1#cite_note-Kaltenegger_21-19 
-https://www.sciencesetavenir.fr/espace/voie-lactee/on-en-sait-plus-sur-la-composition-des-7-planetes-du-systeme-trappist_151225
-https://www.cieletespace.fr/actualites/visitez-les-mondes-rocheux-du-systeme-trappist-1-avec-michael-gillon 
-https://www.nextinpact.com/article/45729/trappist-1-sept-exoplanetes-pesees-avec-precision-inedite-mais-comment-fait-on 
-https://www.exobiologie.fr/blog/2021/11/29/les-planetes-de-trappist-1-ont-subi-peu-dimpacts-depuis-leur-formation/ 
-https://irfu.cea.fr/Phocea/Vie_des_labos/Ast/ast.php?t=fait_marquant&id_ast=4276 
-https://www.aanda.org/articles/aa/full_html/2018/05/aa32233-17/aa32233-17.html 
-https://www.futura-sciences.com/sciences/actualites/exoplanetes-exoplanetes-autour-trappist-1-pourraient-accueillir-vie-62652/ 
-https://exoplanets.nasa.gov/trappist1/ 
-http://www.trappist.one/# 
-https://www.centauri-dreams.org/2021/01/26/trappist-1-seven-worlds-of-similar-compostion/ 
+- [TRAPPIST-1](https://fr.wikipedia.org/wiki/TRAPPIST-1) - Wikipédia
+- [On en sait plus sur la composition des 7 planètes du système Trappist](https://www.sciencesetavenir.fr/espace/voie-lactee/on-en-sait-plus-sur-la-composition-des-7-planetes-du-systeme-trappist_151225) - Joel Ignasse, Sciences et Avenir
+- [Visitez les mondes rocheux du système Trappist 1, avec Michaël Gillon](https://www.cieletespace.fr/actualites/visitez-les-mondes-rocheux-du-systeme-trappist-1-avec-michael-gillon) - Ciel et Espace
+- [Trappist-1 : les 7 exoplanètes pesées « avec une précision inédite »… mais comment fait-on ?](https://www.nextinpact.com/article/45729/trappist-1-sept-exoplanetes-pesees-avec-precision-inedite-mais-comment-fait-on) - Sébastien Gavois, Nextimpact 
+- [Les planètes de TRAPPIST-1 ont subi peu d’impacts depuis leur formation](https://www.exobiologie.fr/blog/2021/11/29/les-planetes-de-trappist-1-ont-subi-peu-dimpacts-depuis-leur-formation/) - Olivier Poch, Exobiologie.fr
+- [Certaines des sept planètes de l'étoile Trappist-1 possiblement habitables](https://irfu.cea.fr/Phocea/Vie_des_labos/Ast/ast.php?t=fait_marquant&id_ast=4276) - CEA
+- [The nature of the TRAPPIST-1 exoplanets](https://www.aanda.org/articles/aa/full_html/2018/05/aa32233-17/aa32233-17.html) - Grimm et al. (2018)
+- [Les exoplanètes autour de Trappist-1 pourraient accueillir la vie](https://www.futura-sciences.com/sciences/actualites/exoplanetes-exoplanetes-autour-trappist-1-pourraient-accueillir-vie-62652/) - Xavier Demeersman, Futura Sciences  
+- [TRAPPIST-1](https://exoplanets.nasa.gov/trappist1/) - NASA
+- [www.trappist.one](http://www.trappist.one/#) 
+- [TRAPPIST-1: Seven Worlds of Similar Compostion](https://www.centauri-dreams.org/2021/01/26/trappist-1-seven-worlds-of-similar-compostion/) - Paul Gilster, Centauri Dreams 
 
 ## 6. Planètes de lave
 
