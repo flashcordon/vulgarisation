@@ -309,7 +309,7 @@
 - Death from the skies - Phil Plait (2008, Viking Adult)
 - Etoiles - Florian Freistetter (Flammarion, 2020)
 
-# 4. Naines blanches
+## 4. Naines blanches
 
 - [Sirius](https://fr.wikipedia.org/wiki/Sirius) - Wikipédia
 - [À sa mort, le Soleil devrait se transformer en un cristal de Wigner géant](https://www.futura-sciences.com/sciences/actualites/physique-mort-soleil-devrait-transformer-cristal-wigner-geant-65722/) - Laurent Sacco, Futura Sciences 
