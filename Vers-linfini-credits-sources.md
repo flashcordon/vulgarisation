@@ -843,30 +843,29 @@ https://arxiv.org/ftp/arxiv/papers/1701/1701.00493.pdf
 
 ## Les galaxies
 
-https://physicstoday.scitation.org/doi/10.1063/PT.3.1679 
-https://knowablemagazine.org/article/physical-world/2019/mighty-milky-way 
-https://astrobites.org/2018/07/11/satellite-galaxies-all-in-a-row/ 
-https://www.forbes.com/sites/startswithabang/2021/05/11/the-milky-way-might-never-become-an-elliptical-galaxy/?sh=e4efcdb52bdc 
-https://astrobites.org/2012/08/28/mixing-up-gas-in-the-wake-of-a-strangled-satellite/ 
-https://www.e-education.psu.edu/astro801/content/l9_p6.html 
-https://www.meteorologiaenred.com/fr/tipos-de-galaxias.html 
-https://books.google.fr/books?id=IAgOEAAAQBAJ&pg=PT137&lpg=PT137&dq=ic+1101+stars+orbits&source=bl&ots=ycAAKeD9xn&sig=ACfU3U2fqwCv3Nz-6KfklwX1Gwv8LBmaww&hl=fr&sa=X&ved=2ahUKEwiOs6Kro8H3AhVDSvEDHfYNAWcQ6AF6BAg0EAM#v=onepage&q=ic%201101%20stars%20orbits&f=false 
-https://www.astrolab.qc.ca/wp-content/uploads/2020/04/Galaxies.pdf 
-https://en.wikipedia.org/wiki/Hubble_sequence
-https://www.college-de-france.fr/media/francoise-combes/UPL86180037206958607_Yohan_Dubois___Simulations_cosmologiques.pdf 
-https://media4.obspm.fr/public/ressources_lu/pages_struc-univ/simu-cosmo.html 
-ma thèse
-https://iopscience.iop.org/article/10.1088/1742-6596/120/2/022001/pdf 
-https://arxiv.org/pdf/1507.06140.pdf 
-https://www.eso.org/public/france/images/b07/ 
-https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/about/research 
-https://www.nationalgeographic.fr/espace/laniakea-le-superamas-de-galaxies-dans-lequel-gravite-la-voie-lactee 
-https://static.zooniverse.org/gzconf.galaxyzoo.org/presentations/Masters_Secular_Processes_Galaxy_Evolution.pdf 
-https://astronomy.swin.edu.au/cosmos/s/Secular+Evolution 
-https://www.college-de-france.fr/site/francoise-combes/course-2018-01-15-16h45.htm 
-https://www.hindawi.com/journals/aa/2011/968283/ 
-https://www.academie-sciences.fr/pdf/lettre/lettre9.pdf 
-https://iopscience.iop.org/article/10.1088/1742-6596/120/2/022001/pdf 
-https://arxiv.org/pdf/1701.08720.pdf 
-https://theconversation.com/vers-une-simulation-de-lunivers-sur-un-telephone-portable-137421 
-https://www.cairn.info/les-modeles-possibilites-et-limites--9782919694624-page-47.htm 
+- [Theoretical challenges in understanding galaxy evolution](https://physicstoday.scitation.org/doi/10.1063/PT.3.1679) - Jeremiah Ostriker et Thorsten Naab, Physics Today  
+- [The mighty Milky Way](https://knowablemagazine.org/article/physical-world/2019/mighty-milky-way) - Ken Croswell, Knowable Magazine 
+- [Satellite Galaxies All in a Row—How So?](https://astrobites.org/2018/07/11/satellite-galaxies-all-in-a-row/) - Daniel Berke, Astrobites 
+- [The Milky Way Might Never Become An Elliptical Galaxy](https://www.forbes.com/sites/startswithabang/2021/05/11/the-milky-way-might-never-become-an-elliptical-galaxy/?sh=e4efcdb52bdc) - Ethan Siegel, Forbes 
+- [Mixing up gas in the wake of a strangled satellite](https://astrobites.org/2012/08/28/mixing-up-gas-in-the-wake-of-a-strangled-satellite/) - Alice Olmstead, Astrobites
+- [Galaxy Interactions](https://www.e-education.psu.edu/astro801/content/l9_p6.html) - Penn State University 
+- [Types de galaxies](https://www.meteorologiaenred.com/fr/tipos-de-galaxias.html) - Météorologie en Rouge
+- [How Space Works: The Facts Visually Explained](https://books.google.fr/books?id=IAgOEAAAQBAJ&pg=PT137&lpg=PT137&dq=ic+1101+stars+orbits&source=bl&ots=ycAAKeD9xn&sig=ACfU3U2fqwCv3Nz-6KfklwX1Gwv8LBmaww&hl=fr&sa=X&ved=2ahUKEwiOs6Kro8H3AhVDSvEDHfYNAWcQ6AF6BAg0EAM#v=onepage&q=ic%201101%20stars%20orbits&f=false) - DK   
+- [Les galaxies](https://www.astrolab.qc.ca/wp-content/uploads/2020/04/Galaxies.pdf) - Conférence de l'Astrolab du Mont-Mégantic
+- [Hubble Sequence](https://en.wikipedia.org/wiki/Hubble_sequence) - Wikipédia
+- [Simulations numériques cosmologiques pour comprendre la formation des galaxies](https://www.college-de-france.fr/media/francoise-combes/UPL86180037206958607_Yohan_Dubois___Simulations_cosmologiques.pdf) - Cours de Yoann Dubois au Collège de France
+- [Les simulations cosmologiques](https://media4.obspm.fr/public/ressources_lu/pages_struc-univ/simu-cosmo.html) - Observatoire de Paris  
+- [Inferring the photometric and size evolution of galaxies from image simulations](http://www.theses.fr/2017PA066382) - Thèse de Sébastien Carassou (2017)
+- [The cosmological model: an overview and an outlook](https://iopscience.iop.org/article/10.1088/1742-6596/120/2/022001/pdf) - Heavens (2008)  
+- [How environment drives galaxy evolution: lessons learnt from satellite galaxies](https://arxiv.org/pdf/1507.06140.pdf) - Pasquali (2015) 
+- [The Andromeda galaxy](https://www.eso.org/public/france/images/b07/) - ESO 
+- [The Science behind the Site](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/about/research) - Zooniverse
+- [Laniakea, le superamas de galaxies dans lequel gravite la Voie lactée](https://www.nationalgeographic.fr/espace/laniakea-le-superamas-de-galaxies-dans-lequel-gravite-la-voie-lactee) - Mehdi Benmakhlouf, National Geographic 
+- [Secular Processes and Galaxy Evolution](https://static.zooniverse.org/gzconf.galaxyzoo.org/presentations/Masters_Secular_Processes_Galaxy_Evolution.pdf) - Conférence de Karen Masters 
+- [Secular Evolution](https://astronomy.swin.edu.au/cosmos/s/Secular+Evolution) - The SAO Encyclopedia of Astronomy
+- [Friction dynamique et formation hiérarchique](https://www.college-de-france.fr/site/francoise-combes/course-2018-01-15-16h45.htm) - Cours de Françoise Combes au Collège de France 
+- [Dark Matter: A Primer](https://www.hindawi.com/journals/aa/2011/968283/) - Katherine Garrett et Gintaras Duda (2010)
+- [Un univers de galaxies, dont nous sommes](https://www.academie-sciences.fr/pdf/lettre/lettre9.pdf) - Danielle Alloin, La lettre de l'Académie des Sciences n°9  
+- [Tests and problems of the standard model in Cosmology](https://arxiv.org/pdf/1701.08720.pdf) - Lopez-Corredoira (2017)  
+- [Vers une simulation de l’Univers sur un téléphone portable](https://theconversation.com/vers-une-simulation-de-lunivers-sur-un-telephone-portable-137421) - Florent Leclercq et Guilhem Lavaux, The Conversation 
+- [Simuler les grandes structures de l’univers](https://www.cairn.info/les-modeles-possibilites-et-limites--9782919694624-page-47.htm) - Romain Teyssier (2014)
