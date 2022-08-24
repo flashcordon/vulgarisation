@@ -498,27 +498,23 @@
 
 ## 1. Naines brunes
 
-https://books.google.fr/books?id=rA5jDwAAQBAJ&pg=PA194&lpg=PA194&dq=tens+of+billions+brown+dwarfs&source=bl&ots=Rae0nhEz7q&sig=ACfU3U0fQ02f7eMBgd6ylkJ9E4SlpBxhVA&hl=fr&sa=X&ved=2ahUKEwjO8vDctOn2AhWRx4UKHYrHCBkQ6AF6BAgvEAM#v=onepage&q=tens%20of%20billions%20brown%20dwarfs&f=false 
-https://fr.wikipedia.org/wiki/Teide_1 
-https://physicstoday.scitation.org/doi/10.1063/1.2947658 
-https://en.wikipedia.org/wiki/Teide_1 
-https://ui.adsabs.harvard.edu/abs/2014ASSL..401...25R/abstract 
-https://www.pourlascience.fr/sd/astrophysique/la-naissance-tragique-des-naines-brunes-2291.php 
-Rebolo, R., Zapatero-Osorio, M.R., y Martín, E.L., “Discovery of a brown dwarf in the Pleiades star cluster”, en Nature, Vol. 377, Págs. 129-131, 14 de septiembre de 1995.
-https://www.iac.es/en/outreach/news/25th-anniversary-discovery-first-brown-dwarf 
-https://w.astro.berkeley.edu/~basri/bdwarfs/SciAm-book.pdf 
-https://www2.le.ac.uk/departments/physics/research/xroa/astrophysics-1/red-and-brown-dwarfs 
-https://webbtelescope.org/resource-gallery/articles/pagecontent/filter-articles/what-makes-brown-dwarfs-unique.html 
-https://www.daviddarling.info/encyclopedia/B/browndwarf.html 
-https://www.quantamagazine.org/neither-star-nor-planet-a-strange-brown-dwarf-puzzles-astronomers-20210804/ 
-http://www.exoplanetes.umontreal.ca/research/brown-dwarfs/?lang=en 
-https://astronomy.swin.edu.au/cosmos/B/brown+dwarf
-https://www.britannica.com/science/brown-dwarf 
-https://earthsky.org/space/definition-what-are-brown-dwarfs/ 
-https://w.astro.berkeley.edu/~basri/bdwarfs/SciAm-book.pdf 
-https://www.pourlascience.fr/sd/astronomie/la-decouverte-des-naines-brunes-4071.php 
-https://astronomycommunity.nature.com/posts/revealing-the-secret-life-of-lithium-in-sun-like-stars 
-https://www.scientificamerican.com/article/brown-dwarfs-could-reveal-secrets-of-planet-and-star-formation/ 
+- [One of Ten Billion Earths: How we Learn about our Planet's Past and Future](https://books.google.fr/books?id=rA5jDwAAQBAJ&pg=PA194&lpg=PA194&dq=tens+of+billions+brown+dwarfs&source=bl&ots=Rae0nhEz7q&sig=ACfU3U0fQ02f7eMBgd6ylkJ9E4SlpBxhVA&hl=fr&sa=X&ved=2ahUKEwjO8vDctOn2AhWRx4UKHYrHCBkQ6AF6BAgvEAM#v=onepage&q=tens%20of%20billions%20brown%20dwarfs&f=false) - Karel Schrijver
+- [Teide 1](https://fr.wikipedia.org/wiki/Teide_1) - WIkipédia 
+- [Brown dwarfs: Failed stars, super jupiters](https://physicstoday.scitation.org/doi/10.1063/1.2947658) -  Adam J. Burgasser, Physics Today
+- [Teide 1 and the Discovery of Brown Dwarfs](https://ui.adsabs.harvard.edu/abs/2014ASSL..401...25R/abstract) - Rafael Rebolo (1995)
+- [La naissance tragique des naines brunes](https://www.pourlascience.fr/sd/astrophysique/la-naissance-tragique-des-naines-brunes-2291.php) - Pour la Science 
+- [Discovery of a brown dwarf in the Pleiades star cluster](https://www.nature.com/articles/377129a0) - Rebolo et al. (1995)
+- [25th anniversary of the discovery of the first brown dwarf](https://www.iac.es/en/outreach/news/25th-anniversary-discovery-first-brown-dwarf) - IAC
+- [The discovery of brown dwarfs](https://w.astro.berkeley.edu/~basri/bdwarfs/SciAm-book.pdf) - Gibor Basri, Scientific American 
+- [brown dwarf](https://www.daviddarling.info/encyclopedia/B/browndwarf.html) - David Darling 
+- [Neither Star nor Planet: A Strange Brown Dwarf Puzzles Astronomers](https://www.quantamagazine.org/neither-star-nor-planet-a-strange-brown-dwarf-puzzles-astronomers-20210804/) - Jonathan O'Callaghan, Quanta Magazine
+- [Brown dwarfs and exoplanets](http://www.exoplanetes.umontreal.ca/research/brown-dwarfs/?lang=en) - iREx
+- [Brown Dwarf](https://astronomy.swin.edu.au/cosmos/B/brown+dwarf) - The SAO Enclyclopedia of Astronomy
+- [Brown dwarf](https://www.britannica.com/science/brown-dwarf) - Britannica 
+- [What are brown dwarfs?](https://earthsky.org/space/definition-what-are-brown-dwarfs/) - EarthSky
+- [La découverte des naines brunes](https://www.pourlascience.fr/sd/astronomie/la-decouverte-des-naines-brunes-4071.php) - Gibor Basri, Pour la Science 
+- [Revealing the secret life of Lithium in Sun-like stars](https://astronomycommunity.nature.com/posts/revealing-the-secret-life-of-lithium-in-sun-like-stars) - Yerra Bharat Kumar, Simon Campbell et Eswar reddy, Nature Astronomy
+- [Brown Dwarfs Could Reveal Secrets of Planet and Star Formation](https://www.scientificamerican.com/article/brown-dwarfs-could-reveal-secrets-of-planet-and-star-formation/) - Katelyn Allers, Scientific American
 
 ## 2. Trous noirs supermassifs
 
