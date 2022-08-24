@@ -577,39 +577,32 @@ universe - seeds
 
 ## 5. Globules de Bok
 
-https://en.wikipedia.org/wiki/Bok_globule 
-https://astronomy.swin.edu.au/cosmos/b/Bok+Globule 
-https://astronomy.com/news-observing/ask%20astro/2008/07/what%20is%20a%20bok%20globule 
-https://www.researchgate.net/figure/TYPICAL-PROPERTIES-OF-BOK-GLOBULES-AND-THEIR-DENSE-CORES_tbl1_45910389 
-https://phys.org/news/2010-06-bok-globules.html 
-https://www.universetoday.com/10610/a-star-in-the-making/ 
-https://www.astro.uni-jena.de/Observations/FB08/marka_abstract_FBR.pdf 
-https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect15/lecture15.html 
-https://youtu.be/VRNH0zCzPK0 
-https://hubblesite.org/contents/media/images/2006/13/1872-Image.html?keyword=Bok%20globule 
-https://www.astronomes.com/voie-lactee/formation-etoile/ 
-https://ui.adsabs.harvard.edu/abs/1947ApJ...105..255B/abstract 
-https://astrobackyard.com/ngc-281-the-pacman-nebula/ 
-https://earthsky.org/clusters-nebulae-galaxies/the-lagoon-nebula-messier-8/ 
-https://www.freeastroscience.com/2021/07/the-laguna-nebula.html 
-https://www.eso.org/sci/publications/messenger/archive/no.26-dec81/messenger-no26-2-4.pdf 
-https://www.aanda.org/articles/aa/pdf/2002/08/aah2952.pdf 
-https://arxiv.org/abs/1005.2202 
-https://www.aanda.org/articles/aa/pdf/2002/08/aah2952.pdf
-https://www2.mpia-hd.mpg.de/homes/rlau/Talks/YLU_2004_globules_rl.pdf 
-https://adsabs.harvard.edu/full/1994ASPC...65..224L 
-https://www.aanda.org/articles/aa/full_html/2010/10/aa14537-10/aa14537-10.html 
-https://phys.org/news/2010-06-bok-globules.html 
-https://www.academia.edu/21557378/Looking_Into_the_Hearts_of_Bok_Globules_Millimeter_and_Submillimeter_Continuum_Images_of_Isolated_Star_Forming_Cores 
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.139.4152&rep=rep1&type=pdf 
-https://www.eso.org/sci/publications/messenger/archive/no.26-dec81/messenger-no26-2-4.pdf 
-https://andromedageek.wordpress.com/2015/10/18/a-star-is-born-part-3-cont-evidence-of-a-protostar-in-a-bok-globule/ 
-https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2629&context=theses 
-https://media4.obspm.fr/public/ressources_lu/pages_naissance/milieu-interstellaire_impression.html 
-https://fr.wikipedia.org/wiki/N%C3%A9buleuse_de_la_Lagune#/media/Fichier:Lagoon_Nebula_(ESO).jpg 
-http://www.badastronomy.com/media/inprint/underalienskies.html 
-https://iopscience.iop.org/article/10.1088/0067-0049/188/1/139/pdf 
-https://www.nasa.gov/feature/goddard/2018/lagoon-nebula-visible-light-view 
+- [Bok Globule](https://en.wikipedia.org/wiki/Bok_globule) - Wikipédia 
+- [Bok Globule](https://astronomy.swin.edu.au/cosmos/b/Bok+Globule) - The SAO Encyclopedia of Astronomy
+- [What is a Bok globule?](https://astronomy.com/news-observing/ask%20astro/2008/07/what%20is%20a%20bok%20globule) - Sam Platts, Astronomy Magazine
+- [TYPICAL PROPERTIES OF BOK GLOBULES AND THEIR DENSE CORES](https://www.researchgate.net/figure/TYPICAL-PROPERTIES-OF-BOK-GLOBULES-AND-THEIR-DENSE-CORES_tbl1_45910389) - Launhardt et al. (2010)
+- [A Star in the Making](https://www.universetoday.com/10610/a-star-in-the-making/) - Fraser Cain, Universe Today
+- [Lecture 15: Star Formation](https://sites.ualberta.ca/~pogosyan/teaching/ASTRO_122/lect15/lecture15.html) - Cours de Dmitri Pogosyan
+- [Why do stars form inside dusty blobs? | Space Is Weird - Bok Globules](https://youtu.be/VRNH0zCzPK0) - Dr Becky
+- [Nearby Dust Clouds in the Milky Way](https://hubblesite.org/contents/media/images/2006/13/1872-Image.html?keyword=Bok%20globule) - Hubble
+- [La naissance des étoiles](https://www.astronomes.com/voie-lactee/formation-etoile/) - Olivier Esslinger
+- [Small Dark Nebulae](https://ui.adsabs.harvard.edu/abs/1947ApJ...105..255B/abstract) - Bok et Reilly (1947) 
+- [Explore the Lagoon Nebula, Messier 8](https://earthsky.org/clusters-nebulae-galaxies/the-lagoon-nebula-messier-8/) - Larry Sessions, EarthSky 
+- [The Laguna Nebula](https://www.freeastroscience.com/2021/07/the-laguna-nebula.html) - Free Astro Science
+- [Hier ist wahrhaftig ein Loch im Himmel - The NGC 1999 dark globule is not a globule](https://arxiv.org/abs/1005.2202) - Stanke et al. (2010) 
+- [Active star formation in the large Bok globule CB 34*](https://www.aanda.org/articles/aa/pdf/2002/08/aah2952.pdf) - Khanzadyan et al. (2002)
+- [Isolated Star Formation in Bok Globules](https://www2.mpia-hd.mpg.de/homes/rlau/Talks/YLU_2004_globules_rl.pdf) - Conférence de Ralf Launhardt 
+- [Star-forming cores in BOK globules: A 1.3 MM continuum survey](https://adsabs.harvard.edu/full/1994ASPC...65..224L) - Launhardt et Henning (1994)
+- [Dust-temperature of an isolated star-forming cloud: Herschel observations of the Bok globule CB244*](https://www.aanda.org/articles/aa/full_html/2010/10/aa14537-10/aa14537-10.html) - Stutz et al. (2010) 
+- [Bok Globules](https://phys.org/news/2010-06-bok-globules.html) - Physorg 
+- [Star Formation in Bok Globules and Small Clouds](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.139.4152&rep=rep1&type=pdf) - Ba Reipurth (2008) 
+- [Star Formation in Bok Globules](https://www.eso.org/sci/publications/messenger/archive/no.26-dec81/messenger-no26-2-4.pdf) - Ba Reipurth, ESO
+- [A star is born (Part 3 cont.: Evidence of a protostar in a Bok globule)](https://andromedageek.wordpress.com/2015/10/18/a-star-is-born-part-3-cont-evidence-of-a-protostar-in-a-bok-globule/) - Andromeda Geek
+- [Near and far infrared observations of protostars and dark clouds](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2629&context=theses) - Thèse de Mark Gerard Suters (1992)  
+- [Le milieu interstellaire](https://media4.obspm.fr/public/ressources_lu/pages_naissance/milieu-interstellaire_impression.html) -  Benoît Mosser, Observatoire de Paris 
+- [The Making of "Under Alien Skies"](http://www.badastronomy.com/media/inprint/underalienskies.html) - Phil Plait, Bad Astronomy 
+- [LOOKING INTO THE HEARTS OF BOK GLOBULES: MILLIMETER AND SUBMILLIMETER CONTINUUM IMAGES OF ISOLATED STAR-FORMING CORES](https://iopscience.iop.org/article/10.1088/0067-0049/188/1/139/pdf) - Launhardt et al. (2010) 
+- [Lagoon Nebula (Visible-light View)](https://www.nasa.gov/feature/goddard/2018/lagoon-nebula-visible-light-view) - NASA 
 
 ## 6. Planètes errantes
 
