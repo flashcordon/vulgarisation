@@ -784,32 +784,28 @@ https://www.futura-sciences.com/sciences/actualites/ceinture-asteroides-origine-
 
 ## Les étoiles
 
-The universe – seeds
-http://www.slate.fr/life/76498/etoiles-mortes-vues-terre 
-https://www.youtube.com/watch?v=PUbJlrcyXUA 
-https://www.universetoday.com/110858/how-far-can-you-see-in-the-universe/ 
-https://www.numerama.com/sciences/750245-regarde-cette-etoile-elle-est-deja-morte-pourquoi-cette-phrase-est-fausse.html 
-https://slate.com/technology/2013/08/are-the-stars-you-see-in-the-sky-already-dead.html 
-https://www.futura-sciences.com/sciences/questions-reponses/etoile-etoiles-ont-elles-differentes-couleurs-16308/ 
-https://media4.obspm.fr/public/ressources_lu/pages_corps-noir/temperature-couleur_impression.html 
-https://theta.obs-besancon.fr/lunap/Niveau1/EchellesStructures/Textes/couleur.html 
-https://www.astreos.eu/l-oeil-en-astronomie.html 
-https://www.atnf.csiro.au/outreach/education/senior/astrophysics/photometry_colour.html 
-https://courses.lumenlearning.com/astronomy/chapter/colors-of-stars/ 
-https://www.cta-observatory.org/building-from-diversity-article-cecilia-payne-gaposchkin/ 
-https://youtu.be/PUbJlrcyXUA 
-https://journals.openedition.org/bibnum/746 
-death from the skies
-five ages cosmos
-https://iopscience.iop.org/article/10.1086/310296 
-https://books.openedition.org/editionscnrs/11537?lang=fr 
-https://en.wikipedia.org/wiki/G-type_main-sequence_star 
-https://arxiv.org/abs/0801.4031 
-http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/startime.html 
-https://media4.obspm.fr/public/ressources_lu/pages_vie-mort/bb-massives.html 
-https://arxiv.org/pdf/astro-ph/0010398.pdf 
-https://www.researchgate.net/publication/249316547_On_the_Maximum_Mass_of_Neutron_Stars 
-https://media4.obspm.fr/public/ressources_lu/pages_pourquoi-brillent/impression.html 
+- [Non, toutes les étoiles que nous voyons ne sont pas mortes](http://www.slate.fr/life/76498/etoiles-mortes-vues-terre) - Phil Plait, Slate
+- [What are the stars made of? - with Cecilia Payne (Star Investigators Ep. 1/4)](https://www.youtube.com/watch?v=PUbJlrcyXUA) - Le Monde
+- [How Far Can You See in the Universe?](https://www.universetoday.com/110858/how-far-can-you-see-in-the-universe/) - Fraser Cain, Universe Today
+- [« Regarde cette étoile, elle est déjà morte » : pourquoi cette phrase est fausse](https://www.numerama.com/sciences/750245-regarde-cette-etoile-elle-est-deja-morte-pourquoi-cette-phrase-est-fausse.html) - Nelly Lesage, Numerama
+- [Pourquoi les étoiles ont-elles différentes couleurs ?](https://www.futura-sciences.com/sciences/questions-reponses/etoile-etoiles-ont-elles-differentes-couleurs-16308/) - Céline Deluzarche, Futura Sciences 
+- [Température et couleur](https://media4.obspm.fr/public/ressources_lu/pages_corps-noir/temperature-couleur_impression.html) - Observatoire de Paris
+- [L'oeil en astronomie](https://www.astreos.eu/l-oeil-en-astronomie.html) - Astreos
+- [The Colour of Stars](https://www.atnf.csiro.au/outreach/education/senior/astrophysics/photometry_colour.html) - CSIRO
+- [Colors of Stars](https://courses.lumenlearning.com/astronomy/chapter/colors-of-stars/) - Course Hero
+- [Cecilia Payne-Gaposchkin: The Woman Who Discovered What Stars Are Made Of](https://www.cta-observatory.org/building-from-diversity-article-cecilia-payne-gaposchkin/) - Dominik Elsässer, CTA
+- [The Maximum Mass of a Neutron Star](https://iopscience.iop.org/article/10.1086/310296) - Kalogera et Baym (1996)
+- [L’évolution des étoiles](https://books.openedition.org/editionscnrs/11537?lang=fr) - Jean-Paul Zahn
+- [G-type main-sequence star](https://en.wikipedia.org/wiki/G-type_main-sequence_star) - Wikipédia 
+- [Distant future of the Sun and Earth revisited](https://arxiv.org/abs/0801.4031) - Schroder et Smith (2008)
+- [Stellar Lifetimes](http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/startime.html) - Hyperphysics
+- [Évolution des étoiles massives](https://media4.obspm.fr/public/ressources_lu/pages_vie-mort/bb-massives.html) - Observatoire de Paris
+- [Black Hole Formation in Core-Collapse Supernovae and Time-of-Flight Measurements of the Neutrino Masses](https://arxiv.org/pdf/astro-ph/0010398.pdf) - Beacom et al. (2001)
+- [On the Maximum Mass of Neutron Stars](https://www.researchgate.net/publication/249316547_On_the_Maximum_Mass_of_Neutron_Stars) - Chamel et al. (2013)
+- [Pourquoi les étoiles brillent](https://media4.obspm.fr/public/ressources_lu/pages_pourquoi-brillent/impression.html) - Observatoire de Paris 
+- Universe - Michael Seeds (Cengage Learning)
+- Death from the Skies!: These Are The Ways The World Will End - Phil Plait (Viking Adult, 2008)
+- The Five Ages of the Universe - Fred Adams et Gregory P. Laughlin (Free Press Publishers, 1999)
 
 ## Les exoplanètes
 
