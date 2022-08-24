@@ -535,32 +535,22 @@
 
 ## 3. Amas globulaires
 
-https://skyandtelescope.org/astronomy-resources/astronomy-questions-answers/science-faq-answers/kavli-foundation-globular-clusters-black-holes/ 
-https://hubblesite.org/contents/news-releases/2000/news-2000-33.html 
-https://en.m.wikipedia.org/wiki/Globular_cluster
-https://www.youtube.com/playlist?list=PLukZ7R0PTZNyghM0Z0JIRtiucPJkrBFuQ&disable_polymer=true
-https://arxiv.org/ftp/astro-ph/papers/0701/0701310.pdf 
-https://astronomy.com/news/2021/02/snapshot-black-holes-sprinkled-in-a-globular-star-cluster 
-https://iopscience.iop.org/article/10.1088/0004-637X/812/1/25 
-https://www.youtube.com/watch?v=BjzptXhpsz8&index=4&list=WL&t=0s
-https://io9.gizmodo.com/what-the-night-sky-would-look-like-from-inside-a-globul-1589324556
-https://fr.wikipedia.org/wiki/Amas_globulaire
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiPhq6R27PcAhUKL1AKHURXAF4QFjABegQIBBAC&url=https%3A%2F%2Fwww.physicsforums.com%2Fattachments%2Flife-inside-a-globular-cluster-pdf.79520%2F&usg=AOvVaw0tRBLNPhWL0druQ1-MyxaO
-http://www.astro.utoronto.ca/~webb/liagc.html
-http://www.iac.es/gabinete/iacnoticias/winter98/xplaneta.htm
-https://www.spacetelescope.org/videos/?search=globular+cluster
-https://youtu.be/an4rgJ3O21A
-https://youtu.be/gHztrZIbc9g
-http://www.sartoretti.org/display.php?id1=348
-http://www.astrosurf.com/luxorion/univers-nebuleuses-amas5.htm
-https://www.esa.int/spaceinimages/Images/2016/09/Anatomy_of_the_Milky_Way
-https://www.youtube.com/watch?v=QSE21LSxslU
-http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/globular.html
-https://www.aanda.org/articles/aa/full_html/2019/10/aa36135-19/aa36135-19.html
-https://www.astro.keele.ac.uk/workx/globulars/globulars.html 
-https://www.researchgate.net/publication/253910327_Globular_clusters_as_galaxy_building_blocks 
-https://sites.astro.caltech.edu/~george/ay127/readings/KraussChaboyer2003.pdf 
-universe - seeds
+- [The Kavli Foundation Q&A: Do Globular Clusters Generate Black Holes?](https://skyandtelescope.org/astronomy-resources/astronomy-questions-answers/science-faq-answers/kavli-foundation-globular-clusters-black-holes/) - Sky and Telescope
+- [Astronomers Ponder Lack of Planets in Globular Cluster](https://hubblesite.org/contents/news-releases/2000/news-2000-33.html) - Hubble  
+- [Globular Cluster](https://en.m.wikipedia.org/wiki/Globular_cluster) - Wikipédia
+- [A black hole in a globular cluster](https://arxiv.org/abs/astro-ph/0701310) - Maccarone et al. (2007)
+- [Snapshot: Black holes sprinkled in a globular star cluster](https://astronomy.com/news/2021/02/snapshot-black-holes-sprinkled-in-a-globular-star-cluster) -  Caitlyn Buongiorno, Astronomy Magazine
+- [THE ABSOLUTE AGE OF THE GLOBULAR CLUSTER M15 USING NEAR-INFRARED ADAPTIVE OPTICS IMAGES FROM PISCES/LBT*](https://iopscience.iop.org/article/10.1088/0004-637X/812/1/25) - Monelli et al. (2015)
+- [What are Globular Clusters? Relics of the Early Universe](https://www.youtube.com/watch?v=BjzptXhpsz8&index=4&list=WL&t=0s) - Fraser Cain
+- [What The Night Sky Would Look Like From Inside A Globular Cluster](https://io9.gizmodo.com/what-the-night-sky-would-look-like-from-inside-a-globul-1589324556) - George Dvorsky, Gizmodo
+- [Life inside a GLOBULAR CLUSTER](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiPhq6R27PcAhUKL1AKHURXAF4QFjABegQIBBAC&url=https%3A%2F%2Fwww.physicsforums.com%2Fattachments%2Flife-inside-a-globular-cluster-pdf.79520%2F&usg=AOvVaw0tRBLNPhWL0druQ1-MyxaO) - William Harris and Jeremy Webb, Astronomy Magazine
+- [Star Clusters: Crash Course Astronomy #35](https://youtu.be/an4rgJ3O21A) - Crash Course
+- [Globular Clusters](http://hyperphysics.phy-astr.gsu.edu/hbase/Astro/globular.html) - Hyperphysics
+- [Origin of the system of globular clusters in the Milky Way](https://www.aanda.org/articles/aa/full_html/2019/10/aa36135-19/aa36135-19.html) - Massari et al. (2019)
+- [A guide to GLOBULAR CLUSTERS](https://www.astro.keele.ac.uk/workx/globulars/globulars.html) - Jon Talpur
+- [Globular clusters as galaxy building blocks](https://www.researchgate.net/publication/253910327_Globular_clusters_as_galaxy_building_blocks) - Jae-Woo Lee (2009)
+- [Age Estimates of Globular Clusters in the Milky Way: Constraints on Cosmology](https://sites.astro.caltech.edu/~george/ay127/readings/KraussChaboyer2003.pdf) - Krauss et Chaboyer (2003)
+- Universe - Michael Seeds (Cengage Learning)
 
 ## 4. Nébuleuses planétaires
 
