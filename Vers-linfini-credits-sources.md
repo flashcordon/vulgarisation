@@ -809,37 +809,36 @@ https://www.futura-sciences.com/sciences/actualites/ceinture-asteroides-origine-
 
 ## Les exoplanètes
 
-https://www.explore-exoplanets.eu/mooc/ 
-https://www.refletsdelaphysique.fr/articles/refdp/pdf/2017/03/refdp201754p20.pdf 
-https://sagascience.com/exoplanetes/
-https://exoplanets.nasa.gov/what-is-an-exoplanet/planet-types/overview/ 
-le cosmos et nous
-https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/21-fall/exoplanets%207.pdf 
-https://www.sciencesetavenir.fr/espace/au-moins-une-planete-par-etoile_33490 
-http://www.esep.pro/La-methode-des-vitesses-radiales.html 
-https://www.numerama.com/sciences/622915-voici-pourquoi-il-nest-pas-100-exact-de-dire-que-les-planetes-orbitent-autour-du-soleil.html 
-https://www.youtube.com/watch?v=HOybqkxxtqU
-https://www.lpi.usra.edu/books/MESSII/9005.pdf 
-http://sesp.esep.pro/fr/pages_ind-transits/atmosphere-3.html 
-https://www.physics.uu.se/research/astronomy-and-space-physics/research/planets/exoplanet-atmospheres/ 
-https://youtu.be/erq2jdm3pwY 
-https://www.frontiersin.org/articles/10.3389/fspas.2020.00010/full 
-mooc exoplanètes
-https://www.esa.int/Space_in_Member_States/France/La_mission_Ariel_en_voie_de_concretisation 
-exoplanètes david fossé
-planètes extrasolaire Thérèse Encrenaz Fabienne Casoli
-https://www.planetary.org/articles/where-are-moons-of-exoplanets 
-https://www.podcastscience.fm/dossiers/2014/01/31/exoplanetes-de-la-pluralite-des-mondes/ 
-https://www.youtube.com/watch?v=At5DuJ5FKlo
-https://tel.archives-ouvertes.fr/tel-00939349/document 
-https://www.sciencedirect.com/science/article/pii/S138764732200001X 
-https://astronomia.fr/seminaires/annee1314/hypertelescope.php 
-http://www.iap.fr/actualites/avoir/2022/Exoplanetes/Exoplanetes-fr.html 
-https://notendur.hi.is/~einar/Heimsfraedi/CroweLife.pdf 
-https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html 
-https://www.sciencesetavenir.fr/espace/les-systemes-a-quatre-etoiles-pas-si-rares_34507 
-https://gallica.bnf.fr/blog/29072019/la-pluralite-des-mondes-des-sciences-la-litterature-1?mode=desktop 
-https://arxiv.org/ftp/arxiv/papers/1701/1701.00493.pdf 
+- [MOOC Exoplanètes – recherche atmosphérique](https://www.explore-exoplanets.eu/mooc/)
+- [Le point sur les exoplanètes : une diversité inattendue](https://www.refletsdelaphysique.fr/articles/refdp/pdf/2017/03/refdp201754p20.pdf) - Anne-Marie Lagrange, Reflets de la  physique
+- [Exoplanètes : à la recherche de nouveaux mondes](https://sagascience.com/exoplanetes/) - Sagascience
+- [What is an Exoplanet?](https://exoplanets.nasa.gov/what-is-an-exoplanet/planet-types/overview/) - NASA  
+- [Looking for Exoplanets](https://www.uc.edu/content/dam/refresh/cont-ed-62/olli/21-fall/exoplanets%207.pdf) - Conférence OLLI Fall 2021  
+- [Au moins une planète par étoile](https://www.sciencesetavenir.fr/espace/au-moins-une-planete-par-etoile_33490) - Cécile Dumas, Sciences et Avenir 
+- [La méthode des vitesses radiales](http://www.esep.pro/La-methode-des-vitesses-radiales.html) - Cours SESP de l'ESEP
+- [Il n’est pas 100% exact de dire que les planètes orbitent autour du Soleil](https://www.numerama.com/sciences/622915-voici-pourquoi-il-nest-pas-100-exact-de-dire-que-les-planetes-orbitent-autour-du-soleil.html) - Nelly Lesage, Numerama 
+- [[Comment ça marche ?] Les techniques de détection des exoplanètes [5/9]](https://www.youtube.com/watch?v=HOybqkxxtqU) - CEA
+- [Presolar Cloud Collapse and the Formation and Early Evolution of the Solar Nebula](https://www.lpi.usra.edu/books/MESSII/9005.pdf) - Boss et Goswani 
+- [Atmosphère: composition et dynamique](http://sesp.esep.pro/fr/pages_ind-transits/atmosphere-3.html) - Cours SESP de l'ESEP
+- [Exoplanet atmospheres](https://www.physics.uu.se/research/astronomy-and-space-physics/research/planets/exoplanet-atmospheres/) - Uppsala Universitet
+- [Exoplanètes : quelles atmosphères ? Quelle habitabilité ?](https://youtu.be/erq2jdm3pwY) - Conférence de Franck Selsis
+- [The Grand Challenges of Exoplanets](https://www.frontiersin.org/articles/10.3389/fspas.2020.00010/full) - Steve B. Howell (2020)
+- [La mission Ariel en voie de concrétisation](https://www.esa.int/Space_in_Member_States/France/La_mission_Ariel_en_voie_de_concretisation) - ESA 
+- [Where are the moons that orbit exoplanets?](https://www.planetary.org/articles/where-are-moons-of-exoplanets) - Briley Lewis, Planetary Society
+- [Exoplanètes: de la pluralité des mondes](https://www.podcastscience.fm/dossiers/2014/01/31/exoplanetes-de-la-pluralite-des-mondes/) - Johan Mazoyer, Podcast Science
+- [Exoplanètes : l'extravagante pluralité des mondes](https://www.youtube.com/watch?v=At5DuJ5FKlo) - Conférence de David Fossé
+- [Détection d’exoplanètes par effet de microlentille gravitationnelle : des observations à la caractérisation](https://tel.archives-ouvertes.fr/tel-00939349/document) - Thèse d'Etienne Bachelet (2013)
+- [The IAU working definition of an exoplanet](https://www.sciencedirect.com/science/article/pii/S138764732200001X) - Lecavelier des Etangs et Lissauer (2022)
+- [Hypertélescopes](https://astronomia.fr/seminaires/annee1314/hypertelescope.php) - Astronomia
+- [LA DÉFINITION DU TERME « EXOPLANÈTE »](http://www.iap.fr/actualites/avoir/2022/Exoplanetes/Exoplanetes-fr.html) - IAP 
+- [A HISTORY OF THE EXTRATERRESTRIAL LIFE DEBATE](https://notendur.hi.is/~einar/Heimsfraedi/CroweLife.pdf) - Michael J. Crowe (1997)
+- [Exoplanet and Candidate Statistics](https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html) - NASA
+- [Les systèmes à quatre étoiles pas si rares](https://www.sciencesetavenir.fr/espace/les-systemes-a-quatre-etoiles-pas-si-rares_34507) - Joël Ignasse, Sciences et Avenir  
+- [La pluralité des mondes, des sciences à la littérature (1)](https://gallica.bnf.fr/blog/29072019/la-pluralite-des-mondes-des-sciences-la-litterature-1?mode=desktop) - Gilles Kremer, Gallica
+- [Illusion and Reality in the Atmospheres of Exoplanets](https://arxiv.org/ftp/arxiv/papers/1701/1701.00493.pdf) - Deming et Seager
+- Le Cosmos et nous - Sébastien Carassou (Equateurs, 2021)
+- Exoplanètes - David Fossé (Belin)
+- Planètes extrasolaires - Thérèse Encrenaz et Fabienne Casoli (Belin, 2006)
 
 ## Les galaxies
 
