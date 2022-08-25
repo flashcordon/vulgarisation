@@ -745,42 +745,38 @@
 
 ## Le système solaire
 
-https://www.podcastscience.fm/dossiers/2019/09/30/la-naissance-des-planetes/ 
-https://www-n.oca.eu/morby/papers/EMP1.pdf 
-https://www.universetoday.com/38118/how-was-the-solar-system-formed/ 
-https://www.futura-sciences.com/sciences/questions-reponses/astronomie-ciel-ete-sont-constellations-plus-beaux-objets-observer-6765/ 
-https://www.astronomy.ohio-state.edu/pogge.1/Ast161/Au06/Unit6/origin.html 
-https://www.cfa.harvard.edu/news/1000-light-year-wide-bubble-surrounding-earth-source-all-nearby-young-stars 
-https://www.emse.fr/~bouchardon/enseignement/processus-naturels/up1/web/wiki/Q%20-%20Planeto%20-%20Naissance%20du%20systeme%20solaire%20et%20des%20planetes%20-%20Biron.htm 
-https://www.franceculture.fr/emissions/la-methode-scientifique/origines-du-systeme-solaire-une-histoire-nebuleuse 
-https://www.futura-sciences.com/sciences/actualites/astronomie-visage-coatlicue-etoile-mere-soleil-precise-40912/ 
-http://sesp.esep.pro/fr/pages_mecanique-formation/migration-porto-planetes.html 
-The universe - Seeds
-https://en.wikipedia.org/wiki/List_of_possible_dwarf_planets 
-https://www.asc-csa.gc.ca/eng/astronomy/solar-system/dwarf-planets.asp 
-https://youtu.be/TKM0P3XlMNA 
-https://planet-terre.ens-lyon.fr/ressource/meteorites-origine-systeme-solaire.xml#condensation-nebuleuse-solaire 
-a history of the solar system claudio vita finzi
-http://obswww.unige.ch/Questions_Reponses/R3.html 
-https://www.pourlascience.fr/sd/planetologie/la-naissance-tumultueuse-des-planetes-3777.php 
-https://hubblesite.org/contents/news-releases/1994/news-1994-24.html 
-planètes extrasolaires - Fabienne Casoli et Thérèse Encrenaz (2005)
-https://media4.obspm.fr/public/ressources_lu/pages_planetologie-formation/accretion-planetest_impression.html 
-https://media4.obspm.fr/public/ressources_lu/pages_planetologie-formation/formation-planetesg_impression.html 
-https://royalsocietypublishing.org/doi/10.1098/rsta.2013.0072#d3e488 
-https://www.lpi.usra.edu/books/PPV/8056.pdf 
-https://www.youtube.com/watch?v=EL-_q8ufYO0 
-http://atropos.as.arizona.edu/aiz/teaching/nats102/mario/solar_system.html 
-https://www.planetary.org/articles/solar-system-history-101 
-https://www.palais-decouverte.fr/fileadmin/fileadmin_Palais/fichiersContribs/au-programme/expos-permanentes/astronomie/_documents/articles/Planete9.pdf 
-https://books.google.fr/books?id=NwocAgAAQBAJ&pg=PT38&lpg=PT38&dq=mod%C3%A8le+du+cosmos+construction+mentale&source=bl&ots=2i273rea6A&sig=ACfU3U1IKIERbhkueRZNEWkkxidN8UdRlw&hl=fr&sa=X&ved=2ahUKEwid_8HavoH3AhWK3YUKHUwkDsIQ6AF6BAgpEAM#v=onepage&q=mod%C3%A8le%20du%20cosmos%20construction%20mentale&f=false 
-https://www.astronomes.com/histoire-astronomie/gravitation-universelle-mecanique-celeste/ 
- https://www.franceculture.fr/sciences/sciences-histoire-des-theories-du-cosmos 
-https://www.planetary.org/worlds/what-is-a-planet 
-https://www.iau.org/public/themes/pluto/ 
-https://iopscience.iop.org/article/10.1088/0031-8949/90/6/068001 
-https://www.britannica.com/science/solar-system/Modern-ideas 
-https://www.futura-sciences.com/sciences/actualites/ceinture-asteroides-origine-ceinture-asteroides-on-peut-etre-tout-faux-68591/ 
+- [La naissance des planètes](https://www.podcastscience.fm/dossiers/2019/09/30/la-naissance-des-planetes/) - Johan Mazoyer, Podcast Sciences 
+- [Solar System Formation and Early Evolution: the First 100 Million Years](https://www-n.oca.eu/morby/papers/EMP1.pdf) - Montmerle et al. (2006)
+- [How Was the Solar System Formed? – The Nebular Hypothesis](https://www.universetoday.com/38118/how-was-the-solar-system-formed/) - Matt WIlliams, Universe Today 
+- [Lecture 32: The Origin of the Solar System](https://www.astronomy.ohio-state.edu/pogge.1/Ast161/Au06/Unit6/origin.html) - Cours de Richard W. Pogge
+- [1,000-Light-Year Wide Bubble Surrounding Earth is Source of All Nearby, Young Stars](https://www.cfa.harvard.edu/news/1000-light-year-wide-bubble-surrounding-earth-source-all-nearby-young-stars) - Center for Astrophysics  
+- [Origines du système solaire, une histoire nébuleuse](https://www.franceculture.fr/emissions/la-methode-scientifique/origines-du-systeme-solaire-une-histoire-nebuleuse) - La méthode scientifique, France Culture 
+- [Le visage de Coatlicue, l'étoile mère du Soleil, se précise](https://www.futura-sciences.com/sciences/actualites/astronomie-visage-coatlicue-etoile-mere-soleil-precise-40912/) - Laurent Sacco, Futura Sciences 
+- [Migration des proto-planètes et planètes](http://sesp.esep.pro/fr/pages_mecanique-formation/migration-porto-planetes.html) - Philippe Thébault, Cours SESP de l'ESEP 
+- [List of possible dwarf planets](https://en.wikipedia.org/wiki/List_of_possible_dwarf_planets) - Wikipédia 
+- [Dwarf planets](https://www.asc-csa.gc.ca/eng/astronomy/solar-system/dwarf-planets.asp) - Canada Space Agency
+- [Introduction to the Solar System: Crash Course Astronomy #9](https://youtu.be/TKM0P3XlMNA) - Crash Course
+- [Météorites et formation du système solaire](https://planet-terre.ens-lyon.fr/ressource/meteorites-origine-systeme-solaire.xml#condensation-nebuleuse-solaire) - Emmanuel Caroli et Pierre Thomas, Planète Terre 
+- [Pourquoi les étoiles scintillent alors que les planètes paraissent stables ?](http://obswww.unige.ch/Questions_Reponses/R3.html) - Didier Raboud 
+- [La naissance tumultueuse des planètes](https://www.pourlascience.fr/sd/planetologie/la-naissance-tumultueuse-des-planetes-3777.php) - Caroline Terquem, Pour la Science 
+- [Hubble Confirms Abundance of Protoplanetary Disks around Newborn Stars](https://hubblesite.org/contents/news-releases/1994/news-1994-24.html) - Hubble 
+- [Le scénario standard: accretion des planètes telluriques](https://media4.obspm.fr/public/ressources_lu/pages_planetologie-formation/accretion-planetest_impression.html) - Philippe Thébault, Observatoire de Paris 
+- [Scenarios of giant planet formation and evolution and their impact on the formation of habitable terrestrial planets](https://royalsocietypublishing.org/doi/10.1098/rsta.2013.0072#d3e488) - Morbidelli (2014)
+- [Formation of Giant Planets](https://www.lpi.usra.edu/books/PPV/8056.pdf) - Lissauer et Stevenson
+- [Exploring Our Solar System - with Stuart Eves](https://www.youtube.com/watch?v=EL-_q8ufYO0) - The Royal Institution
+- [Solar System History 101](https://www.planetary.org/articles/solar-system-history-101) - Jatan Mehta, Planetary Society 
+- [Planète 9 : aux confins du Système Solaire](https://www.palais-decouverte.fr/fileadmin/fileadmin_Palais/fichiersContribs/au-programme/expos-permanentes/astronomie/_documents/articles/Planete9.pdf) - Andy Richard, Palais de la Découverte
+- [La Nouvelle Musique des sphères](https://books.google.fr/books?id=NwocAgAAQBAJ&pg=PT38&lpg=PT38&dq=mod%C3%A8le+du+cosmos+construction+mentale&source=bl&ots=2i273rea6A&sig=ACfU3U1IKIERbhkueRZNEWkkxidN8UdRlw&hl=fr&sa=X&ved=2ahUKEwid_8HavoH3AhWK3YUKHUwkDsIQ6AF6BAgpEAM#v=onepage&q=mod%C3%A8le%20du%20cosmos%20construction%20mentale&f=false) - Sylvie Vauclair et Claude-Samuel Lévine
+- [La gravitation universelle et la mécanique céleste](https://www.astronomes.com/histoire-astronomie/gravitation-universelle-mecanique-celeste/) - Olivier Esslinger
+- [Sciences : histoire des théories du cosmos](https://www.franceculture.fr/sciences/sciences-histoire-des-theories-du-cosmos) - France Culture
+- [What Is A Planet?](https://www.planetary.org/worlds/what-is-a-planet) - Planetary Society 
+- [Pluto and the Developing Landscape of Our Solar System](https://www.iau.org/public/themes/pluto/) - IAU
+- [The formation of the solar system](https://iopscience.iop.org/article/10.1088/0031-8949/90/6/068001) - Pfalzner et al. (2015)
+- [Origin of the solar system: Modern ideas](https://www.britannica.com/science/solar-system/Modern-ideas) - Britannica 
+- [Origine de la ceinture d'astéroïdes : on a peut-être tout faux !](https://www.futura-sciences.com/sciences/actualites/ceinture-asteroides-origine-ceinture-asteroides-on-peut-etre-tout-faux-68591/) - Laurent Sacco, Futura Sciences 
+- Planètes extrasolaires - Thérèse Encrenaz et Fabienne Casoli (Belin, 2006)
+- Universe - Michael Seeds (Cengage Learning)
+- A history of the solar system - Claudio Vita Finzi (Springer, 2016)
 
 ## Les étoiles
 
