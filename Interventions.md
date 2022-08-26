@@ -398,3 +398,5 @@
 - [Concours Schools Challenge](https://youtu.be/7xIaaj3epTw) - Mars 2020
 - [Younivers : la chaîne des astro-ados](https://saf-astronomie.fr/younivers-la-chaine-des-astro-ados/) - Octobre 2020
 - 2e édition du challenge vidéo astronomique de la SAF - 2021
+- 3e édition du challenge vidéo astronomique de la SAF - 2022
+- Concours E-Toiles de Sciences du festival Pariscience - Octobre 2022
