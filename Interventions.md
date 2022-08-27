@@ -269,7 +269,7 @@
 - [« Je faisais partie des esprits supérieurs » : pourquoi le complotisme séduit autant](https://www.lemonde.fr/les-decodeurs/article/2021/01/18/je-faisais-partie-des-esprits-superieurs-pourquoi-le-complotisme-seduit-autant_6066685_4355770.html) - Les Décodeurs, Janvier 2021
 - Interview pour Néon Magazine, Décembre 2020
 - [Interview pour le Rotary Magazine sur le complotisme](https://i.imgur.com/ChXrVDd.jpg) - Rotary Mag, Décembre 2020
-- Interview pour le blog Hypothèse de Léa Fournasson, Décembre 2020
+- [Le Sense of Wonder](https://legrandpublic.hypotheses.org/1644) - Le grand public, blog de Léa Fournasson, Décembre 2020
 - [Le choix de Sense of Wonder: les Green Brothers](https://i.imgur.com/U5y8bpj.jpg) - Phosphore, Octobre 2020
 - [La science à portée de tous avec l’astrophysicien Youtubeur Sébastien Carassou](https://www.letelegramme.fr/finistere/morlaix/la-science-a-portee-de-tout-avec-l-astrophysicien-youtubeur-sebastien-carassou-27-09-2020-12626381.php) - Le Télégramme, Septembre 2020
 - [Comment la science alimente la fiction (et l'inverse) ? feat. Le Sense of Wonder - Stream Science #9](https://youtu.be/WsTpO4ds-j4) - Juin 2020
