@@ -264,7 +264,7 @@
 - [Voyages interstellaires: Raisons et solutions – avec Sébastien Carassou (Le Sense Of Wonder)](https://www.youtube.com/watch?v=akcgxCFxa4o) - The Flares, Novembre 2021
 - [Destination Cosmos](https://www.francetvinfo.fr/replay-jt/france-3/19-20/jt-de-19-20-du-samedi-13-novembre-2021_4823159.html) - JT de France 3, Novembre 2021
 - [Festival d'astronomie de Fleurance : l'univers sent l'œuf pourri, le goudron et la framboise](https://www.ladepeche.fr/2021/08/11/festival-dastronomie-de-fleurance-lunivers-sent-loeuf-pourri-le-goudron-et-la-framboise-9727183.php) - La dépêche du Midi, Août 2021
-- [Mon petit-fils croit aux thèses complotistes, comment réagir ?](Mon petit-fils croit aux thèses complotistes, comment réagir ?) - Pleine Vie, Mars 2021
+- [Mon petit-fils croit aux thèses complotistes, comment réagir ?](https://www.pleinevie.fr/vie-quotidienne/mes-petits-enfants/mon-petit-fils-croit-aux-theses-complotistes-comment-reagir-6924.html) - Pleine Vie, Mars 2021
 - [« J’ai été un abruti sans esprit critique » : l’imprévisible déclic de la sortie du complotisme](https://www.lemonde.fr/les-decodeurs/article/2021/01/19/j-ai-ete-un-abruti-sans-esprit-critique-l-imprevisible-declic-de-la-sortie-du-complotisme_6066827_4355770.html) - Les Décodeurs, Janvier 2021
 - [« Je faisais partie des esprits supérieurs » : pourquoi le complotisme séduit autant](https://www.lemonde.fr/les-decodeurs/article/2021/01/18/je-faisais-partie-des-esprits-superieurs-pourquoi-le-complotisme-seduit-autant_6066685_4355770.html) - Les Décodeurs, Janvier 2021
 - Interview pour Néon Magazine, Décembre 2020
