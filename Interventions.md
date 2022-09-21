@@ -185,6 +185,7 @@
 
 # Conférences
 
+- Exoplanètes : la symphonie des nouveaux mondes - Commission jeunes de la SAF, Septembre 2022
 - La fin des temps - Festival de Fleurance, Août 2022
 - Le grand récit : du Big Bang à nos jours - Festival de Fleurance, Août 2022
 - Le royaume des galaxies - Festival de Fleurance, Août 2022
