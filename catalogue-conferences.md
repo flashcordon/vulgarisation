@@ -64,3 +64,7 @@ Mais la vision n’est pas le seul sens que nous pouvons mobiliser pour appréhe
 Atteindre les étoiles... Un rêve qui alimente les meilleurs (et les pires !) space opéras depuis des décennies, à grands coups de trous de ver et de passages en hyperespace. Mais le voyage interstellaire n'est pas que l'apanage de la science fiction ! Au XXe siècle, des idées très sérieuses ont émergé du cerveau d'une poignée de brillants physiciens et ingénieurs. Des vaisseaux nucléaires aux voiles solaires, des sondes inhabitées aux vaisseaux-mondes, les scénarios plausibles de ces rêveurs pragmatiques pour traverser le gouffre entre les étoiles ne manquent pas... à condition d'y mettre les moyens. Fera t-on un jour la course de Kessel en moins de 12 parsecs ? La réponse pourrait bien vous surprendre... 
 
 [Slides](https://fr.slideshare.net/SbastienCarassou/atteindre-les-toiles)
+
+## Voir plus loin
+
+[Slides](https://fr.slideshare.net/SbastienCarassouPhD/voir-plus-loinpdf)
