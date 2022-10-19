@@ -1,6 +1,8 @@
-# Catalogue de conférences
+# Catalogue d'interventions
 
 ***Présentation :*** Sébastien Carassou est docteur en astrophysique, spécialisé dans l’évolution des galaxies. Vulgarisateur scientifique, il est le co-animateur de la chaîne Youtube “le Sense of Wonder” et l’auteur du livre “le Cosmos et nous” (Editions des Equateurs), un essai sur les questions existentielles de l’Humanité au prisme des sciences contemporaines.
+
+# Conférences
 
 ## Balade dans le système solaire
 
@@ -68,3 +70,9 @@ Atteindre les étoiles... Un rêve qui alimente les meilleurs (et les pires !) s
 ## Voir plus loin
 
 [Slides](https://fr.slideshare.net/SbastienCarassouPhD/voir-plus-loinpdf)
+
+# Ateliers
+
+## Découvrez le cosmos à travers le jeu vidéo
+
+Voyagera-t-on un jour à travers les étoiles ? Y a t-il de la vie dans l'univers ? C'est quoi un trou noir ? Venez poser toutes vos questions sur le cosmos tout en essayant de survivre au jeu vidéo "Out There" ! Au fil de votre aventure cosmique, vous ferez face aux multiples problèmes posés par l'exploration humaine de l'espace, et vous serez guidé.es à travers les astres par Sébastien Carassou, docteur en astrophysique et vidéaste sur la chaîne Youtube "le Sense of Wonder". Alors, paré.e pour l'embarquement ?
