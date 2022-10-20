@@ -1,6 +1,7 @@
 # Livres
 
 - [Le Cosmos et nous](editionsdesequateurs.fr/aParaitre/oo/LeCosmosEtNous) - Edition des Equateurs (Novembre 2021)
+> [Livre audio](https://www.audible.fr/pd/Le-cosmos-et-nous-Livre-Audio/B0BHTQKTMF?qid=1665983844&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=f20cf038-cbbb-4fa0-adfe-62ed184d8867&pf_rd_r=YNNQEV7Z5ATEER72K1GJ) (Octobre 2022)
 - [La Réunion vue de l'espace](https://youtu.be/FnPUTIU1IVY) - Ouvrage collectif, Janvier 2015
 - [Les meilleurs blogues de science en français](http://editionsmultimondes.com/livre/les-meilleurs-blogues-de-science-en-francais-1/) - Ouvrage collectif édité par Pascal Lapointe, Editions Multimondes, Avril 2014
 - [Le guide du vulgarisateur galactique](https://collectifconscience.org/Le-Guide-du-Vulgarisateur-Galactique.pdf) - Ouvrage collectif, 2014
