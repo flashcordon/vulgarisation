@@ -296,6 +296,7 @@
 
 # Tables rondes 
 
+- Table ronde ["Big Bang, l'appel des origines"](https://pariscience.fr/seance/big-bang-lappel-des-origines/), Octobre 2022
 - Table ronde "l'odyssée interstellaire" au Cinéma de Roscoff avec Jean Loup Chrétien à l'occasion du 3e festival du film scientifique, Septembre 2020
 - Table ronde ["Les vidéastes et les institutions scientifiques : le nouveau binôme ?"](https://pariscience.fr/session/youtube-et-les-institutions-scientifiques-le-nouveau-binome/) - Pariscience, Octobre 2019
 - Table ronde "Mythes et légendes en astronomie" - Lyon Science, Avril 2019
