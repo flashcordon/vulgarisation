@@ -240,6 +240,7 @@
 
 # Articles de blog
 
+- [Compte-rendu de la matinée “Exobiologie et enjeux climatiques”](https://www.exobiologie.fr/blog/2022/11/08/compte-rendu-de-la-matinee-exobiologie-et-enjeux-climatiques/) - Société Française d'Exobiologie, Novembre 2022
 - [Quand la planète rouge était… Bleue !](http://kidiscience.cafe-sciences.org/articles/quand-la-planete-rouge-etait-bleue/) - Kidiscience, Août 2018
 - [Making sense of two trillion galaxies](https://about.hindawi.com/opinion/making-sense-of-two-trillion-galaxies/) - Hindawi, Avril 2018
 - [La Glace et le Ciel, de Luc Jacquet](http://lesenseofwonder.blogspot.com/2015/10/la-glace-et-le-ciel-de-luc-jacquet.html) - le Sense of Wonder, Octobre 2015
