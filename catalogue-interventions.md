@@ -56,6 +56,8 @@ XXX
 
 Nous vivons actuellement un âge d'or de l'astronomie. Nos émissaires robotiques explorent les mondes les plus reculés de notre système solaire, et nos télescopes peuvent désormais capter la lumière des galaxies les plus lointaines qui soient. Mais avant de pouvoir être étudiés scientifiquement, les astres ont été longuement fantasmés par les sociétés humaines. Dans cette conférence, je vous propose un voyage à travers l'histoire de nos représentations du cosmos et de ses objets, à la découverte des divinités célestes, des comètes porteuses de présages funestes et des canaux extraterrestres sur Mars. 
 
+[Slides](https://fr.slideshare.net/SbastienCarassouPhD/mondes-imagins)
+
 ## Les odeurs du cosmos
 
 L’astronomie est une science de l’image, et notre imaginaire collectif regorge de merveilleux clichés de mondes lointains et d’astres inaccessibles…
