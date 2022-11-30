@@ -54,7 +54,7 @@ XXX
 
 ## Mondes imag(in)és
 
-XXX
+Nous vivons actuellement un âge d'or de l'astronomie. Nos émissaires robotiques explorent les mondes les plus reculés de notre système solaire, et nos télescopes peuvent désormais capter la lumière des galaxies les plus lointaines qui soient. Mais avant de pouvoir être étudiés scientifiquement, les astres ont été longuement fantasmés par les sociétés humaines. Dans cette conférence, je vous propose un voyage à travers l'histoire de nos représentations du cosmos et de ses objets, à la découverte des divinités célestes, des comètes porteuses de présages funestes et des canaux extraterrestres sur Mars. 
 
 ## Les odeurs du cosmos
 
