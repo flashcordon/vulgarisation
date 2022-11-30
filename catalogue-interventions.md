@@ -58,11 +58,6 @@ Nous vivons actuellement un âge d'or de l'astronomie. Nos émissaires robotique
 
 [Slides](https://fr.slideshare.net/SbastienCarassouPhD/mondes-imagins)
 
-## Les odeurs du cosmos
-
-L’astronomie est une science de l’image, et notre imaginaire collectif regorge de merveilleux clichés de mondes lointains et d’astres inaccessibles…
-Mais la vision n’est pas le seul sens que nous pouvons mobiliser pour appréhender ces objets : nous pouvons aussi les sentir. Grâce à la puissance de la spectroscopie (et de quelques témoignages d’astronautes), nous connaissons aujourd’hui l’odeur de la poussière lunaire, des profondeurs d’Uranus, de la surface d’une comète ou encore des nuages interstellaires situés près du centre galactique. Dans cette conférence olfactive, vous aurez l'occasion d'expérimenter ces odeurs par vous-mêmes ! 
-
 ## Atteindre les étoiles
 
 Atteindre les étoiles... Un rêve qui alimente les meilleurs (et les pires !) space opéras depuis des décennies, à grands coups de trous de ver et de passages en hyperespace. Mais le voyage interstellaire n'est pas que l'apanage de la science fiction ! Au XXe siècle, des idées très sérieuses ont émergé du cerveau d'une poignée de brillants physiciens et ingénieurs. Des vaisseaux nucléaires aux voiles solaires, des sondes inhabitées aux vaisseaux-mondes, les scénarios plausibles de ces rêveurs pragmatiques pour traverser le gouffre entre les étoiles ne manquent pas... à condition d'y mettre les moyens. Fera t-on un jour la course de Kessel en moins de 12 parsecs ? La réponse pourrait bien vous surprendre... 
@@ -74,6 +69,11 @@ Atteindre les étoiles... Un rêve qui alimente les meilleurs (et les pires !) s
 [Slides](https://fr.slideshare.net/SbastienCarassouPhD/voir-plus-loinpdf)
 
 # Ateliers
+
+## Les odeurs du cosmos
+
+L’astronomie est une science de l’image, et notre imaginaire collectif regorge de merveilleux clichés de mondes lointains et d’astres inaccessibles…
+Mais la vision n’est pas le seul sens que nous pouvons mobiliser pour appréhender ces objets : nous pouvons aussi les sentir. Grâce à la puissance de la spectroscopie (et de quelques témoignages d’astronautes), nous connaissons aujourd’hui l’odeur de la poussière lunaire, des profondeurs d’Uranus, de la surface d’une comète ou encore des nuages interstellaires situés près du centre galactique. Dans cette conférence olfactive, vous aurez l'occasion d'expérimenter ces odeurs par vous-mêmes ! 
 
 ## Découvrez le cosmos à travers le jeu vidéo
 
