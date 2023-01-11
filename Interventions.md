@@ -143,6 +143,7 @@
 
 ## Lives 
 
+- [Perseverance, une année sur Mars | LE DOCK | ARTE](https://youtu.be/iEnl8Itktjk) - ARTE, Décembre 2022
 - Premières images du JWST - Scope, Arte, Juillet 2022
 - Les OVNIs - Mash up, Mai 2022
 - [Comment les étoiles créent la matière](https://youtu.be/cD6EbKO8SX4) - Brief.science, Mai 2022
