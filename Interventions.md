@@ -341,6 +341,7 @@
 
 # Podcasts
 
+- [Penser au-delà de la plantation avec Malcom Ferdinand et Olivier Marboeuf](https://open.spotify.com/episode/1opz1piZxSf7DC3mAiq2SO?fbclid=IwAR2LA5nMEs91KXsPBgbNdHWRZuR5iNqTuNVCxhqbYEizzSwHucl2p81C-jc) - Librairie Utopia, Novembre 2022
 - [Dans les secrets du Cosmos](https://www.lesechos.fr/idees-debats/livres/recit-dexplorateurs-dans-les-secrets-du-cosmos-1374600) - La Story, Décembre 2021
 - [#6 Les mystères de la vie – Sébastien Carassou](http://dans-la-lune.fr/2021/12/18/6-les-mysteres-de-la-vie-sebastien-carassou/) - Dans la Lune, Décembre 2021
 - [James Webb a rendez-vous avec l'origine de l'univers](https://podcasts.apple.com/fr/podcast/james-webb-a-rendez-vous-avec-lorigine-de-lunivers/id1460685072?i=1000545183974) - La Story, Décembre 2021
