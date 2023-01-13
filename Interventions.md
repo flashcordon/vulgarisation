@@ -299,7 +299,7 @@
 
 # Tables rondes 
 
-- [Penser au-delà de la plantation avec Malcom Ferdinand et Olivier Marboeuf](https://librairie-utopia.org/evenement/penser-au-dela-de-la-plantation-avec-malcom-ferdinand-et-olivier-marboeuf/) - Librairie Utopia, Novembre 2022
+- [Penser au-delà de la plantation avec Malcom Ferdinand et Olivier Marboeuf](https://open.spotify.com/episode/1opz1piZxSf7DC3mAiq2SO?fbclid=IwAR2LA5nMEs91KXsPBgbNdHWRZuR5iNqTuNVCxhqbYEizzSwHucl2p81C-jc) - Librairie Utopia, Novembre 2022
 - [Survivalisme, écofascismes… : quand écologie rime avec extrême droite](https://librairie-utopia.org/evenement/survivalisme-ecofascismes-quand-ecologie-rime-avec-extreme-droite/) - Librairie Utopia, Novembre 2022
 - Table ronde ["Big Bang, l'appel des origines"](https://vimeo.com/769345108/a64972b065) - Pariscience, Octobre 2022
 - Table ronde "l'odyssée interstellaire" au Cinéma de Roscoff avec Jean Loup Chrétien à l'occasion du 3e festival du film scientifique, Septembre 2020
