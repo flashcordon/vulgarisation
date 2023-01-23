@@ -203,6 +203,7 @@ https://apprendre-la-photo.fr/la-composition-et-la-regle-des-tiers/# )
 
 Logiciels de montage gratuits :
 - Kdenlive
+- [Filmora](https://filmora.wondershare.fr/)
 
 # Ressources pour aller plus loin
 
