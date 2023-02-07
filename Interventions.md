@@ -190,6 +190,13 @@
 
 # Conférences
 
+- La vie secrète des étoiles - Médiathèque du canal, Montigny-le-Bretonneux, Février 2023
+- Exoplanètes : la symphonie des nouveaux mondes - Bibliothèque d'Arles, Festival des Mycéliades, Février 2023
+- Les odeurs du cosmos - Cinéma Jean Gabin, Festival des Mycéliades, Argenteuil, Février 2023
+- Découvrir le cosmos à travers le jeu vidéo "Out There" - Cinéma Jean Gabin, Festival des Mycéliades, Argenteuil, Février 2023
+- Enjeux éthiques du spatial - Science Po Nancy, Février 2023
+- Découvrir le cosmos à travers le jeu vidéo "Out There" - Médiathèque l'Apostrophe, Festival des Mycéliades, Février 2023
+- Découvrir le cosmos à travers le jeu vidéo "Out There" - Bibliothèque Méjanes, Festival des Mycéliades, Aix-en-Provence, Février 2023
 - Voir plus loin : la quête de l'objet le plus éloigné - [La Science fait son show](https://echosciences.nouvelle-aquitaine.science/evenements/la-science-fait-son-show), Université de Poitiers, Octobre 2022
 - Exoplanètes : la symphonie des nouveaux mondes - Commission jeunes de la SAF, Septembre 2022
 - La fin des temps - Festival de Fleurance, Août 2022
