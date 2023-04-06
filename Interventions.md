@@ -422,6 +422,7 @@
 
 # Jury de concours
 
+- Concours Younivers 2023
 - Concours E-Toiles de Sciences du festival Pariscience - Octobre 2022
 - 3e édition du challenge vidéo astronomique de la SAF - 2022
 - 2e édition du challenge vidéo astronomique de la SAF - 2021
