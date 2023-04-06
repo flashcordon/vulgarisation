@@ -69,6 +69,7 @@
 
 ## Billes de Sciences
 
+- Les tsunamis - Juin 2023
 - [Biodiversité marine et changement climatique](https://www.youtube.com/watch?v=5b0FDeqoMQs) - Juin 2022
 - [Le rôle régulateur de l’océan sur le climat](https://www.youtube.com/watch?v=UuZcOV2o6w0) - Mai 2021
 - [La machine océanique](https://youtu.be/JHVoXYYnIwQ) - Novembre 2020
@@ -179,6 +180,7 @@
 
 ## Divers
 
+- La pollution de l'espace - BTS (Mars 2023)
 - [Vulgariser en vidéo : le script](https://www.youtube.com/watch?v=uc91nK_bQhY) - Raccoursci, Mai 2021
 - [Your way to space](https://www.youtube.com/watch?v=EmqNg_PRDeA) - Duck Factory / ESA, Mars 2021
 - [360 degrés avec Le Sense Of Wonder](https://www.youtube.com/watch?v=rgtpH9Kakxo) - Fête de la science Sorbonne Université, Octobre 2020
@@ -190,6 +192,8 @@
 
 # Conférences
 
+- Le Grand Récit : l'Humanité dans son contexte cosmique, Cannes, Mars 2023
+- Paysages cosmiques - Médiathèque Jean Rousselot, Guyancourt, Mars 2023
 - La vie secrète des étoiles - Médiathèque du canal, Montigny-le-Bretonneux, Février 2023
 - Exoplanètes : la symphonie des nouveaux mondes - Bibliothèque d'Arles, Festival des Mycéliades, Février 2023
 - Les odeurs du cosmos - Cinéma Jean Gabin, Festival des Mycéliades, Argenteuil, Février 2023
@@ -307,6 +311,7 @@
 
 # Tables rondes 
 
+- Violences sexuelles et masculinités avec Florence Porcel et Léane Alestra - Librairie Utopia, Mars 2023
 - [Penser au-delà de la plantation avec Malcom Ferdinand et Olivier Marboeuf](https://open.spotify.com/episode/1opz1piZxSf7DC3mAiq2SO?fbclid=IwAR2LA5nMEs91KXsPBgbNdHWRZuR5iNqTuNVCxhqbYEizzSwHucl2p81C-jc) - Librairie Utopia, Novembre 2022
 - [Survivalisme, écofascismes… : quand écologie rime avec extrême droite](https://librairie-utopia.org/evenement/survivalisme-ecofascismes-quand-ecologie-rime-avec-extreme-droite/) - Librairie Utopia, Novembre 2022
 - Table ronde ["Big Bang, l'appel des origines"](https://vimeo.com/769345108/a64972b065) - Pariscience, Octobre 2022
@@ -349,6 +354,8 @@
 
 # Podcasts
 
+- ? - KESACO, Avril 2023
+- Violences sexuelles et masculinités avec Florence Porcel et Léane Alestra - Librairie Utopia, Mars 2023
 - [Survivalisme et écofascismes : quand écologie rime avec extrême-droite](https://deezer.page.link/AhAZZTyBAoYQURxv8) - Librairie Utopia, Janvier 2023
 - [Penser au-delà de la plantation avec Malcom Ferdinand et Olivier Marboeuf](https://open.spotify.com/episode/1opz1piZxSf7DC3mAiq2SO?fbclid=IwAR2LA5nMEs91KXsPBgbNdHWRZuR5iNqTuNVCxhqbYEizzSwHucl2p81C-jc) - Librairie Utopia, Novembre 2022
 - [Dans les secrets du Cosmos](https://www.lesechos.fr/idees-debats/livres/recit-dexplorateurs-dans-les-secrets-du-cosmos-1374600) - La Story, Décembre 2021
@@ -383,6 +390,7 @@
 
 # Formations
 
+- On (ne) vous dit (pas) tout - Villa Albertine, Ambassade de France au Texas et à Miami, Février 2023
 - [Twitter pour la recherche](https://youtu.be/aRaelVQJUZ4) - Université de Poitiers, Mai 2022
 - [La médiation scientifique sur Twitter](https://www.echosciences-grenoble.fr/articles/atelier-cst-raconter-recherche-twitter) - Université Grenoble-Alpes, Février 2021
 > * [Résolution du défi](https://www.youtube.com/watch?v=5XO1isj5DmA&feature=youtu.be)
