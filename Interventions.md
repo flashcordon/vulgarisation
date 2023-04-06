@@ -390,6 +390,7 @@
 
 # Formations
 
+- Concours Younivers 2023
 - On (ne) vous dit (pas) tout - Villa Albertine, Ambassade de France au Texas et à Miami, Février 2023
 - [Twitter pour la recherche](https://youtu.be/aRaelVQJUZ4) - Université de Poitiers, Mai 2022
 - [La médiation scientifique sur Twitter](https://www.echosciences-grenoble.fr/articles/atelier-cst-raconter-recherche-twitter) - Université Grenoble-Alpes, Février 2021
