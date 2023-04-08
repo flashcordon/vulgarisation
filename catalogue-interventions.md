@@ -64,6 +64,10 @@ Atteindre les étoiles... Un rêve qui alimente les meilleurs (et les pires !) s
 
 [Slides](https://fr.slideshare.net/SbastienCarassou/atteindre-les-toiles)
 
+## L'architecture invisible du cosmos
+
+[Slides](https://fr.slideshare.net/SbastienCarassouPhD/larchitecture-invisible-du-cosmospdf)
+
 ## Voir plus loin
 
 [Slides](https://fr.slideshare.net/SbastienCarassouPhD/voir-plus-loinpdf)
