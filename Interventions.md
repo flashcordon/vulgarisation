@@ -192,6 +192,7 @@
 
 # Conférences
 
+- Les odeurs du cosmos - Sciences F(r)ictions, Ground Control, Mai 2023
 - Le Grand Récit : l'Humanité dans son contexte cosmique, Cannes, Mars 2023
 - Paysages cosmiques - Médiathèque Jean Rousselot, Guyancourt, Mars 2023
 - La vie secrète des étoiles - Médiathèque du canal, Montigny-le-Bretonneux, Février 2023
