@@ -69,7 +69,7 @@
 
 ## Billes de Sciences
 
-- Les tsunamis - Juin 2023
+- [Les tsunamis et leurs risques](https://youtu.be/jDukTcLgOeA) - Juin 2023
 - [Biodiversité marine et changement climatique](https://www.youtube.com/watch?v=5b0FDeqoMQs) - Juin 2022
 - [Le rôle régulateur de l’océan sur le climat](https://www.youtube.com/watch?v=UuZcOV2o6w0) - Mai 2021
 - [La machine océanique](https://youtu.be/JHVoXYYnIwQ) - Novembre 2020
