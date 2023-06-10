@@ -89,6 +89,7 @@
 
 ## Collabs et caméos
 
+- [La Terre est-elle entourée d'une décharge spatiale? feat @LeSenseOfWonder](https://youtu.be/e5xtXKJU4sg) - Gdelaculturegeek (Juin 2023)
 - [Comment parler d'écologie au plus grand nombre ? | @LeSenseOfWonder](https://youtu.be/fQtGTIpVuy0) - Léa Bello (Janvier 2022)
 - [FOR ALL MANKIND : la meilleure Uchronie ? (feat Sébastien Carassou) - NEXUS VI](https://youtu.be/AwKHmOSW_cg) - Nexus VI (Novembre 2022)
 - [Replay du webinaire "Lune : de la conquête aux complots" avec Sébastien Carassou](https://youtu.be/QJeDr27g7Ws) - Info ou Mytho (Octobre 2022) 
