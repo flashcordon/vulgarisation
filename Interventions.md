@@ -10,6 +10,7 @@
 
 ## Le Sense of Wonder
 
+- [Ondes gravitationnelles : le cosmos vibre sous nos pieds #LeSOW 9](https://youtu.be/vMipq5Y6PuU) - Juin 2023
 - [Le Future of Wonder](https://youtu.be/hMGp9idOo34) - Juin 2023
 - [Live - Du Big Bang aux Big Bands #3](https://youtu.be/NQSqjRdtZYo) - Juillet 2022
 - [Téléporter des scientifiques sur Mars - #leSOW 8](https://www.youtube.com/watch?v=TBz9MsS7q70) - Décembre 2021
@@ -361,6 +362,7 @@
 
 # Podcasts
 
+- [Interview avec Sébastien Carassou (Sense of Wonder) - Késako](https://youtu.be/FYpf4-nlyhI) - KESAKO Podcast, Juin 2023
 - [Penser en pirate, avec Fatima Ouassak](https://audioblog.arteradio.com/blog/179893/podcast/207607) - Librairie Utopia, Juin 2023
 - [Déconstruire les mythes de la réussite et du mérite, avec Anthony Galluzzo et Samah Karaki](https://open.spotify.com/episode/5JQ3yOLirGItsgtlL0nVrS) - Librairie Utopia, Mai 2023
 - ? - KESACO, Avril 2023
