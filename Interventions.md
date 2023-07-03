@@ -91,6 +91,7 @@
 
 ## Collabs et caméos
 
+- [Rencontre Echoscientifique : Le Sense of Wonder & Christophe Emblanch et Dylan Sabulsky](https://youtu.be/tBMfMMOKtpk) - Echosciences PACA (Juin 2023)
 - [La Terre est-elle entourée d'une décharge spatiale? feat @LeSenseOfWonder](https://youtu.be/e5xtXKJU4sg) - Gdelaculturegeek (Juin 2023)
 - [Comment parler d'écologie au plus grand nombre ? | @LeSenseOfWonder](https://youtu.be/fQtGTIpVuy0) - Léa Bello (Janvier 2022)
 - [FOR ALL MANKIND : la meilleure Uchronie ? (feat Sébastien Carassou) - NEXUS VI](https://youtu.be/AwKHmOSW_cg) - Nexus VI (Novembre 2022)
