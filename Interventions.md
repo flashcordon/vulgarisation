@@ -282,6 +282,10 @@
 - [Une banane et de la bière pour déchirer l'espace-temps? Nom de Zeus!](http://lesenseofwonder.blogspot.com/2013/03/une-banane-et-de-la-biere-pour-dechirer.html) - le Sense of Wonder, Mars 2013
 - [L'intrication quantique, ou le rêve de la communication instantanée](http://lesenseofwonder.blogspot.com/2013/03/lintrication-quantique-ou-le-reve-de-la_30.html) - le Sense of Wonder, Mars 2013
 
+# Articles de magazine
+
+- Comment revitaliser nos imaginaires spatiaux - Usbek et Rica, Novembre 2023
+
 # Interviews
 
 - [Sense of Wonder : « L’astrophysique, un recul ultime sur le monde »](https://okaydoc.fr/sebastien-carassou-une-carriere-academique-aujourdhui-demande-des-sacrifices/) - Okay Doc, Janvier 2022
