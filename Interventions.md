@@ -199,6 +199,8 @@
 
 # Conférences
 
+- La vie des étoiles - Association Albiréo 95, Persan-Beaumont, décembre 2023
+- [Découvrez le cosmos a travers le jeu vidéo](https://www.ville-levallois.fr/agenda/decouvrez-le-cosmos-a-travers-le-jeu/) - Médiathèque de Levallois, decembre 2023
 - Les odeurs du cosmos - Sciences F(r)ictions, Ground Control, Mai 2023
 - Le Grand Récit : l'Humanité dans son contexte cosmique, Cannes, Mars 2023
 - Paysages cosmiques - Médiathèque Jean Rousselot, Guyancourt, Mars 2023
@@ -370,6 +372,7 @@
 
 # Podcasts
 
+- Rencontre avec les Soulèvements de la terre - librairie Utopia, novembre 2023
 - [Interview avec Sébastien Carassou (Sense of Wonder) - Késako](https://youtu.be/FYpf4-nlyhI) - KESAKO Podcast, Juin 2023
 - [Penser en pirate, avec Fatima Ouassak](https://audioblog.arteradio.com/blog/179893/podcast/207607) - Librairie Utopia, Juin 2023
 - [Déconstruire les mythes de la réussite et du mérite, avec Anthony Galluzzo et Samah Karaki](https://open.spotify.com/episode/5JQ3yOLirGItsgtlL0nVrS) - Librairie Utopia, Mai 2023
