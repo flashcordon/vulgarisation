@@ -271,6 +271,7 @@
 
 # Articles de blog
 
+- [Soirée jeunes chercheur.es](https://indico.ijclab.in2p3.fr/event/8021/page/366-soiree-jeunes-chercheures) - Congrès général de la SFP, juillet 2023
 - [Compte-rendu de la matinée “Exobiologie et enjeux climatiques”](https://www.exobiologie.fr/blog/2022/11/08/compte-rendu-de-la-matinee-exobiologie-et-enjeux-climatiques/) - Société Française d'Exobiologie, Novembre 2022
 - [Quand la planète rouge était… Bleue !](http://kidiscience.cafe-sciences.org/articles/quand-la-planete-rouge-etait-bleue/) - Kidiscience, Août 2018
 - [Making sense of two trillion galaxies](https://about.hindawi.com/opinion/making-sense-of-two-trillion-galaxies/) - Hindawi, Avril 2018
