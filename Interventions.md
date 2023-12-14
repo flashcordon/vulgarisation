@@ -201,6 +201,13 @@
 
 - La vie des étoiles - Association Albiréo 95, Persan-Beaumont, décembre 2023
 - [Découvrez le cosmos a travers le jeu vidéo](https://www.ville-levallois.fr/agenda/decouvrez-le-cosmos-a-travers-le-jeu/) - Médiathèque de Levallois, decembre 2023
+- Paysages cosmiques - Apprentis pas sages, octobre 2023
+- Sommes-nous seuls ? - Festival de Fleurance, août 2023
+- Le grand récit : du Big Bang à nos jours - Festival de Fleurance, août 2023
+- Le royaume des galaxies - Festival de Fleurance, août 2023
+- Exoplanètes : la symphonie des nouveaux mondes - Festival de Fleurance, août 2023
+- La vie secrète des étoiles - Festival de Fleurance, août 2023
+- Balade dans le système solaire - Festival de Fleurance, août 2023
 - Les odeurs du cosmos - Sciences F(r)ictions, Ground Control, Mai 2023
 - Le Grand Récit : l'Humanité dans son contexte cosmique, Cannes, Mars 2023
 - Paysages cosmiques - Médiathèque Jean Rousselot, Guyancourt, Mars 2023
@@ -325,6 +332,7 @@
 
 # Tables rondes 
 
+- Avant-première de Méandres - Utopiales, nvembre 2023
 - Dans science-fiction, il y a science - Festival Double Science, Mai 2023
 - Le challenge de parler de climat dans les médias - Festival Double Science, Mai 2023
 - [Déconstruire les mythes de la réussite et du mérite, avec Anthony Galluzzo et Samah Karaki](https://open.spotify.com/episode/5JQ3yOLirGItsgtlL0nVrS) - Librairie Utopia, Mai 2023
