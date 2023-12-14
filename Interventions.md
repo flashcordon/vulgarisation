@@ -202,7 +202,7 @@
 - La vie des étoiles - Association Albiréo 95, Persan-Beaumont, décembre 2023
 - [Découvrez le cosmos a travers le jeu vidéo](https://www.ville-levallois.fr/agenda/decouvrez-le-cosmos-a-travers-le-jeu/) - Médiathèque de Levallois, decembre 2023
 - Paysages cosmiques - Apprentis pas sages, octobre 2023
-- Les odeurs du cosmos - fête de la science à Nancay, août 2023
+- Les odeurs du cosmos - nuit des étoiles à Nancay, août 2023
 - Sommes-nous seuls ? - Festival de Fleurance, août 2023
 - Le grand récit : du Big Bang à nos jours - Festival de Fleurance, août 2023
 - Le royaume des galaxies - Festival de Fleurance, août 2023
