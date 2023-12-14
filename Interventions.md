@@ -202,6 +202,7 @@
 - La vie des étoiles - Association Albiréo 95, Persan-Beaumont, décembre 2023
 - [Découvrez le cosmos a travers le jeu vidéo](https://www.ville-levallois.fr/agenda/decouvrez-le-cosmos-a-travers-le-jeu/) - Médiathèque de Levallois, decembre 2023
 - Paysages cosmiques - Apprentis pas sages, octobre 2023
+- Les odeurs du cosmos - fête de la science à Nancay, août 2023
 - Sommes-nous seuls ? - Festival de Fleurance, août 2023
 - Le grand récit : du Big Bang à nos jours - Festival de Fleurance, août 2023
 - Le royaume des galaxies - Festival de Fleurance, août 2023
@@ -300,6 +301,7 @@
 
 # Interviews
 
+- [Entrevista Sébastien Carassou, Festival astronomía de Fleurance 2023](https://youtu.be/lTHw1IVjI64?list=PLukZ7R0PTZNwtDQm09D7wUUULiNe_n1JV) - videosdeestoy, août 2023
 - [Sense of Wonder : « L’astrophysique, un recul ultime sur le monde »](https://okaydoc.fr/sebastien-carassou-une-carriere-academique-aujourdhui-demande-des-sacrifices/) - Okay Doc, Janvier 2022
 - [Sébastien Carassou : « Transmettre le flambeau des grands vulgarisateurs scientifiques aux générations futures »](https://usbeketrica.com/fr/article/sebastien-carassou-transmettre-le-flambeau-des-grands-vulgarisateurs-scientifiques-aux-generations-futures?fbclid=IwAR2chB-mbz5PUZ5OMlXgo1Fvo3cfdkM2k6wH-QOIugyZmZShSXziJymnDOE) - Usbek & Rica, Novembre 2021
 - [Voyages interstellaires: Raisons et solutions – avec Sébastien Carassou (Le Sense Of Wonder)](https://www.youtube.com/watch?v=akcgxCFxa4o) - The Flares, Novembre 2021
@@ -333,7 +335,13 @@
 
 # Tables rondes 
 
-- Avant-première de Méandres - Utopiales, nvembre 2023
+- Avant-première de Méandres - Utopiales, novembre 2023
+- Café astro "Dernières nouvelles des trous noirs" - festival de Fleurance, août 2023
+- Café astro "Origines de la vie" - festival de Fleurance, août 2023
+- Café astro "Transitions" - festival de Fleurance, août 2023
+- Café astro "La nature du hasard" - festival de Fleurance, août 2023
+- Café astro "L'astronomie en Afrique" - festival de Fleurance, août 2023
+- Café astro "Controverses" - festival de Fleurance, août 2023
 - Dans science-fiction, il y a science - Festival Double Science, Mai 2023
 - Le challenge de parler de climat dans les médias - Festival Double Science, Mai 2023
 - [Déconstruire les mythes de la réussite et du mérite, avec Anthony Galluzzo et Samah Karaki](https://open.spotify.com/episode/5JQ3yOLirGItsgtlL0nVrS) - Librairie Utopia, Mai 2023
