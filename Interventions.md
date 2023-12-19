@@ -395,7 +395,6 @@
 - [Interview avec Sébastien Carassou (Sense of Wonder) - Késako](https://youtu.be/FYpf4-nlyhI) - KESAKO Podcast, Juin 2023
 - [Penser en pirate, avec Fatima Ouassak](https://audioblog.arteradio.com/blog/179893/podcast/207607) - Librairie Utopia, Juin 2023
 - [Déconstruire les mythes de la réussite et du mérite, avec Anthony Galluzzo et Samah Karaki](https://open.spotify.com/episode/5JQ3yOLirGItsgtlL0nVrS) - Librairie Utopia, Mai 2023
-- ? - KESACO, Avril 2023
 - [Violences sexuelles et masculinités avec Florence Porcel et Léane Alestra](https://audioblog.arteradio.com/blog/179893/podcast/203471) - Librairie Utopia, Mars 2023
 - [Survivalisme et écofascismes : quand écologie rime avec extrême-droite](https://deezer.page.link/AhAZZTyBAoYQURxv8) - Librairie Utopia, Janvier 2023
 - [Penser au-delà de la plantation avec Malcom Ferdinand et Olivier Marboeuf](https://open.spotify.com/episode/1opz1piZxSf7DC3mAiq2SO?fbclid=IwAR2LA5nMEs91KXsPBgbNdHWRZuR5iNqTuNVCxhqbYEizzSwHucl2p81C-jc) - Librairie Utopia, Novembre 2022
