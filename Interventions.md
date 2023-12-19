@@ -152,6 +152,7 @@
 
 ## Lives 
 
+- [Live Twitch Mission Euclid](https://cnes.fr/fr/live-twitch-mission-euclid) - CNES, Décembre 2023
 - [Perseverance, une année sur Mars | LE DOCK | ARTE](https://youtu.be/iEnl8Itktjk) - ARTE, Décembre 2022
 - Premières images du JWST - Scope, Arte, Juillet 2022
 - Les OVNIs - Mash up, Mai 2022
