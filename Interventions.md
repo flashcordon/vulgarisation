@@ -337,6 +337,7 @@
 
 # Tables rondes 
 
+- [Rencontre avec les Soulèvements de la terre](https://open.spotify.com/episode/07WFLD9eUQvzBdu0GufPUg) - librairie Utopia, novembre 2023 
 - Avant-première de Méandres - Utopiales, novembre 2023
 - Café astro "Dernières nouvelles des trous noirs" - festival de Fleurance, août 2023
 - Café astro "Origines de la vie" - festival de Fleurance, août 2023
