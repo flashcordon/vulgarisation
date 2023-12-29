@@ -7,6 +7,9 @@
 - [Séries TV](#Séries-tv)
 - [Divers](#Divers)
 - [Conférences](#Conférences)
+- [Articles de blog](#Articles-de-blog)
+- [Articles de magazines](#Articles-de-magazines)
+- [Interviews](#Interviews)
 
 ---
 
