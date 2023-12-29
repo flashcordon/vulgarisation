@@ -855,7 +855,7 @@
 - [How environment drives galaxy evolution: lessons learnt from satellite galaxies](https://arxiv.org/pdf/1507.06140.pdf) - Pasquali (2015) 
 - [The Andromeda galaxy](https://www.eso.org/public/france/images/b07/) - ESO 
 - [The Science behind the Site](https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/about/research) - Zooniverse
-- [Laniakea, le superamas de galaxies dans lequel gravite la Voie lactée](https://www.nationalgeographic.fr/espace/laniakea-le-superamas-de-galaxies-dans-lequel-gravite-la-voie-lactee) - Mehdi Benmakhlouf, National Geographic 
+- [Laniakea, le superamas de galaxies dans lequel gravite la Voie lactée](https://www.nationalgeographic.fr/espace/laniakea-le-superamas-de-galaxies-dans-lequel-gravite-la-voie-lactee) - Mehdi Benmakhlouf, National Geographic
 - [Secular Processes and Galaxy Evolution](https://static.zooniverse.org/gzconf.galaxyzoo.org/presentations/Masters_Secular_Processes_Galaxy_Evolution.pdf) - Conférence de Karen Masters 
 - [Secular Evolution](https://astronomy.swin.edu.au/cosmos/s/Secular+Evolution) - The SAO Encyclopedia of Astronomy
 - [Friction dynamique et formation hiérarchique](https://www.college-de-france.fr/site/francoise-combes/course-2018-01-15-16h45.htm) - Cours de Françoise Combes au Collège de France 
@@ -864,3 +864,10 @@
 - [Tests and problems of the standard model in Cosmology](https://arxiv.org/pdf/1701.08720.pdf) - Lopez-Corredoira (2017)  
 - [Vers une simulation de l’Univers sur un téléphone portable](https://theconversation.com/vers-une-simulation-de-lunivers-sur-un-telephone-portable-137421) - Florent Leclercq et Guilhem Lavaux, The Conversation 
 - [Simuler les grandes structures de l’univers](https://www.cairn.info/les-modeles-possibilites-et-limites--9782919694624-page-47.htm) - Romain Teyssier (2014)
+
+# Potentiels nouveaux épisodes
+
+## Objets hypothétiques
+
+- Planètes de trous noirs
+- Objets de Thorne Zytkow
