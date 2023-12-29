@@ -8,8 +8,11 @@
 - [Divers](#Divers)
 - [Conférences](#Conférences)
 - [Articles de blog](#Articles-de-blog)
-- [Articles de magazines](#Articles-de-magazines)
+- [Articles de magazines](#Articles-de-magazine)
 - [Interviews](#Interviews)
+- [Tables rondes](#Tables-rondes)
+- [Radio](#Radio)
+- [Podcasts](#Podcasts)
 
 ---
 
