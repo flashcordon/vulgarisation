@@ -201,6 +201,8 @@
 
 # Conférences
 
+- Le royaume des galaxies - finale internationale du concours Younivers, Tirana, janvier 2024
+- Vera Rubin vs Elon Musk : understanding the dark universe under brightening skies - Data Science Applications in Physics, Tirana, janvier 2024
 - La vie des étoiles - Association Albiréo 95, Persan-Beaumont, décembre 2023
 - [Découvrez le cosmos a travers le jeu vidéo](https://www.ville-levallois.fr/agenda/decouvrez-le-cosmos-a-travers-le-jeu/) - Médiathèque de Levallois, decembre 2023
 - Paysages cosmiques - Apprentis pas sages, octobre 2023
