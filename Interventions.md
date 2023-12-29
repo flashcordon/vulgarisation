@@ -15,6 +15,8 @@
 - [Podcasts](#Podcasts)
 - [Plateaux télé](#Plateaux-télé)
 - [Formations](#Formations)
+- [Consultation scientifique](#Consultation-scientifique)
+- [Communication numérique](#Communication-numérique)
 - [Jury de concours](#Jury-de-concours)
 
 ---
@@ -469,6 +471,7 @@
 
 # Consultation scientifique
 
+- Ceci n'est pas un manuel d'astrophysique - Kristen Durand, 2023-2024
 - XXX (2020)
 - [Pourquoi la Terre est ronde ?](https://youtu.be/V6y0hk4eZU0) - Robin Isnard, Avril 2020
 - [Les FUTURS LOINTAINS, un voyage en direction de l'éternité](https://www.youtube.com/watch?v=yd3tQFt2QUY&list=PL2DG92SmasJaM670t3Z2RJWS6imWdSwxZ&index=16) - Balade Mentale, Février 2020
