@@ -1,6 +1,12 @@
 # Table des matières
 
 - [Livres](#Livres)
+- [Vidéos](#Livres)
+- [Cours en ligne](#Cours-en-ligne)
+- [Lives](#Lives)
+- [Séries TV](#Séries-tv)
+- [Divers](#Divers)
+- [Conférences](#Conférences)
 
 ---
 
@@ -152,12 +158,12 @@
 - [Apollo 11](https://www.tiktok.com/@sebastiencarassou/video/6938808433714072837?_d=secCgYIASAHKAESMgowmrvy2qmfjbLXxYv75xwbMIoxHBzoeu3%2F%2BW8iJFQCYaxOlWgxPLDWE87XhmUxBP%2FGGgA%3D&language=fr&preview_pb=0&sec_user_id=MS4wLjABAAAAT-ptyM62cHDgogaDBsoIJjGFeeMpT9oE4TmQBBP1Szu0IRoy8V_H9G2pNyNWxH9w&share_app_name=musically&share_item_id=6932877942448000262&share_link_id=01f6c698-2b96-403b-a559-920e3ebc60fd&timestamp=1614186863&u_code=dfea4f523i201j&user_id=6894954069997306885&utm_campaign=client_share&utm_medium=android&utm_source=twitter&source=h5_m&is_copy_url=0&is_from_webapp=v3&sender_device=pc&sender_web_id=6932886727581517318)
 - [Full Newton Alchemist](https://www.tiktok.com/@sebastiencarassou/video/6968140592857533697?_d=secCgYIASAHKAESMgowmrvy2qmfjbLXxYv75xwbMIoxHBzoeu3%2F%2BW8iJFQCYaxOlWgxPLDWE87XhmUxBP%2FGGgA%3D&language=fr&preview_pb=0&sec_user_id=MS4wLjABAAAAT-ptyM62cHDgogaDBsoIJjGFeeMpT9oE4TmQBBP1Szu0IRoy8V_H9G2pNyNWxH9w&share_app_name=musically&share_item_id=6932877942448000262&share_link_id=01f6c698-2b96-403b-a559-920e3ebc60fd&timestamp=1614186863&u_code=dfea4f523i201j&user_id=6894954069997306885&utm_campaign=client_share&utm_medium=android&utm_source=twitter&source=h5_m&is_copy_url=1&is_from_webapp=v1)
 
-## Cours en ligne
+# Cours en ligne
 
 - [Objectif IA : Initiez-vous à l'intelligence artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle) - Open Classrooms, 2020
 - [Formation "L'écriture de vidéo de science"](https://youtu.be/y-wp-x6S0ao) - MISS, Décembre 2020
 
-## Lives 
+# Lives 
 
 - [Euclid : détective cosmique à la recherche de la matière et l'énergie noires](https://youtu.be/XjMsCJ6o2Z0) - CNES, Décembre 2023
 - [Perseverance, une année sur Mars | LE DOCK | ARTE](https://youtu.be/iEnl8Itktjk) - ARTE, Décembre 2022
@@ -189,11 +195,11 @@
 - [Salon de Thé, épisode 2 - Ré-enchanter la science avec Sébastien Carassou (Le Sense of Wonder)](https://www.twitch.tv/videos/597320659) - Twitch du Café des science, Avril 2020
 - [La vie sur Mars ? De Lowell à Levin](https://www.youtube.com/watch?v=-IA4Dqvodok&feature=emb_logo) - Yuri's night, Twitch du café des sciences, Avril 2020
 
-## Séries TV
+# Séries TV
 
 - [Les températures du passé - Géocargo, l’Odyssée de la Terre (avec Le Sense of Wonder & Léa Bello)](https://youtu.be/AJc3ZtqdSBk), Science&Vie TV (Mars 2021)
 
-## Divers
+# Divers
 
 - La pollution de l'espace - BTS (Mars 2023)
 - [Vulgariser en vidéo : le script](https://www.youtube.com/watch?v=uc91nK_bQhY) - Raccoursci, Mai 2021
