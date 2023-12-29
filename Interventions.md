@@ -13,6 +13,9 @@
 - [Tables rondes](#Tables-rondes)
 - [Radio](#Radio)
 - [Podcasts](#Podcasts)
+- [Plateaux télé](#Plateaux-télé)
+- [Formations](#Formations)
+- [Jury de concours](#Jury-de-concours)
 
 ---
 
