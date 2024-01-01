@@ -419,6 +419,14 @@
 
 # Podcasts
 
+## Vers l'infini
+
+- [Vers l'infini - Voisinage de la Terre - Décollage](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-s01e02-decollage) - Quantum Explorer, janvier 2024
+- [Vers l'infini - Voisinage de la Terre - Briefing](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-s01e01-briefing) - Quantum Explorer, janvier 2024
+- [Message de Sean Murdoc](https://shows.acast.com/657b3472d39db4001600896c/episodes/message-de-sean-murdoc) - Quantum Explorer, janvier 2024
+
+## Interventions podcasts
+
 - [Rencontre avec les Soulèvements de la terre](https://open.spotify.com/episode/07WFLD9eUQvzBdu0GufPUg) - librairie Utopia, novembre 2023
 - [Interview avec Sébastien Carassou (Sense of Wonder) - Késako](https://youtu.be/FYpf4-nlyhI) - KESAKO Podcast, Juin 2023
 - [Penser en pirate, avec Fatima Ouassak](https://audioblog.arteradio.com/blog/179893/podcast/207607) - Librairie Utopia, Juin 2023
