@@ -70,6 +70,8 @@ Atteindre les étoiles... Un rêve qui alimente les meilleurs (et les pires !) s
 
 ## Vera Rubin vs Elon Musk : le danger des mégaconstellations de satellites
 
+## Trous noirs, trous de vers et machines à remonter le temps : La science derrière Interstellar
+
 ## L'architecture invisible du cosmos
 
 [Slides](https://fr.slideshare.net/SbastienCarassouPhD/larchitecture-invisible-du-cosmospdf)
