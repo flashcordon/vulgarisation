@@ -66,6 +66,10 @@ Atteindre les étoiles... Un rêve qui alimente les meilleurs (et les pires !) s
 
 [Slides](https://fr.slideshare.net/SbastienCarassou/atteindre-les-toiles)
 
+## Mars : planète B ?
+
+## Vera Rubin vs Elon Musk : le danger des mégaconstellations de satellites
+
 ## L'architecture invisible du cosmos
 
 [Slides](https://fr.slideshare.net/SbastienCarassouPhD/larchitecture-invisible-du-cosmospdf)
