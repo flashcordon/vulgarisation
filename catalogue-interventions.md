@@ -72,6 +72,8 @@ D’ici 2050, un million d’humains pourraient bien s’installer sur Mars ! C�
 
 ## Vera Rubin vs Elon Musk : le danger des mégaconstellations de satellites
 
+À partir de 2025, l’observatoire Vera Rubin, situé au Chili, se lancera dans le plus vaste projet de cartographie du cosmos jamais entrepris, en réalisant, chaque nuit, environ 2000 clichés du ciel pendant 10 ans. L’objectif de cette campagne d’observation hors norme est de répondre à certaines des plus grandes questions de l’astrophysique contemporaine : quelle est la nature de la matière noire, cette mystérieuse matière invisible qui sculpte les galaxies ? D’où vient l'énergie sombre, cette énergie du vide qui accélère l'expansion cosmique depuis plusieurs milliards d'années ? Mais avant de comprendre le côté obscur de l’univers, l’observatoire Vera Rubin va devoir faire face à un ennemi lumineux : Starlink, une constellation de (dizaines de) milliers de satellites artificiels lancés par la société SpaceX d’Elon Musk. Dans cette conférence, je vous expliquerai en quoi l’émergence des « mégaconstellations » de satellites représente une menace qui pourrait mener, dans un avenir proche, à la disparition du ciel nocturne. 
+
 ## Trous noirs, trous de vers et machines à remonter le temps : La science derrière Interstellar
 
 ## L'architecture invisible du cosmos
