@@ -225,6 +225,13 @@
 
 # Conférences
 
+- Sommes-nous seuls ? médiathèque de Saint-Jean de Mons, février 2024
+- Mars : planète B ? Scène nationale de Dieppe, Mycéliades, février 2024
+- Interstellar : à la croisée de la science et de la science-fiction - Médiathèque de l'abbaye-Nelson Mandela, Créteil, Mycéliades, février 2024
+- Sommes-nous seuls ? Cinéma Ciné Lumières, Armentières, Mycéliades, février 2024
+- Atteindre les étoiles - bibliothèque de Montreuil, Mycéliades, février 2024
+- Interstellar : à la croisée de la science et de la science-fiction - Médiathèque Alain-Gérard, Quimper, Mycéliades, février 2024
+- Sommes-nous seuls ? Médiathèque Alain-Gérard, Quimper, Mycéliades, février 2024
 - Le royaume des galaxies - finale internationale du concours Younivers, Tirana, janvier 2024
 - Vera Rubin vs Elon Musk : understanding the dark universe under brightening skies - Data Science Applications in Physics, Tirana, janvier 2024
 - La vie des étoiles - Association Albiréo 95, Persan-Beaumont, décembre 2023
