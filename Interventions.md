@@ -428,6 +428,12 @@
 
 ## Vers l'infini
 
+### Le système solaire interne
+
+- [Vers l'infini - Le système solaire interne - Le soleil](https://shows.acast.com/657b3472d39db4001600896c/65ae4a5bb5f0e200170a650b) - Quantum Explorer, février 2024
+
+### Le voisinage de la Terre
+
 - [Vers l'infini - Voisinage de la Terre - Autour de la Lune](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-s01e05-autour-de-la-lune) - Quantum Explorer, janvier 2024
 - [Vers l'infini - Voisinage de la Terre - Le vaisseau](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-s01e04-le-vaisseau) - Quantum Explorer, janvier 2024
 - [Vers l'infini - Voisinage de la Terre - La Terre](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-s01e03-la-terre) - Quantum Explorer, janvier 2024
