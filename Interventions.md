@@ -430,6 +430,8 @@
 
 ### Le système solaire interne
 
+- [Vers l'infini - Le système solaire interne - Vénus](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-le-systeme-solaire-interne-venus) - Quantum Explorer, février 2024
+- [Vers l'infini - Le système solaire interne - Mercure](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-le-systeme-solaire-interne-mercureb) - Quantum Explorer, février 2024
 - [Vers l'infini - Le système solaire interne - Le soleil](https://shows.acast.com/657b3472d39db4001600896c/65ae4a5bb5f0e200170a650b) - Quantum Explorer, février 2024
 
 ### Le voisinage de la Terre
