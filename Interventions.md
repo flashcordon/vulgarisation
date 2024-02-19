@@ -430,6 +430,8 @@
 
 ### Le système solaire interne
 
+- [Vers l'infini - Le système solaire interne - La comète Tchouri](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-le-systeme-solaire-interne-la-comete-tchouri) - Quantum Explorer, février 2024
+- [Vers l'infini - Le système solaire interne - La ceinture d'astéroïdes](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-le-systeme-solaire-interne-la-ceinture-dasteroi) - Quantum Explorer, février 2024
 - [Vers l'infini - Le système solaire interne - Mars](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-le-systeme-solaire-interne-mars) - Quantum Explorer, février 2024
 - [Vers l'infini - Le système solaire interne - Vénus](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-le-systeme-solaire-interne-venus) - Quantum Explorer, février 2024
 - [Vers l'infini - Le système solaire interne - Mercure](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-le-systeme-solaire-interne-mercureb) - Quantum Explorer, février 2024
@@ -448,6 +450,7 @@
 
 ## Interventions podcasts
 
+- [Scimple #8 Sébastien Carassou](https://www.youtube.com/watch?v=IWoRR3P-Uag) - Scimple, février 2024
 - [Rencontre avec les Soulèvements de la terre](https://open.spotify.com/episode/07WFLD9eUQvzBdu0GufPUg) - librairie Utopia, novembre 2023
 - [Interview avec Sébastien Carassou (Sense of Wonder) - Késako](https://youtu.be/FYpf4-nlyhI) - KESAKO Podcast, Juin 2023
 - [Penser en pirate, avec Fatima Ouassak](https://audioblog.arteradio.com/blog/179893/podcast/207607) - Librairie Utopia, Juin 2023
