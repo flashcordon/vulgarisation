@@ -78,6 +78,8 @@ D’ici 2050, un million d’humains pourraient bien s’installer sur Mars ! C�
 
 ## Interstellar : à la croisée de la science et de la science-fiction
 
+À sa sortie en 2014, le film Interstellar a fasciné les foules grâce à ses représentations réalistes de phénomènes cosmiques complexes. Les nombreux concepts abordés dans le film forment un habile mélange de science rigoureuse et de science-fiction débridée. À quoi ressemblerait un trou de ver dans votre salon ? Un trou noir peut-il abriter un cortège de planètes ? Les stations spatiales de SF seraient-elles inspirées d'une essoreuse à poules ? Dans cette conférence, Étienne et Sébastien vous proposent un voyage à travers l'univers et l'histoire qui vous emmènera aux confins de nos connaissances.
+
 [Slides](https://fr.slideshare.net/slideshows/interstellar-la-croise-de-la-science-et-de-la-sciencefiction/266124412)
 
 ## L'architecture invisible du cosmos
