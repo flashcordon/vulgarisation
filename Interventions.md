@@ -116,6 +116,7 @@
 
 ## Collabs et caméos
 
+- [📷 Comment photographier la naissance des étoiles ? 🌟 I @AstronomiePratique @LeSenseOfWonder I ARTE](https://youtu.be/7JBnAOLaIsc) - Le Vortex (Mars 2024)
 - [J'ai créé une mare pour la faune sauvage et voici ce que j'ai vu](https://youtu.be/IQbHp-r2o1k) - Marie Wild (Novembre 2023)
 - [LE CERVEAU FACE AUX CROYANCES (avec Sébastien Carassou de @LeSenseOfWonder) | Méandres #4](https://youtu.be/rSrmjFoMAnU) - Explorers (Novembre 2023)
 - [J'ai laissé une caméra dans mon jardin pendant 1 an](https://youtu.be/DAQpugEvzfQ?si=QYmeHCE_iL9gxD0c) - Marie Wild (Novembre 2023)
