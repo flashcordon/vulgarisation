@@ -451,6 +451,7 @@
 
 ## Interventions podcasts
 
+- [LE CLUB VIP #07 : Le Sense of Wonder](https://www.youtube.com/watch?v=RUCifRctwjI) - Médiathèque de Quimper, mars 2024
 - [Scimple #8 Sébastien Carassou](https://www.youtube.com/watch?v=IWoRR3P-Uag) - Scimple, février 2024
 - [Rencontre avec les Soulèvements de la terre](https://open.spotify.com/episode/07WFLD9eUQvzBdu0GufPUg) - librairie Utopia, novembre 2023
 - [Interview avec Sébastien Carassou (Sense of Wonder) - Késako](https://youtu.be/FYpf4-nlyhI) - KESAKO Podcast, Juin 2023
