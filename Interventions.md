@@ -226,6 +226,7 @@
 
 # Conférences
 
+- 2000 ans d'astronomie - Parmain sous les étoiles, avril 2024
 - Sommes-nous seuls ? médiathèque de Saint-Jean de Monts, avril 2024
 - Comprendre le ciel : des mythes à la science - Université de Reims, avril 2024
 - Mars : planète B ? Scène nationale de Dieppe, Mycéliades, février 2024
