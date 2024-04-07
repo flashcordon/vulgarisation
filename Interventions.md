@@ -226,7 +226,8 @@
 
 # Conférences
 
-- Sommes-nous seuls ? médiathèque de Saint-Jean de Mons, février 2024
+- Sommes-nous seuls ? médiathèque de Saint-Jean de Monts, avril 2024
+- Comprendre le ciel : des mythes à la science - Université de Reims, avril 2024
 - Mars : planète B ? Scène nationale de Dieppe, Mycéliades, février 2024
 - Interstellar : à la croisée de la science et de la science-fiction - Médiathèque de l'abbaye-Nelson Mandela, Créteil, Mycéliades, février 2024
 - Sommes-nous seuls ? Cinéma Ciné Lumières, Armentières, Mycéliades, février 2024
