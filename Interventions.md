@@ -373,6 +373,7 @@
 
 # Tables rondes 
 
+- [Table ronde feat. Science étonnante, Le Sense of Wonder, Alice au Pays des étoiles, Le Réveilleur](https://www.youtube.com/watch?v=guzuU1EJXMo&feature=youtu.be) - Société Française de Physique, avril 2024
 - [Rencontre avec les Soulèvements de la terre](https://open.spotify.com/episode/07WFLD9eUQvzBdu0GufPUg) - librairie Utopia, novembre 2023 
 - Avant-première de Méandres - Utopiales, novembre 2023
 - Café astro "Dernières nouvelles des trous noirs" - festival de Fleurance, août 2023
