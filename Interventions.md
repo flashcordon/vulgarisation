@@ -226,6 +226,7 @@
 
 # Conférences
 
+- [Interstellar : à la croisée de la science et de la science-fiction](https://pintofscience.fr/event/a-la-croisee-de-la-science-et-de-la-science-fiction) - Pint of Science, mai 2024
 - 2000 ans d'astronomie - Parmain sous les étoiles, avril 2024
 - Sommes-nous seuls ? médiathèque de Saint-Jean de Monts, avril 2024
 - Comprendre le ciel : des mythes à la science - Université de Reims, avril 2024
