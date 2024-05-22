@@ -340,6 +340,7 @@
 
 # Interviews
 
+- "La Terre reste la sule planète habitée de l'univers connu, jusqu'à preuve du contraire" - le Gobelin, mai 2024
 - [Entrevista Sébastien Carassou, Festival astronomía de Fleurance 2023](https://youtu.be/lTHw1IVjI64?list=PLukZ7R0PTZNwtDQm09D7wUUULiNe_n1JV) - videosdeestoy, août 2023
 - [Sense of Wonder : « L’astrophysique, un recul ultime sur le monde »](https://okaydoc.fr/sebastien-carassou-une-carriere-academique-aujourdhui-demande-des-sacrifices/) - Okay Doc, Janvier 2022
 - [Sébastien Carassou : « Transmettre le flambeau des grands vulgarisateurs scientifiques aux générations futures »](https://usbeketrica.com/fr/article/sebastien-carassou-transmettre-le-flambeau-des-grands-vulgarisateurs-scientifiques-aux-generations-futures?fbclid=IwAR2chB-mbz5PUZ5OMlXgo1Fvo3cfdkM2k6wH-QOIugyZmZShSXziJymnDOE) - Usbek & Rica, Novembre 2021
