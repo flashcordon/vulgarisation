@@ -434,6 +434,26 @@
 
 ## Vers l'infini
 
+### Les étoiles
+
+- [Vers l'infini - Les étoiles - Etoiles hypergéantes](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-etoiles-hypergeantes) - Quantum Explorer, mai 2024
+- [Vers l'infini - Les étoiles - Naines blanches](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-naines-blanches) - Quantum Explorer, mai 2024
+- [Vers l'infini - Les étoiles - Géantes rouges](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-geantes-rouges) - Quantum Explorer, mai 2024
+- [Vers l'infini - Les étoiles - Naines rouges](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-naines-rouges) - Quantum Explorer, mai 2024
+- [Vers l'infini - Les étoiles - Proto-étoiles](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-proto-etoiles) - Quantum Explorer, mai 2024
+
+### Le système solaire externe
+
+- [Vers l'infini - Le système solaire externe - Les frontières du système solaire](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-le-systeme-solaire-externe-les-frontieres-du-s) - Quantum Explorer, avril 2024
+- [Vers l'infini - Le système solaire externe - Pluton](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-le-systeme-solaire-externe-pluton) - Quantum Explorer, avril 2024
+- [Vers l'infini - Le système solaire externe - Triton](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-le-systeme-solaire-externe-triton) - Quantum Explorer, avril 2024
+- [Vers l'infini - Le système solaire externe - Neptune](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-le-systeme-solaire-externe-neptune) - Quantum Explorer, avril 2024
+- [Vers l'infini - Le système solaire externe - Uranus](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-le-systeme-solaire-externe-uranus) - Quantum Explorer, avril 2024
+- [Vers l'infini - Le système solaire externe - Uranus](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-le-systeme-solaire-externe-uranus) - Quantum Explorer, avril 2024
+- [Vers l'infini - Le système solaire externe - Saturne](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-le-systeme-solaire-externe-saturne) - Quantum Explorer, avril 2024
+- [Vers l'infini - Le système solaire externe - Europe](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-le-systeme-solaire-externe-europe) - Quantum Explorer, avril 2024
+- [Vers l'infini - Le système solaire externe - Jupiter](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-le-systeme-solaire-externe-jupiter2) - Quantum Explorer, avril 2024
+
 ### Le système solaire interne
 
 - [Vers l'infini - Le système solaire interne - La comète Tchouri](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-le-systeme-solaire-interne-la-comete-tchouri) - Quantum Explorer, février 2024
