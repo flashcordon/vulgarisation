@@ -438,6 +438,8 @@
 
 ### Les étoiles
 
+- [Vers l'infini - Les étoiles - Trous noirs stellaires](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-trous-noirs-stellaires) - Quantum Explorer, mai 2024
+- [Vers l'infini - Les étoiles - Etoiles à neutron](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-etoiles-a-neutron) - Quantum Explorer, mai 2024
 - [Vers l'infini - Les étoiles - Etoiles hypergéantes](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-etoiles-hypergeantes) - Quantum Explorer, mai 2024
 - [Vers l'infini - Les étoiles - Naines blanches](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-naines-blanches) - Quantum Explorer, mai 2024
 - [Vers l'infini - Les étoiles - Géantes rouges](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-geantes-rouges) - Quantum Explorer, mai 2024
