@@ -90,6 +90,10 @@ D’ici 2050, un million d’humains pourraient bien s’installer sur Mars ! C�
 
 [Slides](https://fr.slideshare.net/SbastienCarassouPhD/voir-plus-loinpdf)
 
+## Comment Einstein a réinventé le temps
+
+[Slides](https://fr.slideshare.net/slideshow/conference-einstein-et-la-nature-du-temps/269366405)
+
 # Ateliers
 
 ## Les odeurs du cosmos
