@@ -226,6 +226,7 @@
 
 # Conférences
 
+- [Comment Einstein a réinventé le temps](https://youtu.be/G4L0rWZMy8g) - Nocturne de l'ENSOSP, mai 2024
 - La fin du cosmos - Les échappées inattendues du CNRS, mai 2024
 - [Interstellar : à la croisée de la science et de la science-fiction](https://pintofscience.fr/event/a-la-croisee-de-la-science-et-de-la-science-fiction) - Pint of Science, mai 2024
 - 2000 ans d'astronomie - Parmain sous les étoiles, avril 2024
