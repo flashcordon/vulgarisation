@@ -2,7 +2,7 @@
 
 ***Présentation :*** Sébastien Carassou est docteur en astrophysique, spécialisé dans l’évolution des galaxies. Vulgarisateur scientifique, il est le co-animateur de la chaîne Youtube “le Sense of Wonder” et l’auteur du livre “le Cosmos et nous” (Editions des Equateurs), un essai sur les questions existentielles de l’Humanité au prisme des sciences contemporaines.
 
-English : Sebastien Carassou works as an independent science communicator with a background in astrophysics. During his PhD thesis at the Paris Institute of Astrophysics (2014-2017), he has contributed to the development of a novel approach to infer the photometric and size evolution of galaxies using galaxy survey images simulations and machine learning techniques. He is now actively involved in science outreach across various media. He is the co-host of the french Youtube channel “Le Sense of Wonder”, and the author of various popular science books, documentaries and podcasts covering astrophysics, cosmology, astrobiology, Earth system sciences and space exploration.
+***English*** : Sebastien Carassou works as an independent science communicator with a background in astrophysics. During his PhD thesis at the Paris Institute of Astrophysics (2014-2017), he has contributed to the development of a novel approach to infer the photometric and size evolution of galaxies using galaxy survey images simulations and machine learning techniques. He is now actively involved in science outreach across various media. He is the co-host of the french Youtube channel “Le Sense of Wonder”, and the author of various popular science books, documentaries and podcasts covering astrophysics, cosmology, astrobiology, Earth system sciences and space exploration.
 
 
 # Conférences
