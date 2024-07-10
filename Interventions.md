@@ -439,12 +439,12 @@
 
 ### Les exoplanètes
 
-- [Vers l'infini - Planètes de lave](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-planetes-de-lave)
-- [Vers l'infini - Autour des naines rouges](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-autour-des-naines-rouges)
-- [Vers l'infini - Super-Terres](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-super-terres)
-- [Vers l'infini - Planètes océans](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-planetes-oceans)
-- [Vers l'infini - Jupiters ultra-chauds](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-jupiters-ultra-chauds)
-- [Vers l'infini - Planètes de pulsars](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-planetes-de-pulsars)
+- [Vers l'infini - Planètes de lave](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-planetes-de-lave) - Quantum Explorer, juillet 2024
+- [Vers l'infini - Autour des naines rouges](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-autour-des-naines-rouges) - Quantum Explorer, juillet 2024
+- [Vers l'infini - Super-Terres](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-super-terres) - Quantum Explorer, juillet 2024
+- [Vers l'infini - Planètes océans](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-planetes-oceans) - Quantum Explorer, juillet 2024
+- [Vers l'infini - Jupiters ultra-chauds](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-jupiters-ultra-chauds) - Quantum Explorer, juillet 2024
+- [Vers l'infini - Planètes de pulsars](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-planetes-de-pulsars) - Quantum Explorer, juillet 2024
 
 ### Les étoiles
 
