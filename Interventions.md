@@ -437,6 +437,15 @@
 
 ## Vers l'infini
 
+### Les exoplanètes
+
+- [Vers l'infini - Planètes de lave](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-planetes-de-lave)
+- [Vers l'infini - Autour des naines rouges](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-autour-des-naines-rouges)
+- [Vers l'infini - Super-Terres](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-super-terres)
+- [Vers l'infini - Planètes océans](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-planetes-oceans)
+- [Vers l'infini - Jupiters ultra-chauds](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-jupiters-ultra-chauds)
+- [Vers l'infini - Planètes de pulsars](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-planetes-de-pulsars)
+
 ### Les étoiles
 
 - [Vers l'infini - Les étoiles - Trous noirs stellaires](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-etoiles-trous-noirs-stellaires) - Quantum Explorer, mai 2024
