@@ -439,6 +439,8 @@
 
 ### Les exoplanètes
 
+- [Vers l'infini - Neptunes chaudes](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-neptunes-chaudes) - Quantum Explorer, juillet 2024
+- [Vers l'infini - Planètes glacées](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-planetes-glacees) - Quantum Explorer, juillet 2024
 - [Vers l'infini - Planètes de lave](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-planetes-de-lave) - Quantum Explorer, juillet 2024
 - [Vers l'infini - Autour des naines rouges](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-autour-des-naines-rouges) - Quantum Explorer, juillet 2024
 - [Vers l'infini - Super-Terres](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-exoplanetes-super-terres) - Quantum Explorer, juillet 2024
