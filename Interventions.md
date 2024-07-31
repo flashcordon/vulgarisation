@@ -492,6 +492,7 @@
 
 ## Interventions podcasts
 
+- [Sébastien Carassou de ‪@LeSenseOfWonder‬ : la vie dans l'univers | Podcast #56](https://youtu.be/pCBAVWeZ-ec) - Principes fondamentaux, Juillet 2024
 - [LE CLUB VIP #07 : Le Sense of Wonder](https://www.youtube.com/watch?v=RUCifRctwjI) - Médiathèque de Quimper, mars 2024
 - [Scimple #8 Sébastien Carassou](https://www.youtube.com/watch?v=IWoRR3P-Uag) - Scimple, février 2024
 - [Rencontre avec les Soulèvements de la terre](https://open.spotify.com/episode/07WFLD9eUQvzBdu0GufPUg) - librairie Utopia, novembre 2023
