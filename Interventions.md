@@ -384,6 +384,11 @@
 
 # Tables rondes 
 
+- Café astro "Les nouveaux instruments de l’astrophysique" - festival de Fleurance, août 2024
+- Café astro "Le côté obscur de l’univers" - festival de Fleurance, août 2024
+- Café astro "La ruée vers la Lune" - festival de Fleurance, août 2024
+- Café astro "L’infini sous toutes ses formes" - festival de Fleurance, août 2024
+- Café astro "L’incroyable diversité des exoplanètes" - festival de Fleurance, août 2024
 - [Table ronde feat. Science étonnante, Le Sense of Wonder, Alice au Pays des étoiles, Le Réveilleur](https://www.youtube.com/watch?v=guzuU1EJXMo&feature=youtu.be) - Société Française de Physique, avril 2024
 - [Rencontre avec les Soulèvements de la terre](https://open.spotify.com/episode/07WFLD9eUQvzBdu0GufPUg) - librairie Utopia, novembre 2023 
 - Avant-première de Méandres - Utopiales, novembre 2023
