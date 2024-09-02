@@ -437,6 +437,16 @@
 
 ## Vers l'infini
 
+### Les curiosités cosmiques
+
+- [Vers l'infini - Les curiosités cosmiques - Oumuamua](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-curiosites-cosmiques-oumuamua) - Quantum Explorer, Août 2024
+- [Vers l'infini - Les curiosités cosmiques - Planètes errantes](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-curiosites-cosmiques-planetes-errantes) - Quantum Explorer, Août 2024
+- [Vers l'infini - Les curiosités cosmiques - Globules de Bok](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-curiosites-cosmiques-globules-de-bok) - Quantum Explorer, Août 2024
+- [Vers l'infini - Les curiosités cosmiques - Nébuleuses planétaires](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-curiosites-cosmiques-nebuleuses-planetaire) - Quantum Explorer, Août 2024
+- [Vers l'infini - Les curiosités cosmiques - Amas globulaires](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-curiosites-cosmiques-amas-globulaires) - Quantum Explorer, Août 2024
+- [Vers l'infini - Les curiosités cosmiques - Trous noirs supermassifs](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-curiosites-cosmiques-trous-noirs-supermass) - Quantum Explorer, Août 2024
+- [Vers l'infini- Les curiosités cosmiques - Naines brunes](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-curiosites-cosmiques-naines-brunes) - Quantum Explorer, Août 2024
+
 ### Les exoplanètes
 
 - [Vers l'infini - Neptunes chaudes](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linfini-les-exoplanetes-neptunes-chaudes) - Quantum Explorer, juillet 2024
