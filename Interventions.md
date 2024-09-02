@@ -226,6 +226,13 @@
 
 # Conférences
 
+- 2000 ans d'astronomie - Parc naturel des Cévennes, août 2024
+- Mars : planète B ? - Festival de Fleurance, août 2024
+- Le grand récit : du Big Bang à nos jours - Festival de Fleurance, août 2024
+- Le royaume des galaxies - Festival de Fleurance, août 2024
+- Exoplanètes : la symphonie des nouveaux mondes - Festival de Fleurance, août 2024
+- La vie secrète des étoiles - Festival de Fleurance, août 2024
+- Balade dans le système solaire - Festival de Fleurance, août 2024
 - [Comment Einstein a réinventé le temps](https://youtu.be/G4L0rWZMy8g) - Nocturne de l'ENSOSP, mai 2024
 - La fin du cosmos - Les échappées inattendues du CNRS, mai 2024
 - [Interstellar : à la croisée de la science et de la science-fiction](https://pintofscience.fr/event/a-la-croisee-de-la-science-et-de-la-science-fiction) - Pint of Science, mai 2024
@@ -491,7 +498,6 @@
 
 ### Le voisinage de la Terre
 
-
 - [Vers l'infini - Voisinage de la Terre - La surface de la Lune](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-s01e06-la-surface-de-la-lune) - Quantum Explorer, janvier 2024
 - [Vers l'infini - Voisinage de la Terre - Autour de la Lune](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-s01e05-autour-de-la-lune) - Quantum Explorer, janvier 2024
 - [Vers l'infini - Voisinage de la Terre - Le vaisseau](https://shows.acast.com/657b3472d39db4001600896c/episodes/vers-linfini-s01e04-le-vaisseau) - Quantum Explorer, janvier 2024
@@ -577,7 +583,7 @@
 
 # Jury de concours
 
-- Concours Younivers 2023
+- Concours Younivers 2020-2024
 - Concours E-Toiles de Sciences du festival Pariscience - Octobre 2022
 - 3e édition du challenge vidéo astronomique de la SAF - 2022
 - 2e édition du challenge vidéo astronomique de la SAF - 2021
