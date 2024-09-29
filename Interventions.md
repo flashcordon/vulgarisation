@@ -226,6 +226,7 @@
 
 # Conférences
 
+- La fin des temps - ALCOR, septembre 2024
 - 2000 ans d'astronomie - Parc naturel des Cévennes, août 2024
 - Mars : planète B ? - Festival de Fleurance, août 2024
 - Le grand récit : du Big Bang à nos jours - Festival de Fleurance, août 2024
