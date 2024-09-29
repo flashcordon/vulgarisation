@@ -449,6 +449,17 @@
 
 ## Vers l'infini
 
+### Les galaxies
+
+- [Vers l'infini - Les galaxies - Amas de galaxies](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-galaxies-amas-de-galaxies) - Quantum Explorer, Septembre 2024
+- [Vers l'infini - Les galaxies - Les galaxies actives](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-galaxies-les-galaxies-actives) - Quantum Explorer, Septembre 2024
+- [Vers l'infini - Les galaxies - Les galaxies en interaction](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-galaxies-les-galaxies-en-interaction) - Quantum Explorer, Septembre 2024
+- [Vers l'infini - Les galaxies - Les galaxies naines](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-galaxies-les-galaxies-naines) - Quantum Explorer, Septembre 2024
+- [Vers l'infini - Les galaxies - Les galaxies à anneau](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-galaxies-les-galaxies-a-anneau) - Quantum Explorer, Septembre 2024
+- [Vers l'infini - Les galaxies - Les galaxies elliptiques](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-galaxies-les-galaxies-elliptiques) - Quantum Explorer, Septembre 2024
+- [Vers l'infini - Les galaxies - Les galaxies spirales](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-galaxies-les-galaxies-spirales) - Quantum Explorer, Septembre 2024
+- [Vers l'infini - Les galaxies - La voie Lactée](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-curiosites-cosmiques-oumuamua) - Quantum Explorer, Septembre 2024
+
 ### Les curiosités cosmiques
 
 - [Vers l'infini - Les curiosités cosmiques - Oumuamua](https://shows.acast.com/recall-quantum-explorer/episodes/vers-linifini-les-curiosites-cosmiques-oumuamua) - Quantum Explorer, Août 2024
