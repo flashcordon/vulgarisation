@@ -116,6 +116,7 @@
 
 ## Collabs et caméos
 
+- [Mars, la planète B ? (ft. ‪@LeSenseOfWonder‬ )](https://youtu.be/N8G-KGqn2Lg) - Philoxime (Décembre 2024)
 - [📷 Comment photographier la naissance des étoiles ? 🌟 I @AstronomiePratique @LeSenseOfWonder I ARTE](https://youtu.be/7JBnAOLaIsc) - Le Vortex (Mars 2024)
 - [J'ai créé une mare pour la faune sauvage et voici ce que j'ai vu](https://youtu.be/IQbHp-r2o1k) - Marie Wild (Novembre 2023)
 - [LE CERVEAU FACE AUX CROYANCES (avec Sébastien Carassou de @LeSenseOfWonder) | Méandres #4](https://youtu.be/rSrmjFoMAnU) - Explorers (Novembre 2023)
@@ -226,6 +227,7 @@
 
 # Conférences
 
+- Le royaume des galaxies - Albiréo 95, décembre 2024
 - La fin des temps - ALCOR, septembre 2024
 - 2000 ans d'astronomie - Parc naturel des Cévennes, août 2024
 - Mars : planète B ? - Festival de Fleurance, août 2024
