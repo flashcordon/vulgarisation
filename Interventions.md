@@ -116,6 +116,7 @@
 
 ## Collabs et caméos
 
+- [L’espace, une histoire sans fin ? | Micro-conférences | Les Échappées inattendues](https://youtu.be/7QKQeBH7wcM) - CNRS (Janvier 2025)
 - [Mars, la planète B ? (ft. ‪@LeSenseOfWonder‬ )](https://youtu.be/N8G-KGqn2Lg) - Philoxime (Décembre 2024)
 - [📷 Comment photographier la naissance des étoiles ? 🌟 I @AstronomiePratique @LeSenseOfWonder I ARTE](https://youtu.be/7JBnAOLaIsc) - Le Vortex (Mars 2024)
 - [J'ai créé une mare pour la faune sauvage et voici ce que j'ai vu](https://youtu.be/IQbHp-r2o1k) - Marie Wild (Novembre 2023)
