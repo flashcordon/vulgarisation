@@ -180,6 +180,7 @@
 
 # Lives 
 
+- [L'énergie noire et l'Univers, avec Pauline Zarrouk et @LeSenseOfWonder](https://youtu.be/S6M9loAThb4?si=VaoXGEg5gqEHQJFB) - Sciences et Avenir, janvier 2024
 - [Euclid : détective cosmique à la recherche de la matière et l'énergie noires](https://youtu.be/XjMsCJ6o2Z0) - CNES, Décembre 2023
 - [Perseverance, une année sur Mars | LE DOCK | ARTE](https://youtu.be/iEnl8Itktjk) - ARTE, Décembre 2022
 - Premières images du JWST - Scope, Arte, Juillet 2022
@@ -228,6 +229,7 @@
 
 # Conférences
 
+- Les odeurs du Cosmos - Médiathèque Le Petit Prince de Calais, Mycéliades, février 2025
 - Le royaume des galaxies - Albiréo 95, décembre 2024
 - La fin des temps - ALCOR, septembre 2024
 - 2000 ans d'astronomie - Parc naturel des Cévennes, août 2024
