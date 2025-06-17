@@ -97,6 +97,10 @@ D’ici 2050, un million d’humains pourraient bien s’installer sur Mars ! C�
 
 [Slides](https://fr.slideshare.net/slideshow/conference-einstein-et-la-nature-du-temps/269366405)
 
+## Destination Cosmos - un voyage touristique à travers l'univers 
+
+Et si le cosmos devenait votre terrain de jeu ? Imaginez pouvoir vous téléporter instantanément aux quatre coins de l'univers : survoler Vénus en dirigeable, faire du patinage artistique sur les plaines glacées de Pluton, explorer les abysses des lunes de Jupiter, ou encore frôler l’insondable mystère d’un trou noir supermassif… Quelle serait votre prochaine destination ? Dans cette conférence originale et immersive, mêlant science rigoureuse et imagination débridée, l’astrophysicien et vulgarisateur Sébastien Carassou vous embarque pour un voyage intergalactique à la découverte des merveilles les plus spectaculaires et insolites de l’Univers.
+
 # Ateliers
 
 ## Les odeurs du cosmos
