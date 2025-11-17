@@ -425,6 +425,7 @@
 
 # Radio
 
+- [Comment réussir ses vacances intergalactiques?](https://www.rfi.fr/fr/podcasts/autour-de-la-question-le-magazine-de-toutes-les-sciences/20251117-comment-r%C3%A9ussir-ses-vacances-intergalactiques) - Autour de la Question, Novembre 2025
 - [Symbiose microbienne, exobiologie lunaire et orgasme : au clair de la Une](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/au-clair-de-la-une-5622692) - La Science CQFD, Avril 2024
 - [Interview de Sébastien Carassou dans l'émission Espace Matin du 17 Octobre 2022](https://podcast.radio-pulsar.org/mp3/espacematin/2022101709_EspaceMatin.mp3) - Radio Pulsar, Octobre 2022
 - [James Webb Space Telescope, des étoiles plein les yeux](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/james-webb-space-telescope-des-etoiles-plein-les-yeux-7083618?fbclid=IwAR10M5unihkma4kXsWzopUaDAGZj2wloHb6PAN-gmz2xPrm9X3TCKkCuAzI) - La Sciece CQFD, Août 2022
