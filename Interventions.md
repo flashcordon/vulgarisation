@@ -230,6 +230,7 @@
 
 # Conférences
 
+- [Destination cosmos : un voyage touristique à travers l'univers](https://san.asso.fr/component/dpcalendar/event/destination-cosmos-un-voyage-touristique-a-travers-lunivers-par-sebastien-carassou?calid=20&Itemid=101) - Société astronomique de Nantes, janvier 2026
 - Le Grand Récit : du Big Bang à nos jours - Parmain sous les étoiles, avril 2025
 - Les odeurs du Cosmos - Médiathèque Le Petit Prince de Calais, Mycéliades, février 2025
 - Le royaume des galaxies - Albiréo 95, décembre 2024
