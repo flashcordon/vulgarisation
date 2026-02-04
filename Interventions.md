@@ -230,6 +230,9 @@
 
 # Conférences
 
+- La vie trouve un chemin - Médiathèque de Bayonne, Mycéliades, février 2026
+- Destination cosmos : un voyage touristique à travers l'univers - Albiréo 95, janvier 2026
+- Interstellar : à la croisée de la science et de la science-fiction - Cinéma Studio 31 de Chessy, AlphaLupi, janvier 2026
 - [Destination cosmos : un voyage touristique à travers l'univers](https://san.asso.fr/component/dpcalendar/event/destination-cosmos-un-voyage-touristique-a-travers-lunivers-par-sebastien-carassou?calid=20&Itemid=101) - Société astronomique de Nantes, janvier 2026
 - Le Grand Récit : du Big Bang à nos jours - Parmain sous les étoiles, avril 2025
 - Les odeurs du Cosmos - Médiathèque Le Petit Prince de Calais, Mycéliades, février 2025
@@ -358,6 +361,7 @@
 
 # Interviews
 
+- [“Destination Cosmos” : le YouTubeur et astrophysicien Sébastien Carassou nous fait voyager dans l’espace en 42 escales, un guide insolite des voyages spatiaux](https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/destination-cosmos-le-youtubeur-et-astrophysicien-sebastien-carassou-nous-fait-voyager-dans-l-espace-en-42-escales-un-guide-insolite-des-voyages-spatiaux-3282743.html) - France 3 Occitanie, janvier 2026
 - "La Terre reste la sule planète habitée de l'univers connu, jusqu'à preuve du contraire" - le Gobelin, mai 2024
 - [Entrevista Sébastien Carassou, Festival astronomía de Fleurance 2023](https://youtu.be/lTHw1IVjI64?list=PLukZ7R0PTZNwtDQm09D7wUUULiNe_n1JV) - videosdeestoy, août 2023
 - [Sense of Wonder : « L’astrophysique, un recul ultime sur le monde »](https://okaydoc.fr/sebastien-carassou-une-carriere-academique-aujourdhui-demande-des-sacrifices/) - Okay Doc, Janvier 2022
