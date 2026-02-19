@@ -95,7 +95,7 @@ D’ici 2050, un million d’humains pourraient bien s’installer sur Mars ! C�
 
 ## Comment Einstein a réinventé le temps
 
-Pendant des siècles, le temps était considéré comme absolu et universel. Mais au début du 20e siècle, Albert Einstein a bouleversé les fondements mêmes de notre compréhension du réel en démontrant que le temps est relatif, qu'il est intimement lié à l’espace, et que cet « espace-temps » est une entité malléable, que l’on peut dilater ou comprimer à l’envi. Dans cette conférence à la croisée de l’histoire des sciences, de la philosophie et de la science-fiction, Sébastien Carassou explore les différentes approches théoriques envisagées par la physique pour voyager dans le temps, ainsi les questions vertigineuses que soulèvent la théorie de la relativité d'Einstein.
+Pendant des siècles, le temps était considéré comme absolu et universel. Mais au début du 20e siècle, Albert Einstein a bouleversé les fondements mêmes de notre compréhension du réel en démontrant que le temps est relatif, qu'il est intimement lié à l’espace, et que cet « espace-temps » est une entité malléable, que l’on peut dilater ou comprimer à l’envi. Dans cette conférence à la croisée de l’histoire des sciences, de la philosophie et de la science-fiction, Sébastien Carassou explore les différentes approches théoriques envisagées par la physique pour voyager dans le temps, ainsi les questions vertigineuses que soulève la théorie de la relativité d'Einstein.
 
 [Slides](https://fr.slideshare.net/slideshow/conference-einstein-et-la-nature-du-temps/269366405)
 
@@ -117,8 +117,6 @@ Mais la vision n’est pas le seul sens que nous pouvons mobiliser pour appréhe
 ## Découvrez le cosmos à travers le jeu vidéo
 
 Voyagera-t-on un jour à travers les étoiles ? Y a t-il de la vie dans l'univers ? C'est quoi un trou noir ? Venez poser toutes vos questions sur le cosmos tout en essayant de survivre au jeu vidéo "Out There" ! Au fil de votre aventure cosmique, vous ferez face aux multiples problèmes posés par l'exploration humaine de l'espace, et vous serez guidé.es à travers les astres par Sébastien Carassou, docteur en astrophysique et vidéaste sur la chaîne Youtube "le Sense of Wonder". Alors, paré.e pour l'embarquement ?
-
-
 
 # LA VIE TROUVE UN CHEMIN : comment le vivant rebondit après une extinction de masse
 
