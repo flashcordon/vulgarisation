@@ -118,6 +118,6 @@ Mais la vision n’est pas le seul sens que nous pouvons mobiliser pour appréhe
 
 Voyagera-t-on un jour à travers les étoiles ? Y a t-il de la vie dans l'univers ? C'est quoi un trou noir ? Venez poser toutes vos questions sur le cosmos tout en essayant de survivre au jeu vidéo "Out There" ! Au fil de votre aventure cosmique, vous ferez face aux multiples problèmes posés par l'exploration humaine de l'espace, et vous serez guidé.es à travers les astres par Sébastien Carassou, docteur en astrophysique et vidéaste sur la chaîne Youtube "le Sense of Wonder". Alors, paré.e pour l'embarquement ?
 
-#  La vie trouve un chemin : comment le vivant rebondit après une extinction massive
+##  La vie trouve un chemin : comment le vivant rebondit après une extinction massive
 
 La vie sur Terre n’a jamais été un long fleuve tranquille. En plus de 3,5 milliards d’années d’évolution, elle a frôlé la disparition à plusieurs reprises, balayée presque entièrement par au moins cinq extinctions de masse : des épisodes brefs à l’échelle géologique, mais dévastateurs pour la biodiversité. Pourtant, malgré les astéroïdes tueurs, les mégavolcans et les âges glaciaires, la vie a toujours su rebondir. Quel est donc le secret de sa résilience ? Et quelles menaces planent aujourd’hui sur le vivant ? Plongez au cœur de ces questions lors d’une conférence interactive animée par le vulgarisateur scientifique Sébastien Carassou, et prenez les commandes du jeu vidéo SPORE : parviendrez-vous à faire évoluer vos micro-organismes jusqu’à fonder une civilisation galactique ?
