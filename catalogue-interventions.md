@@ -95,11 +95,17 @@ D’ici 2050, un million d’humains pourraient bien s’installer sur Mars ! C�
 
 ## Comment Einstein a réinventé le temps
 
+Pendant des siècles, le temps était considéré comme absolu et universel. Mais au début du 20e siècle, Albert Einstein a bouleversé les fondements mêmes de notre compréhension du réel en démontrant que le temps est relatif, qu'il est intimement lié à l’espace, et que cet « espace-temps » est une entité malléable, que l’on peut dilater ou comprimer à l’envi. Dans cette conférence à la croisée de l’histoire des sciences, de la philosophie et de la science-fiction, Sébastien Carassou explore les différentes approches théoriques envisagées par la physique pour voyager dans le temps, ainsi les questions vertigineuses que soulèvent la théorie de la relativité d'Einstein.
+
 [Slides](https://fr.slideshare.net/slideshow/conference-einstein-et-la-nature-du-temps/269366405)
 
 ## Destination Cosmos - un voyage touristique à travers l'univers 
 
 Et si le cosmos devenait votre terrain de jeu ? Imaginez pouvoir vous téléporter instantanément aux quatre coins de l'univers : survoler Vénus en dirigeable, faire du patinage artistique sur les plaines glacées de Pluton, explorer les abysses des lunes de Jupiter, ou encore frôler l’insondable mystère d’un trou noir supermassif… Quelle serait votre prochaine destination ? Dans cette conférence originale et immersive, mêlant science rigoureuse et imagination débridée, l’astrophysicien et vulgarisateur Sébastien Carassou vous embarque pour un voyage intergalactique à la découverte des merveilles les plus spectaculaires et insolites de l’Univers.
+
+## L’univers incompris : lumières sur les zones d’ombres du cosmos
+
+Jamais l'Humanité n'a aussi bien compris le cosmos. Les observations des grands télescopes et des satellites de toute dernière génération semblent confirmer les principales théories scientifiques. Et pourtant... Plus l'Univers se dévoile à nous, plus le mystère s'épaissit : A-t-il des limites ? Qu'y avait-il avant le big bang ? Existe-t-il d'autres univers que le nôtre ? Qu'est-ce qui a déclenché son expansion ? Où est passée l'antimatière ? Ces observations ouvrent de nouvelles interrogations époustouflantes : la matière ordinaire, celle qui compose les étoiles, les planètes et les galaxies, ne représente qu'une infime part du cosmos. Quelle est la nature des 95 % restants, matière noire et énergie sombre ? Dans cette conférence, Sébastien Carassou vous plonge dans les zones d'ombre de notre savoir cosmologique, ces espaces inconnus où s'écrit déjà la science de demain.
 
 # Ateliers
 
