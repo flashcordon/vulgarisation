@@ -85,14 +85,6 @@ D’ici 2050, un million d’humains pourraient bien s’installer sur Mars ! C�
 
 [Slides](https://fr.slideshare.net/slideshows/interstellar-la-croise-de-la-science-et-de-la-sciencefiction/266124412)
 
-## L'architecture invisible du cosmos
-
-[Slides](https://fr.slideshare.net/SbastienCarassouPhD/larchitecture-invisible-du-cosmospdf)
-
-## Voir plus loin
-
-[Slides](https://fr.slideshare.net/SbastienCarassouPhD/voir-plus-loinpdf)
-
 ## Comment Einstein a réinventé le temps
 
 Pendant des siècles, le temps était considéré comme absolu et universel. Mais au début du 20e siècle, Albert Einstein a bouleversé les fondements mêmes de notre compréhension du réel en démontrant que le temps est relatif, qu'il est intimement lié à l’espace, et que cet « espace-temps » est une entité malléable, que l’on peut dilater ou comprimer à l’envi. Dans cette conférence à la croisée de l’histoire des sciences, de la philosophie et de la science-fiction, Sébastien Carassou explore les différentes approches théoriques envisagées par la physique pour voyager dans le temps, ainsi les questions vertigineuses que soulève la théorie de la relativité d'Einstein.
@@ -106,6 +98,14 @@ Et si le cosmos devenait votre terrain de jeu ? Imaginez pouvoir vous téléport
 ## L’univers incompris : lumières sur les zones d’ombres du cosmos
 
 Jamais l'Humanité n'a aussi bien compris le cosmos. Les observations des grands télescopes et des satellites de toute dernière génération semblent confirmer les principales théories scientifiques. Et pourtant... Plus l'Univers se dévoile à nous, plus le mystère s'épaissit : A-t-il des limites ? Qu'y avait-il avant le big bang ? Existe-t-il d'autres univers que le nôtre ? Qu'est-ce qui a déclenché son expansion ? Où est passée l'antimatière ? Ces observations ouvrent de nouvelles interrogations époustouflantes : la matière ordinaire, celle qui compose les étoiles, les planètes et les galaxies, ne représente qu'une infime part du cosmos. Quelle est la nature des 95 % restants, matière noire et énergie sombre ? Dans cette conférence, Sébastien Carassou vous plonge dans les zones d'ombre de notre savoir cosmologique, ces espaces inconnus où s'écrit déjà la science de demain.
+
+## L'architecture invisible du cosmos
+
+[Slides](https://fr.slideshare.net/SbastienCarassouPhD/larchitecture-invisible-du-cosmospdf)
+
+## Voir plus loin
+
+[Slides](https://fr.slideshare.net/SbastienCarassouPhD/voir-plus-loinpdf)
 
 # Ateliers
 
