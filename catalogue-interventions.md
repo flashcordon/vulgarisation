@@ -21,7 +21,7 @@ L’éclat rassurant des étoiles nous accompagne depuis la nuit des temps. À l
 
 ## Exoplanètes : la symphonie des nouveaux mondes
 
-Depuis la découverte des premières planètes au-delà de notre système solaire, au début des années 90, l’étude des exoplanètes est entrée dans un véritable âge d’or. On en recense aujourd’hui plus de 5000, et ces nouveaux mondes sont d’une diversité époustouflante, si bien que certain⸱es astronomes se prennent à rêver sérieusement de planètes-océans ou de mondes “super habitables”. Dans cette conférence, nous allons explorer la diversité de ces exoplanètes connues ou hypothétiques, et nous allons nous demander comment les astronomes pourraient potentiellement y détecter des traces de vie.
+Depuis la découverte des premières planètes au-delà de notre système solaire, au début des années 1990, l’étude des exoplanètes est entrée dans un véritable âge d’or. On en recense aujourd’hui plus de 6000, et ces nouveaux mondes sont d’une diversité époustouflante, si bien que certain⸱es astronomes se prennent à rêver sérieusement de planètes-océans ou de mondes “super habitables”. Dans cette conférence, nous allons explorer la diversité de ces exoplanètes connues ou hypothétiques, et nous allons nous demander comment les astronomes pourraient potentiellement y détecter des traces de vie.
 
 [Slides](https://fr.slideshare.net/SbastienCarassou/exoplantes-la-symphonie-des-nouveaux-mondes)
 
