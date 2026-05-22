@@ -538,7 +538,7 @@
 
 ## Interventions podcasts
 
-- [Sebastien Carassou | Point bleu pâle‬]([https://youtu.be/pCBAVWeZ-ec](https://shows.acast.com/continue-tu-minteresses/episodes/sebastien-carassou-point-bleu-pale)) - Continues tu m'intéresses, mai 2026
+- [Sebastien Carassou | Point bleu pâle‬](https://shows.acast.com/continue-tu-minteresses/episodes/sebastien-carassou-point-bleu-pale) - Continues tu m'intéresses, mai 2026
 - Destination Cosmos - Podcast Science, janvier 2026
 - [Sébastien Carassou de ‪@LeSenseOfWonder‬ : la vie dans l'univers | Podcast #56](https://youtu.be/pCBAVWeZ-ec) - Principes fondamentaux, Juillet 2024
 - [LE CLUB VIP #07 : Le Sense of Wonder](https://www.youtube.com/watch?v=RUCifRctwjI) - Médiathèque de Quimper, mars 2024
