@@ -361,6 +361,7 @@
 
 # Interviews
 
+- [Le Talk Choses - Passion Extraterrestres Ft. Nexus VI ‪@ChroniqueNEXUSVI‬ ](https://youtu.be/-AinbIPrPhM) - Le Talk Choses, Mai 2026
 - [“Destination Cosmos” : le YouTubeur et astrophysicien Sébastien Carassou nous fait voyager dans l’espace en 42 escales, un guide insolite des voyages spatiaux](https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/destination-cosmos-le-youtubeur-et-astrophysicien-sebastien-carassou-nous-fait-voyager-dans-l-espace-en-42-escales-un-guide-insolite-des-voyages-spatiaux-3282743.html) - France 3 Occitanie, janvier 2026
 - "La Terre reste la sule planète habitée de l'univers connu, jusqu'à preuve du contraire" - le Gobelin, mai 2024
 - [Entrevista Sébastien Carassou, Festival astronomía de Fleurance 2023](https://youtu.be/lTHw1IVjI64?list=PLukZ7R0PTZNwtDQm09D7wUUULiNe_n1JV) - videosdeestoy, août 2023
