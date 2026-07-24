@@ -431,6 +431,7 @@
 
 # Radio
 
+- [L’odyssée cosmique de Sébastien Carassou](https://www.radiofrance.fr/franceinter/podcasts/le-temps-d-un-bivouac/le-temps-d-un-bivouac-du-jeudi-02-juillet-2026-8731097) - Le temps d'un bivouac, France Inter, Juillet 2026
 - [Big-Bang : un modèle à tout casser](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/big-bang-un-modele-a-tout-casser-7033373) - La Science CQFD, Mai 2026
 - [Comment réussir ses vacances intergalactiques?](https://www.rfi.fr/fr/podcasts/autour-de-la-question-le-magazine-de-toutes-les-sciences/20251117-comment-r%C3%A9ussir-ses-vacances-intergalactiques) - Autour de la Question, Novembre 2025
 - [Symbiose microbienne, exobiologie lunaire et orgasme : au clair de la Une](https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/au-clair-de-la-une-5622692) - La Science CQFD, Avril 2024
