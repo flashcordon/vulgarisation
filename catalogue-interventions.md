@@ -107,6 +107,10 @@ Jamais l'Humanité n'a aussi bien compris le cosmos. Les observations des grands
 
 [Slides](https://fr.slideshare.net/SbastienCarassouPhD/voir-plus-loinpdf)
 
+## Extrêmophiles : voyage aux frontières du vivant
+
+Sur Terre, certains micro-organismes prospèrent dans les environnements les plus hostiles qui soient. On les appelle les extrêmophiles. Des profondeurs de notre planète aux piscines des centrales nucléaires, ces êtres vivants aux modes de vie étonnants repoussent les limites de ce que nous pensions possible. Imaginez des organismes capables de se développer dans des lacs d’acide, de supporter des températures dépassant les 120 °C ou même de survivre au vide de l’espace ! Quels sont les secrets de ces adaptations extraordinaires ? Partez à la découverte de ces créatures hors du commun, qui nous révèlent l’incroyable capacité d’adaptation du vivant et nous rappellent que, même dans les conditions les plus extrêmes, la vie trouve toujours un chemin.
+
 # Ateliers
 
 ## Les odeurs du cosmos
